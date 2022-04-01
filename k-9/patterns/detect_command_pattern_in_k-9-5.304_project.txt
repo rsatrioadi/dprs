@@ -1,0 +1,1795 @@
+Amount of Candidates found: 299
+
+Candidate of Pattern Command:
+A(Concrete Command): SmtpTransport
+B(Command): Transport
+C(Receiver): PeekableInputStream
+D(Invoker): MessagingController
+
+Candidate of Pattern Command:
+A(Concrete Command): SmtpTransport
+B(Command): Transport
+C(Receiver): PeekableInputStream
+D(Invoker): CheckAccountTask
+
+Candidate of Pattern Command:
+A(Concrete Command): SmtpTransport
+B(Command): Transport
+C(Receiver): MessagingException
+D(Invoker): MessagingController
+
+Candidate of Pattern Command:
+A(Concrete Command): SmtpTransport
+B(Command): Transport
+C(Receiver): MessagingException
+D(Invoker): CheckAccountTask
+
+Candidate of Pattern Command:
+A(Concrete Command): SmtpTransport
+B(Command): Transport
+C(Receiver): EOLConvertingOutputStream
+D(Invoker): MessagingController
+
+Candidate of Pattern Command:
+A(Concrete Command): SmtpTransport
+B(Command): Transport
+C(Receiver): EOLConvertingOutputStream
+D(Invoker): CheckAccountTask
+
+Candidate of Pattern Command:
+A(Concrete Command): SmtpTransport
+B(Command): Transport
+C(Receiver): Address
+D(Invoker): MessagingController
+
+Candidate of Pattern Command:
+A(Concrete Command): SmtpTransport
+B(Command): Transport
+C(Receiver): Address
+D(Invoker): CheckAccountTask
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingExpunge
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): PendingCommandSerializer
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingExpunge
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): LocalStore
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingExpunge
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): PendingCommandSerializerTest
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingExpunge
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): MigrationTo60
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingMarkAllAsRead
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): PendingCommandSerializer
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingMarkAllAsRead
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): LocalStore
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingMarkAllAsRead
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): PendingCommandSerializerTest
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingMarkAllAsRead
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): MigrationTo60
+
+Candidate of Pattern Command:
+A(Concrete Command): DefaultBodyFactory
+B(Command): BodyFactory
+C(Receiver): BinaryTempFileBody
+D(Invoker): ImapFolder
+
+Candidate of Pattern Command:
+A(Concrete Command): DefaultBodyFactory
+B(Command): BodyFactory
+C(Receiver): BinaryTempFileBody
+D(Invoker): MimeMessageBuilder
+
+Candidate of Pattern Command:
+A(Concrete Command): DefaultBodyFactory
+B(Command): BodyFactory
+C(Receiver): BinaryTempFileBody
+D(Invoker): FetchPartCallback
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingEmptyTrash
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): PendingCommandSerializer
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingEmptyTrash
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): LocalStore
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingEmptyTrash
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): PendingCommandSerializerTest
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingEmptyTrash
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): MigrationTo60
+
+Candidate of Pattern Command:
+A(Concrete Command): ImapPusher
+B(Command): Pusher
+C(Receiver): ImapStore
+D(Invoker): MailService
+
+Candidate of Pattern Command:
+A(Concrete Command): ImapPusher
+B(Command): Pusher
+C(Receiver): ImapStore
+D(Invoker): Command
+
+Candidate of Pattern Command:
+A(Concrete Command): ImapPusher
+B(Command): Pusher
+C(Receiver): ImapFolderPusher
+D(Invoker): MailService
+
+Candidate of Pattern Command:
+A(Concrete Command): ImapPusher
+B(Command): Pusher
+C(Receiver): ImapFolderPusher
+D(Invoker): Command
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingSetFlag
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): PendingCommandSerializer
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingSetFlag
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): LocalStore
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingSetFlag
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): PendingCommandSerializerTest
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingSetFlag
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): MigrationTo60
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingMoveOrCopy
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): PendingCommandSerializer
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingMoveOrCopy
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): LocalStore
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingMoveOrCopy
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): PendingCommandSerializerTest
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingMoveOrCopy
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): MigrationTo60
+
+Candidate of Pattern Command:
+A(Concrete Command): PushRunnable
+B(Command): UntaggedHandler
+C(Receiver): ImapConnection
+D(Invoker): ImapResponseParser
+
+Candidate of Pattern Command:
+A(Concrete Command): PushRunnable
+B(Command): UntaggedHandler
+C(Receiver): ImapMessage
+D(Invoker): ImapResponseParser
+
+Candidate of Pattern Command:
+A(Concrete Command): PushRunnable
+B(Command): UntaggedHandler
+C(Receiver): ImapResponse
+D(Invoker): ImapResponseParser
+
+Candidate of Pattern Command:
+A(Concrete Command): WebDavTransport
+B(Command): Transport
+C(Receiver): WebDavStore
+D(Invoker): MessagingController
+
+Candidate of Pattern Command:
+A(Concrete Command): WebDavTransport
+B(Command): Transport
+C(Receiver): WebDavStore
+D(Invoker): CheckAccountTask
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LocalFolder
+D(Invoker): AccountSetupIncoming
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LocalFolder
+D(Invoker): AccountSetupOptions
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LocalFolder
+D(Invoker): MessagingController
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LocalFolder
+D(Invoker): CheckAccountTask
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LocalFolder
+D(Invoker): Command
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LocalFolder
+D(Invoker): MessagingControllerTest
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): PendingCommandSerializer
+D(Invoker): AccountSetupIncoming
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): PendingCommandSerializer
+D(Invoker): AccountSetupOptions
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): PendingCommandSerializer
+D(Invoker): MessagingController
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): PendingCommandSerializer
+D(Invoker): CheckAccountTask
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): PendingCommandSerializer
+D(Invoker): Command
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): PendingCommandSerializer
+D(Invoker): MessagingControllerTest
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LocalMessage
+D(Invoker): AccountSetupIncoming
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LocalMessage
+D(Invoker): AccountSetupOptions
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LocalMessage
+D(Invoker): MessagingController
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LocalMessage
+D(Invoker): CheckAccountTask
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LocalMessage
+D(Invoker): Command
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LocalMessage
+D(Invoker): MessagingControllerTest
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): StorageManager
+D(Invoker): AccountSetupIncoming
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): StorageManager
+D(Invoker): AccountSetupOptions
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): StorageManager
+D(Invoker): MessagingController
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): StorageManager
+D(Invoker): CheckAccountTask
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): StorageManager
+D(Invoker): Command
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): StorageManager
+D(Invoker): MessagingControllerTest
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LocalSearch
+D(Invoker): AccountSetupIncoming
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LocalSearch
+D(Invoker): AccountSetupOptions
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LocalSearch
+D(Invoker): MessagingController
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LocalSearch
+D(Invoker): CheckAccountTask
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LocalSearch
+D(Invoker): Command
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LocalSearch
+D(Invoker): MessagingControllerTest
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LockableDatabase
+D(Invoker): AccountSetupIncoming
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LockableDatabase
+D(Invoker): AccountSetupOptions
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LockableDatabase
+D(Invoker): MessagingController
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LockableDatabase
+D(Invoker): CheckAccountTask
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LockableDatabase
+D(Invoker): Command
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): LockableDatabase
+D(Invoker): MessagingControllerTest
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): Account
+D(Invoker): AccountSetupIncoming
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): Account
+D(Invoker): AccountSetupOptions
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): Account
+D(Invoker): MessagingController
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): Account
+D(Invoker): CheckAccountTask
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): Account
+D(Invoker): Command
+
+Candidate of Pattern Command:
+A(Concrete Command): LocalStore
+B(Command): Store
+C(Receiver): Account
+D(Invoker): MessagingControllerTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageViewFragment
+B(Command): AttachmentViewCallback
+C(Receiver): MessageReference
+D(Invoker): MessageContainerView
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageViewFragment
+B(Command): AttachmentViewCallback
+C(Receiver): MessageReference
+D(Invoker): AttachmentView
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageViewFragment
+B(Command): AttachmentViewCallback
+C(Receiver): LocalMessage
+D(Invoker): MessageContainerView
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageViewFragment
+B(Command): AttachmentViewCallback
+C(Receiver): LocalMessage
+D(Invoker): AttachmentView
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageViewFragment
+B(Command): AttachmentViewCallback
+C(Receiver): MessagingController
+D(Invoker): MessageContainerView
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageViewFragment
+B(Command): AttachmentViewCallback
+C(Receiver): MessagingController
+D(Invoker): AttachmentView
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageViewFragment
+B(Command): AttachmentViewCallback
+C(Receiver): MessageCryptoPresenter
+D(Invoker): MessageContainerView
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageViewFragment
+B(Command): AttachmentViewCallback
+C(Receiver): MessageCryptoPresenter
+D(Invoker): AttachmentView
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageViewFragment
+B(Command): AttachmentViewCallback
+C(Receiver): MessageLoaderHelper
+D(Invoker): MessageContainerView
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageViewFragment
+B(Command): AttachmentViewCallback
+C(Receiver): MessageLoaderHelper
+D(Invoker): AttachmentView
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageViewFragment
+B(Command): AttachmentViewCallback
+C(Receiver): MessageTopView
+D(Invoker): MessageContainerView
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageViewFragment
+B(Command): AttachmentViewCallback
+C(Receiver): MessageTopView
+D(Invoker): AttachmentView
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageViewFragment
+B(Command): AttachmentViewCallback
+C(Receiver): Account
+D(Invoker): MessageContainerView
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageViewFragment
+B(Command): AttachmentViewCallback
+C(Receiver): Account
+D(Invoker): AttachmentView
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): OpenPgpApi
+D(Invoker): QuotedMessagePresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): OpenPgpApi
+D(Invoker): RecipientPresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): OpenPgpApi
+D(Invoker): MessageBuilderTest
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): OpenPgpApi
+D(Invoker): MessageCompose
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): AutocryptOperations
+D(Invoker): QuotedMessagePresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): AutocryptOperations
+D(Invoker): RecipientPresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): AutocryptOperations
+D(Invoker): MessageBuilderTest
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): AutocryptOperations
+D(Invoker): MessageCompose
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): BinaryTempFileBody
+D(Invoker): QuotedMessagePresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): BinaryTempFileBody
+D(Invoker): RecipientPresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): BinaryTempFileBody
+D(Invoker): MessageBuilderTest
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): BinaryTempFileBody
+D(Invoker): MessageCompose
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): MimeMultipart
+D(Invoker): QuotedMessagePresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): MimeMultipart
+D(Invoker): RecipientPresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): MimeMultipart
+D(Invoker): MessageBuilderTest
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): MimeMultipart
+D(Invoker): MessageCompose
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): ComposeCryptoStatus
+D(Invoker): QuotedMessagePresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): ComposeCryptoStatus
+D(Invoker): RecipientPresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): ComposeCryptoStatus
+D(Invoker): MessageBuilderTest
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): ComposeCryptoStatus
+D(Invoker): MessageCompose
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): MimeBodyPart
+D(Invoker): QuotedMessagePresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): MimeBodyPart
+D(Invoker): RecipientPresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): MimeBodyPart
+D(Invoker): MessageBuilderTest
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): MimeBodyPart
+D(Invoker): MessageCompose
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): OpenPgpError
+D(Invoker): QuotedMessagePresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): OpenPgpError
+D(Invoker): RecipientPresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): OpenPgpError
+D(Invoker): MessageBuilderTest
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): OpenPgpError
+D(Invoker): MessageCompose
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): Address
+D(Invoker): QuotedMessagePresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): Address
+D(Invoker): RecipientPresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): Address
+D(Invoker): MessageBuilderTest
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): Address
+D(Invoker): MessageCompose
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): MimeMessage
+D(Invoker): QuotedMessagePresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): MimeMessage
+D(Invoker): RecipientPresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): MimeMessage
+D(Invoker): MessageBuilderTest
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): MimeMessage
+D(Invoker): MessageCompose
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): AutocryptOpenPgpApiInteractor
+D(Invoker): QuotedMessagePresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): AutocryptOpenPgpApiInteractor
+D(Invoker): RecipientPresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): AutocryptOpenPgpApiInteractor
+D(Invoker): MessageBuilderTest
+
+Candidate of Pattern Command:
+A(Concrete Command): PgpMessageBuilder
+B(Command): MessageBuilder
+C(Receiver): AutocryptOpenPgpApiInteractor
+D(Invoker): MessageCompose
+
+Candidate of Pattern Command:
+A(Concrete Command): MessagingControllerPushReceiver
+B(Command): PushReceiver
+C(Receiver): LocalFolder
+D(Invoker): ImapFolderPusher
+
+Candidate of Pattern Command:
+A(Concrete Command): MessagingControllerPushReceiver
+B(Command): PushReceiver
+C(Receiver): LocalStore
+D(Invoker): ImapFolderPusher
+
+Candidate of Pattern Command:
+A(Concrete Command): MessagingControllerPushReceiver
+B(Command): PushReceiver
+C(Receiver): MessagingController
+D(Invoker): ImapFolderPusher
+
+Candidate of Pattern Command:
+A(Concrete Command): MessagingControllerPushReceiver
+B(Command): PushReceiver
+C(Receiver): Account
+D(Invoker): ImapFolderPusher
+
+Candidate of Pattern Command:
+A(Concrete Command): SearchAccount
+B(Command): BaseAccount
+C(Receiver): LocalSearch
+D(Invoker): AccountsAdapter
+
+Candidate of Pattern Command:
+A(Concrete Command): SearchAccount
+B(Command): BaseAccount
+C(Receiver): LocalSearch
+D(Invoker): ACCOUNT_LOCATION
+
+Candidate of Pattern Command:
+A(Concrete Command): SearchAccount
+B(Command): BaseAccount
+C(Receiver): LocalSearch
+D(Invoker): ChooseAccount
+
+Candidate of Pattern Command:
+A(Concrete Command): SearchAccount
+B(Command): BaseAccount
+C(Receiver): LocalSearch
+D(Invoker): LauncherShortcuts
+
+Candidate of Pattern Command:
+A(Concrete Command): SearchAccount
+B(Command): BaseAccount
+C(Receiver): LocalSearch
+D(Invoker): FolderListAdapter
+
+Candidate of Pattern Command:
+A(Concrete Command): RecipientSelectView
+B(Command): AlternateRecipientListener
+C(Receiver): RecipientAdapter
+D(Invoker): AlternateRecipientAdapter
+
+Candidate of Pattern Command:
+A(Concrete Command): RecipientSelectView
+B(Command): AlternateRecipientListener
+C(Receiver): Recipient
+D(Invoker): AlternateRecipientAdapter
+
+Candidate of Pattern Command:
+A(Concrete Command): RecipientSelectView
+B(Command): AlternateRecipientListener
+C(Receiver): RecipientTokenViewHolder
+D(Invoker): AlternateRecipientAdapter
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): SmtpTransport
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): ReplyToParser
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): AutocryptOperations
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): FolderType
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): MessageIdGenerator
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): ImapFolder
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): PushRunnable
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): WebDavFolder
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): RecipientPresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): SendMessageTask
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): ImapFolderTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): PreferencesHolder
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): UidReverseComparator
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): MessagingController
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): HeaderEntry
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): ListHeaders
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): UidReverseComparatorTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): JisSupport
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): AutocryptHeaderParser
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): QuoteHelper
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): MessageCryptoHelper
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): MessageTopView
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): ListHeadersTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): PartContainer
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): IdentityHelper
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): Pop3Folder
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): LocalMessageExtractorLoader
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): TextQuoteCreator
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): EmailProviderTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): HtmlQuoteCreator
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): Share
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): MessageViewInfoExtractor
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): MessageIdGeneratorTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): MessageCryptoStructureDetectorTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): MessageCryptoHelperTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): WebDavFolderTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): NotificationContentCreator
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): MessagingControllerTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): RecipientType
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): ReplyToParserTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): MimeHeader
+D(Invoker): MessageCompose
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): SmtpTransport
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): ReplyToParser
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): AutocryptOperations
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): FolderType
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): MessageIdGenerator
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): ImapFolder
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): PushRunnable
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): WebDavFolder
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): RecipientPresenter
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): SendMessageTask
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): ImapFolderTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): PreferencesHolder
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): UidReverseComparator
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): MessagingController
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): HeaderEntry
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): ListHeaders
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): UidReverseComparatorTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): JisSupport
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): AutocryptHeaderParser
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): QuoteHelper
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): MessageCryptoHelper
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): MessageTopView
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): ListHeadersTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): PartContainer
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): IdentityHelper
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): Pop3Folder
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): LocalMessageExtractorLoader
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): TextQuoteCreator
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): EmailProviderTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): HtmlQuoteCreator
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): Share
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): MessageViewInfoExtractor
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): MessageIdGeneratorTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): MessageCryptoStructureDetectorTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): MessageCryptoHelperTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): WebDavFolderTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): NotificationContentCreator
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): MessagingControllerTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): RecipientType
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): ReplyToParserTest
+
+Candidate of Pattern Command:
+A(Concrete Command): MimeMessage
+B(Command): Message
+C(Receiver): Address
+D(Invoker): MessageCompose
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageList
+B(Command): OnSwipeGestureListener
+C(Receiver): MessageReference
+D(Invoker): SwipeGestureDetector
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageList
+B(Command): MessageViewFragmentListener
+C(Receiver): MessageReference
+D(Invoker): MessageViewFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageList
+B(Command): OnSwitchCompleteListener
+C(Receiver): MessageReference
+D(Invoker): ViewSwitcher
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageList
+B(Command): MessageListFragmentListener
+C(Receiver): MessageReference
+D(Invoker): MessageListFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingAppend
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): PendingCommandSerializer
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingAppend
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): LocalStore
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingAppend
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): PendingCommandSerializerTest
+
+Candidate of Pattern Command:
+A(Concrete Command): PendingAppend
+B(Command): PendingCommand
+C(Receiver): MessagingController
+D(Invoker): MigrationTo60
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): SizeAware
+C(Receiver): SignSafeOutputStream
+D(Invoker): PreferencesHolder
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): SizeAware
+C(Receiver): CountingOutputStream
+D(Invoker): PreferencesHolder
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): Body
+C(Receiver): SignSafeOutputStream
+D(Invoker): ImapFolderTest
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): Body
+C(Receiver): SignSafeOutputStream
+D(Invoker): LocalStore
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): Body
+C(Receiver): SignSafeOutputStream
+D(Invoker): PreferencesHolder
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): Body
+C(Receiver): SignSafeOutputStream
+D(Invoker): PgpMessageBuilder
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): Body
+C(Receiver): SignSafeOutputStream
+D(Invoker): MimeBodyPart
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): Body
+C(Receiver): SignSafeOutputStream
+D(Invoker): MessageCryptoHelper
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): Body
+C(Receiver): SignSafeOutputStream
+D(Invoker): MimeMessageHelper
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): Body
+C(Receiver): SignSafeOutputStream
+D(Invoker): MimeMessage
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): Body
+C(Receiver): SignSafeOutputStream
+D(Invoker): MimeUtility
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): Body
+C(Receiver): SignSafeOutputStream
+D(Invoker): PgpMimeMessageTest
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): Body
+C(Receiver): CountingOutputStream
+D(Invoker): ImapFolderTest
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): Body
+C(Receiver): CountingOutputStream
+D(Invoker): LocalStore
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): Body
+C(Receiver): CountingOutputStream
+D(Invoker): PreferencesHolder
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): Body
+C(Receiver): CountingOutputStream
+D(Invoker): PgpMessageBuilder
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): Body
+C(Receiver): CountingOutputStream
+D(Invoker): MimeBodyPart
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): Body
+C(Receiver): CountingOutputStream
+D(Invoker): MessageCryptoHelper
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): Body
+C(Receiver): CountingOutputStream
+D(Invoker): MimeMessageHelper
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): Body
+C(Receiver): CountingOutputStream
+D(Invoker): MimeMessage
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): Body
+C(Receiver): CountingOutputStream
+D(Invoker): MimeUtility
+
+Candidate of Pattern Command:
+A(Concrete Command): TextBody
+B(Command): Body
+C(Receiver): CountingOutputStream
+D(Invoker): PgpMimeMessageTest
+
+Candidate of Pattern Command:
+A(Concrete Command): RealMigrationsHelper
+B(Command): MigrationsHelper
+C(Receiver): LocalStore
+D(Invoker): MigrationTo41
+
+Candidate of Pattern Command:
+A(Concrete Command): RealMigrationsHelper
+B(Command): MigrationsHelper
+C(Receiver): LocalStore
+D(Invoker): MigrationTo42
+
+Candidate of Pattern Command:
+A(Concrete Command): RealMigrationsHelper
+B(Command): MigrationsHelper
+C(Receiver): LocalStore
+D(Invoker): MigrationTo46
+
+Candidate of Pattern Command:
+A(Concrete Command): RealMigrationsHelper
+B(Command): MigrationsHelper
+C(Receiver): LocalStore
+D(Invoker): MigrationTo43
+
+Candidate of Pattern Command:
+A(Concrete Command): RealMigrationsHelper
+B(Command): MigrationsHelper
+C(Receiver): LocalStore
+D(Invoker): MigrationTo50
+
+Candidate of Pattern Command:
+A(Concrete Command): RealMigrationsHelper
+B(Command): MigrationsHelper
+C(Receiver): LocalStore
+D(Invoker): MigrationTo51
+
+Candidate of Pattern Command:
+A(Concrete Command): RealMigrationsHelper
+B(Command): MigrationsHelper
+C(Receiver): LocalStore
+D(Invoker): MigrationTo55
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): CancelListener
+C(Receiver): MessageReference
+D(Invoker): ProgressDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): CancelListener
+C(Receiver): QuotedMessagePresenter
+D(Invoker): ProgressDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): CancelListener
+C(Receiver): RecipientPresenter
+D(Invoker): ProgressDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): CancelListener
+C(Receiver): IdentityAdapter
+D(Invoker): ProgressDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): CancelListener
+C(Receiver): ComposeCryptoStatus
+D(Invoker): ProgressDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): CancelListener
+C(Receiver): MessageLoaderHelper
+D(Invoker): ProgressDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): CancelListener
+C(Receiver): Contacts
+D(Invoker): ProgressDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): CancelListener
+C(Receiver): EolConvertingEditText
+D(Invoker): ProgressDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): CancelListener
+C(Receiver): RecipientMvpView
+D(Invoker): ProgressDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): CancelListener
+C(Receiver): LocalSearch
+D(Invoker): ProgressDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): CancelListener
+C(Receiver): AttachmentPresenter
+D(Invoker): ProgressDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): CancelListener
+C(Receiver): Preferences
+D(Invoker): ProgressDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): CancelListener
+C(Receiver): QuotedMessageMvpView
+D(Invoker): ProgressDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): CancelListener
+C(Receiver): Action
+D(Invoker): ProgressDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): CancelListener
+C(Receiver): Account
+D(Invoker): ProgressDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): CancelListener
+C(Receiver): Identity
+D(Invoker): ProgressDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): AttachmentDownloadCancelListener
+C(Receiver): MessageReference
+D(Invoker): AttachmentDownloadDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): AttachmentDownloadCancelListener
+C(Receiver): QuotedMessagePresenter
+D(Invoker): AttachmentDownloadDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): AttachmentDownloadCancelListener
+C(Receiver): RecipientPresenter
+D(Invoker): AttachmentDownloadDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): AttachmentDownloadCancelListener
+C(Receiver): IdentityAdapter
+D(Invoker): AttachmentDownloadDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): AttachmentDownloadCancelListener
+C(Receiver): ComposeCryptoStatus
+D(Invoker): AttachmentDownloadDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): AttachmentDownloadCancelListener
+C(Receiver): MessageLoaderHelper
+D(Invoker): AttachmentDownloadDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): AttachmentDownloadCancelListener
+C(Receiver): Contacts
+D(Invoker): AttachmentDownloadDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): AttachmentDownloadCancelListener
+C(Receiver): EolConvertingEditText
+D(Invoker): AttachmentDownloadDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): AttachmentDownloadCancelListener
+C(Receiver): RecipientMvpView
+D(Invoker): AttachmentDownloadDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): AttachmentDownloadCancelListener
+C(Receiver): LocalSearch
+D(Invoker): AttachmentDownloadDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): AttachmentDownloadCancelListener
+C(Receiver): AttachmentPresenter
+D(Invoker): AttachmentDownloadDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): AttachmentDownloadCancelListener
+C(Receiver): Preferences
+D(Invoker): AttachmentDownloadDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): AttachmentDownloadCancelListener
+C(Receiver): QuotedMessageMvpView
+D(Invoker): AttachmentDownloadDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): AttachmentDownloadCancelListener
+C(Receiver): Action
+D(Invoker): AttachmentDownloadDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): AttachmentDownloadCancelListener
+C(Receiver): Account
+D(Invoker): AttachmentDownloadDialogFragment
+
+Candidate of Pattern Command:
+A(Concrete Command): MessageCompose
+B(Command): AttachmentDownloadCancelListener
+C(Receiver): Identity
+D(Invoker): AttachmentDownloadDialogFragment

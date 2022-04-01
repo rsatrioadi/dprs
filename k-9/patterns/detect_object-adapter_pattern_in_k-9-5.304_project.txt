@@ -1,0 +1,526 @@
+Amount of Candidates found: 105
+
+Candidate of Pattern Object Adapter:
+A(Target): AttachmentViewCallback
+B(Adaptee): MessageReference
+C(Adapter): MessageViewFragment
+
+Candidate of Pattern Object Adapter:
+A(Target): AttachmentViewCallback
+B(Adaptee): LocalMessage
+C(Adapter): MessageViewFragment
+
+Candidate of Pattern Object Adapter:
+A(Target): BaseNotifications
+B(Adaptee): NotificationController
+C(Adapter): DeviceNotifications
+
+Candidate of Pattern Object Adapter:
+A(Target): BaseNotifications
+B(Adaptee): NotificationActionCreator
+C(Adapter): DeviceNotifications
+
+Candidate of Pattern Object Adapter:
+A(Target): BaseNotifications
+B(Adaptee): NotificationActionCreator
+C(Adapter): WearNotifications
+
+Candidate of Pattern Object Adapter:
+A(Target): BaseNotifications
+B(Adaptee): LockScreenNotification
+C(Adapter): DeviceNotifications
+
+Candidate of Pattern Object Adapter:
+A(Target): BaseNotifications
+B(Adaptee): NotificationData
+C(Adapter): DeviceNotifications
+
+Candidate of Pattern Object Adapter:
+A(Target): BaseNotifications
+B(Adaptee): NotificationData
+C(Adapter): WearNotifications
+
+Candidate of Pattern Object Adapter:
+A(Target): BaseNotifications
+B(Adaptee): Account
+C(Adapter): DeviceNotifications
+
+Candidate of Pattern Object Adapter:
+A(Target): BaseNotifications
+B(Adaptee): Account
+C(Adapter): WearNotifications
+
+Candidate of Pattern Object Adapter:
+A(Target): BaseNotifications
+B(Adaptee): WearNotifications
+C(Adapter): DeviceNotifications
+
+Candidate of Pattern Object Adapter:
+A(Target): OnOpenPgpInlineChangeListener
+B(Adaptee): Action
+C(Adapter): MessageCompose
+
+Candidate of Pattern Object Adapter:
+A(Target): OnOpenPgpInlineChangeListener
+B(Adaptee): Account
+C(Adapter): MessageCompose
+
+Candidate of Pattern Object Adapter:
+A(Target): OnOpenPgpInlineChangeListener
+B(Adaptee): Identity
+C(Adapter): MessageCompose
+
+Candidate of Pattern Object Adapter:
+A(Target): OnLayoutChangedListener
+B(Adaptee): AttachmentResolver
+C(Adapter): MessageContainerView
+
+Candidate of Pattern Object Adapter:
+A(Target): RemoteStore
+B(Adaptee): ImapConnection
+C(Adapter): ImapStore
+
+Candidate of Pattern Object Adapter:
+A(Target): BaseAccount
+B(Adaptee): LocalSearch
+C(Adapter): SearchAccount
+
+Candidate of Pattern Object Adapter:
+A(Target): OnOpenPgpSignOnlyChangeListener
+B(Adaptee): Action
+C(Adapter): MessageCompose
+
+Candidate of Pattern Object Adapter:
+A(Target): OnOpenPgpSignOnlyChangeListener
+B(Adaptee): Account
+C(Adapter): MessageCompose
+
+Candidate of Pattern Object Adapter:
+A(Target): OnOpenPgpSignOnlyChangeListener
+B(Adaptee): Identity
+C(Adapter): MessageCompose
+
+Candidate of Pattern Object Adapter:
+A(Target): ImapResponseCallback
+B(Adaptee): FixedLengthInputStream
+C(Adapter): TestImapResponseCallback
+
+Candidate of Pattern Object Adapter:
+A(Target): ImapResponseCallback
+B(Adaptee): ImapResponse
+C(Adapter): FetchBodyCallback
+
+Candidate of Pattern Object Adapter:
+A(Target): ImapResponseCallback
+B(Adaptee): ImapResponse
+C(Adapter): FetchPartCallback
+
+Candidate of Pattern Object Adapter:
+A(Target): PendingCommand
+B(Adaptee): MessagingController
+C(Adapter): PendingExpunge
+
+Candidate of Pattern Object Adapter:
+A(Target): PendingCommand
+B(Adaptee): MessagingController
+C(Adapter): PendingMarkAllAsRead
+
+Candidate of Pattern Object Adapter:
+A(Target): PendingCommand
+B(Adaptee): MessagingController
+C(Adapter): PendingEmptyTrash
+
+Candidate of Pattern Object Adapter:
+A(Target): PendingCommand
+B(Adaptee): MessagingController
+C(Adapter): PendingSetFlag
+
+Candidate of Pattern Object Adapter:
+A(Target): PendingCommand
+B(Adaptee): MessagingController
+C(Adapter): PendingMoveOrCopy
+
+Candidate of Pattern Object Adapter:
+A(Target): PendingCommand
+B(Adaptee): MessagingController
+C(Adapter): PendingAppend
+
+Candidate of Pattern Object Adapter:
+A(Target): Pusher
+B(Adaptee): ImapStore
+C(Adapter): ImapPusher
+
+Candidate of Pattern Object Adapter:
+A(Target): PushReceiver
+B(Adaptee): MessagingController
+C(Adapter): MessagingControllerPushReceiver
+
+Candidate of Pattern Object Adapter:
+A(Target): PushReceiver
+B(Adaptee): Account
+C(Adapter): MessagingControllerPushReceiver
+
+Candidate of Pattern Object Adapter:
+A(Target): K9Activity
+B(Adaptee): MessageReference
+C(Adapter): MessageList
+
+Candidate of Pattern Object Adapter:
+A(Target): K9Activity
+B(Adaptee): Action
+C(Adapter): MessageCompose
+
+Candidate of Pattern Object Adapter:
+A(Target): K9Activity
+B(Adaptee): Account
+C(Adapter): AccountSetupIncoming
+
+Candidate of Pattern Object Adapter:
+A(Target): K9Activity
+B(Adaptee): Account
+C(Adapter): AccountSetupOptions
+
+Candidate of Pattern Object Adapter:
+A(Target): K9Activity
+B(Adaptee): Account
+C(Adapter): AccountSetupNames
+
+Candidate of Pattern Object Adapter:
+A(Target): K9Activity
+B(Adaptee): Account
+C(Adapter): AccountSetupAccountType
+
+Candidate of Pattern Object Adapter:
+A(Target): K9Activity
+B(Adaptee): Account
+C(Adapter): AccountSetupOutgoing
+
+Candidate of Pattern Object Adapter:
+A(Target): K9Activity
+B(Adaptee): Account
+C(Adapter): AccountSetupComposition
+
+Candidate of Pattern Object Adapter:
+A(Target): K9Activity
+B(Adaptee): Account
+C(Adapter): MessageCompose
+
+Candidate of Pattern Object Adapter:
+A(Target): K9Activity
+B(Adaptee): Identity
+C(Adapter): MessageCompose
+
+Candidate of Pattern Object Adapter:
+A(Target): UntaggedHandler
+B(Adaptee): ImapConnection
+C(Adapter): PushRunnable
+
+Candidate of Pattern Object Adapter:
+A(Target): UntaggedHandler
+B(Adaptee): ImapResponse
+C(Adapter): PushRunnable
+
+Candidate of Pattern Object Adapter:
+A(Target): CancelListener
+B(Adaptee): Action
+C(Adapter): MessageCompose
+
+Candidate of Pattern Object Adapter:
+A(Target): CancelListener
+B(Adaptee): Account
+C(Adapter): MessageCompose
+
+Candidate of Pattern Object Adapter:
+A(Target): CancelListener
+B(Adaptee): Identity
+C(Adapter): MessageCompose
+
+Candidate of Pattern Object Adapter:
+A(Target): OnSwipeGestureListener
+B(Adaptee): MessageReference
+C(Adapter): MessageList
+
+Candidate of Pattern Object Adapter:
+A(Target): MigrationsHelper
+B(Adaptee): LocalStore
+C(Adapter): RealMigrationsHelper
+
+Candidate of Pattern Object Adapter:
+A(Target): MessageBuilder
+B(Adaptee): OpenPgpApi
+C(Adapter): PgpMessageBuilder
+
+Candidate of Pattern Object Adapter:
+A(Target): MessageBuilder
+B(Adaptee): AutocryptOperations
+C(Adapter): PgpMessageBuilder
+
+Candidate of Pattern Object Adapter:
+A(Target): MessageBuilder
+B(Adaptee): BinaryTempFileBody
+C(Adapter): PgpMessageBuilder
+
+Candidate of Pattern Object Adapter:
+A(Target): MessageBuilder
+B(Adaptee): ComposeCryptoStatus
+C(Adapter): PgpMessageBuilder
+
+Candidate of Pattern Object Adapter:
+A(Target): MessageBuilder
+B(Adaptee): MimeBodyPart
+C(Adapter): PgpMessageBuilder
+
+Candidate of Pattern Object Adapter:
+A(Target): MessageBuilder
+B(Adaptee): AutocryptOpenPgpApiInteractor
+C(Adapter): PgpMessageBuilder
+
+Candidate of Pattern Object Adapter:
+A(Target): PermissionPingCallback
+B(Adaptee): ReplyToParser
+C(Adapter): RecipientPresenter
+
+Candidate of Pattern Object Adapter:
+A(Target): PermissionPingCallback
+B(Adaptee): MailTo
+C(Adapter): RecipientPresenter
+
+Candidate of Pattern Object Adapter:
+A(Target): PermissionPingCallback
+B(Adaptee): ComposePgpInlineDecider
+C(Adapter): RecipientPresenter
+
+Candidate of Pattern Object Adapter:
+A(Target): PermissionPingCallback
+B(Adaptee): ComposeCryptoStatus
+C(Adapter): RecipientPresenter
+
+Candidate of Pattern Object Adapter:
+A(Target): PermissionPingCallback
+B(Adaptee): PgpMessageBuilder
+C(Adapter): RecipientPresenter
+
+Candidate of Pattern Object Adapter:
+A(Target): PermissionPingCallback
+B(Adaptee): OpenPgpServiceConnection
+C(Adapter): RecipientPresenter
+
+Candidate of Pattern Object Adapter:
+A(Target): PermissionPingCallback
+B(Adaptee): RecipientMvpView
+C(Adapter): RecipientPresenter
+
+Candidate of Pattern Object Adapter:
+A(Target): PermissionPingCallback
+B(Adaptee): AutocryptStatusInteractor
+C(Adapter): RecipientPresenter
+
+Candidate of Pattern Object Adapter:
+A(Target): PermissionPingCallback
+B(Adaptee): OpenPgpError
+C(Adapter): RecipientPresenter
+
+Candidate of Pattern Object Adapter:
+A(Target): PermissionPingCallback
+B(Adaptee): ComposePgpEnableByDefaultDecider
+C(Adapter): RecipientPresenter
+
+Candidate of Pattern Object Adapter:
+A(Target): PermissionPingCallback
+B(Adaptee): Account
+C(Adapter): RecipientPresenter
+
+Candidate of Pattern Object Adapter:
+A(Target): MessageViewFragmentListener
+B(Adaptee): MessageReference
+C(Adapter): MessageList
+
+Candidate of Pattern Object Adapter:
+A(Target): SearchSpecification
+B(Adaptee): ConditionsTreeNode
+C(Adapter): LocalSearch
+
+Candidate of Pattern Object Adapter:
+A(Target): CoreService
+B(Adaptee): MessageReference
+C(Adapter): NotificationActionService
+
+Candidate of Pattern Object Adapter:
+A(Target): CoreService
+B(Adaptee): TracingWakeLock
+C(Adapter): SleepService
+
+Candidate of Pattern Object Adapter:
+A(Target): CoreService
+B(Adaptee): MessagingController
+C(Adapter): NotificationActionService
+
+Candidate of Pattern Object Adapter:
+A(Target): CoreService
+B(Adaptee): Account
+C(Adapter): NotificationActionService
+
+Candidate of Pattern Object Adapter:
+A(Target): AlternateRecipientListener
+B(Adaptee): Recipient
+C(Adapter): RecipientSelectView
+
+Candidate of Pattern Object Adapter:
+A(Target): Message
+B(Adaptee): Address
+C(Adapter): MimeMessage
+
+Candidate of Pattern Object Adapter:
+A(Target): Store
+B(Adaptee): LocalFolder
+C(Adapter): LocalStore
+
+Candidate of Pattern Object Adapter:
+A(Target): Store
+B(Adaptee): LocalSearch
+C(Adapter): LocalStore
+
+Candidate of Pattern Object Adapter:
+A(Target): Store
+B(Adaptee): Account
+C(Adapter): LocalStore
+
+Candidate of Pattern Object Adapter:
+A(Target): NonConfigurationInstance
+B(Adaptee): Accounts
+C(Adapter): PasswordPromptDialog
+
+Candidate of Pattern Object Adapter:
+A(Target): NonConfigurationInstance
+B(Adaptee): Accounts
+C(Adapter): ImportSelectionDialog
+
+Candidate of Pattern Object Adapter:
+A(Target): NonConfigurationInstance
+B(Adaptee): Accounts
+C(Adapter): SimpleDialog
+
+Candidate of Pattern Object Adapter:
+A(Target): NonConfigurationInstance
+B(Adaptee): Account
+C(Adapter): PasswordPromptDialog
+
+Candidate of Pattern Object Adapter:
+A(Target): BodyPart
+B(Adaptee): MimeHeader
+C(Adapter): MimeBodyPart
+
+Candidate of Pattern Object Adapter:
+A(Target): AttachmentDownloadCancelListener
+B(Adaptee): Action
+C(Adapter): MessageCompose
+
+Candidate of Pattern Object Adapter:
+A(Target): AttachmentDownloadCancelListener
+B(Adaptee): Account
+C(Adapter): MessageCompose
+
+Candidate of Pattern Object Adapter:
+A(Target): AttachmentDownloadCancelListener
+B(Adaptee): Identity
+C(Adapter): MessageCompose
+
+Candidate of Pattern Object Adapter:
+A(Target): K9PreferenceActivity
+B(Adaptee): UnreadWidgetProperties
+C(Adapter): UnreadWidgetConfiguration
+
+Candidate of Pattern Object Adapter:
+A(Target): OnCryptoClickListener
+B(Adaptee): MessageTopView
+C(Adapter): MessageCryptoPresenter
+
+Candidate of Pattern Object Adapter:
+A(Target): OnCryptoClickListener
+B(Adaptee): CryptoResultAnnotation
+C(Adapter): MessageCryptoPresenter
+
+Candidate of Pattern Object Adapter:
+A(Target): OnCryptoClickListener
+B(Adaptee): MessageCryptoDisplayStatus
+C(Adapter): MessageCryptoPresenter
+
+Candidate of Pattern Object Adapter:
+A(Target): OnSwitchCompleteListener
+B(Adaptee): MessageReference
+C(Adapter): MessageList
+
+Candidate of Pattern Object Adapter:
+A(Target): ConfirmationDialogFragmentListener
+B(Adaptee): MessageReference
+C(Adapter): MessageViewFragment
+
+Candidate of Pattern Object Adapter:
+A(Target): ConfirmationDialogFragmentListener
+B(Adaptee): MessageReference
+C(Adapter): MessageListFragment
+
+Candidate of Pattern Object Adapter:
+A(Target): ConfirmationDialogFragmentListener
+B(Adaptee): LocalMessage
+C(Adapter): MessageViewFragment
+
+Candidate of Pattern Object Adapter:
+A(Target): ConfirmationDialogFragmentListener
+B(Adaptee): SortType
+C(Adapter): MessageListFragment
+
+Candidate of Pattern Object Adapter:
+A(Target): ConfirmationDialogFragmentListener
+B(Adaptee): LocalSearch
+C(Adapter): MessageListFragment
+
+Candidate of Pattern Object Adapter:
+A(Target): ConfirmationDialogFragmentListener
+B(Adaptee): Account
+C(Adapter): MessageListFragment
+
+Candidate of Pattern Object Adapter:
+A(Target): SimpleMessagingListener
+B(Adaptee): Account
+C(Adapter): MemorizingMessagingListener
+
+Candidate of Pattern Object Adapter:
+A(Target): SimpleMessagingListener
+B(Adaptee): Account
+C(Adapter): ActivityListener
+
+Candidate of Pattern Object Adapter:
+A(Target): SimpleMessagingListener
+B(Adaptee): Account
+C(Adapter): Listener
+
+Candidate of Pattern Object Adapter:
+A(Target): OnOpenPgpDisableListener
+B(Adaptee): Action
+C(Adapter): MessageCompose
+
+Candidate of Pattern Object Adapter:
+A(Target): OnOpenPgpDisableListener
+B(Adaptee): Account
+C(Adapter): MessageCompose
+
+Candidate of Pattern Object Adapter:
+A(Target): OnOpenPgpDisableListener
+B(Adaptee): Identity
+C(Adapter): MessageCompose
+
+Candidate of Pattern Object Adapter:
+A(Target): OnClickShowCryptoKeyListener
+B(Adaptee): MessageReference
+C(Adapter): MessageViewFragment
+
+Candidate of Pattern Object Adapter:
+A(Target): OnClickShowCryptoKeyListener
+B(Adaptee): LocalMessage
+C(Adapter): MessageViewFragment
+
+Candidate of Pattern Object Adapter:
+A(Target): MessageListFragmentListener
+B(Adaptee): MessageReference
+C(Adapter): MessageList

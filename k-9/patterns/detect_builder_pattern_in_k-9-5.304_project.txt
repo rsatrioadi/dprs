@@ -1,0 +1,25 @@
+Amount of Candidates found: 4
+
+Candidate of Pattern Builder:
+A(Director): QuotedMessagePresenter
+B(Builder): MessageBuilder
+C(Concrete Builder): PgpMessageBuilder
+D(Product): TextBody
+
+Candidate of Pattern Builder:
+A(Director): RecipientPresenter
+B(Builder): MessageBuilder
+C(Concrete Builder): PgpMessageBuilder
+D(Product): TextBody
+
+Candidate of Pattern Builder:
+A(Director): MessageBuilderTest
+B(Builder): MessageBuilder
+C(Concrete Builder): PgpMessageBuilder
+D(Product): TextBody
+
+Candidate of Pattern Builder:
+A(Director): MessageCompose
+B(Builder): MessageBuilder
+C(Concrete Builder): PgpMessageBuilder
+D(Product): TextBody

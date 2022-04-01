@@ -1,0 +1,2521 @@
+Amount of Candidates found: 840
+
+Candidate of Pattern Singleton:
+A(Singleton): NotificationDataTest
+
+Candidate of Pattern Singleton:
+A(Singleton): SliderPreference
+
+Candidate of Pattern Singleton:
+A(Singleton): Memory
+
+Candidate of Pattern Singleton:
+A(Singleton): CommandResponse
+
+Candidate of Pattern Singleton:
+A(Singleton): HttpUriParserTest
+
+Candidate of Pattern Singleton:
+A(Singleton): SetPasswordsAsyncTask
+
+Candidate of Pattern Singleton:
+A(Singleton): PreviewTextExtractorTest
+
+Candidate of Pattern Singleton:
+A(Singleton): CheckBoxListPreference
+
+Candidate of Pattern Singleton:
+A(Singleton): VeryTrustingTrustManager
+
+Candidate of Pattern Singleton:
+A(Singleton): BoundaryGeneratorTest
+
+Candidate of Pattern Singleton:
+A(Singleton): LineWrapOutputStream
+
+Candidate of Pattern Singleton:
+A(Singleton): ReplyToAddresses
+
+Candidate of Pattern Singleton:
+A(Singleton): DeferredFileOutputStream
+
+Candidate of Pattern Singleton:
+A(Singleton): EmailReceived
+
+Candidate of Pattern Singleton:
+A(Singleton): IdentityHeaderBuilder
+
+Candidate of Pattern Singleton:
+A(Singleton): SmtpTransport
+
+Candidate of Pattern Singleton:
+A(Singleton): NegativeSmtpReplyException
+
+Candidate of Pattern Singleton:
+A(Singleton): AttachErrorState
+
+Candidate of Pattern Singleton:
+A(Singleton): V
+
+Candidate of Pattern Singleton:
+A(Singleton): PendingExpunge
+
+Candidate of Pattern Singleton:
+A(Singleton): EmailAddressValidator
+
+Candidate of Pattern Singleton:
+A(Singleton): SecureX509TrustManager
+
+Candidate of Pattern Singleton:
+A(Singleton): MockSmtpServer
+
+Candidate of Pattern Singleton:
+A(Singleton): SettingsImportExportException
+
+Candidate of Pattern Singleton:
+A(Singleton): UriExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): MailToTest
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountsAdapter
+
+Candidate of Pattern Singleton:
+A(Singleton): MoreMessages
+
+Candidate of Pattern Singleton:
+A(Singleton): FallbackGlideBitmapDecoder
+
+Candidate of Pattern Singleton:
+A(Singleton): MockImapServer
+
+Candidate of Pattern Singleton:
+A(Singleton): QueryHandler
+
+Candidate of Pattern Singleton:
+A(Singleton): LockedAttachmentView
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageReference
+
+Candidate of Pattern Singleton:
+A(Singleton): DeletePolicySetting
+
+Candidate of Pattern Singleton:
+A(Singleton): UrlEncodingHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): SenderComparator
+
+Candidate of Pattern Singleton:
+A(Singleton): State
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageContainerView
+
+Candidate of Pattern Singleton:
+A(Singleton): OpenPgpApi
+
+Candidate of Pattern Singleton:
+A(Singleton): DownloadImageTask
+
+Candidate of Pattern Singleton:
+A(Singleton): TimePickerPreference
+
+Candidate of Pattern Singleton:
+A(Singleton): DeleteUriExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): TempFileBody
+
+Candidate of Pattern Singleton:
+A(Singleton): MemorizingState
+
+Candidate of Pattern Singleton:
+A(Singleton): FoldableLinearLayout
+
+Candidate of Pattern Singleton:
+A(Singleton): TestImapPusher
+
+Candidate of Pattern Singleton:
+A(Singleton): ImportAsyncTask
+
+Candidate of Pattern Singleton:
+A(Singleton): NotificationController
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountCreator
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapResponseParser
+
+Candidate of Pattern Singleton:
+A(Singleton): LocalKeyStore
+
+Candidate of Pattern Singleton:
+A(Singleton): Pop3ResponseInputStream
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountSetupIncoming
+
+Candidate of Pattern Singleton:
+A(Singleton): ColorPickerDialog
+
+Candidate of Pattern Singleton:
+A(Singleton): PendingMarkAllAsRead
+
+Candidate of Pattern Singleton:
+A(Singleton): UnexpectedCommandException
+
+Candidate of Pattern Singleton:
+A(Singleton): WebDavConstants
+
+Candidate of Pattern Singleton:
+A(Singleton): AttachmentInfoExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): CharsetSupportTest
+
+Candidate of Pattern Singleton:
+A(Singleton): CertificateErrorNotificationsTest
+
+Candidate of Pattern Singleton:
+A(Singleton): Pop3Store
+
+Candidate of Pattern Singleton:
+A(Singleton): ReplyToParser
+
+Candidate of Pattern Singleton:
+A(Singleton): AutocryptOperations
+
+Candidate of Pattern Singleton:
+A(Singleton): ServerNameSuggesterTest
+
+Candidate of Pattern Singleton:
+A(Singleton): Commands
+
+Candidate of Pattern Singleton:
+A(Singleton): InsertionLocation
+
+Candidate of Pattern Singleton:
+A(Singleton): DefaultBodyFactory
+
+Candidate of Pattern Singleton:
+A(Singleton): BinaryTempFileBody
+
+Candidate of Pattern Singleton:
+A(Singleton): ParcelableUtil
+
+Candidate of Pattern Singleton:
+A(Singleton): PendingEmptyTrash
+
+Candidate of Pattern Singleton:
+A(Singleton): XOAuth2ChallengeParserTest
+
+Candidate of Pattern Singleton:
+A(Singleton): Theme
+
+Candidate of Pattern Singleton:
+A(Singleton): Expunge
+
+Candidate of Pattern Singleton:
+A(Singleton): EnhancedNegativeSmtpReplyException
+
+Candidate of Pattern Singleton:
+A(Singleton): Base64OutputStream
+
+Candidate of Pattern Singleton:
+A(Singleton): MimeMultipart
+
+Candidate of Pattern Singleton:
+A(Singleton): DefaultDebugStatus
+
+Candidate of Pattern Singleton:
+A(Singleton): LoadingState
+
+Candidate of Pattern Singleton:
+A(Singleton): FolderListFilter
+
+Candidate of Pattern Singleton:
+A(Singleton): FolderType
+
+Candidate of Pattern Singleton:
+A(Singleton): StatusCodeSubject
+
+Candidate of Pattern Singleton:
+A(Singleton): ConnectionSecurity
+
+Candidate of Pattern Singleton:
+A(Singleton): PgpInlineDialog
+
+Candidate of Pattern Singleton:
+A(Singleton): TextSignatureRemoverTest
+
+Candidate of Pattern Singleton:
+A(Singleton): NumberOfActionsMatcher
+
+Candidate of Pattern Singleton:
+A(Singleton): LinearViewAnimator
+
+Candidate of Pattern Singleton:
+A(Singleton): ImportedSettings
+
+Candidate of Pattern Singleton:
+A(Singleton): LocalMessageLoader
+
+Candidate of Pattern Singleton:
+A(Singleton): ReconstructMessageFromDatabaseTest
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapPusher
+
+Candidate of Pattern Singleton:
+A(Singleton): OpenPgpAppSelectDialog
+
+Candidate of Pattern Singleton:
+A(Singleton): NetworkType
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageIdGenerator
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationMimeStructureStateTest
+
+Candidate of Pattern Singleton:
+A(Singleton): MessagePartType
+
+Candidate of Pattern Singleton:
+A(Singleton): RigidWebView
+
+Candidate of Pattern Singleton:
+A(Singleton): BitcoinUriParser
+
+Candidate of Pattern Singleton:
+A(Singleton): StoreSchemaDefinition
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountsQueryHandler
+
+Candidate of Pattern Singleton:
+A(Singleton): MailService
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountReceiver
+
+Candidate of Pattern Singleton:
+A(Singleton): FolderClass
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapResponseHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): SenderStatusResult
+
+Candidate of Pattern Singleton:
+A(Singleton): KeyStoreProvider
+
+Candidate of Pattern Singleton:
+A(Singleton): AttachmentResolverTest
+
+Candidate of Pattern Singleton:
+A(Singleton): AttachmentDownloadDialogFragment
+
+Candidate of Pattern Singleton:
+A(Singleton): WebDavMessage
+
+Candidate of Pattern Singleton:
+A(Singleton): ShowPictures
+
+Candidate of Pattern Singleton:
+A(Singleton): WelcomeMessage
+
+Candidate of Pattern Singleton:
+A(Singleton): MessagePreviewCreator
+
+Candidate of Pattern Singleton:
+A(Singleton): AuthenticationErrorNotificationsTest
+
+Candidate of Pattern Singleton:
+A(Singleton): TracingPowerManager
+
+Candidate of Pattern Singleton:
+A(Singleton): TestImapStore
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapFolder
+
+Candidate of Pattern Singleton:
+A(Singleton): MergeCursor
+
+Candidate of Pattern Singleton:
+A(Singleton): CryptoMode
+
+Candidate of Pattern Singleton:
+A(Singleton): QuotedMessagePresenter
+
+Candidate of Pattern Singleton:
+A(Singleton): TestImapResponseCallback
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountColorExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): PendingSetFlag
+
+Candidate of Pattern Singleton:
+A(Singleton): PendingMoveOrCopy
+
+Candidate of Pattern Singleton:
+A(Singleton): Attribute
+
+Candidate of Pattern Singleton:
+A(Singleton): TestWearNotifications
+
+Candidate of Pattern Singleton:
+A(Singleton): ReverseIdComparator
+
+Candidate of Pattern Singleton:
+A(Singleton): ManageIdentities
+
+Candidate of Pattern Singleton:
+A(Singleton): BootReceiver
+
+Candidate of Pattern Singleton:
+A(Singleton): LocalKeyStoreHolder
+
+Candidate of Pattern Singleton:
+A(Singleton): MailTo
+
+Candidate of Pattern Singleton:
+A(Singleton): MimeUtilityTest
+
+Candidate of Pattern Singleton:
+A(Singleton): PushRunnable
+
+Candidate of Pattern Singleton:
+A(Singleton): GlobalSettings
+
+Candidate of Pattern Singleton:
+A(Singleton): FallbackGlideParams
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageHeader
+
+Candidate of Pattern Singleton:
+A(Singleton): WebDavFolder
+
+Candidate of Pattern Singleton:
+A(Singleton): AuthorizationException
+
+Candidate of Pattern Singleton:
+A(Singleton): UnavailableStorageException
+
+Candidate of Pattern Singleton:
+A(Singleton): Search
+
+Candidate of Pattern Singleton:
+A(Singleton): ImportedFolder
+
+Candidate of Pattern Singleton:
+A(Singleton): FolderClickListener
+
+Candidate of Pattern Singleton:
+A(Singleton): TextSignatureRemover
+
+Candidate of Pattern Singleton:
+A(Singleton): ColorSetting
+
+Candidate of Pattern Singleton:
+A(Singleton): RecipientPresenter
+
+Candidate of Pattern Singleton:
+A(Singleton): PushService
+
+Candidate of Pattern Singleton:
+A(Singleton): ACCOUNT_LOCATION
+
+Candidate of Pattern Singleton:
+A(Singleton): SearchResponse
+
+Candidate of Pattern Singleton:
+A(Singleton): TestTrustedSocketFactory
+
+Candidate of Pattern Singleton:
+A(Singleton): RemoveNotificationResult
+
+Candidate of Pattern Singleton:
+A(Singleton): WebDavTransport
+
+Candidate of Pattern Singleton:
+A(Singleton): OldPendingCommand
+
+Candidate of Pattern Singleton:
+A(Singleton): SendMessageTask
+
+Candidate of Pattern Singleton:
+A(Singleton): UpgradeDatabaseBroadcastReceiver
+
+Candidate of Pattern Singleton:
+A(Singleton): RecipientLoaderTest
+
+Candidate of Pattern Singleton:
+A(Singleton): Intents
+
+Candidate of Pattern Singleton:
+A(Singleton): RecipientTokenHolder
+
+Candidate of Pattern Singleton:
+A(Singleton): WebDavStoreUriDecoder
+
+Candidate of Pattern Singleton:
+A(Singleton): Migrations
+
+Candidate of Pattern Singleton:
+A(Singleton): Provider
+
+Candidate of Pattern Singleton:
+A(Singleton): LocalFolder
+
+Candidate of Pattern Singleton:
+A(Singleton): TestDeviceNotifications
+
+Candidate of Pattern Singleton:
+A(Singleton): Capabilities
+
+Candidate of Pattern Singleton:
+A(Singleton): StorageGoneReceiver
+
+Candidate of Pattern Singleton:
+A(Singleton): ComposePgpInlineDecider
+
+Candidate of Pattern Singleton:
+A(Singleton): OpenPgpDecryptionResult
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageViewHolder
+
+Candidate of Pattern Singleton:
+A(Singleton): SpecialColumnsCursor
+
+Candidate of Pattern Singleton:
+A(Singleton): Throttle
+
+Candidate of Pattern Singleton:
+A(Singleton): HtmlHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): PendingCommandSerializer
+
+Candidate of Pattern Singleton:
+A(Singleton): PreviewResult
+
+Candidate of Pattern Singleton:
+A(Singleton): ShadowOpenPgpAsyncTask
+
+Candidate of Pattern Singleton:
+A(Singleton): FixedLengthInputStreamTest
+
+Candidate of Pattern Singleton:
+A(Singleton): BinaryTempFileMessageBody
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapFolderTest
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountSetupOptions
+
+Candidate of Pattern Singleton:
+A(Singleton): FolderList
+
+Candidate of Pattern Singleton:
+A(Singleton): AttachmentResolver
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageListHandler
+
+Candidate of Pattern Singleton:
+A(Singleton): ReverseComparator
+
+Candidate of Pattern Singleton:
+A(Singleton): PreviewExtractionException
+
+Candidate of Pattern Singleton:
+A(Singleton): SettingsExporterTest
+
+Candidate of Pattern Singleton:
+A(Singleton): ResponseCodeExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): ColorChip
+
+Candidate of Pattern Singleton:
+A(Singleton): RecipientCryptoStatus
+
+Candidate of Pattern Singleton:
+A(Singleton): NegativeImapResponseException
+
+Candidate of Pattern Singleton:
+A(Singleton): DeferredFileBody
+
+Candidate of Pattern Singleton:
+A(Singleton): Globals
+
+Candidate of Pattern Singleton:
+A(Singleton): LocalMessage
+
+Candidate of Pattern Singleton:
+A(Singleton): RecipientAutocryptStatus
+
+Candidate of Pattern Singleton:
+A(Singleton): SqlQueryBuilder
+
+Candidate of Pattern Singleton:
+A(Singleton): FolderNameCodec
+
+Candidate of Pattern Singleton:
+A(Singleton): Type
+
+Candidate of Pattern Singleton:
+A(Singleton): Authentication
+
+Candidate of Pattern Singleton:
+A(Singleton): IdentityAdapter
+
+Candidate of Pattern Singleton:
+A(Singleton): SettingsImporterTest
+
+Candidate of Pattern Singleton:
+A(Singleton): LocalStore
+
+Candidate of Pattern Singleton:
+A(Singleton): WebDavStoreSettings
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageTitleView
+
+Candidate of Pattern Singleton:
+A(Singleton): DecryptedFileProvider
+
+Candidate of Pattern Singleton:
+A(Singleton): AttachmentViewInfo
+
+Candidate of Pattern Singleton:
+A(Singleton): SmtpTransportTest
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountDescription
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageProvider
+
+Candidate of Pattern Singleton:
+A(Singleton): AttachmentCounter
+
+Candidate of Pattern Singleton:
+A(Singleton): ChooseFolderHandler
+
+Candidate of Pattern Singleton:
+A(Singleton): Flag
+
+Candidate of Pattern Singleton:
+A(Singleton): TracingWakeLock
+
+Candidate of Pattern Singleton:
+A(Singleton): PendingCommandSerializerTest
+
+Candidate of Pattern Singleton:
+A(Singleton): CertificateChainException
+
+Candidate of Pattern Singleton:
+A(Singleton): PreferencesHolder
+
+Candidate of Pattern Singleton:
+A(Singleton): DeviceNotifications
+
+Candidate of Pattern Singleton:
+A(Singleton): AddressTest
+
+Candidate of Pattern Singleton:
+A(Singleton): ComposeCryptoStatus
+
+Candidate of Pattern Singleton:
+A(Singleton): SubThemeSetting
+
+Candidate of Pattern Singleton:
+A(Singleton): SendFailedNotificationsTest
+
+Candidate of Pattern Singleton:
+A(Singleton): TrustManagerFactoryTest
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageViewFragment
+
+Candidate of Pattern Singleton:
+A(Singleton): LinuxPRNGSecureRandom
+
+Candidate of Pattern Singleton:
+A(Singleton): HtcIncredibleStorageProvider
+
+Candidate of Pattern Singleton:
+A(Singleton): HeadCleaner
+
+Candidate of Pattern Singleton:
+A(Singleton): OpenPgpApiHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): IdentityHeaderParser
+
+Candidate of Pattern Singleton:
+A(Singleton): StorageReceiver
+
+Candidate of Pattern Singleton:
+A(Singleton): UidReverseComparator
+
+Candidate of Pattern Singleton:
+A(Singleton): StorageProviderSetting
+
+Candidate of Pattern Singleton:
+A(Singleton): SizeFormatter
+
+Candidate of Pattern Singleton:
+A(Singleton): EditIdentity
+
+Candidate of Pattern Singleton:
+A(Singleton): OptionalEmailAddressSetting
+
+Candidate of Pattern Singleton:
+A(Singleton): EncoderUtil
+
+Candidate of Pattern Singleton:
+A(Singleton): TestingTextBodyBuilder
+
+Candidate of Pattern Singleton:
+A(Singleton): LockScreenNotificationTest
+
+Candidate of Pattern Singleton:
+A(Singleton): WebDavMessageTest
+
+Candidate of Pattern Singleton:
+A(Singleton): MimePartStreamParser
+
+Candidate of Pattern Singleton:
+A(Singleton): WebDavHttpClientFactory
+
+Candidate of Pattern Singleton:
+A(Singleton): LocalMimeMessage
+
+Candidate of Pattern Singleton:
+A(Singleton): EmailHelperTest
+
+Candidate of Pattern Singleton:
+A(Singleton): MessagingController
+
+Candidate of Pattern Singleton:
+A(Singleton): ActionModeCallback
+
+Candidate of Pattern Singleton:
+A(Singleton): HtmlSignatureRemoverTest
+
+Candidate of Pattern Singleton:
+A(Singleton): QuotedTextMode
+
+Candidate of Pattern Singleton:
+A(Singleton): TransportUrisTest
+
+Candidate of Pattern Singleton:
+A(Singleton): WebDavHttpClient
+
+Candidate of Pattern Singleton:
+A(Singleton): ComposeCryptoStatusBuilder
+
+Candidate of Pattern Singleton:
+A(Singleton): Accounts
+
+Candidate of Pattern Singleton:
+A(Singleton): Attachment
+
+Candidate of Pattern Singleton:
+A(Singleton): TestSmtpTransport
+
+Candidate of Pattern Singleton:
+A(Singleton): ExportAsyncTask
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageCryptoAnnotations
+
+Candidate of Pattern Singleton:
+A(Singleton): AlternateRecipientAdapter
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountViewHolder
+
+Candidate of Pattern Singleton:
+A(Singleton): RemoteControlService
+
+Candidate of Pattern Singleton:
+A(Singleton): NotificationIds
+
+Candidate of Pattern Singleton:
+A(Singleton): PartBuilder
+
+Candidate of Pattern Singleton:
+A(Singleton): CryptoStatusDisplayType
+
+Candidate of Pattern Singleton:
+A(Singleton): PgpMessageBuilder
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageCryptoPresenter
+
+Candidate of Pattern Singleton:
+A(Singleton): Field
+
+Candidate of Pattern Singleton:
+A(Singleton): FlowedMessageUtils
+
+Candidate of Pattern Singleton:
+A(Singleton): AutocryptPeerUpdate
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountClickListener
+
+Candidate of Pattern Singleton:
+A(Singleton): DisplayMode
+
+Candidate of Pattern Singleton:
+A(Singleton): EmailProviderCacheTest
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapStoreTest
+
+Candidate of Pattern Singleton:
+A(Singleton): MimeBodyPart
+
+Candidate of Pattern Singleton:
+A(Singleton): EncryptionDetector
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageReferenceTest
+
+Candidate of Pattern Singleton:
+A(Singleton): Pop3Capabilities
+
+Candidate of Pattern Singleton:
+A(Singleton): OpenPgpKeyPreference
+
+Candidate of Pattern Singleton:
+A(Singleton): PeekableInputStream
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageActions
+
+Candidate of Pattern Singleton:
+A(Singleton): AttachmentController
+
+Candidate of Pattern Singleton:
+A(Singleton): PreLollipopWebViewClient
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageLoaderHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): TestMessageBuilder
+
+Candidate of Pattern Singleton:
+A(Singleton): Utility
+
+Candidate of Pattern Singleton:
+A(Singleton): ParsedMessageEnvelope
+
+Candidate of Pattern Singleton:
+A(Singleton): IdentityHelperTest
+
+Candidate of Pattern Singleton:
+A(Singleton): EnumSetting
+
+Candidate of Pattern Singleton:
+A(Singleton): OpenPgpMetadata
+
+Candidate of Pattern Singleton:
+A(Singleton): LockScreenNotificationVisibility
+
+Candidate of Pattern Singleton:
+A(Singleton): UpgradeDatabases
+
+Candidate of Pattern Singleton:
+A(Singleton): LollipopWebViewClient
+
+Candidate of Pattern Singleton:
+A(Singleton): DozeChecker
+
+Candidate of Pattern Singleton:
+A(Singleton): AttachmentInfoLoader
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): IdentitySettings
+
+Candidate of Pattern Singleton:
+A(Singleton): HeaderEntry
+
+Candidate of Pattern Singleton:
+A(Singleton): ExternalStorageProvider
+
+Candidate of Pattern Singleton:
+A(Singleton): MimeStructureState
+
+Candidate of Pattern Singleton:
+A(Singleton): ImportContents
+
+Candidate of Pattern Singleton:
+A(Singleton): UnreadExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): GlobalsHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): EnableCompression
+
+Candidate of Pattern Singleton:
+A(Singleton): FallbackGlideModelLoader
+
+Candidate of Pattern Singleton:
+A(Singleton): HtmlSanitizer
+
+Candidate of Pattern Singleton:
+A(Singleton): RecipientPresenterTest
+
+Candidate of Pattern Singleton:
+A(Singleton): NotificationGroupKeys
+
+Candidate of Pattern Singleton:
+A(Singleton): PollService
+
+Candidate of Pattern Singleton:
+A(Singleton): ListHeaders
+
+Candidate of Pattern Singleton:
+A(Singleton): ListTagHandler
+
+Candidate of Pattern Singleton:
+A(Singleton): Imported
+
+Candidate of Pattern Singleton:
+A(Singleton): PreviewExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): NotificationHideSubject
+
+Candidate of Pattern Singleton:
+A(Singleton): ServerNameSuggester
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo60Test
+
+Candidate of Pattern Singleton:
+A(Singleton): DeviceNotificationsTest
+
+Candidate of Pattern Singleton:
+A(Singleton): UidReverseComparatorTest
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapStore
+
+Candidate of Pattern Singleton:
+A(Singleton): FileHelperTest
+
+Candidate of Pattern Singleton:
+A(Singleton): ApgDeprecationWarningDialog
+
+Candidate of Pattern Singleton:
+A(Singleton): Preconditions
+
+Candidate of Pattern Singleton:
+A(Singleton): EmailHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): CryptoPartType
+
+Candidate of Pattern Singleton:
+A(Singleton): BitcoinUriParserTest
+
+Candidate of Pattern Singleton:
+A(Singleton): UnreadWidgetProperties
+
+Candidate of Pattern Singleton:
+A(Singleton): ExceptionHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): Pop3ErrorResponse
+
+Candidate of Pattern Singleton:
+A(Singleton): K9MailLib
+
+Candidate of Pattern Singleton:
+A(Singleton): LoadAccounts
+
+Candidate of Pattern Singleton:
+A(Singleton): AttachmentContentLoader
+
+Candidate of Pattern Singleton:
+A(Singleton): MessagingException
+
+Candidate of Pattern Singleton:
+A(Singleton): StringResourceSetting
+
+Candidate of Pattern Singleton:
+A(Singleton): ReverseDateComparator
+
+Candidate of Pattern Singleton:
+A(Singleton): UriLinkifierTest
+
+Candidate of Pattern Singleton:
+A(Singleton): ContactPictureLoader
+
+Candidate of Pattern Singleton:
+A(Singleton): HasAttachmentsExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): CaseInsensitiveParamWrapper
+
+Candidate of Pattern Singleton:
+A(Singleton): Prefs
+
+Candidate of Pattern Singleton:
+A(Singleton): CountExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): EOLConvertingOutputStreamTest
+
+Candidate of Pattern Singleton:
+A(Singleton): ParcelFileDescriptorUtil
+
+Candidate of Pattern Singleton:
+A(Singleton): TestMessage
+
+Candidate of Pattern Singleton:
+A(Singleton): DummyAccount
+
+Candidate of Pattern Singleton:
+A(Singleton): ClipboardManager
+
+Candidate of Pattern Singleton:
+A(Singleton): HierarchyTreeChangeListener
+
+Candidate of Pattern Singleton:
+A(Singleton): AlertResponse
+
+Candidate of Pattern Singleton:
+A(Singleton): JisSupport
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageProviderTest
+
+Candidate of Pattern Singleton:
+A(Singleton): AttachmentProviderColumns
+
+Candidate of Pattern Singleton:
+A(Singleton): LocalStoreTest
+
+Candidate of Pattern Singleton:
+A(Singleton): MLFProjectionInfo
+
+Candidate of Pattern Singleton:
+A(Singleton): LocalBodyPart
+
+Candidate of Pattern Singleton:
+A(Singleton): EncryptionDetectorTest
+
+Candidate of Pattern Singleton:
+A(Singleton): TextBodyBuilder
+
+Candidate of Pattern Singleton:
+A(Singleton): DecoderUtilTest
+
+Candidate of Pattern Singleton:
+A(Singleton): AttachmentTempFileProvider
+
+Candidate of Pattern Singleton:
+A(Singleton): ExpectedCommand
+
+Candidate of Pattern Singleton:
+A(Singleton): WrappedException
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageInfoHolderRetrieverListener
+
+Candidate of Pattern Singleton:
+A(Singleton): ProgressDialogFragment
+
+Candidate of Pattern Singleton:
+A(Singleton): Charset
+
+Candidate of Pattern Singleton:
+A(Singleton): TransferThread
+
+Candidate of Pattern Singleton:
+A(Singleton): OpenPgpAsyncTask
+
+Candidate of Pattern Singleton:
+A(Singleton): Contacts
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageViewInfo
+
+Candidate of Pattern Singleton:
+A(Singleton): CheckAccountTask
+
+Candidate of Pattern Singleton:
+A(Singleton): FooterViewHolder
+
+Candidate of Pattern Singleton:
+A(Singleton): IncrementExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): AutocryptHeaderParser
+
+Candidate of Pattern Singleton:
+A(Singleton): UpgradeToTls
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapList
+
+Candidate of Pattern Singleton:
+A(Singleton): FixedLengthInputStream
+
+Candidate of Pattern Singleton:
+A(Singleton): CertificateErrorNotifications
+
+Candidate of Pattern Singleton:
+A(Singleton): Responses
+
+Candidate of Pattern Singleton:
+A(Singleton): MailItem
+
+Candidate of Pattern Singleton:
+A(Singleton): TestNewMailNotifications
+
+Candidate of Pattern Singleton:
+A(Singleton): SendErrorState
+
+Candidate of Pattern Singleton:
+A(Singleton): IdleStopper
+
+Candidate of Pattern Singleton:
+A(Singleton): AuthenticationFailedException
+
+Candidate of Pattern Singleton:
+A(Singleton): EolConvertingEditText
+
+Candidate of Pattern Singleton:
+A(Singleton): OpenPgpServiceConnection
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountHolder
+
+Candidate of Pattern Singleton:
+A(Singleton): AttachmentProvider
+
+Candidate of Pattern Singleton:
+A(Singleton): SimpleMessageBuilder
+
+Candidate of Pattern Singleton:
+A(Singleton): AuthTypeAdapter
+
+Candidate of Pattern Singleton:
+A(Singleton): MonitoredCursor
+
+Candidate of Pattern Singleton:
+A(Singleton): OpenPgpAppSelectFragment
+
+Candidate of Pattern Singleton:
+A(Singleton): TrustManagerFactory
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapListTest
+
+Candidate of Pattern Singleton:
+A(Singleton): ContactPictureLoaderTest
+
+Candidate of Pattern Singleton:
+A(Singleton): CopyUidResponseTest
+
+Candidate of Pattern Singleton:
+A(Singleton): MessagingControllerPushReceiver
+
+Candidate of Pattern Singleton:
+A(Singleton): SpinnerOption
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapConnection
+
+Candidate of Pattern Singleton:
+A(Singleton): InvalidSettingValueException
+
+Candidate of Pattern Singleton:
+A(Singleton): RecipientMvpView
+
+Candidate of Pattern Singleton:
+A(Singleton): PermanentFlagsResponse
+
+Candidate of Pattern Singleton:
+A(Singleton): SynchronizationAid
+
+Candidate of Pattern Singleton:
+A(Singleton): AttachmentInfo
+
+Candidate of Pattern Singleton:
+A(Singleton): CleaningVisitor
+
+Candidate of Pattern Singleton:
+A(Singleton): RingtoneSetting
+
+Candidate of Pattern Singleton:
+A(Singleton): K9ActivityCommon
+
+Candidate of Pattern Singleton:
+A(Singleton): AutocryptOperationsHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): InsertableHtmlContent
+
+Candidate of Pattern Singleton:
+A(Singleton): IdentityContainer
+
+Candidate of Pattern Singleton:
+A(Singleton): ConfirmationDialog
+
+Candidate of Pattern Singleton:
+A(Singleton): PermanentFlagsResponseTest
+
+Candidate of Pattern Singleton:
+A(Singleton): NotificationIdsTest
+
+Candidate of Pattern Singleton:
+A(Singleton): FontSizes
+
+Candidate of Pattern Singleton:
+A(Singleton): UnreadQueryHandler
+
+Candidate of Pattern Singleton:
+A(Singleton): AutocryptHeaderTest
+
+Candidate of Pattern Singleton:
+A(Singleton): DataLocation
+
+Candidate of Pattern Singleton:
+A(Singleton): DatabasePreviewType
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountSetupNames
+
+Candidate of Pattern Singleton:
+A(Singleton): FetchBodyCallback
+
+Candidate of Pattern Singleton:
+A(Singleton): PgpMessageBuilderTest
+
+Candidate of Pattern Singleton:
+A(Singleton): ViewSwitcher
+
+Candidate of Pattern Singleton:
+A(Singleton): ImportedServerSettings
+
+Candidate of Pattern Singleton:
+A(Singleton): WebFontSizeSetting
+
+Candidate of Pattern Singleton:
+A(Singleton): AttachmentInfoExtractorTest
+
+Candidate of Pattern Singleton:
+A(Singleton): ListImportContentsAsyncTask
+
+Candidate of Pattern Singleton:
+A(Singleton): FileBackedBody
+
+Candidate of Pattern Singleton:
+A(Singleton): LanguageSetting
+
+Candidate of Pattern Singleton:
+A(Singleton): AutocryptStatusInteractor
+
+Candidate of Pattern Singleton:
+A(Singleton): Clock
+
+Candidate of Pattern Singleton:
+A(Singleton): AuthType
+
+Candidate of Pattern Singleton:
+A(Singleton): CharsetSupport
+
+Candidate of Pattern Singleton:
+A(Singleton): Alternative
+
+Candidate of Pattern Singleton:
+A(Singleton): PreferEncrypt
+
+Candidate of Pattern Singleton:
+A(Singleton): PasswordPromptDialog
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapUtility
+
+Candidate of Pattern Singleton:
+A(Singleton): QuoteHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageReferenceHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): AlertResponseTest
+
+Candidate of Pattern Singleton:
+A(Singleton): FolderNameCodecTest
+
+Candidate of Pattern Singleton:
+A(Singleton): ResponseCodeExtractorTest
+
+Candidate of Pattern Singleton:
+A(Singleton): SendFailedNotifications
+
+Candidate of Pattern Singleton:
+A(Singleton): StoreSchemaDefinitionTest
+
+Candidate of Pattern Singleton:
+A(Singleton): SyncNotifications
+
+Candidate of Pattern Singleton:
+A(Singleton): UnreadWidgetProvider
+
+Candidate of Pattern Singleton:
+A(Singleton): MemorizingMessagingListener
+
+Candidate of Pattern Singleton:
+A(Singleton): RecipientAdapter
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapResponseParserTest
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageCryptoHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): ActivityListener
+
+Candidate of Pattern Singleton:
+A(Singleton): SignSafeOutputStream
+
+Candidate of Pattern Singleton:
+A(Singleton): UtilityTest
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapStoreUriCreator
+
+Candidate of Pattern Singleton:
+A(Singleton): CryptoError
+
+Candidate of Pattern Singleton:
+A(Singleton): Address_quoteAtoms
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapPushStateTest
+
+Candidate of Pattern Singleton:
+A(Singleton): BinaryMemoryBody
+
+Candidate of Pattern Singleton:
+A(Singleton): Encoding
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountNumberExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): CapabilityResponseTest
+
+Candidate of Pattern Singleton:
+A(Singleton): SearchAccount
+
+Candidate of Pattern Singleton:
+A(Singleton): Storage
+
+Candidate of Pattern Singleton:
+A(Singleton): TestAuthenticationErrorNotifications
+
+Candidate of Pattern Singleton:
+A(Singleton): MockServerThread
+
+Candidate of Pattern Singleton:
+A(Singleton): HtmlSanitizerTest
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountStats
+
+Candidate of Pattern Singleton:
+A(Singleton): CryptoInfoDialog
+
+Candidate of Pattern Singleton:
+A(Singleton): WearNotificationsTest
+
+Candidate of Pattern Singleton:
+A(Singleton): PopulateFolderPrefsTask
+
+Candidate of Pattern Singleton:
+A(Singleton): OpenPgpProviderEntry
+
+Candidate of Pattern Singleton:
+A(Singleton): StatusCodeDetail
+
+Candidate of Pattern Singleton:
+A(Singleton): OpenPgpError
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageTopView
+
+Candidate of Pattern Singleton:
+A(Singleton): ConnectionSecurityAdapter
+
+Candidate of Pattern Singleton:
+A(Singleton): ReconstructMessageTest
+
+Candidate of Pattern Singleton:
+A(Singleton): ListHeadersTest
+
+Candidate of Pattern Singleton:
+A(Singleton): ChooseAccount
+
+Candidate of Pattern Singleton:
+A(Singleton): SortType
+
+Candidate of Pattern Singleton:
+A(Singleton): SleepService
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountSetupBasics
+
+Candidate of Pattern Singleton:
+A(Singleton): ApgDeprecationDialogFragment
+
+Candidate of Pattern Singleton:
+A(Singleton): PartContainer
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageCreationHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): ListResponse
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapMessage
+
+Candidate of Pattern Singleton:
+A(Singleton): AutocryptHeader
+
+Candidate of Pattern Singleton:
+A(Singleton): TimeSetting
+
+Candidate of Pattern Singleton:
+A(Singleton): NamespaceResponseTest
+
+Candidate of Pattern Singleton:
+A(Singleton): Settings
+
+Candidate of Pattern Singleton:
+A(Singleton): MoveAccountAsyncTask
+
+Candidate of Pattern Singleton:
+A(Singleton): ChooseFolder
+
+Candidate of Pattern Singleton:
+A(Singleton): WaitingAction
+
+Candidate of Pattern Singleton:
+A(Singleton): PgpSignOnlyDialog
+
+Candidate of Pattern Singleton:
+A(Singleton): FlaggedComparator
+
+Candidate of Pattern Singleton:
+A(Singleton): K9
+
+Candidate of Pattern Singleton:
+A(Singleton): TextPartFinder
+
+Candidate of Pattern Singleton:
+A(Singleton): K9AlarmManager
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTest
+
+Candidate of Pattern Singleton:
+A(Singleton): Text
+
+Candidate of Pattern Singleton:
+A(Singleton): IntegerRangeSetting
+
+Candidate of Pattern Singleton:
+A(Singleton): IdTrickeryCursor
+
+Candidate of Pattern Singleton:
+A(Singleton): AttachmentView
+
+Candidate of Pattern Singleton:
+A(Singleton): UnavailableAccountException
+
+Candidate of Pattern Singleton:
+A(Singleton): IdentityField
+
+Candidate of Pattern Singleton:
+A(Singleton): SearchResponseTest
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageCryptoStructureDetector
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountsHandler
+
+Candidate of Pattern Singleton:
+A(Singleton): HttpGeneric
+
+Candidate of Pattern Singleton:
+A(Singleton): EOLConvertingOutputStream
+
+Candidate of Pattern Singleton:
+A(Singleton): DatabaseUpgradeService
+
+Candidate of Pattern Singleton:
+A(Singleton): AttachmentComparator
+
+Candidate of Pattern Singleton:
+A(Singleton): Recipient
+
+Candidate of Pattern Singleton:
+A(Singleton): ActivityListenerTest
+
+Candidate of Pattern Singleton:
+A(Singleton): IdentityHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): IntegerResourceSetting
+
+Candidate of Pattern Singleton:
+A(Singleton): CryptoProviderState
+
+Candidate of Pattern Singleton:
+A(Singleton): DeletePolicy
+
+Candidate of Pattern Singleton:
+A(Singleton): HandlerRunnable
+
+Candidate of Pattern Singleton:
+A(Singleton): OpenPgpSourceSinkAsyncTask
+
+Candidate of Pattern Singleton:
+A(Singleton): NotificationSetting
+
+Candidate of Pattern Singleton:
+A(Singleton): UriLinkifier
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountCreatorTest
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageListWidgetService
+
+Candidate of Pattern Singleton:
+A(Singleton): Pop3Folder
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageCryptoStatusView
+
+Candidate of Pattern Singleton:
+A(Singleton): SimpleImapSettings
+
+Candidate of Pattern Singleton:
+A(Singleton): TestCertificateErrorNotifications
+
+Candidate of Pattern Singleton:
+A(Singleton): RealDeviceIdleManager
+
+Candidate of Pattern Singleton:
+A(Singleton): StorageListenerImplementation
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapStoreUriDecoder
+
+Candidate of Pattern Singleton:
+A(Singleton): InternalStorageProvider
+
+Candidate of Pattern Singleton:
+A(Singleton): FolderMode
+
+Candidate of Pattern Singleton:
+A(Singleton): K9RobolectricTestRunner
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageListFragment
+
+Candidate of Pattern Singleton:
+A(Singleton): QuoteStyle
+
+Candidate of Pattern Singleton:
+A(Singleton): MyCallback
+
+Candidate of Pattern Singleton:
+A(Singleton): LocalMessageExtractorLoader
+
+Candidate of Pattern Singleton:
+A(Singleton): HighlightDialogFragment
+
+Candidate of Pattern Singleton:
+A(Singleton): TextQuoteCreator
+
+Candidate of Pattern Singleton:
+A(Singleton): UnreadComparator
+
+Candidate of Pattern Singleton:
+A(Singleton): EmailAddressList
+
+Candidate of Pattern Singleton:
+A(Singleton): MimeMessageBuilder
+
+Candidate of Pattern Singleton:
+A(Singleton): PreferenceChangeListener
+
+Candidate of Pattern Singleton:
+A(Singleton): HtmlConverter
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountSetupAccountType
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): CryptoSpecialModeDisplayType
+
+Candidate of Pattern Singleton:
+A(Singleton): DeviceIdleReceiver
+
+Candidate of Pattern Singleton:
+A(Singleton): ShutdownReceiver
+
+Candidate of Pattern Singleton:
+A(Singleton): K9LibRobolectricTestRunner
+
+Candidate of Pattern Singleton:
+A(Singleton): ClientCertificateSpinner
+
+Candidate of Pattern Singleton:
+A(Singleton): HttpUriParser
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapUtilityTest
+
+Candidate of Pattern Singleton:
+A(Singleton): StorageManager
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapResponseParserTestException
+
+Candidate of Pattern Singleton:
+A(Singleton): TestNotifications
+
+Candidate of Pattern Singleton:
+A(Singleton): BoundaryGenerator
+
+Candidate of Pattern Singleton:
+A(Singleton): AdvancedNodeTraversor
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageFulltextCreator
+
+Candidate of Pattern Singleton:
+A(Singleton): UnreadWidgetConfiguration
+
+Candidate of Pattern Singleton:
+A(Singleton): TemporaryAttachmentStore
+
+Candidate of Pattern Singleton:
+A(Singleton): EmailProviderTest
+
+Candidate of Pattern Singleton:
+A(Singleton): LauncherShortcuts
+
+Candidate of Pattern Singleton:
+A(Singleton): OpenPgpDataResult
+
+Candidate of Pattern Singleton:
+A(Singleton): LinuxPRNGSecureRandomProvider
+
+Candidate of Pattern Singleton:
+A(Singleton): FlowedMessageUtilsTest
+
+Candidate of Pattern Singleton:
+A(Singleton): Operator
+
+Candidate of Pattern Singleton:
+A(Singleton): AutocryptHeaderParserTest
+
+Candidate of Pattern Singleton:
+A(Singleton): SyncNotificationsTest
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountSetupCheckSettings
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapResponseParserException
+
+Candidate of Pattern Singleton:
+A(Singleton): ThemeSetting
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageHeaderParserContentHandler
+
+Candidate of Pattern Singleton:
+A(Singleton): SaveAttachmentAsyncTask
+
+Candidate of Pattern Singleton:
+A(Singleton): Pop3StoreTest
+
+Candidate of Pattern Singleton:
+A(Singleton): DeferredFileBodyTest
+
+Candidate of Pattern Singleton:
+A(Singleton): HtmlSignatureRemover
+
+Candidate of Pattern Singleton:
+A(Singleton): EncoderException
+
+Candidate of Pattern Singleton:
+A(Singleton): FileBrowserHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): WebDavStoreTest
+
+Candidate of Pattern Singleton:
+A(Singleton): Hex
+
+Candidate of Pattern Singleton:
+A(Singleton): AuthTypeHolder
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageHelperTest
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): EthereumUriParserTest
+
+Candidate of Pattern Singleton:
+A(Singleton): StorageEditor
+
+Candidate of Pattern Singleton:
+A(Singleton): MessagingControllerCommands
+
+Candidate of Pattern Singleton:
+A(Singleton): ImportedAccount
+
+Candidate of Pattern Singleton:
+A(Singleton): PreviewTextExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): EmailProvider
+
+Candidate of Pattern Singleton:
+A(Singleton): K9RemoteControl
+
+Candidate of Pattern Singleton:
+A(Singleton): ConnectionInfo
+
+Candidate of Pattern Singleton:
+A(Singleton): DataSourceTransferThread
+
+Candidate of Pattern Singleton:
+A(Singleton): NotificationActionService
+
+Candidate of Pattern Singleton:
+A(Singleton): OpenPgpSignatureResult
+
+Candidate of Pattern Singleton:
+A(Singleton): StringSetting
+
+Candidate of Pattern Singleton:
+A(Singleton): ServerSettings
+
+Candidate of Pattern Singleton:
+A(Singleton): NotificationDeleteConfirmation
+
+Candidate of Pattern Singleton:
+A(Singleton): AttachmentTempFileProviderCleanupReceiver
+
+Candidate of Pattern Singleton:
+A(Singleton): AddNotificationResultTest
+
+Candidate of Pattern Singleton:
+A(Singleton): HtmlQuoteCreator
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageListRemoteViewFactory
+
+Candidate of Pattern Singleton:
+A(Singleton): Share
+
+Candidate of Pattern Singleton:
+A(Singleton): ImportResults
+
+Candidate of Pattern Singleton:
+A(Singleton): ThemeUtils
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountDescriptionPair
+
+Candidate of Pattern Singleton:
+A(Singleton): SmtpDataStuffing
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageViewInfoExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): FolderViewHolder
+
+Candidate of Pattern Singleton:
+A(Singleton): ListResponseTest
+
+Candidate of Pattern Singleton:
+A(Singleton): DefaultTrustedSocketFactory
+
+Candidate of Pattern Singleton:
+A(Singleton): SmtpDataStuffingTest
+
+Candidate of Pattern Singleton:
+A(Singleton): MoreMessagesTest
+
+Candidate of Pattern Singleton:
+A(Singleton): MessagePreviewCreatorTest
+
+Candidate of Pattern Singleton:
+A(Singleton): DecryptedFileProviderCleanupReceiver
+
+Candidate of Pattern Singleton:
+A(Singleton): TestMessageConstructionUtils
+
+Candidate of Pattern Singleton:
+A(Singleton): LocalSearch
+
+Candidate of Pattern Singleton:
+A(Singleton): NotificationActionCreator
+
+Candidate of Pattern Singleton:
+A(Singleton): ContactBadge
+
+Candidate of Pattern Singleton:
+A(Singleton): ComposePgpEnableByDefaultDecider
+
+Candidate of Pattern Singleton:
+A(Singleton): MyTimerTask
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageListWidgetProvider
+
+Candidate of Pattern Singleton:
+A(Singleton): RemoteControlReceiver
+
+Candidate of Pattern Singleton:
+A(Singleton): Html
+
+Candidate of Pattern Singleton:
+A(Singleton): SenderAddressExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): Flowed
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageInfoHolder
+
+Candidate of Pattern Singleton:
+A(Singleton): ImportSelectionDialog
+
+Candidate of Pattern Singleton:
+A(Singleton): IdentityHolder
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageIdGeneratorTest
+
+Candidate of Pattern Singleton:
+A(Singleton): NewMailNotificationsTest
+
+Candidate of Pattern Singleton:
+A(Singleton): SignSafeOutputStreamTest
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageCryptoStructureDetectorTest
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageCryptoHelperTest
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageListFragmentComparators
+
+Candidate of Pattern Singleton:
+A(Singleton): SelectOrExamineResponse
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountSetupOutgoing
+
+Candidate of Pattern Singleton:
+A(Singleton): SaveMessageTask
+
+Candidate of Pattern Singleton:
+A(Singleton): ImportedServer
+
+Candidate of Pattern Singleton:
+A(Singleton): FolderSettings
+
+Candidate of Pattern Singleton:
+A(Singleton): BaseNotificationsTest
+
+Candidate of Pattern Singleton:
+A(Singleton): CryptoModeSelectorState
+
+Candidate of Pattern Singleton:
+A(Singleton): EthereumUriParser
+
+Candidate of Pattern Singleton:
+A(Singleton): NewMailNotifications
+
+Candidate of Pattern Singleton:
+A(Singleton): RetainFragment
+
+Candidate of Pattern Singleton:
+A(Singleton): MimeHeader
+
+Candidate of Pattern Singleton:
+A(Singleton): CryptoPart
+
+Candidate of Pattern Singleton:
+A(Singleton): LockableDatabase
+
+Candidate of Pattern Singleton:
+A(Singleton): StatusCodeClass
+
+Candidate of Pattern Singleton:
+A(Singleton): BinaryTempFileBodyInputStream
+
+Candidate of Pattern Singleton:
+A(Singleton): MlfUtils
+
+Candidate of Pattern Singleton:
+A(Singleton): MimeMessageHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): RecipientTokenViewHolder
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapStoreUriTest
+
+Candidate of Pattern Singleton:
+A(Singleton): Listener
+
+Candidate of Pattern Singleton:
+A(Singleton): CoreReceiver
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageExtractorTest
+
+Candidate of Pattern Singleton:
+A(Singleton): WebDavFolderTest
+
+Candidate of Pattern Singleton:
+A(Singleton): SimpleDialog
+
+Candidate of Pattern Singleton:
+A(Singleton): NoOpDeviceIdleManager
+
+Candidate of Pattern Singleton:
+A(Singleton): AttachmentPresenter
+
+Candidate of Pattern Singleton:
+A(Singleton): Preferences
+
+Candidate of Pattern Singleton:
+A(Singleton): ConditionsTreeNode
+
+Candidate of Pattern Singleton:
+A(Singleton): DataSinkTransferThread
+
+Candidate of Pattern Singleton:
+A(Singleton): ArrivalComparator
+
+Candidate of Pattern Singleton:
+A(Singleton): SenderExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): HtmlConverterTest
+
+Candidate of Pattern Singleton:
+A(Singleton): FetchPartCallback
+
+Candidate of Pattern Singleton:
+A(Singleton): Command
+
+Candidate of Pattern Singleton:
+A(Singleton): RecipientSelectView
+
+Candidate of Pattern Singleton:
+A(Singleton): ProgressBodyFactory
+
+Candidate of Pattern Singleton:
+A(Singleton): Iso2022JpToShiftJisInputStream
+
+Candidate of Pattern Singleton:
+A(Singleton): Address
+
+Candidate of Pattern Singleton:
+A(Singleton): DataSet
+
+Candidate of Pattern Singleton:
+A(Singleton): SwipeGestureDetector
+
+Candidate of Pattern Singleton:
+A(Singleton): NotificationContentCreatorTest
+
+Candidate of Pattern Singleton:
+A(Singleton): SubjectComparator
+
+Candidate of Pattern Singleton:
+A(Singleton): ImportedIdentity
+
+Candidate of Pattern Singleton:
+A(Singleton): MimeMessage
+
+Candidate of Pattern Singleton:
+A(Singleton): FontSizeSettings
+
+Candidate of Pattern Singleton:
+A(Singleton): WebDavHandler
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageListAdapter
+
+Candidate of Pattern Singleton:
+A(Singleton): NotificationContentCreator
+
+Candidate of Pattern Singleton:
+A(Singleton): WebDavSocketFactory
+
+Candidate of Pattern Singleton:
+A(Singleton): XOAuth2ChallengeParser
+
+Candidate of Pattern Singleton:
+A(Singleton): EmailProviderCache
+
+Candidate of Pattern Singleton:
+A(Singleton): ThrottlingQueryHandler
+
+Candidate of Pattern Singleton:
+A(Singleton): MessagingControllerTest
+
+Candidate of Pattern Singleton:
+A(Singleton): MockHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): LockScreenNotification
+
+Candidate of Pattern Singleton:
+A(Singleton): OpenPgpAppPreference
+
+Candidate of Pattern Singleton:
+A(Singleton): FolderListHandler
+
+Candidate of Pattern Singleton:
+A(Singleton): FetchProfile
+
+Candidate of Pattern Singleton:
+A(Singleton): UriParserTestHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): IdExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): PreviewType
+
+Candidate of Pattern Singleton:
+A(Singleton): DecoderException
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageHeaderParser
+
+Candidate of Pattern Singleton:
+A(Singleton): ActionMatcher
+
+Candidate of Pattern Singleton:
+A(Singleton): ColorPicker
+
+Candidate of Pattern Singleton:
+A(Singleton): SimpleMessageFormat
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapResponse
+
+Candidate of Pattern Singleton:
+A(Singleton): SubjectExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): HeadFilterDecision
+
+Candidate of Pattern Singleton:
+A(Singleton): AddNotificationResult
+
+Candidate of Pattern Singleton:
+A(Singleton): NotificationContent
+
+Candidate of Pattern Singleton:
+A(Singleton): DirectorySetting
+
+Candidate of Pattern Singleton:
+A(Singleton): SleepDatum
+
+Candidate of Pattern Singleton:
+A(Singleton): NamespaceResponse
+
+Candidate of Pattern Singleton:
+A(Singleton): SamsungGalaxySStorageProvider
+
+Candidate of Pattern Singleton:
+A(Singleton): DecoderUtil
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapConnectionTest
+
+Candidate of Pattern Singleton:
+A(Singleton): IntentAndResolvedActivitiesCount
+
+Candidate of Pattern Singleton:
+A(Singleton): ThreadInfo
+
+Candidate of Pattern Singleton:
+A(Singleton): OpenPgpApiFactory
+
+Candidate of Pattern Singleton:
+A(Singleton): TextBodyBuilderTest
+
+Candidate of Pattern Singleton:
+A(Singleton): CopyUidResponse
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageViewInfoExtractorTest
+
+Candidate of Pattern Singleton:
+A(Singleton): NonLockingScrollView
+
+Candidate of Pattern Singleton:
+A(Singleton): FolderInfoHolder
+
+Candidate of Pattern Singleton:
+A(Singleton): SplitViewMode
+
+Candidate of Pattern Singleton:
+A(Singleton): SendDateExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountSettings
+
+Candidate of Pattern Singleton:
+A(Singleton): SearchField
+
+Candidate of Pattern Singleton:
+A(Singleton): NotificationQuickDelete
+
+Candidate of Pattern Singleton:
+A(Singleton): SearchCondition
+
+Candidate of Pattern Singleton:
+A(Singleton): UserId
+
+Candidate of Pattern Singleton:
+A(Singleton): SettingsExporter
+
+Candidate of Pattern Singleton:
+A(Singleton): WebDavStore
+
+Candidate of Pattern Singleton:
+A(Singleton): OpenPgpApiHelperTest
+
+Candidate of Pattern Singleton:
+A(Singleton): OpenPgpUtils
+
+Candidate of Pattern Singleton:
+A(Singleton): AuthenticationErrorNotifications
+
+Candidate of Pattern Singleton:
+A(Singleton): ContactPicture
+
+Candidate of Pattern Singleton:
+A(Singleton): MimeUtility
+
+Candidate of Pattern Singleton:
+A(Singleton): StripSignatureFilter
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageBuilderTest
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageListActivityListener
+
+Candidate of Pattern Singleton:
+A(Singleton): CryptoResultAnnotation
+
+Candidate of Pattern Singleton:
+A(Singleton): BodyTextExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountsImportedDialog
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapPusherTest
+
+Candidate of Pattern Singleton:
+A(Singleton): QuotedMessageMvpView
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageWebView
+
+Candidate of Pattern Singleton:
+A(Singleton): DefaultLogger
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageList
+
+Candidate of Pattern Singleton:
+A(Singleton): ViewAttachmentAsyncTask
+
+Candidate of Pattern Singleton:
+A(Singleton): DateComparator
+
+Candidate of Pattern Singleton:
+A(Singleton): TextBodyTest
+
+Candidate of Pattern Singleton:
+A(Singleton): CapabilityResponse
+
+Candidate of Pattern Singleton:
+A(Singleton): TransportProvider
+
+Candidate of Pattern Singleton:
+A(Singleton): TestUntaggedHandler
+
+Candidate of Pattern Singleton:
+A(Singleton): NotificationData
+
+Candidate of Pattern Singleton:
+A(Singleton): HtmlToTextTagHandler
+
+Candidate of Pattern Singleton:
+A(Singleton): SettingsImporter
+
+Candidate of Pattern Singleton:
+A(Singleton): SimpleTextWatcher
+
+Candidate of Pattern Singleton:
+A(Singleton): CloseConnection
+
+Candidate of Pattern Singleton:
+A(Singleton): Action
+
+Candidate of Pattern Singleton:
+A(Singleton): Pop3Message
+
+Candidate of Pattern Singleton:
+A(Singleton): PendingAppend
+
+Candidate of Pattern Singleton:
+A(Singleton): K9AlarmManagerTest
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageCryptoDisplayStatus
+
+Candidate of Pattern Singleton:
+A(Singleton): RecipientLoader
+
+Candidate of Pattern Singleton:
+A(Singleton): HtmlProcessor
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageFormat
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo30
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo31
+
+Candidate of Pattern Singleton:
+A(Singleton): AutocryptOpenPgpApiInteractor
+
+Candidate of Pattern Singleton:
+A(Singleton): ContactItem
+
+Candidate of Pattern Singleton:
+A(Singleton): MergeCursorWithUniqueId
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo34
+
+Candidate of Pattern Singleton:
+A(Singleton): BooleanSetting
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo35
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo32
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo33
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo39
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo36
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo37
+
+Candidate of Pattern Singleton:
+A(Singleton): FileHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): Account
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo41
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo42
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo40
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo45
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo46
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo43
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo44
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo49
+
+Candidate of Pattern Singleton:
+A(Singleton): SettingsUpgraderV24
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo47
+
+Candidate of Pattern Singleton:
+A(Singleton): MimeMessageParseTest
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo48
+
+Candidate of Pattern Singleton:
+A(Singleton): Item
+
+Candidate of Pattern Singleton:
+A(Singleton): CountingOutputStream
+
+Candidate of Pattern Singleton:
+A(Singleton): HasStarExtractor
+
+Candidate of Pattern Singleton:
+A(Singleton): PgpMimeMessageTest
+
+Candidate of Pattern Singleton:
+A(Singleton): StoreImapSettings
+
+Candidate of Pattern Singleton:
+A(Singleton): Identity
+
+Candidate of Pattern Singleton:
+A(Singleton): PgpEncryptDescriptionDialog
+
+Candidate of Pattern Singleton:
+A(Singleton): PgpEnabledErrorDialog
+
+Candidate of Pattern Singleton:
+A(Singleton): ConfirmationDialogFragment
+
+Candidate of Pattern Singleton:
+A(Singleton): ChooseIdentity
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo52
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo53
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo50
+
+Candidate of Pattern Singleton:
+A(Singleton): TextPartFinderTest
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo51
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo56
+
+Candidate of Pattern Singleton:
+A(Singleton): MessagesQueryHandler
+
+Candidate of Pattern Singleton:
+A(Singleton): FolderOperation
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo57
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo54
+
+Candidate of Pattern Singleton:
+A(Singleton): WearNotifications
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo55
+
+Candidate of Pattern Singleton:
+A(Singleton): NotificationHolder
+
+Candidate of Pattern Singleton:
+A(Singleton): SettingsUpgraderV12
+
+Candidate of Pattern Singleton:
+A(Singleton): RecipientType
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo58
+
+Candidate of Pattern Singleton:
+A(Singleton): BACKGROUND_OPS
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo59
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapFolderPusher
+
+Candidate of Pattern Singleton:
+A(Singleton): FolderListAdapter
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo60
+
+Candidate of Pattern Singleton:
+A(Singleton): Base64
+
+Candidate of Pattern Singleton:
+A(Singleton): KeyChainKeyManager
+
+Candidate of Pattern Singleton:
+A(Singleton): MigrationTo61
+
+Candidate of Pattern Singleton:
+A(Singleton): TransportUris
+
+Candidate of Pattern Singleton:
+A(Singleton): ReplyToParserTest
+
+Candidate of Pattern Singleton:
+A(Singleton): RecipientAutocryptStatusType
+
+Candidate of Pattern Singleton:
+A(Singleton): Searchable
+
+Candidate of Pattern Singleton:
+A(Singleton): FontSizeSetting
+
+Candidate of Pattern Singleton:
+A(Singleton): ConnectionSecurityHolder
+
+Candidate of Pattern Singleton:
+A(Singleton): SettingsUpgraderV31
+
+Candidate of Pattern Singleton:
+A(Singleton): TextBody
+
+Candidate of Pattern Singleton:
+A(Singleton): RecipientTokenSpan
+
+Candidate of Pattern Singleton:
+A(Singleton): ViewableExtractedText
+
+Candidate of Pattern Singleton:
+A(Singleton): EmailProviderCacheCursor
+
+Candidate of Pattern Singleton:
+A(Singleton): AccountSetupComposition
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapStoreSettings
+
+Candidate of Pattern Singleton:
+A(Singleton): TailFilterDecision
+
+Candidate of Pattern Singleton:
+A(Singleton): SavedState
+
+Candidate of Pattern Singleton:
+A(Singleton): SignatureSetting
+
+Candidate of Pattern Singleton:
+A(Singleton): ImapPushState
+
+Candidate of Pattern Singleton:
+A(Singleton): RealMigrationsHelper
+
+Candidate of Pattern Singleton:
+A(Singleton): MessageCompose
+
+Candidate of Pattern Singleton:
+A(Singleton): CannedResponse
+
+Candidate of Pattern Singleton:
+A(Singleton): SelectOrExamineResponseTest
+
+Candidate of Pattern Singleton:
+A(Singleton): WebDavStoreUriCreator
+
+Candidate of Pattern Singleton:
+A(Singleton): FilterResult
+
+Candidate of Pattern Singleton:
+A(Singleton): ComparatorChain
+
+Candidate of Pattern Singleton:
+A(Singleton): RemoveNotificationResultTest
+
+Candidate of Pattern Singleton:
+A(Singleton): Reason
+
+Candidate of Pattern Singleton:
+A(Singleton): PRNGFixes
+
+Candidate of Pattern Singleton:
+A(Singleton): CertificateValidationException
+
+Candidate of Pattern Singleton:
+A(Singleton): CheckDirection
+
+Candidate of Pattern Singleton:
+A(Singleton): ToolableViewAnimator

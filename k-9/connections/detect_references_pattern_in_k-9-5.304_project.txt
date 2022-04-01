@@ -1,0 +1,7397 @@
+Amount of Candidates found: 1849
+
+Candidate of Pattern References:
+A(Method Owner): NotificationDataTest
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): SliderPreference
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): SliderPreference
+B(Argument): TypedArray
+
+Candidate of Pattern References:
+A(Method Owner): SliderPreference
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): SliderPreference
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): SliderPreference
+B(Argument): CharSequence
+
+Candidate of Pattern References:
+A(Method Owner): SliderPreference
+B(Argument): Parcelable
+
+Candidate of Pattern References:
+A(Method Owner): Memory
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): SetPasswordsAsyncTask
+B(Argument): Activity
+
+Candidate of Pattern References:
+A(Method Owner): SetPasswordsAsyncTask
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentViewCallback
+B(Argument): AttachmentViewInfo
+
+Candidate of Pattern References:
+A(Method Owner): CheckBoxListPreference
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): CheckBoxListPreference
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): CheckBoxListPreference
+B(Argument): Builder
+
+Candidate of Pattern References:
+A(Method Owner): VeryTrustingTrustManager
+B(Argument): X509Certificate
+
+Candidate of Pattern References:
+A(Method Owner): LineWrapOutputStream
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpDataSink
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): DeferredFileOutputStream
+B(Argument): FileFactory
+
+Candidate of Pattern References:
+A(Method Owner): IdentityHeaderBuilder
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): IdentityHeaderBuilder
+B(Argument): QuotedTextMode
+
+Candidate of Pattern References:
+A(Method Owner): IdentityHeaderBuilder
+B(Argument): InsertableHtmlContent
+
+Candidate of Pattern References:
+A(Method Owner): IdentityHeaderBuilder
+B(Argument): IdentityField
+
+Candidate of Pattern References:
+A(Method Owner): IdentityHeaderBuilder
+B(Argument): QuoteStyle
+
+Candidate of Pattern References:
+A(Method Owner): IdentityHeaderBuilder
+B(Argument): SimpleMessageFormat
+
+Candidate of Pattern References:
+A(Method Owner): IdentityHeaderBuilder
+B(Argument): Identity
+
+Candidate of Pattern References:
+A(Method Owner): IdentityHeaderBuilder
+B(Argument): TextBody
+
+Candidate of Pattern References:
+A(Method Owner): SmtpTransport
+B(Argument): NegativeSmtpReplyException
+
+Candidate of Pattern References:
+A(Method Owner): SmtpTransport
+B(Argument): TrustedSocketFactory
+
+Candidate of Pattern References:
+A(Method Owner): SmtpTransport
+B(Argument): InetAddress
+
+Candidate of Pattern References:
+A(Method Owner): SmtpTransport
+B(Argument): StoreConfig
+
+Candidate of Pattern References:
+A(Method Owner): SmtpTransport
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): SmtpTransport
+B(Argument): OAuth2TokenProvider
+
+Candidate of Pattern References:
+A(Method Owner): DbCallback
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): V
+B(Argument): SettingsDescription
+
+Candidate of Pattern References:
+A(Method Owner): PendingExpunge
+B(Argument): MessagingController
+
+Candidate of Pattern References:
+A(Method Owner): PendingExpunge
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): EmailAddressValidator
+B(Argument): CharSequence
+
+Candidate of Pattern References:
+A(Method Owner): MockSmtpServer
+B(Argument): KeyStoreProvider
+
+Candidate of Pattern References:
+A(Method Owner): MockSmtpServer
+B(Argument): Logger
+
+Candidate of Pattern References:
+A(Method Owner): SettingsImportExportException
+B(Argument): Throwable
+
+Candidate of Pattern References:
+A(Method Owner): UriExtractor
+B(Argument): MessageInfoHolder
+
+Candidate of Pattern References:
+A(Method Owner): AccountsAdapter
+B(Argument): ViewGroup
+
+Candidate of Pattern References:
+A(Method Owner): AccountsAdapter
+B(Argument): BaseAccount
+
+Candidate of Pattern References:
+A(Method Owner): AccountsAdapter
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): NodeFilter
+B(Argument): Node
+
+Candidate of Pattern References:
+A(Method Owner): FallbackGlideBitmapDecoder
+B(Argument): FallbackGlideParams
+
+Candidate of Pattern References:
+A(Method Owner): FallbackGlideBitmapDecoder
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MockImapServer
+B(Argument): KeyStoreProvider
+
+Candidate of Pattern References:
+A(Method Owner): MockImapServer
+B(Argument): Logger
+
+Candidate of Pattern References:
+A(Method Owner): QueryHandler
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): QueryHandler
+B(Argument): ContentResolver
+
+Candidate of Pattern References:
+A(Method Owner): QueryHandler
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): LockedAttachmentView
+B(Argument): AttachmentViewCallback
+
+Candidate of Pattern References:
+A(Method Owner): LockedAttachmentView
+B(Argument): AttachmentViewInfo
+
+Candidate of Pattern References:
+A(Method Owner): LockedAttachmentView
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): LockedAttachmentView
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): LockedAttachmentView
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): MessageReference
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): MessageReference
+B(Argument): Flag
+
+Candidate of Pattern References:
+A(Method Owner): DeletePolicySetting
+B(Argument): DeletePolicy
+
+Candidate of Pattern References:
+A(Method Owner): SenderComparator
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): MessageContainerView
+B(Argument): AttachmentViewCallback
+
+Candidate of Pattern References:
+A(Method Owner): MessageContainerView
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): MessageContainerView
+B(Argument): OnRenderingFinishedListener
+
+Candidate of Pattern References:
+A(Method Owner): MessageContainerView
+B(Argument): ContextMenuInfo
+
+Candidate of Pattern References:
+A(Method Owner): MessageContainerView
+B(Argument): AttachmentResolver
+
+Candidate of Pattern References:
+A(Method Owner): MessageContainerView
+B(Argument): AttachmentViewInfo
+
+Candidate of Pattern References:
+A(Method Owner): MessageContainerView
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): MessageContainerView
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessageContainerView
+B(Argument): MessageViewInfo
+
+Candidate of Pattern References:
+A(Method Owner): MessageContainerView
+B(Argument): ContextMenu
+
+Candidate of Pattern References:
+A(Method Owner): MessageContainerView
+B(Argument): OnPageFinishedListener
+
+Candidate of Pattern References:
+A(Method Owner): MessageContainerView
+B(Argument): Parcelable
+
+Candidate of Pattern References:
+A(Method Owner): MessageContainerView
+B(Argument): KeyEvent
+
+Candidate of Pattern References:
+A(Method Owner): MessageContainerView
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): MessageContainerView
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpApi
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpApi
+B(Argument): IOpenPgpService2
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpApi
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpApi
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpApi
+B(Argument): IOpenPgpCallback
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpApi
+B(Argument): ParcelFileDescriptor
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpApi
+B(Argument): PermissionPingCallback
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpApi
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpApi
+B(Argument): OpenPgpDataSource
+
+Candidate of Pattern References:
+A(Method Owner): DownloadImageTask
+B(Argument): ContentResolver
+
+Candidate of Pattern References:
+A(Method Owner): DownloadImageTask
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): DownloadImageTask
+B(Argument): URL
+
+Candidate of Pattern References:
+A(Method Owner): DownloadImageTask
+B(Argument): URLConnection
+
+Candidate of Pattern References:
+A(Method Owner): DownloadImageTask
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): DownloadImageTask
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): BaseNotifications
+B(Argument): NotificationController
+
+Candidate of Pattern References:
+A(Method Owner): BaseNotifications
+B(Argument): Builder
+
+Candidate of Pattern References:
+A(Method Owner): BaseNotifications
+B(Argument): NotificationActionCreator
+
+Candidate of Pattern References:
+A(Method Owner): BaseNotifications
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): BaseNotifications
+B(Argument): NotificationHolder
+
+Candidate of Pattern References:
+A(Method Owner): TimePickerPreference
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): TimePickerPreference
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): TimePickerPreference
+B(Argument): TimePicker
+
+Candidate of Pattern References:
+A(Method Owner): TimePickerPreference
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): DeleteUriExtractor
+B(Argument): MessageInfoHolder
+
+Candidate of Pattern References:
+A(Method Owner): FoldableLinearLayout
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): FoldableLinearLayout
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): FoldableLinearLayout
+B(Argument): Parcelable
+
+Candidate of Pattern References:
+A(Method Owner): FoldableLinearLayout
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): TestImapPusher
+B(Argument): ImapStore
+
+Candidate of Pattern References:
+A(Method Owner): TestImapPusher
+B(Argument): PushReceiver
+
+Candidate of Pattern References:
+A(Method Owner): ImportAsyncTask
+B(Argument): Accounts
+
+Candidate of Pattern References:
+A(Method Owner): ImportAsyncTask
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): NotificationController
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): NotificationController
+B(Argument): LocalMessage
+
+Candidate of Pattern References:
+A(Method Owner): NotificationController
+B(Argument): NotificationManagerCompat
+
+Candidate of Pattern References:
+A(Method Owner): NotificationController
+B(Argument): Folder
+
+Candidate of Pattern References:
+A(Method Owner): NotificationController
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): NotificationController
+B(Argument): NotificationCompat.Builder
+
+Candidate of Pattern References:
+A(Method Owner): NotificationController
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): NotificationController
+B(Argument): Exception
+
+Candidate of Pattern References:
+A(Method Owner): AccountCreator
+B(Argument): ConnectionSecurity
+
+Candidate of Pattern References:
+A(Method Owner): AccountCreator
+B(Argument): Type
+
+Candidate of Pattern References:
+A(Method Owner): ImapResponseParser
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): ImapResponseParser
+B(Argument): ImapResponseCallback
+
+Candidate of Pattern References:
+A(Method Owner): ImapResponseParser
+B(Argument): PeekableInputStream
+
+Candidate of Pattern References:
+A(Method Owner): ImapResponseParser
+B(Argument): ImapList
+
+Candidate of Pattern References:
+A(Method Owner): ImapResponseParser
+B(Argument): UntaggedHandler
+
+Candidate of Pattern References:
+A(Method Owner): ImapResponseParser
+B(Argument): ImapResponse
+
+Candidate of Pattern References:
+A(Method Owner): LocalKeyStore
+B(Argument): X509Certificate
+
+Candidate of Pattern References:
+A(Method Owner): LocalKeyStore
+B(Argument): File
+
+Candidate of Pattern References:
+A(Method Owner): LocalKeyStore
+B(Argument): Certificate
+
+Candidate of Pattern References:
+A(Method Owner): MessageRemovalListener
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): Pop3ResponseInputStream
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupIncoming
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupIncoming
+B(Argument): ConnectionSecurity
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupIncoming
+B(Argument): Activity
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupIncoming
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupIncoming
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupIncoming
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupIncoming
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupIncoming
+B(Argument): Exception
+
+Candidate of Pattern References:
+A(Method Owner): ColorPickerDialog
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): ColorPickerDialog
+B(Argument): OnColorChangedListener
+
+Candidate of Pattern References:
+A(Method Owner): PendingMarkAllAsRead
+B(Argument): MessagingController
+
+Candidate of Pattern References:
+A(Method Owner): PendingMarkAllAsRead
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): MessageActor
+B(Argument): LocalFolder
+
+Candidate of Pattern References:
+A(Method Owner): MessageActor
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentInfoExtractor
+B(Argument): DeferredFileBody
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentInfoExtractor
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentInfoExtractor
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentInfoExtractor
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): Transport
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): CertificateErrorNotificationsTest
+B(Argument): NotificationManagerCompat
+
+Candidate of Pattern References:
+A(Method Owner): CertificateErrorNotificationsTest
+B(Argument): NotificationCompat.Builder
+
+Candidate of Pattern References:
+A(Method Owner): Pop3Store
+B(Argument): TrustedSocketFactory
+
+Candidate of Pattern References:
+A(Method Owner): Pop3Store
+B(Argument): StoreConfig
+
+Candidate of Pattern References:
+A(Method Owner): Pop3Store
+B(Argument): ServerSettings
+
+Candidate of Pattern References:
+A(Method Owner): ReplyToParser
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): ReplyToParser
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): AutocryptOperations
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): AutocryptOperations
+B(Argument): AutocryptHeaderParser
+
+Candidate of Pattern References:
+A(Method Owner): AutocryptOperations
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): DefaultBodyFactory
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): DefaultBodyFactory
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): BinaryTempFileBody
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): BinaryTempFileBody
+B(Argument): File
+
+Candidate of Pattern References:
+A(Method Owner): ParcelableUtil
+B(Argument): Parcelable
+
+Candidate of Pattern References:
+A(Method Owner): PendingEmptyTrash
+B(Argument): MessagingController
+
+Candidate of Pattern References:
+A(Method Owner): PendingEmptyTrash
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): EnhancedNegativeSmtpReplyException
+B(Argument): StatusCodeSubject
+
+Candidate of Pattern References:
+A(Method Owner): EnhancedNegativeSmtpReplyException
+B(Argument): StatusCodeDetail
+
+Candidate of Pattern References:
+A(Method Owner): EnhancedNegativeSmtpReplyException
+B(Argument): StatusCodeClass
+
+Candidate of Pattern References:
+A(Method Owner): Base64OutputStream
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): TrustedSocketFactory
+B(Argument): Socket
+
+Candidate of Pattern References:
+A(Method Owner): MimeMultipart
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): FolderListFilter
+B(Argument): FilterResults
+
+Candidate of Pattern References:
+A(Method Owner): FolderListFilter
+B(Argument): CharSequence
+
+Candidate of Pattern References:
+A(Method Owner): PgpInlineDialog
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): NumberOfActionsMatcher
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): LinearViewAnimator
+B(Argument): Animation
+
+Candidate of Pattern References:
+A(Method Owner): LinearViewAnimator
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): LinearViewAnimator
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): LocalMessageLoader
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): LocalMessageLoader
+B(Argument): LocalMessage
+
+Candidate of Pattern References:
+A(Method Owner): LocalMessageLoader
+B(Argument): MessagingController
+
+Candidate of Pattern References:
+A(Method Owner): LocalMessageLoader
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): LocalMessageLoader
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): ReconstructMessageFromDatabaseTest
+B(Argument): LocalFolder
+
+Candidate of Pattern References:
+A(Method Owner): ReconstructMessageFromDatabaseTest
+B(Argument): LocalMessage
+
+Candidate of Pattern References:
+A(Method Owner): ReconstructMessageFromDatabaseTest
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): ReconstructMessageFromDatabaseTest
+B(Argument): MimeMessage
+
+Candidate of Pattern References:
+A(Method Owner): ImapPusher
+B(Argument): ImapStore
+
+Candidate of Pattern References:
+A(Method Owner): ImapPusher
+B(Argument): PushReceiver
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpAppSelectDialog
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): MessageIdGenerator
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): RigidWebView
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): RigidWebView
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): BitcoinUriParser
+B(Argument): StringBuffer
+
+Candidate of Pattern References:
+A(Method Owner): StoreSchemaDefinition
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): StoreSchemaDefinition
+B(Argument): LocalStore
+
+Candidate of Pattern References:
+A(Method Owner): AccountsQueryHandler
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): MailService
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): MailService
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): UriParser
+B(Argument): StringBuffer
+
+Candidate of Pattern References:
+A(Method Owner): AccountReceiver
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): AccountReceiver
+B(Argument): K9AccountReceptor
+
+Candidate of Pattern References:
+A(Method Owner): AccountReceiver
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): KeyStoreProvider
+B(Argument): KeyStore
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentDownloadDialogFragment
+B(Argument): DialogInterface
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentDownloadDialogFragment
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): WebDavMessage
+B(Argument): Flag
+
+Candidate of Pattern References:
+A(Method Owner): WebDavMessage
+B(Argument): ParsedMessageEnvelope
+
+Candidate of Pattern References:
+A(Method Owner): WebDavMessage
+B(Argument): Folder
+
+Candidate of Pattern References:
+A(Method Owner): WelcomeMessage
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): WelcomeMessage
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): WelcomeMessage
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): MessagePreviewCreator
+B(Argument): EncryptionDetector
+
+Candidate of Pattern References:
+A(Method Owner): MessagePreviewCreator
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): MessagePreviewCreator
+B(Argument): TextPartFinder
+
+Candidate of Pattern References:
+A(Method Owner): MessagePreviewCreator
+B(Argument): PreviewTextExtractor
+
+Candidate of Pattern References:
+A(Method Owner): MessagePreviewCreator
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): AuthenticationErrorNotificationsTest
+B(Argument): NotificationManagerCompat
+
+Candidate of Pattern References:
+A(Method Owner): AuthenticationErrorNotificationsTest
+B(Argument): NotificationCompat.Builder
+
+Candidate of Pattern References:
+A(Method Owner): TracingPowerManager
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): TestImapStore
+B(Argument): TrustedSocketFactory
+
+Candidate of Pattern References:
+A(Method Owner): TestImapStore
+B(Argument): ConnectivityManager
+
+Candidate of Pattern References:
+A(Method Owner): TestImapStore
+B(Argument): ImapConnection
+
+Candidate of Pattern References:
+A(Method Owner): TestImapStore
+B(Argument): StoreConfig
+
+Candidate of Pattern References:
+A(Method Owner): TestImapStore
+B(Argument): OAuth2TokenProvider
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolder
+B(Argument): ImapSearcher
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolder
+B(Argument): FolderType
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolder
+B(Argument): SearchResponse
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolder
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolder
+B(Argument): FolderNameCodec
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolder
+B(Argument): Date
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolder
+B(Argument): Folder
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolder
+B(Argument): ImapStore
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolder
+B(Argument): IOException
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolder
+B(Argument): ImapList
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolder
+B(Argument): ImapConnection
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolder
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolder
+B(Argument): ImapMessage
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolder
+B(Argument): BodyFactory
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolder
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolder
+B(Argument): FetchProfile
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolder
+B(Argument): ImapResponse
+
+Candidate of Pattern References:
+A(Method Owner): MergeCursor
+B(Argument): CharArrayBuffer
+
+Candidate of Pattern References:
+A(Method Owner): MergeCursor
+B(Argument): ContentObserver
+
+Candidate of Pattern References:
+A(Method Owner): MergeCursor
+B(Argument): ContentResolver
+
+Candidate of Pattern References:
+A(Method Owner): MergeCursor
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): MergeCursor
+B(Argument): DataSetObserver
+
+Candidate of Pattern References:
+A(Method Owner): MergeCursor
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): QuotedMessagePresenter
+B(Argument): QuotedTextMode
+
+Candidate of Pattern References:
+A(Method Owner): QuotedMessagePresenter
+B(Argument): MessageViewInfo
+
+Candidate of Pattern References:
+A(Method Owner): QuotedMessagePresenter
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): QuotedMessagePresenter
+B(Argument): MessageBuilder
+
+Candidate of Pattern References:
+A(Method Owner): QuotedMessagePresenter
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): QuotedMessagePresenter
+B(Argument): QuotedMessageMvpView
+
+Candidate of Pattern References:
+A(Method Owner): QuotedMessagePresenter
+B(Argument): Action
+
+Candidate of Pattern References:
+A(Method Owner): QuotedMessagePresenter
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): QuotedMessagePresenter
+B(Argument): MessageCompose
+
+Candidate of Pattern References:
+A(Method Owner): TestImapResponseCallback
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): TestImapResponseCallback
+B(Argument): FixedLengthInputStream
+
+Candidate of Pattern References:
+A(Method Owner): TestImapResponseCallback
+B(Argument): ImapResponse
+
+Candidate of Pattern References:
+A(Method Owner): AccountColorExtractor
+B(Argument): MessageInfoHolder
+
+Candidate of Pattern References:
+A(Method Owner): PendingSetFlag
+B(Argument): Flag
+
+Candidate of Pattern References:
+A(Method Owner): PendingSetFlag
+B(Argument): MessagingController
+
+Candidate of Pattern References:
+A(Method Owner): PendingSetFlag
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): PendingMoveOrCopy
+B(Argument): MessagingController
+
+Candidate of Pattern References:
+A(Method Owner): PendingMoveOrCopy
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): TestWearNotifications
+B(Argument): NotificationController
+
+Candidate of Pattern References:
+A(Method Owner): TestWearNotifications
+B(Argument): MessagingController
+
+Candidate of Pattern References:
+A(Method Owner): TestWearNotifications
+B(Argument): NotificationActionCreator
+
+Candidate of Pattern References:
+A(Method Owner): ReverseIdComparator
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): ManageIdentities
+B(Argument): ContextMenuInfo
+
+Candidate of Pattern References:
+A(Method Owner): ManageIdentities
+B(Argument): android.view.MenuItem
+
+Candidate of Pattern References:
+A(Method Owner): ManageIdentities
+B(Argument): Menu
+
+Candidate of Pattern References:
+A(Method Owner): ManageIdentities
+B(Argument): ContextMenu
+
+Candidate of Pattern References:
+A(Method Owner): ManageIdentities
+B(Argument): MenuItem
+
+Candidate of Pattern References:
+A(Method Owner): ManageIdentities
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): BootReceiver
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): BootReceiver
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): FixedStorageProviderBase
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MailTo
+B(Argument): CaseInsensitiveParamWrapper
+
+Candidate of Pattern References:
+A(Method Owner): MailTo
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): PushRunnable
+B(Argument): ImapConnection
+
+Candidate of Pattern References:
+A(Method Owner): PushRunnable
+B(Argument): ImapResponse
+
+Candidate of Pattern References:
+A(Method Owner): GlobalSettings
+B(Argument): Storage
+
+Candidate of Pattern References:
+A(Method Owner): FallbackGlideParams
+B(Argument): Address
+
+Candidate of Pattern References:
+A(Method Owner): MessageHeader
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): MessageHeader
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): WebDavFolder
+B(Argument): FolderType
+
+Candidate of Pattern References:
+A(Method Owner): WebDavFolder
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): WebDavFolder
+B(Argument): Date
+
+Candidate of Pattern References:
+A(Method Owner): WebDavFolder
+B(Argument): Folder
+
+Candidate of Pattern References:
+A(Method Owner): WebDavFolder
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): WebDavFolder
+B(Argument): FetchProfile
+
+Candidate of Pattern References:
+A(Method Owner): WebDavFolder
+B(Argument): WebDavStore
+
+Candidate of Pattern References:
+A(Method Owner): AuthorizationException
+B(Argument): Throwable
+
+Candidate of Pattern References:
+A(Method Owner): UnavailableStorageException
+B(Argument): Throwable
+
+Candidate of Pattern References:
+A(Method Owner): FolderClickListener
+B(Argument): LocalSearch
+
+Candidate of Pattern References:
+A(Method Owner): FolderClickListener
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): AttachErrorState
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): ReplyToParser
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): CryptoMode
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): MailTo
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): ComposePgpInlineDecider
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): ComposeCryptoStatus
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): PgpMessageBuilder
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): RecipientsChangedListener
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): SendErrorState
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): OpenPgpServiceConnection
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): RecipientMvpView
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): AutocryptStatusInteractor
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): MessageBuilder
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): OpenPgpError
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): Menu
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): LoaderManager
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): CryptoProviderState
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): ComposePgpEnableByDefaultDecider
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): Identity
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): RecipientType
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenter
+B(Argument): Exception
+
+Candidate of Pattern References:
+A(Method Owner): PushService
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): PushService
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): SearchResponse
+B(Argument): ImapResponse
+
+Candidate of Pattern References:
+A(Method Owner): TestTrustedSocketFactory
+B(Argument): X509Certificate
+
+Candidate of Pattern References:
+A(Method Owner): TestTrustedSocketFactory
+B(Argument): Socket
+
+Candidate of Pattern References:
+A(Method Owner): RemoveNotificationResult
+B(Argument): NotificationHolder
+
+Candidate of Pattern References:
+A(Method Owner): WebDavTransport
+B(Argument): StoreConfig
+
+Candidate of Pattern References:
+A(Method Owner): WebDavTransport
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): SendMessageTask
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): SendMessageTask
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): SendMessageTask
+B(Argument): Contacts
+
+Candidate of Pattern References:
+A(Method Owner): SendMessageTask
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): SendMessageTask
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): UpgradeDatabaseBroadcastReceiver
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): UpgradeDatabaseBroadcastReceiver
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): RecipientLoaderTest
+B(Argument): Address
+
+Candidate of Pattern References:
+A(Method Owner): RecipientTokenHolder
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): Migrations
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): Migrations
+B(Argument): MigrationsHelper
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): MoreMessages
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): MessageRemovalListener
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): FolderType
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): FolderClass
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): Runnable
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): LocalMessage
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): LocalStore
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): PreferencesHolder
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): Date
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): Folder
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): PartContainer
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): File
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): Multipart
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): StorageEditor
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): FetchProfile
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): Body
+
+Candidate of Pattern References:
+A(Method Owner): LocalFolder
+B(Argument): ContentValues
+
+Candidate of Pattern References:
+A(Method Owner): TestDeviceNotifications
+B(Argument): NotificationController
+
+Candidate of Pattern References:
+A(Method Owner): TestDeviceNotifications
+B(Argument): Builder
+
+Candidate of Pattern References:
+A(Method Owner): TestDeviceNotifications
+B(Argument): NotificationActionCreator
+
+Candidate of Pattern References:
+A(Method Owner): TestDeviceNotifications
+B(Argument): LockScreenNotification
+
+Candidate of Pattern References:
+A(Method Owner): TestDeviceNotifications
+B(Argument): WearNotifications
+
+Candidate of Pattern References:
+A(Method Owner): StorageGoneReceiver
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): StorageGoneReceiver
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): ComposePgpInlineDecider
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpDecryptionResult
+B(Argument): Parcel
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewHolder
+B(Argument): MessageListFragment
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewHolder
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): SpecialColumnsCursor
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): Throttle
+B(Argument): Runnable
+
+Candidate of Pattern References:
+A(Method Owner): Throttle
+B(Argument): Handler
+
+Candidate of Pattern References:
+A(Method Owner): Throttle
+B(Argument): Timer
+
+Candidate of Pattern References:
+A(Method Owner): Throttle
+B(Argument): Clock
+
+Candidate of Pattern References:
+A(Method Owner): CryptoModeSelector
+B(Argument): CryptoStatusSelectedListener
+
+Candidate of Pattern References:
+A(Method Owner): CryptoModeSelector
+B(Argument): CryptoModeSelectorState
+
+Candidate of Pattern References:
+A(Method Owner): PendingCommandSerializer
+B(Argument): T
+
+Candidate of Pattern References:
+A(Method Owner): PreviewResult
+B(Argument): PreviewType
+
+Candidate of Pattern References:
+A(Method Owner): ShadowOpenPgpAsyncTask
+B(Argument): Executor
+
+Candidate of Pattern References:
+A(Method Owner): FixedLengthInputStreamTest
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolderTest
+B(Argument): ImapResponseCallback
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolderTest
+B(Argument): MessagingException
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupOptions
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupOptions
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupOptions
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupOptions
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): FolderList
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): FolderList
+B(Argument): ContextMenuInfo
+
+Candidate of Pattern References:
+A(Method Owner): FolderList
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): FolderList
+B(Argument): android.view.MenuItem
+
+Candidate of Pattern References:
+A(Method Owner): FolderList
+B(Argument): Menu
+
+Candidate of Pattern References:
+A(Method Owner): FolderList
+B(Argument): FolderMode
+
+Candidate of Pattern References:
+A(Method Owner): FolderList
+B(Argument): ContextMenu
+
+Candidate of Pattern References:
+A(Method Owner): FolderList
+B(Argument): KeyEvent
+
+Candidate of Pattern References:
+A(Method Owner): FolderList
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): FolderList
+B(Argument): FolderInfoHolder
+
+Candidate of Pattern References:
+A(Method Owner): FolderList
+B(Argument): MenuItem
+
+Candidate of Pattern References:
+A(Method Owner): FolderList
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): FolderList
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentResolver
+B(Argument): AttachmentInfoExtractor
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentResolver
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): MessageListHandler
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): MessageListHandler
+B(Argument): android.os.Message
+
+Candidate of Pattern References:
+A(Method Owner): MessageListHandler
+B(Argument): MessageListFragment
+
+Candidate of Pattern References:
+A(Method Owner): ReverseComparator
+B(Argument): T
+
+Candidate of Pattern References:
+A(Method Owner): ResponseCodeExtractor
+B(Argument): ImapResponse
+
+Candidate of Pattern References:
+A(Method Owner): ColorChip
+B(Argument): Path
+
+Candidate of Pattern References:
+A(Method Owner): DeferredFileBody
+B(Argument): FileFactory
+
+Candidate of Pattern References:
+A(Method Owner): DeferredFileBody
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): Globals
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): LocalMessage
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): LocalMessage
+B(Argument): LocalStore
+
+Candidate of Pattern References:
+A(Method Owner): LocalMessage
+B(Argument): Flag
+
+Candidate of Pattern References:
+A(Method Owner): LocalMessage
+B(Argument): Folder
+
+Candidate of Pattern References:
+A(Method Owner): LocalMessage
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): LocalMessage
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): LocalMessage
+B(Argument): Address
+
+Candidate of Pattern References:
+A(Method Owner): LocalMessage
+B(Argument): RecipientType
+
+Candidate of Pattern References:
+A(Method Owner): RecipientAutocryptStatus
+B(Argument): PendingIntent
+
+Candidate of Pattern References:
+A(Method Owner): RecipientAutocryptStatus
+B(Argument): RecipientAutocryptStatusType
+
+Candidate of Pattern References:
+A(Method Owner): SqlQueryBuilder
+B(Argument): StringBuilder
+
+Candidate of Pattern References:
+A(Method Owner): SqlQueryBuilder
+B(Argument): ConditionsTreeNode
+
+Candidate of Pattern References:
+A(Method Owner): SqlQueryBuilder
+B(Argument): SearchField
+
+Candidate of Pattern References:
+A(Method Owner): SqlQueryBuilder
+B(Argument): SearchCondition
+
+Candidate of Pattern References:
+A(Method Owner): SqlQueryBuilder
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): RemoteStore
+B(Argument): TrustedSocketFactory
+
+Candidate of Pattern References:
+A(Method Owner): RemoteStore
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): RemoteStore
+B(Argument): StoreConfig
+
+Candidate of Pattern References:
+A(Method Owner): RemoteStore
+B(Argument): ServerSettings
+
+Candidate of Pattern References:
+A(Method Owner): IdentityAdapter
+B(Argument): ViewGroup
+
+Candidate of Pattern References:
+A(Method Owner): IdentityAdapter
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): IdentityAdapter
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): IdentityAdapter
+B(Argument): Identity
+
+Candidate of Pattern References:
+A(Method Owner): LocalStore
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): LocalStore
+B(Argument): LocalFolder
+
+Candidate of Pattern References:
+A(Method Owner): LocalStore
+B(Argument): Flag
+
+Candidate of Pattern References:
+A(Method Owner): LocalStore
+B(Argument): PendingCommand
+
+Candidate of Pattern References:
+A(Method Owner): LocalStore
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): LocalStore
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): LocalStore
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): LocalStore
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): LocalStore
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): LocalStore
+B(Argument): LocalSearch
+
+Candidate of Pattern References:
+A(Method Owner): LocalStore
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): LocalStore
+B(Argument): BatchSetSelection
+
+Candidate of Pattern References:
+A(Method Owner): WebDavStoreSettings
+B(Argument): ConnectionSecurity
+
+Candidate of Pattern References:
+A(Method Owner): WebDavStoreSettings
+B(Argument): AuthType
+
+Candidate of Pattern References:
+A(Method Owner): MessageTitleView
+B(Argument): MessageHeader
+
+Candidate of Pattern References:
+A(Method Owner): MessageTitleView
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): MessageTitleView
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessageTitleView
+B(Argument): Canvas
+
+Candidate of Pattern References:
+A(Method Owner): MessageTitleView
+B(Argument): CharSequence
+
+Candidate of Pattern References:
+A(Method Owner): DecryptedFileProvider
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): DecryptedFileProvider
+B(Argument): File
+
+Candidate of Pattern References:
+A(Method Owner): DecryptedFileProvider
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentViewInfo
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentViewInfo
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): SmtpTransportTest
+B(Argument): MockSmtpServer
+
+Candidate of Pattern References:
+A(Method Owner): SmtpTransportTest
+B(Argument): ConnectionSecurity
+
+Candidate of Pattern References:
+A(Method Owner): SmtpTransportTest
+B(Argument): AuthType
+
+Candidate of Pattern References:
+A(Method Owner): MessageProvider
+B(Argument): QueryHandler
+
+Candidate of Pattern References:
+A(Method Owner): MessageProvider
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): MessageProvider
+B(Argument): ContentValues
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentCounter
+B(Argument): EncryptionDetector
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentCounter
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): ChooseFolderHandler
+B(Argument): android.os.Message
+
+Candidate of Pattern References:
+A(Method Owner): K9ActivityMagic
+B(Argument): OnSwipeGestureListener
+
+Candidate of Pattern References:
+A(Method Owner): CertificateChainException
+B(Argument): Throwable
+
+Candidate of Pattern References:
+A(Method Owner): DeviceNotifications
+B(Argument): NotificationController
+
+Candidate of Pattern References:
+A(Method Owner): DeviceNotifications
+B(Argument): Builder
+
+Candidate of Pattern References:
+A(Method Owner): DeviceNotifications
+B(Argument): NotificationActionCreator
+
+Candidate of Pattern References:
+A(Method Owner): DeviceNotifications
+B(Argument): LockScreenNotification
+
+Candidate of Pattern References:
+A(Method Owner): DeviceNotifications
+B(Argument): NotificationContent
+
+Candidate of Pattern References:
+A(Method Owner): DeviceNotifications
+B(Argument): NotificationData
+
+Candidate of Pattern References:
+A(Method Owner): DeviceNotifications
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): DeviceNotifications
+B(Argument): WearNotifications
+
+Candidate of Pattern References:
+A(Method Owner): DeviceNotifications
+B(Argument): NotificationHolder
+
+Candidate of Pattern References:
+A(Method Owner): ComposeCryptoStatus
+B(Argument): RecipientAutocryptStatus
+
+Candidate of Pattern References:
+A(Method Owner): SubThemeSetting
+B(Argument): K9.Theme
+
+Candidate of Pattern References:
+A(Method Owner): SubThemeSetting
+B(Argument): Theme
+
+Candidate of Pattern References:
+A(Method Owner): SendFailedNotificationsTest
+B(Argument): NotificationManagerCompat
+
+Candidate of Pattern References:
+A(Method Owner): SendFailedNotificationsTest
+B(Argument): Builder
+
+Candidate of Pattern References:
+A(Method Owner): SendFailedNotificationsTest
+B(Argument): PendingIntent
+
+Candidate of Pattern References:
+A(Method Owner): TrustManagerFactoryTest
+B(Argument): X509TrustManager
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewFragment
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewFragment
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewFragment
+B(Argument): LayoutInflater
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewFragment
+B(Argument): Runnable
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewFragment
+B(Argument): ViewGroup
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewFragment
+B(Argument): LocalMessage
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewFragment
+B(Argument): AttachmentViewInfo
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewFragment
+B(Argument): Activity
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewFragment
+B(Argument): MessageViewInfo
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewFragment
+B(Argument): KeyEvent
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewFragment
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): HtcIncredibleStorageProvider
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): HeadCleaner
+B(Argument): Document
+
+Candidate of Pattern References:
+A(Method Owner): HeadCleaner
+B(Argument): Element
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpApiHelper
+B(Argument): Identity
+
+Candidate of Pattern References:
+A(Method Owner): StorageReceiver
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): StorageReceiver
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): UidReverseComparator
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): SizeFormatter
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): EditIdentity
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): EncoderUtil
+B(Argument): Charset
+
+Candidate of Pattern References:
+A(Method Owner): TestingTextBodyBuilder
+B(Argument): QuoteStyle
+
+Candidate of Pattern References:
+A(Method Owner): LockScreenNotificationTest
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): LockScreenNotificationTest
+B(Argument): Builder
+
+Candidate of Pattern References:
+A(Method Owner): LockScreenNotificationTest
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): MimePartStreamParser
+B(Argument): FileFactory
+
+Candidate of Pattern References:
+A(Method Owner): MimePartStreamParser
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): OnBound
+B(Argument): IOpenPgpService2
+
+Candidate of Pattern References:
+A(Method Owner): OnBound
+B(Argument): Exception
+
+Candidate of Pattern References:
+A(Method Owner): LocalMimeMessage
+B(Argument): LocalMessage
+
+Candidate of Pattern References:
+A(Method Owner): Textual
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): PendingExpunge
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): NotificationController
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): PendingMarkAllAsRead
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): MessageActor
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): PendingSetFlag
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): PendingMoveOrCopy
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): Runnable
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): LocalFolder
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): LocalMessage
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): LocalStore
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): Flag
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): Date
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): Account.FolderMode
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): PendingCommand
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): Folder
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): Throwable
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): Contacts
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): ActivityListener
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): SearchAccount
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): MessagingListener
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): LocalSearch
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): Store
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): FetchProfile
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): Folder.FolderClass
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): AtomicInteger
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): TransportProvider
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): PendingAppend
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): CheckDirection
+
+Candidate of Pattern References:
+A(Method Owner): MessagingController
+B(Argument): Exception
+
+Candidate of Pattern References:
+A(Method Owner): ActionModeCallback
+B(Argument): ActionMode
+
+Candidate of Pattern References:
+A(Method Owner): ActionModeCallback
+B(Argument): Menu
+
+Candidate of Pattern References:
+A(Method Owner): ActionModeCallback
+B(Argument): MenuItem
+
+Candidate of Pattern References:
+A(Method Owner): ActionModeCallback
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): ImapResponseCallback
+B(Argument): FixedLengthInputStream
+
+Candidate of Pattern References:
+A(Method Owner): ImapResponseCallback
+B(Argument): ImapResponse
+
+Candidate of Pattern References:
+A(Method Owner): WebDavHttpClient
+B(Argument): HttpUriRequest
+
+Candidate of Pattern References:
+A(Method Owner): WebDavHttpClient
+B(Argument): HttpRequest
+
+Candidate of Pattern References:
+A(Method Owner): WebDavHttpClient
+B(Argument): HttpEntity
+
+Candidate of Pattern References:
+A(Method Owner): WebDavHttpClient
+B(Argument): HttpContext
+
+Candidate of Pattern References:
+A(Method Owner): ComposeCryptoStatusBuilder
+B(Argument): CryptoMode
+
+Candidate of Pattern References:
+A(Method Owner): ComposeCryptoStatusBuilder
+B(Argument): CryptoProviderState
+
+Candidate of Pattern References:
+A(Method Owner): Accounts
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): Accounts
+B(Argument): Dialog
+
+Candidate of Pattern References:
+A(Method Owner): Accounts
+B(Argument): ContextMenuInfo
+
+Candidate of Pattern References:
+A(Method Owner): Accounts
+B(Argument): BaseAccount
+
+Candidate of Pattern References:
+A(Method Owner): Accounts
+B(Argument): ImportContents
+
+Candidate of Pattern References:
+A(Method Owner): Accounts
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): Accounts
+B(Argument): android.view.MenuItem
+
+Candidate of Pattern References:
+A(Method Owner): Accounts
+B(Argument): Menu
+
+Candidate of Pattern References:
+A(Method Owner): Accounts
+B(Argument): ContextMenu
+
+Candidate of Pattern References:
+A(Method Owner): Accounts
+B(Argument): ImportResults
+
+Candidate of Pattern References:
+A(Method Owner): Accounts
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): Accounts
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): Accounts
+B(Argument): NonConfigurationInstance
+
+Candidate of Pattern References:
+A(Method Owner): Accounts
+B(Argument): MenuItem
+
+Candidate of Pattern References:
+A(Method Owner): Accounts
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): Accounts
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): PendingCommand
+B(Argument): MessagingController
+
+Candidate of Pattern References:
+A(Method Owner): PendingCommand
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): Attachment
+B(Argument): LoadingState
+
+Candidate of Pattern References:
+A(Method Owner): Attachment
+B(Argument): Parcel
+
+Candidate of Pattern References:
+A(Method Owner): Attachment
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): TestSmtpTransport
+B(Argument): TrustedSocketFactory
+
+Candidate of Pattern References:
+A(Method Owner): TestSmtpTransport
+B(Argument): InetAddress
+
+Candidate of Pattern References:
+A(Method Owner): TestSmtpTransport
+B(Argument): StoreConfig
+
+Candidate of Pattern References:
+A(Method Owner): TestSmtpTransport
+B(Argument): OAuth2TokenProvider
+
+Candidate of Pattern References:
+A(Method Owner): MessageRetrievalListener
+B(Argument): T
+
+Candidate of Pattern References:
+A(Method Owner): ExportAsyncTask
+B(Argument): Accounts
+
+Candidate of Pattern References:
+A(Method Owner): ExportAsyncTask
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoAnnotations
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoAnnotations
+B(Argument): CryptoResultAnnotation
+
+Candidate of Pattern References:
+A(Method Owner): AlternateRecipientAdapter
+B(Argument): RecipientTokenHolder
+
+Candidate of Pattern References:
+A(Method Owner): AlternateRecipientAdapter
+B(Argument): ViewGroup
+
+Candidate of Pattern References:
+A(Method Owner): AlternateRecipientAdapter
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): AlternateRecipientAdapter
+B(Argument): Recipient
+
+Candidate of Pattern References:
+A(Method Owner): AlternateRecipientAdapter
+B(Argument): AlternateRecipientListener
+
+Candidate of Pattern References:
+A(Method Owner): AlternateRecipientAdapter
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): RemoteControlService
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): RemoteControlService
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): NotificationIds
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): PartBuilder
+B(Argument): BodyDescriptor
+
+Candidate of Pattern References:
+A(Method Owner): PartBuilder
+B(Argument): FileFactory
+
+Candidate of Pattern References:
+A(Method Owner): PartBuilder
+B(Argument): Field
+
+Candidate of Pattern References:
+A(Method Owner): PartBuilder
+B(Argument): MimeBodyPart
+
+Candidate of Pattern References:
+A(Method Owner): PartBuilder
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): PgpMessageBuilder
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): PgpMessageBuilder
+B(Argument): OpenPgpApi
+
+Candidate of Pattern References:
+A(Method Owner): PgpMessageBuilder
+B(Argument): AutocryptOperations
+
+Candidate of Pattern References:
+A(Method Owner): PgpMessageBuilder
+B(Argument): BinaryTempFileBody
+
+Candidate of Pattern References:
+A(Method Owner): PgpMessageBuilder
+B(Argument): MessageIdGenerator
+
+Candidate of Pattern References:
+A(Method Owner): PgpMessageBuilder
+B(Argument): ComposeCryptoStatus
+
+Candidate of Pattern References:
+A(Method Owner): PgpMessageBuilder
+B(Argument): MimeBodyPart
+
+Candidate of Pattern References:
+A(Method Owner): PgpMessageBuilder
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): PgpMessageBuilder
+B(Argument): BoundaryGenerator
+
+Candidate of Pattern References:
+A(Method Owner): PgpMessageBuilder
+B(Argument): BodyPart
+
+Candidate of Pattern References:
+A(Method Owner): PgpMessageBuilder
+B(Argument): Body
+
+Candidate of Pattern References:
+A(Method Owner): PgpMessageBuilder
+B(Argument): AutocryptOpenPgpApiInteractor
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoPresenter
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoPresenter
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoPresenter
+B(Argument): MessageViewInfo
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoPresenter
+B(Argument): MessageTopView
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoPresenter
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoPresenter
+B(Argument): CryptoResultAnnotation
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoPresenter
+B(Argument): MessageCryptoDisplayStatus
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoPresenter
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoPresenter
+B(Argument): MessageCryptoMvpView
+
+Candidate of Pattern References:
+A(Method Owner): AutocryptPeerUpdate
+B(Argument): Parcel
+
+Candidate of Pattern References:
+A(Method Owner): AutocryptPeerUpdate
+B(Argument): Date
+
+Candidate of Pattern References:
+A(Method Owner): AutocryptPeerUpdate
+B(Argument): PreferEncrypt
+
+Candidate of Pattern References:
+A(Method Owner): AccountClickListener
+B(Argument): LocalSearch
+
+Candidate of Pattern References:
+A(Method Owner): AccountClickListener
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): MimeBodyPart
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): MimeBodyPart
+B(Argument): MimeHeader
+
+Candidate of Pattern References:
+A(Method Owner): MimeBodyPart
+B(Argument): Body
+
+Candidate of Pattern References:
+A(Method Owner): EncryptionDetector
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): EncryptionDetector
+B(Argument): TextPartFinder
+
+Candidate of Pattern References:
+A(Method Owner): EncryptionDetector
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): MessageReferenceTest
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): MessageReferenceTest
+B(Argument): Flag
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpKeyPreference
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpKeyPreference
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpKeyPreference
+B(Argument): TypedArray
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpKeyPreference
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpKeyPreference
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpKeyPreference
+B(Argument): Parcelable
+
+Candidate of Pattern References:
+A(Method Owner): PeekableInputStream
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): MessageActions
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): MessageActions
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessageActions
+B(Argument): Parcelable
+
+Candidate of Pattern References:
+A(Method Owner): MessageActions
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentController
+B(Argument): DownloadManager
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentController
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentController
+B(Argument): Runnable
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentController
+B(Argument): AttachmentViewInfo
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentController
+B(Argument): MessageViewFragment
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentController
+B(Argument): MessagingController
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentController
+B(Argument): LocalPart
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentController
+B(Argument): File
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentController
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): PreLollipopWebViewClient
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): PreLollipopWebViewClient
+B(Argument): AttachmentResolver
+
+Candidate of Pattern References:
+A(Method Owner): PreLollipopWebViewClient
+B(Argument): WebView
+
+Candidate of Pattern References:
+A(Method Owner): PreLollipopWebViewClient
+B(Argument): WebResourceResponse
+
+Candidate of Pattern References:
+A(Method Owner): MessageLoaderHelper
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): MessageLoaderHelper
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): MessageLoaderHelper
+B(Argument): FragmentManager
+
+Candidate of Pattern References:
+A(Method Owner): MessageLoaderHelper
+B(Argument): Throwable
+
+Candidate of Pattern References:
+A(Method Owner): MessageLoaderHelper
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessageLoaderHelper
+B(Argument): MessageViewInfo
+
+Candidate of Pattern References:
+A(Method Owner): MessageLoaderHelper
+B(Argument): MessageLoaderCallbacks
+
+Candidate of Pattern References:
+A(Method Owner): MessageLoaderHelper
+B(Argument): LoaderManager
+
+Candidate of Pattern References:
+A(Method Owner): MessageLoaderHelper
+B(Argument): Parcelable
+
+Candidate of Pattern References:
+A(Method Owner): Utility
+B(Argument): TextView
+
+Candidate of Pattern References:
+A(Method Owner): Utility
+B(Argument): Editable
+
+Candidate of Pattern References:
+A(Method Owner): Utility
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): Utility
+B(Argument): EditText
+
+Candidate of Pattern References:
+A(Method Owner): Utility
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): Utility
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): Utility
+B(Argument): ContactBadge
+
+Candidate of Pattern References:
+A(Method Owner): Utility
+B(Argument): Address
+
+Candidate of Pattern References:
+A(Method Owner): IdentityHelperTest
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): IdentityHelperTest
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): EnumSetting
+B(Argument): T
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpMetadata
+B(Argument): Parcel
+
+Candidate of Pattern References:
+A(Method Owner): UpgradeDatabases
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): UpgradeDatabases
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): UpgradeDatabases
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): LollipopWebViewClient
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): LollipopWebViewClient
+B(Argument): AttachmentResolver
+
+Candidate of Pattern References:
+A(Method Owner): LollipopWebViewClient
+B(Argument): WebResourceRequest
+
+Candidate of Pattern References:
+A(Method Owner): LollipopWebViewClient
+B(Argument): WebView
+
+Candidate of Pattern References:
+A(Method Owner): LollipopWebViewClient
+B(Argument): WebResourceResponse
+
+Candidate of Pattern References:
+A(Method Owner): DozeChecker
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentInfoLoader
+B(Argument): Attachment
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentInfoLoader
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessageHelper
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): IdentitySettings
+B(Argument): Storage
+
+Candidate of Pattern References:
+A(Method Owner): Folder
+B(Argument): FolderType
+
+Candidate of Pattern References:
+A(Method Owner): Folder
+B(Argument): Flag
+
+Candidate of Pattern References:
+A(Method Owner): Folder
+B(Argument): Date
+
+Candidate of Pattern References:
+A(Method Owner): Folder
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): Folder
+B(Argument): BodyFactory
+
+Candidate of Pattern References:
+A(Method Owner): Folder
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): Folder
+B(Argument): FetchProfile
+
+Candidate of Pattern References:
+A(Method Owner): ExternalStorageProvider
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MimeStructureState
+B(Argument): ContentValues
+
+Candidate of Pattern References:
+A(Method Owner): UnreadExtractor
+B(Argument): MessageInfoHolder
+
+Candidate of Pattern References:
+A(Method Owner): GlobalsHelper
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoCallback
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoCallback
+B(Argument): MessageCryptoAnnotations
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoCallback
+B(Argument): IntentSender
+
+Candidate of Pattern References:
+A(Method Owner): FallbackGlideModelLoader
+B(Argument): FallbackGlideParams
+
+Candidate of Pattern References:
+A(Method Owner): RecipientPresenterTest
+B(Argument): RecipientAutocryptStatus
+
+Candidate of Pattern References:
+A(Method Owner): NotificationGroupKeys
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): PollService
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): PollService
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): ListHeaders
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): ListTagHandler
+B(Argument): Editable
+
+Candidate of Pattern References:
+A(Method Owner): ListTagHandler
+B(Argument): XMLReader
+
+Candidate of Pattern References:
+A(Method Owner): PreviewExtractor
+B(Argument): MessageInfoHolder
+
+Candidate of Pattern References:
+A(Method Owner): ServerNameSuggester
+B(Argument): Type
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo60Test
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo60Test
+B(Argument): Flag
+
+Candidate of Pattern References:
+A(Method Owner): DeviceNotificationsTest
+B(Argument): Builder
+
+Candidate of Pattern References:
+A(Method Owner): DeviceNotificationsTest
+B(Argument): LockScreenNotification
+
+Candidate of Pattern References:
+A(Method Owner): DeviceNotificationsTest
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): ImapStore
+B(Argument): TrustedSocketFactory
+
+Candidate of Pattern References:
+A(Method Owner): ImapStore
+B(Argument): ConnectivityManager
+
+Candidate of Pattern References:
+A(Method Owner): ImapStore
+B(Argument): PushReceiver
+
+Candidate of Pattern References:
+A(Method Owner): ImapStore
+B(Argument): ImapConnection
+
+Candidate of Pattern References:
+A(Method Owner): ImapStore
+B(Argument): StoreConfig
+
+Candidate of Pattern References:
+A(Method Owner): ImapStore
+B(Argument): ServerSettings
+
+Candidate of Pattern References:
+A(Method Owner): ImapStore
+B(Argument): OAuth2TokenProvider
+
+Candidate of Pattern References:
+A(Method Owner): ApgDeprecationWarningDialog
+B(Argument): TextView
+
+Candidate of Pattern References:
+A(Method Owner): ApgDeprecationWarningDialog
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): Preconditions
+B(Argument): T
+
+Candidate of Pattern References:
+A(Method Owner): UnreadWidgetProperties
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): ExceptionHelper
+B(Argument): Throwable
+
+Candidate of Pattern References:
+A(Method Owner): K9MailLib
+B(Argument): DebugStatus
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentContentLoader
+B(Argument): Attachment
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentContentLoader
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessagingException
+B(Argument): Throwable
+
+Candidate of Pattern References:
+A(Method Owner): ReverseDateComparator
+B(Argument): MessageInfoHolder
+
+Candidate of Pattern References:
+A(Method Owner): ContactPictureLoader
+B(Argument): ImageView
+
+Candidate of Pattern References:
+A(Method Owner): ContactPictureLoader
+B(Argument): FallbackGlideParams
+
+Candidate of Pattern References:
+A(Method Owner): ContactPictureLoader
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): ContactPictureLoader
+B(Argument): Recipient
+
+Candidate of Pattern References:
+A(Method Owner): ContactPictureLoader
+B(Argument): Bitmap
+
+Candidate of Pattern References:
+A(Method Owner): ContactPictureLoader
+B(Argument): Address
+
+Candidate of Pattern References:
+A(Method Owner): ContactPictureLoader
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): HasAttachmentsExtractor
+B(Argument): MessageInfoHolder
+
+Candidate of Pattern References:
+A(Method Owner): CaseInsensitiveParamWrapper
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): Prefs
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): Prefs
+B(Argument): K9.Theme
+
+Candidate of Pattern References:
+A(Method Owner): Prefs
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): Prefs
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): CountExtractor
+B(Argument): T
+
+Candidate of Pattern References:
+A(Method Owner): ParcelFileDescriptorUtil
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): ParcelFileDescriptorUtil
+B(Argument): IOException
+
+Candidate of Pattern References:
+A(Method Owner): ParcelFileDescriptorUtil
+B(Argument): ParcelFileDescriptor
+
+Candidate of Pattern References:
+A(Method Owner): ParcelFileDescriptorUtil
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): TestMessage
+B(Argument): TestMessageBuilder
+
+Candidate of Pattern References:
+A(Method Owner): TestMessage
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): TestMessage
+B(Argument): RecipientType
+
+Candidate of Pattern References:
+A(Method Owner): DummyAccount
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): ClipboardManager
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): HierarchyTreeChangeListener
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): AlertResponse
+B(Argument): ImapResponse
+
+Candidate of Pattern References:
+A(Method Owner): JisSupport
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): JisSupport
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): LocalBodyPart
+B(Argument): LocalMessage
+
+Candidate of Pattern References:
+A(Method Owner): TextBodyBuilder
+B(Argument): InsertableHtmlContent
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentTempFileProvider
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentTempFileProvider
+B(Argument): File
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentTempFileProvider
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): WrappedException
+B(Argument): Exception
+
+Candidate of Pattern References:
+A(Method Owner): MessageInfoHolderRetrieverListener
+B(Argument): AccountStats
+
+Candidate of Pattern References:
+A(Method Owner): MessageInfoHolderRetrieverListener
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): IOpenPgpCallback
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): ProgressDialogFragment
+B(Argument): DialogInterface
+
+Candidate of Pattern References:
+A(Method Owner): ProgressDialogFragment
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): TransferThread
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): TransferThread
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpAsyncTask
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpAsyncTask
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpAsyncTask
+B(Argument): IOpenPgpCallback
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpAsyncTask
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): Contacts
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): Contacts
+B(Argument): Address
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewInfo
+B(Argument): AttachmentResolver
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewInfo
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewInfo
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewInfo
+B(Argument): CryptoResultAnnotation
+
+Candidate of Pattern References:
+A(Method Owner): CheckAccountTask
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): CheckAccountTask
+B(Argument): CheckDirection
+
+Candidate of Pattern References:
+A(Method Owner): IncrementExtractor
+B(Argument): MessageInfoHolder
+
+Candidate of Pattern References:
+A(Method Owner): AutocryptHeaderParser
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): FixedLengthInputStream
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): CertificateErrorNotifications
+B(Argument): NotificationController
+
+Candidate of Pattern References:
+A(Method Owner): CertificateErrorNotifications
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): CertificateErrorNotifications
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): MailItem
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): TestNewMailNotifications
+B(Argument): NotificationController
+
+Candidate of Pattern References:
+A(Method Owner): TestNewMailNotifications
+B(Argument): DeviceNotifications
+
+Candidate of Pattern References:
+A(Method Owner): TestNewMailNotifications
+B(Argument): NotificationContentCreator
+
+Candidate of Pattern References:
+A(Method Owner): TestNewMailNotifications
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): TestNewMailNotifications
+B(Argument): WearNotifications
+
+Candidate of Pattern References:
+A(Method Owner): TokenListener
+B(Argument): T
+
+Candidate of Pattern References:
+A(Method Owner): IdleStopper
+B(Argument): ImapConnection
+
+Candidate of Pattern References:
+A(Method Owner): AuthenticationFailedException
+B(Argument): Throwable
+
+Candidate of Pattern References:
+A(Method Owner): EolConvertingEditText
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): EolConvertingEditText
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): EolConvertingEditText
+B(Argument): CharSequence
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpServiceConnection
+B(Argument): OnBound
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpServiceConnection
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentProvider
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentProvider
+B(Argument): ContentValues
+
+Candidate of Pattern References:
+A(Method Owner): SimpleMessageBuilder
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): SimpleMessageBuilder
+B(Argument): MessageIdGenerator
+
+Candidate of Pattern References:
+A(Method Owner): SimpleMessageBuilder
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): SimpleMessageBuilder
+B(Argument): BoundaryGenerator
+
+Candidate of Pattern References:
+A(Method Owner): AuthTypeAdapter
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): AuthTypeAdapter
+B(Argument): AuthType
+
+Candidate of Pattern References:
+A(Method Owner): MonitoredCursor
+B(Argument): CursorWindow
+
+Candidate of Pattern References:
+A(Method Owner): MonitoredCursor
+B(Argument): Semaphore
+
+Candidate of Pattern References:
+A(Method Owner): MonitoredCursor
+B(Argument): CharArrayBuffer
+
+Candidate of Pattern References:
+A(Method Owner): MonitoredCursor
+B(Argument): ContentObserver
+
+Candidate of Pattern References:
+A(Method Owner): MonitoredCursor
+B(Argument): ContentResolver
+
+Candidate of Pattern References:
+A(Method Owner): MonitoredCursor
+B(Argument): CrossProcessCursor
+
+Candidate of Pattern References:
+A(Method Owner): MonitoredCursor
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): MonitoredCursor
+B(Argument): DataSetObserver
+
+Candidate of Pattern References:
+A(Method Owner): MonitoredCursor
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpAppSelectFragment
+B(Argument): DialogInterface
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpAppSelectFragment
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): ApplicationAware
+B(Argument): Application
+
+Candidate of Pattern References:
+A(Method Owner): PushReceiver
+B(Argument): TracingWakeLock
+
+Candidate of Pattern References:
+A(Method Owner): PushReceiver
+B(Argument): Folder
+
+Candidate of Pattern References:
+A(Method Owner): PushReceiver
+B(Argument): Exception
+
+Candidate of Pattern References:
+A(Method Owner): MessagingControllerPushReceiver
+B(Argument): TracingWakeLock
+
+Candidate of Pattern References:
+A(Method Owner): MessagingControllerPushReceiver
+B(Argument): MessagingController
+
+Candidate of Pattern References:
+A(Method Owner): MessagingControllerPushReceiver
+B(Argument): Folder
+
+Candidate of Pattern References:
+A(Method Owner): MessagingControllerPushReceiver
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessagingControllerPushReceiver
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): MessagingControllerPushReceiver
+B(Argument): Exception
+
+Candidate of Pattern References:
+A(Method Owner): SpinnerOption
+B(Argument): Spinner
+
+Candidate of Pattern References:
+A(Method Owner): SpinnerOption
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): ImapConnection
+B(Argument): TrustedSocketFactory
+
+Candidate of Pattern References:
+A(Method Owner): ImapConnection
+B(Argument): NegativeImapResponseException
+
+Candidate of Pattern References:
+A(Method Owner): ImapConnection
+B(Argument): InetAddress
+
+Candidate of Pattern References:
+A(Method Owner): ImapConnection
+B(Argument): ImapResponseCallback
+
+Candidate of Pattern References:
+A(Method Owner): ImapConnection
+B(Argument): ConnectivityManager
+
+Candidate of Pattern References:
+A(Method Owner): ImapConnection
+B(Argument): ConnectException
+
+Candidate of Pattern References:
+A(Method Owner): ImapConnection
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): ImapConnection
+B(Argument): UntaggedHandler
+
+Candidate of Pattern References:
+A(Method Owner): ImapConnection
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): ImapConnection
+B(Argument): OAuth2TokenProvider
+
+Candidate of Pattern References:
+A(Method Owner): ImapConnection
+B(Argument): ImapResponse
+
+Candidate of Pattern References:
+A(Method Owner): ImapConnection
+B(Argument): SSLException
+
+Candidate of Pattern References:
+A(Method Owner): ImapConnection
+B(Argument): ImapSettings
+
+Candidate of Pattern References:
+A(Method Owner): RecipientMvpView
+B(Argument): RecipientPresenter
+
+Candidate of Pattern References:
+A(Method Owner): RecipientMvpView
+B(Argument): TextWatcher
+
+Candidate of Pattern References:
+A(Method Owner): RecipientMvpView
+B(Argument): CryptoStatusDisplayType
+
+Candidate of Pattern References:
+A(Method Owner): RecipientMvpView
+B(Argument): FontSizes
+
+Candidate of Pattern References:
+A(Method Owner): RecipientMvpView
+B(Argument): LoaderManager
+
+Candidate of Pattern References:
+A(Method Owner): RecipientMvpView
+B(Argument): PendingIntent
+
+Candidate of Pattern References:
+A(Method Owner): RecipientMvpView
+B(Argument): CryptoSpecialModeDisplayType
+
+Candidate of Pattern References:
+A(Method Owner): RecipientMvpView
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): RecipientMvpView
+B(Argument): RecipientType
+
+Candidate of Pattern References:
+A(Method Owner): RecipientMvpView
+B(Argument): MessageCompose
+
+Candidate of Pattern References:
+A(Method Owner): PermanentFlagsResponse
+B(Argument): ImapResponse
+
+Candidate of Pattern References:
+A(Method Owner): FieldExtractor
+B(Argument): T
+
+Candidate of Pattern References:
+A(Method Owner): CleaningVisitor
+B(Argument): Node
+
+Candidate of Pattern References:
+A(Method Owner): CleaningVisitor
+B(Argument): Element
+
+Candidate of Pattern References:
+A(Method Owner): K9ActivityCommon
+B(Argument): MotionEvent
+
+Candidate of Pattern References:
+A(Method Owner): K9ActivityCommon
+B(Argument): Activity
+
+Candidate of Pattern References:
+A(Method Owner): K9ActivityCommon
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): K9ActivityCommon
+B(Argument): OnSwipeGestureListener
+
+Candidate of Pattern References:
+A(Method Owner): AutocryptOperationsHelper
+B(Argument): MimeMessage
+
+Candidate of Pattern References:
+A(Method Owner): InsertableHtmlContent
+B(Argument): StringBuilder
+
+Candidate of Pattern References:
+A(Method Owner): InsertableHtmlContent
+B(Argument): InsertionLocation
+
+Candidate of Pattern References:
+A(Method Owner): IdentityContainer
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): IdentityContainer
+B(Argument): Identity
+
+Candidate of Pattern References:
+A(Method Owner): ConfirmationDialog
+B(Argument): Runnable
+
+Candidate of Pattern References:
+A(Method Owner): ConfirmationDialog
+B(Argument): Activity
+
+Candidate of Pattern References:
+A(Method Owner): FontSizes
+B(Argument): TextView
+
+Candidate of Pattern References:
+A(Method Owner): FontSizes
+B(Argument): Storage
+
+Candidate of Pattern References:
+A(Method Owner): FontSizes
+B(Argument): StorageEditor
+
+Candidate of Pattern References:
+A(Method Owner): K9Activity
+B(Argument): MotionEvent
+
+Candidate of Pattern References:
+A(Method Owner): K9Activity
+B(Argument): OnSwipeGestureListener
+
+Candidate of Pattern References:
+A(Method Owner): K9Activity
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): UnreadQueryHandler
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): StorageProvider
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): DatabasePreviewType
+B(Argument): PreviewType
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupNames
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupNames
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupNames
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupNames
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): FetchBodyCallback
+B(Argument): FixedLengthInputStream
+
+Candidate of Pattern References:
+A(Method Owner): FetchBodyCallback
+B(Argument): ImapResponse
+
+Candidate of Pattern References:
+A(Method Owner): PgpMessageBuilderTest
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): PgpMessageBuilderTest
+B(Argument): OpenPgpApi
+
+Candidate of Pattern References:
+A(Method Owner): PgpMessageBuilderTest
+B(Argument): BodyPart
+
+Candidate of Pattern References:
+A(Method Owner): PgpMessageBuilderTest
+B(Argument): AutocryptOpenPgpApiInteractor
+
+Candidate of Pattern References:
+A(Method Owner): ViewSwitcher
+B(Argument): Animation
+
+Candidate of Pattern References:
+A(Method Owner): ViewSwitcher
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): ViewSwitcher
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): ViewSwitcher
+B(Argument): OnSwitchCompleteListener
+
+Candidate of Pattern References:
+A(Method Owner): ImportedServerSettings
+B(Argument): ImportedServer
+
+Candidate of Pattern References:
+A(Method Owner): ListImportContentsAsyncTask
+B(Argument): Accounts
+
+Candidate of Pattern References:
+A(Method Owner): ListImportContentsAsyncTask
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): FileBackedBody
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): FileBackedBody
+B(Argument): File
+
+Candidate of Pattern References:
+A(Method Owner): UntaggedHandler
+B(Argument): ImapResponse
+
+Candidate of Pattern References:
+A(Method Owner): AutocryptStatusInteractor
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): AutocryptStatusInteractor
+B(Argument): OpenPgpApi
+
+Candidate of Pattern References:
+A(Method Owner): CancelListener
+B(Argument): ProgressDialogFragment
+
+Candidate of Pattern References:
+A(Method Owner): CharsetSupport
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): CharsetSupport
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): CharsetSupport
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): PasswordPromptDialog
+B(Argument): Editable
+
+Candidate of Pattern References:
+A(Method Owner): PasswordPromptDialog
+B(Argument): Accounts
+
+Candidate of Pattern References:
+A(Method Owner): PasswordPromptDialog
+B(Argument): Activity
+
+Candidate of Pattern References:
+A(Method Owner): PasswordPromptDialog
+B(Argument): CharSequence
+
+Candidate of Pattern References:
+A(Method Owner): PasswordPromptDialog
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): Part
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): Part
+B(Argument): Body
+
+Candidate of Pattern References:
+A(Method Owner): QuoteHelper
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): QuoteHelper
+B(Argument): Resources
+
+Candidate of Pattern References:
+A(Method Owner): OnSwipeGestureListener
+B(Argument): MotionEvent
+
+Candidate of Pattern References:
+A(Method Owner): SendFailedNotifications
+B(Argument): NotificationController
+
+Candidate of Pattern References:
+A(Method Owner): SendFailedNotifications
+B(Argument): NotificationActionCreator
+
+Candidate of Pattern References:
+A(Method Owner): SendFailedNotifications
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): SendFailedNotifications
+B(Argument): Exception
+
+Candidate of Pattern References:
+A(Method Owner): StoreSchemaDefinitionTest
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): SyncNotifications
+B(Argument): NotificationController
+
+Candidate of Pattern References:
+A(Method Owner): SyncNotifications
+B(Argument): Folder
+
+Candidate of Pattern References:
+A(Method Owner): SyncNotifications
+B(Argument): NotificationActionCreator
+
+Candidate of Pattern References:
+A(Method Owner): SyncNotifications
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): UnreadWidgetProvider
+B(Argument): UnreadWidgetProperties
+
+Candidate of Pattern References:
+A(Method Owner): UnreadWidgetProvider
+B(Argument): AppWidgetManager
+
+Candidate of Pattern References:
+A(Method Owner): UnreadWidgetProvider
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessageLoaderCallbacks
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): MessageLoaderCallbacks
+B(Argument): LocalMessage
+
+Candidate of Pattern References:
+A(Method Owner): MessageLoaderCallbacks
+B(Argument): MessageViewInfo
+
+Candidate of Pattern References:
+A(Method Owner): MessageLoaderCallbacks
+B(Argument): IntentSender
+
+Candidate of Pattern References:
+A(Method Owner): MemorizingMessagingListener
+B(Argument): MessagingListener
+
+Candidate of Pattern References:
+A(Method Owner): MemorizingMessagingListener
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): RecipientAdapter
+B(Argument): ImageView
+
+Candidate of Pattern References:
+A(Method Owner): RecipientAdapter
+B(Argument): RecipientTokenHolder
+
+Candidate of Pattern References:
+A(Method Owner): RecipientAdapter
+B(Argument): ViewGroup
+
+Candidate of Pattern References:
+A(Method Owner): RecipientAdapter
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): RecipientAdapter
+B(Argument): Recipient
+
+Candidate of Pattern References:
+A(Method Owner): RecipientAdapter
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelper
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelper
+B(Argument): AutocryptOperations
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelper
+B(Argument): OpenPgpDecryptionResult
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelper
+B(Argument): MimeBodyPart
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelper
+B(Argument): MessageCryptoCallback
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelper
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelper
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelper
+B(Argument): CryptoError
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelper
+B(Argument): OpenPgpError
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelper
+B(Argument): PendingIntent
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelper
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelper
+B(Argument): OpenPgpApiFactory
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelper
+B(Argument): CryptoResultAnnotation
+
+Candidate of Pattern References:
+A(Method Owner): ActivityListener
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): ActivityListener
+B(Argument): AccountStats
+
+Candidate of Pattern References:
+A(Method Owner): ActivityListener
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): SignSafeOutputStream
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): ImapStoreUriCreator
+B(Argument): ServerSettings
+
+Candidate of Pattern References:
+A(Method Owner): ExtendedAsyncTask
+B(Argument): Activity
+
+Candidate of Pattern References:
+A(Method Owner): MessageBuilder
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): MessageBuilder
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): MessageBuilder
+B(Argument): MimeMultipart
+
+Candidate of Pattern References:
+A(Method Owner): MessageBuilder
+B(Argument): MessageIdGenerator
+
+Candidate of Pattern References:
+A(Method Owner): MessageBuilder
+B(Argument): Date
+
+Candidate of Pattern References:
+A(Method Owner): MessageBuilder
+B(Argument): QuotedTextMode
+
+Candidate of Pattern References:
+A(Method Owner): MessageBuilder
+B(Argument): MessagingException
+
+Candidate of Pattern References:
+A(Method Owner): MessageBuilder
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessageBuilder
+B(Argument): InsertableHtmlContent
+
+Candidate of Pattern References:
+A(Method Owner): MessageBuilder
+B(Argument): PendingIntent
+
+Candidate of Pattern References:
+A(Method Owner): MessageBuilder
+B(Argument): QuoteStyle
+
+Candidate of Pattern References:
+A(Method Owner): MessageBuilder
+B(Argument): BoundaryGenerator
+
+Candidate of Pattern References:
+A(Method Owner): MessageBuilder
+B(Argument): MimeMessage
+
+Candidate of Pattern References:
+A(Method Owner): MessageBuilder
+B(Argument): SimpleMessageFormat
+
+Candidate of Pattern References:
+A(Method Owner): MessageBuilder
+B(Argument): Callback
+
+Candidate of Pattern References:
+A(Method Owner): MessageBuilder
+B(Argument): Identity
+
+Candidate of Pattern References:
+A(Method Owner): MessageBuilder
+B(Argument): TextBody
+
+Candidate of Pattern References:
+A(Method Owner): BinaryMemoryBody
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): AccountNumberExtractor
+B(Argument): MessageInfoHolder
+
+Candidate of Pattern References:
+A(Method Owner): SearchAccount
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): SearchAccount
+B(Argument): LocalSearch
+
+Candidate of Pattern References:
+A(Method Owner): Storage
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): Storage
+B(Argument): Runnable
+
+Candidate of Pattern References:
+A(Method Owner): Storage
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): TestAuthenticationErrorNotifications
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): TestAuthenticationErrorNotifications
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): MockServerThread
+B(Argument): KeyStoreProvider
+
+Candidate of Pattern References:
+A(Method Owner): MockServerThread
+B(Argument): CountDownLatch
+
+Candidate of Pattern References:
+A(Method Owner): MockServerThread
+B(Argument): Logger
+
+Candidate of Pattern References:
+A(Method Owner): MockServerThread
+B(Argument): ExpectedCommand
+
+Candidate of Pattern References:
+A(Method Owner): MockServerThread
+B(Argument): Socket
+
+Candidate of Pattern References:
+A(Method Owner): MockServerThread
+B(Argument): ServerSocket
+
+Candidate of Pattern References:
+A(Method Owner): MockServerThread
+B(Argument): CannedResponse
+
+Candidate of Pattern References:
+A(Method Owner): CryptoInfoDialog
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): CryptoInfoDialog
+B(Argument): MessageCryptoDisplayStatus
+
+Candidate of Pattern References:
+A(Method Owner): WearNotificationsTest
+B(Argument): Notification
+
+Candidate of Pattern References:
+A(Method Owner): WearNotificationsTest
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): WearNotificationsTest
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): WearNotificationsTest
+B(Argument): Builder
+
+Candidate of Pattern References:
+A(Method Owner): WearNotificationsTest
+B(Argument): PendingIntent
+
+Candidate of Pattern References:
+A(Method Owner): WearNotificationsTest
+B(Argument): NotificationContent
+
+Candidate of Pattern References:
+A(Method Owner): DeviceIdleManager
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpProviderEntry
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpProviderEntry
+B(Argument): Drawable
+
+Candidate of Pattern References:
+A(Method Owner): StatusCodeDetail
+B(Argument): StatusCodeSubject
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpError
+B(Argument): Parcel
+
+Candidate of Pattern References:
+A(Method Owner): MessageTopView
+B(Argument): AttachmentViewCallback
+
+Candidate of Pattern References:
+A(Method Owner): MessageTopView
+B(Argument): ShowPictures
+
+Candidate of Pattern References:
+A(Method Owner): MessageTopView
+B(Argument): MessageCryptoPresenter
+
+Candidate of Pattern References:
+A(Method Owner): MessageTopView
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): MessageTopView
+B(Argument): Drawable
+
+Candidate of Pattern References:
+A(Method Owner): MessageTopView
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessageTopView
+B(Argument): MessageViewInfo
+
+Candidate of Pattern References:
+A(Method Owner): MessageTopView
+B(Argument): OnClickListener
+
+Candidate of Pattern References:
+A(Method Owner): MessageTopView
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): MessageTopView
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): MessageTopView
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): ConnectionSecurityAdapter
+B(Argument): ConnectionSecurity
+
+Candidate of Pattern References:
+A(Method Owner): ConnectionSecurityAdapter
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): PseudoEnumSetting
+B(Argument): T
+
+Candidate of Pattern References:
+A(Method Owner): ChooseAccount
+B(Argument): BaseAccount
+
+Candidate of Pattern References:
+A(Method Owner): SleepService
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): SleepService
+B(Argument): TracingWakeLock
+
+Candidate of Pattern References:
+A(Method Owner): SleepService
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): SleepService
+B(Argument): SleepDatum
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupBasics
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupBasics
+B(Argument): Editable
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupBasics
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupBasics
+B(Argument): CharSequence
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupBasics
+B(Argument): XmlResourceParser
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupBasics
+B(Argument): CompoundButton
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupBasics
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupBasics
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): ApgDeprecationDialogFragment
+B(Argument): DialogInterface
+
+Candidate of Pattern References:
+A(Method Owner): ApgDeprecationDialogFragment
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): PartContainer
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): MessageCreationHelper
+B(Argument): Body
+
+Candidate of Pattern References:
+A(Method Owner): ListResponse
+B(Argument): ImapResponse
+
+Candidate of Pattern References:
+A(Method Owner): ImapMessage
+B(Argument): Flag
+
+Candidate of Pattern References:
+A(Method Owner): ImapMessage
+B(Argument): Folder
+
+Candidate of Pattern References:
+A(Method Owner): AutocryptHeader
+B(Argument): StringBuilder
+
+Candidate of Pattern References:
+A(Method Owner): AutocryptHeader
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): MoveAccountAsyncTask
+B(Argument): Activity
+
+Candidate of Pattern References:
+A(Method Owner): MoveAccountAsyncTask
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): ChooseFolder
+B(Argument): Menu
+
+Candidate of Pattern References:
+A(Method Owner): ChooseFolder
+B(Argument): FolderMode
+
+Candidate of Pattern References:
+A(Method Owner): ChooseFolder
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): ChooseFolder
+B(Argument): MenuItem
+
+Candidate of Pattern References:
+A(Method Owner): PgpSignOnlyDialog
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): FlaggedComparator
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): MessagingListener
+B(Argument): BaseAccount
+
+Candidate of Pattern References:
+A(Method Owner): MessagingListener
+B(Argument): Throwable
+
+Candidate of Pattern References:
+A(Method Owner): MessagingListener
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessagingListener
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): MessagingListener
+B(Argument): AccountStats
+
+Candidate of Pattern References:
+A(Method Owner): MessagingListener
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): MessagingListener
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): K9
+B(Argument): Theme
+
+Candidate of Pattern References:
+A(Method Owner): K9
+B(Argument): LockScreenNotificationVisibility
+
+Candidate of Pattern References:
+A(Method Owner): K9
+B(Argument): NotificationHideSubject
+
+Candidate of Pattern References:
+A(Method Owner): K9
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): K9
+B(Argument): ApplicationAware
+
+Candidate of Pattern References:
+A(Method Owner): K9
+B(Argument): SortType
+
+Candidate of Pattern References:
+A(Method Owner): K9
+B(Argument): StorageEditor
+
+Candidate of Pattern References:
+A(Method Owner): K9
+B(Argument): Preferences
+
+Candidate of Pattern References:
+A(Method Owner): K9
+B(Argument): SplitViewMode
+
+Candidate of Pattern References:
+A(Method Owner): K9
+B(Argument): NotificationQuickDelete
+
+Candidate of Pattern References:
+A(Method Owner): K9
+B(Argument): BACKGROUND_OPS
+
+Candidate of Pattern References:
+A(Method Owner): TextPartFinder
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): TextPartFinder
+B(Argument): Multipart
+
+Candidate of Pattern References:
+A(Method Owner): K9AlarmManager
+B(Argument): DozeChecker
+
+Candidate of Pattern References:
+A(Method Owner): K9AlarmManager
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): K9AlarmManager
+B(Argument): PendingIntent
+
+Candidate of Pattern References:
+A(Method Owner): K9AlarmManager
+B(Argument): AlarmManager
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTest
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): Text
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): IdTrickeryCursor
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentView
+B(Argument): AttachmentViewCallback
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentView
+B(Argument): AttachmentViewInfo
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentView
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentView
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentView
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): UnavailableAccountException
+B(Argument): Throwable
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoStructureDetector
+B(Argument): MessageCryptoAnnotations
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoStructureDetector
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): AccountsHandler
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): CryptoStatusSelectedListener
+B(Argument): CryptoModeSelectorState
+
+Candidate of Pattern References:
+A(Method Owner): HttpGeneric
+B(Argument): URI
+
+Candidate of Pattern References:
+A(Method Owner): EOLConvertingOutputStream
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): DatabaseUpgradeService
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): DatabaseUpgradeService
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentComparator
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): Recipient
+B(Argument): ObjectInputStream
+
+Candidate of Pattern References:
+A(Method Owner): Recipient
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): Recipient
+B(Argument): RecipientCryptoStatus
+
+Candidate of Pattern References:
+A(Method Owner): Recipient
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): Recipient
+B(Argument): Address
+
+Candidate of Pattern References:
+A(Method Owner): Recipient
+B(Argument): ObjectOutputStream
+
+Candidate of Pattern References:
+A(Method Owner): IdentityHelper
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): IdentityHelper
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): PermissionPingCallback
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): StoreConfig
+B(Argument): NetworkType
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpSourceSinkAsyncTask
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpSourceSinkAsyncTask
+B(Argument): OpenPgpDataSource
+
+Candidate of Pattern References:
+A(Method Owner): UriLinkifier
+B(Argument): StringBuffer
+
+Candidate of Pattern References:
+A(Method Owner): MessageListWidgetService
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): Pop3Folder
+B(Argument): FolderType
+
+Candidate of Pattern References:
+A(Method Owner): Pop3Folder
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): Pop3Folder
+B(Argument): Flag
+
+Candidate of Pattern References:
+A(Method Owner): Pop3Folder
+B(Argument): Date
+
+Candidate of Pattern References:
+A(Method Owner): Pop3Folder
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): Pop3Folder
+B(Argument): FetchProfile
+
+Candidate of Pattern References:
+A(Method Owner): Pop3Folder
+B(Argument): Pop3Message
+
+Candidate of Pattern References:
+A(Method Owner): BodyFactory
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoStatusView
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoStatusView
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoStatusView
+B(Argument): MessageCryptoDisplayStatus
+
+Candidate of Pattern References:
+A(Method Owner): SimpleImapSettings
+B(Argument): ConnectionSecurity
+
+Candidate of Pattern References:
+A(Method Owner): SimpleImapSettings
+B(Argument): NetworkType
+
+Candidate of Pattern References:
+A(Method Owner): SimpleImapSettings
+B(Argument): AuthType
+
+Candidate of Pattern References:
+A(Method Owner): TestCertificateErrorNotifications
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): TestCertificateErrorNotifications
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): RealDeviceIdleManager
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): InternalStorageProvider
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragment
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragment
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragment
+B(Argument): LayoutInflater
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragment
+B(Argument): ContextMenuInfo
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragment
+B(Argument): ViewGroup
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragment
+B(Argument): MotionEvent
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragment
+B(Argument): Flag
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragment
+B(Argument): Activity
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragment
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragment
+B(Argument): android.view.MenuItem
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragment
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragment
+B(Argument): SortType
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragment
+B(Argument): ContextMenu
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragment
+B(Argument): LocalSearch
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragment
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragment
+B(Argument): MenuItem
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragment
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragment
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragment
+B(Argument): FolderOperation
+
+Candidate of Pattern References:
+A(Method Owner): MyCallback
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): LocalMessageExtractorLoader
+B(Argument): LocalMessage
+
+Candidate of Pattern References:
+A(Method Owner): LocalMessageExtractorLoader
+B(Argument): MessageCryptoAnnotations
+
+Candidate of Pattern References:
+A(Method Owner): LocalMessageExtractorLoader
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): LocalMessageExtractorLoader
+B(Argument): MessageViewInfo
+
+Candidate of Pattern References:
+A(Method Owner): LocalMessageExtractorLoader
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): HighlightDialogFragment
+B(Argument): DialogInterface
+
+Candidate of Pattern References:
+A(Method Owner): OAuth2TokenProviderAuthCallback
+B(Argument): AuthorizationException
+
+Candidate of Pattern References:
+A(Method Owner): TextQuoteCreator
+B(Argument): QuoteStyle
+
+Candidate of Pattern References:
+A(Method Owner): TextQuoteCreator
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): TextQuoteCreator
+B(Argument): Resources
+
+Candidate of Pattern References:
+A(Method Owner): UnreadComparator
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): EmailAddressList
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): EmailAddressList
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): MimeMessageBuilder
+B(Argument): BodyDescriptor
+
+Candidate of Pattern References:
+A(Method Owner): MimeMessageBuilder
+B(Argument): Field
+
+Candidate of Pattern References:
+A(Method Owner): MimeMessageBuilder
+B(Argument): BodyFactory
+
+Candidate of Pattern References:
+A(Method Owner): MimeMessageBuilder
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): PreferenceChangeListener
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): PreferenceChangeListener
+B(Argument): ListPreference
+
+Candidate of Pattern References:
+A(Method Owner): PreferenceChangeListener
+B(Argument): Preference
+
+Candidate of Pattern References:
+A(Method Owner): HtmlConverter
+B(Argument): StringBuilder
+
+Candidate of Pattern References:
+A(Method Owner): HtmlConverter
+B(Argument): CharSequence
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupAccountType
+B(Argument): Type
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupAccountType
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupAccountType
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupAccountType
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupAccountType
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupAccountType
+B(Argument): Exception
+
+Candidate of Pattern References:
+A(Method Owner): MessageExtractor
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): MessageExtractor
+B(Argument): Multipart
+
+Candidate of Pattern References:
+A(Method Owner): MessageExtractor
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): MessageExtractor
+B(Argument): Body
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewFragmentListener
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewFragmentListener
+B(Argument): MessageHeader
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewFragmentListener
+B(Argument): Parcelable
+
+Candidate of Pattern References:
+A(Method Owner): DeviceIdleReceiver
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): DeviceIdleReceiver
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): DeviceIdleReceiver
+B(Argument): PowerManager
+
+Candidate of Pattern References:
+A(Method Owner): ShutdownReceiver
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): ShutdownReceiver
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): ClientCertificateSpinner
+B(Argument): OnClientCertificateChangedListener
+
+Candidate of Pattern References:
+A(Method Owner): ClientCertificateSpinner
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): ClientCertificateSpinner
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): HttpUriParser
+B(Argument): StringBuffer
+
+Candidate of Pattern References:
+A(Method Owner): StorageManager
+B(Argument): StorageListener
+
+Candidate of Pattern References:
+A(Method Owner): StorageManager
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): StorageManager
+B(Argument): File
+
+Candidate of Pattern References:
+A(Method Owner): CoreService
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): CoreService
+B(Argument): Runnable
+
+Candidate of Pattern References:
+A(Method Owner): CoreService
+B(Argument): TracingWakeLock
+
+Candidate of Pattern References:
+A(Method Owner): CoreService
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): TestNotifications
+B(Argument): NotificationController
+
+Candidate of Pattern References:
+A(Method Owner): TestNotifications
+B(Argument): Builder
+
+Candidate of Pattern References:
+A(Method Owner): TestNotifications
+B(Argument): NotificationActionCreator
+
+Candidate of Pattern References:
+A(Method Owner): BoundaryGenerator
+B(Argument): Random
+
+Candidate of Pattern References:
+A(Method Owner): AdvancedNodeTraversor
+B(Argument): NodeFilter
+
+Candidate of Pattern References:
+A(Method Owner): AdvancedNodeTraversor
+B(Argument): Node
+
+Candidate of Pattern References:
+A(Method Owner): MessageFulltextCreator
+B(Argument): EncryptionDetector
+
+Candidate of Pattern References:
+A(Method Owner): MessageFulltextCreator
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): MessageFulltextCreator
+B(Argument): TextPartFinder
+
+Candidate of Pattern References:
+A(Method Owner): MessageFulltextCreator
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): UnreadWidgetConfiguration
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): UnreadWidgetConfiguration
+B(Argument): UnreadWidgetProperties
+
+Candidate of Pattern References:
+A(Method Owner): UnreadWidgetConfiguration
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): UnreadWidgetConfiguration
+B(Argument): Menu
+
+Candidate of Pattern References:
+A(Method Owner): UnreadWidgetConfiguration
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): UnreadWidgetConfiguration
+B(Argument): MenuItem
+
+Candidate of Pattern References:
+A(Method Owner): TemporaryAttachmentStore
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): TemporaryAttachmentStore
+B(Argument): File
+
+Candidate of Pattern References:
+A(Method Owner): LauncherShortcuts
+B(Argument): BaseAccount
+
+Candidate of Pattern References:
+A(Method Owner): LauncherShortcuts
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpDataResult
+B(Argument): T
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpDataResult
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): BinaryAttachmentBody
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): AlternateRecipientListener
+B(Argument): Recipient
+
+Candidate of Pattern References:
+A(Method Owner): SyncNotificationsTest
+B(Argument): NotificationManagerCompat
+
+Candidate of Pattern References:
+A(Method Owner): SyncNotificationsTest
+B(Argument): Builder
+
+Candidate of Pattern References:
+A(Method Owner): SyncNotificationsTest
+B(Argument): PendingIntent
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupCheckSettings
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupCheckSettings
+B(Argument): X509Certificate
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupCheckSettings
+B(Argument): Activity
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupCheckSettings
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupCheckSettings
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupCheckSettings
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupCheckSettings
+B(Argument): CertificateValidationException
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupCheckSettings
+B(Argument): CheckDirection
+
+Candidate of Pattern References:
+A(Method Owner): ImapResponseParserException
+B(Argument): Throwable
+
+Candidate of Pattern References:
+A(Method Owner): ThemeSetting
+B(Argument): K9.Theme
+
+Candidate of Pattern References:
+A(Method Owner): MessageHeaderParserContentHandler
+B(Argument): BodyDescriptor
+
+Candidate of Pattern References:
+A(Method Owner): MessageHeaderParserContentHandler
+B(Argument): Field
+
+Candidate of Pattern References:
+A(Method Owner): MessageHeaderParserContentHandler
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): MessageHeaderParserContentHandler
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): SaveAttachmentAsyncTask
+B(Argument): File
+
+Candidate of Pattern References:
+A(Method Owner): FileBrowserHelper
+B(Argument): Activity
+
+Candidate of Pattern References:
+A(Method Owner): FileBrowserHelper
+B(Argument): Fragment
+
+Candidate of Pattern References:
+A(Method Owner): FileBrowserHelper
+B(Argument): File
+
+Candidate of Pattern References:
+A(Method Owner): FileBrowserHelper
+B(Argument): FileBrowserFailOverCallback
+
+Candidate of Pattern References:
+A(Method Owner): AuthTypeHolder
+B(Argument): AuthType
+
+Candidate of Pattern References:
+A(Method Owner): AuthTypeHolder
+B(Argument): Resources
+
+Candidate of Pattern References:
+A(Method Owner): Multipart
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): Multipart
+B(Argument): BodyPart
+
+Candidate of Pattern References:
+A(Method Owner): AccountExtractor
+B(Argument): MessageInfoHolder
+
+Candidate of Pattern References:
+A(Method Owner): StorageEditor
+B(Argument): Storage
+
+Candidate of Pattern References:
+A(Method Owner): StorageEditor
+B(Argument): android.content.SharedPreferences
+
+Candidate of Pattern References:
+A(Method Owner): PreviewTextExtractor
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): EmailProvider
+B(Argument): StringBuilder
+
+Candidate of Pattern References:
+A(Method Owner): EmailProvider
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): EmailProvider
+B(Argument): ContentValues
+
+Candidate of Pattern References:
+A(Method Owner): EmailProvider
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): K9RemoteControl
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): K9RemoteControl
+B(Argument): K9AccountReceptor
+
+Candidate of Pattern References:
+A(Method Owner): K9RemoteControl
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): DataSourceTransferThread
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): DataSourceTransferThread
+B(Argument): OpenPgpDataSource
+
+Candidate of Pattern References:
+A(Method Owner): NotificationActionService
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): NotificationActionService
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): NotificationActionService
+B(Argument): MessagingController
+
+Candidate of Pattern References:
+A(Method Owner): NotificationActionService
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): NotificationActionService
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpSignatureResult
+B(Argument): T
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpSignatureResult
+B(Argument): SenderStatusResult
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpSignatureResult
+B(Argument): Parcel
+
+Candidate of Pattern References:
+A(Method Owner): ServerSettings
+B(Argument): ConnectionSecurity
+
+Candidate of Pattern References:
+A(Method Owner): ServerSettings
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): ServerSettings
+B(Argument): Type
+
+Candidate of Pattern References:
+A(Method Owner): ServerSettings
+B(Argument): AuthType
+
+Candidate of Pattern References:
+A(Method Owner): NotificationDeleteConfirmation
+B(Argument): Dialog
+
+Candidate of Pattern References:
+A(Method Owner): NotificationDeleteConfirmation
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): NotificationDeleteConfirmation
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): NotificationDeleteConfirmation
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentTempFileProviderCleanupReceiver
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentTempFileProviderCleanupReceiver
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): HtmlQuoteCreator
+B(Argument): QuoteStyle
+
+Candidate of Pattern References:
+A(Method Owner): HtmlQuoteCreator
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): HtmlQuoteCreator
+B(Argument): Resources
+
+Candidate of Pattern References:
+A(Method Owner): MessageListRemoteViewFactory
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): ThemeUtils
+B(Argument): Theme
+
+Candidate of Pattern References:
+A(Method Owner): ThemeUtils
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): AccountDescriptionPair
+B(Argument): AccountDescription
+
+Candidate of Pattern References:
+A(Method Owner): SmtpDataStuffing
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewInfoExtractor
+B(Argument): StringBuilder
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewInfoExtractor
+B(Argument): AttachmentInfoExtractor
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewInfoExtractor
+B(Argument): Viewable
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewInfoExtractor
+B(Argument): MessageCryptoAnnotations
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewInfoExtractor
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewInfoExtractor
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewInfoExtractor
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewInfoExtractor
+B(Argument): CryptoResultAnnotation
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewInfoExtractor
+B(Argument): HtmlProcessor
+
+Candidate of Pattern References:
+A(Method Owner): ListResponseTest
+B(Argument): ListResponse
+
+Candidate of Pattern References:
+A(Method Owner): DefaultTrustedSocketFactory
+B(Argument): SSLSocketFactory
+
+Candidate of Pattern References:
+A(Method Owner): DefaultTrustedSocketFactory
+B(Argument): SSLSocket
+
+Candidate of Pattern References:
+A(Method Owner): DefaultTrustedSocketFactory
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): DefaultTrustedSocketFactory
+B(Argument): Socket
+
+Candidate of Pattern References:
+A(Method Owner): Message
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): Message
+B(Argument): Flag
+
+Candidate of Pattern References:
+A(Method Owner): Message
+B(Argument): Date
+
+Candidate of Pattern References:
+A(Method Owner): Message
+B(Argument): Address
+
+Candidate of Pattern References:
+A(Method Owner): Message
+B(Argument): Body
+
+Candidate of Pattern References:
+A(Method Owner): Message
+B(Argument): RecipientType
+
+Candidate of Pattern References:
+A(Method Owner): DecryptedFileProviderCleanupReceiver
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): DecryptedFileProviderCleanupReceiver
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): TestMessageConstructionUtils
+B(Argument): BodyPart
+
+Candidate of Pattern References:
+A(Method Owner): TestMessageConstructionUtils
+B(Argument): Body
+
+Candidate of Pattern References:
+A(Method Owner): LocalSearch
+B(Argument): Parcel
+
+Candidate of Pattern References:
+A(Method Owner): LocalSearch
+B(Argument): Attribute
+
+Candidate of Pattern References:
+A(Method Owner): LocalSearch
+B(Argument): ConditionsTreeNode
+
+Candidate of Pattern References:
+A(Method Owner): LocalSearch
+B(Argument): SearchField
+
+Candidate of Pattern References:
+A(Method Owner): LocalSearch
+B(Argument): SearchCondition
+
+Candidate of Pattern References:
+A(Method Owner): NotificationActionCreator
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): NotificationActionCreator
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): NotificationActionCreator
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): ContactBadge
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): ContactBadge
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): ContactBadge
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): ContactBadge
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): ContactBadge
+B(Argument): AccessibilityNodeInfo
+
+Candidate of Pattern References:
+A(Method Owner): ContactBadge
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): ContactBadge
+B(Argument): AccessibilityEvent
+
+Candidate of Pattern References:
+A(Method Owner): ComposePgpEnableByDefaultDecider
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): MessageListWidgetProvider
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): MessageListWidgetProvider
+B(Argument): AppWidgetManager
+
+Candidate of Pattern References:
+A(Method Owner): MessageListWidgetProvider
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): RemoteControlReceiver
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): RemoteControlReceiver
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): Html
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): SenderAddressExtractor
+B(Argument): MessageInfoHolder
+
+Candidate of Pattern References:
+A(Method Owner): Flowed
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): MessageInfoHolder
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): ImportSelectionDialog
+B(Argument): Accounts
+
+Candidate of Pattern References:
+A(Method Owner): ImportSelectionDialog
+B(Argument): ImportContents
+
+Candidate of Pattern References:
+A(Method Owner): ImportSelectionDialog
+B(Argument): SparseBooleanArray
+
+Candidate of Pattern References:
+A(Method Owner): ImportSelectionDialog
+B(Argument): Activity
+
+Candidate of Pattern References:
+A(Method Owner): ImportSelectionDialog
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): Store
+B(Argument): PushReceiver
+
+Candidate of Pattern References:
+A(Method Owner): NewMailNotificationsTest
+B(Argument): Notification
+
+Candidate of Pattern References:
+A(Method Owner): NewMailNotificationsTest
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): NewMailNotificationsTest
+B(Argument): RemoveNotificationResult
+
+Candidate of Pattern References:
+A(Method Owner): NewMailNotificationsTest
+B(Argument): LocalMessage
+
+Candidate of Pattern References:
+A(Method Owner): NewMailNotificationsTest
+B(Argument): NotificationManagerCompat
+
+Candidate of Pattern References:
+A(Method Owner): NewMailNotificationsTest
+B(Argument): AddNotificationResult
+
+Candidate of Pattern References:
+A(Method Owner): NewMailNotificationsTest
+B(Argument): NotificationContent
+
+Candidate of Pattern References:
+A(Method Owner): NewMailNotificationsTest
+B(Argument): NotificationHolder
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoStructureDetectorTest
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelperTest
+B(Argument): OpenPgpDecryptionResult
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelperTest
+B(Argument): MimeBodyPart
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelperTest
+B(Argument): MessageCryptoCallback
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelperTest
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelperTest
+B(Argument): CryptoError
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelperTest
+B(Argument): PendingIntent
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelperTest
+B(Argument): OpenPgpSignatureResult
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelperTest
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelperTest
+B(Argument): BodyPart
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoHelperTest
+B(Argument): Body
+
+Candidate of Pattern References:
+A(Method Owner): SelectOrExamineResponse
+B(Argument): ImapResponse
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupOutgoing
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupOutgoing
+B(Argument): ConnectionSecurity
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupOutgoing
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupOutgoing
+B(Argument): CompoundButton
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupOutgoing
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupOutgoing
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupOutgoing
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupOutgoing
+B(Argument): Exception
+
+Candidate of Pattern References:
+A(Method Owner): SaveMessageTask
+B(Argument): Handler
+
+Candidate of Pattern References:
+A(Method Owner): SaveMessageTask
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): SaveMessageTask
+B(Argument): Contacts
+
+Candidate of Pattern References:
+A(Method Owner): SaveMessageTask
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): SaveMessageTask
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): FolderSettings
+B(Argument): Storage
+
+Candidate of Pattern References:
+A(Method Owner): SchemaDefinition
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): EthereumUriParser
+B(Argument): StringBuffer
+
+Candidate of Pattern References:
+A(Method Owner): NewMailNotifications
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): NewMailNotifications
+B(Argument): NotificationController
+
+Candidate of Pattern References:
+A(Method Owner): NewMailNotifications
+B(Argument): LocalMessage
+
+Candidate of Pattern References:
+A(Method Owner): NewMailNotifications
+B(Argument): DeviceNotifications
+
+Candidate of Pattern References:
+A(Method Owner): NewMailNotifications
+B(Argument): NotificationActionCreator
+
+Candidate of Pattern References:
+A(Method Owner): NewMailNotifications
+B(Argument): NotificationContentCreator
+
+Candidate of Pattern References:
+A(Method Owner): NewMailNotifications
+B(Argument): NotificationData
+
+Candidate of Pattern References:
+A(Method Owner): NewMailNotifications
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): NewMailNotifications
+B(Argument): WearNotifications
+
+Candidate of Pattern References:
+A(Method Owner): NewMailNotifications
+B(Argument): NotificationHolder
+
+Candidate of Pattern References:
+A(Method Owner): RetainFragment
+B(Argument): T
+
+Candidate of Pattern References:
+A(Method Owner): RetainFragment
+B(Argument): FragmentManager
+
+Candidate of Pattern References:
+A(Method Owner): RetainFragment
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): MimeHeader
+B(Argument): StringBuilder
+
+Candidate of Pattern References:
+A(Method Owner): MimeHeader
+B(Argument): BufferedWriter
+
+Candidate of Pattern References:
+A(Method Owner): MimeHeader
+B(Argument): Field
+
+Candidate of Pattern References:
+A(Method Owner): MimeHeader
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): CryptoPart
+B(Argument): CryptoPartType
+
+Candidate of Pattern References:
+A(Method Owner): CryptoPart
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): OAuth2TokenProvider
+B(Argument): Activity
+
+Candidate of Pattern References:
+A(Method Owner): OAuth2TokenProvider
+B(Argument): OAuth2TokenProviderAuthCallback
+
+Candidate of Pattern References:
+A(Method Owner): LockableDatabase
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): LockableDatabase
+B(Argument): File
+
+Candidate of Pattern References:
+A(Method Owner): LockableDatabase
+B(Argument): SchemaDefinition
+
+Candidate of Pattern References:
+A(Method Owner): BinaryTempFileBodyInputStream
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): MlfUtils
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): MlfUtils
+B(Argument): Preferences
+
+Candidate of Pattern References:
+A(Method Owner): MlfUtils
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): MimeMessageHelper
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): MimeMessageHelper
+B(Argument): Body
+
+Candidate of Pattern References:
+A(Method Owner): RecipientTokenViewHolder
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): Listener
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): Listener
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): CoreReceiver
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): CoreReceiver
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): WebDavFolderTest
+B(Argument): DataSet
+
+Candidate of Pattern References:
+A(Method Owner): SimpleDialog
+B(Argument): Accounts
+
+Candidate of Pattern References:
+A(Method Owner): SimpleDialog
+B(Argument): Activity
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentPresenter
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentPresenter
+B(Argument): AttachmentsChangedListener
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentPresenter
+B(Argument): RecipientPresenter
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentPresenter
+B(Argument): AttachmentViewInfo
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentPresenter
+B(Argument): Attachment
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentPresenter
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentPresenter
+B(Argument): MessageViewInfo
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentPresenter
+B(Argument): LoaderManager
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentPresenter
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentPresenter
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentPresenter
+B(Argument): AttachmentMvpView
+
+Candidate of Pattern References:
+A(Method Owner): Preferences
+B(Argument): T
+
+Candidate of Pattern References:
+A(Method Owner): Preferences
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): Preferences
+B(Argument): Storage
+
+Candidate of Pattern References:
+A(Method Owner): Preferences
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): ConditionsTreeNode
+B(Argument): Parcel
+
+Candidate of Pattern References:
+A(Method Owner): ConditionsTreeNode
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): ConditionsTreeNode
+B(Argument): Operator
+
+Candidate of Pattern References:
+A(Method Owner): ConditionsTreeNode
+B(Argument): SearchCondition
+
+Candidate of Pattern References:
+A(Method Owner): DataSinkTransferThread
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): ArrivalComparator
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): SenderExtractor
+B(Argument): MessageInfoHolder
+
+Candidate of Pattern References:
+A(Method Owner): K9ListActivity
+B(Argument): MotionEvent
+
+Candidate of Pattern References:
+A(Method Owner): K9ListActivity
+B(Argument): OnSwipeGestureListener
+
+Candidate of Pattern References:
+A(Method Owner): K9ListActivity
+B(Argument): KeyEvent
+
+Candidate of Pattern References:
+A(Method Owner): K9ListActivity
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): FetchPartCallback
+B(Argument): FixedLengthInputStream
+
+Candidate of Pattern References:
+A(Method Owner): FetchPartCallback
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): FetchPartCallback
+B(Argument): BodyFactory
+
+Candidate of Pattern References:
+A(Method Owner): FetchPartCallback
+B(Argument): ImapResponse
+
+Candidate of Pattern References:
+A(Method Owner): SettingsDescription
+B(Argument): T
+
+Candidate of Pattern References:
+A(Method Owner): RecipientSelectView
+B(Argument): MotionEvent
+
+Candidate of Pattern References:
+A(Method Owner): RecipientSelectView
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): RecipientSelectView
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): RecipientSelectView
+B(Argument): CharSequence
+
+Candidate of Pattern References:
+A(Method Owner): RecipientSelectView
+B(Argument): LoaderManager
+
+Candidate of Pattern References:
+A(Method Owner): RecipientSelectView
+B(Argument): Recipient
+
+Candidate of Pattern References:
+A(Method Owner): RecipientSelectView
+B(Argument): KeyEvent
+
+Candidate of Pattern References:
+A(Method Owner): RecipientSelectView
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): RecipientSelectView
+B(Argument): Rect
+
+Candidate of Pattern References:
+A(Method Owner): RecipientSelectView
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): ProgressBodyFactory
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): ProgressBodyFactory
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): ProgressBodyFactory
+B(Argument): ProgressListener
+
+Candidate of Pattern References:
+A(Method Owner): Iso2022JpToShiftJisInputStream
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): Address
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): SwipeGestureDetector
+B(Argument): MotionEvent
+
+Candidate of Pattern References:
+A(Method Owner): SwipeGestureDetector
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): SwipeGestureDetector
+B(Argument): OnSwipeGestureListener
+
+Candidate of Pattern References:
+A(Method Owner): NotificationContentCreatorTest
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): SubjectComparator
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): MimeMessage
+B(Argument): Date
+
+Candidate of Pattern References:
+A(Method Owner): MimeMessage
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): MimeMessage
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): MimeMessage
+B(Argument): Address
+
+Candidate of Pattern References:
+A(Method Owner): MimeMessage
+B(Argument): Body
+
+Candidate of Pattern References:
+A(Method Owner): MimeMessage
+B(Argument): RecipientType
+
+Candidate of Pattern References:
+A(Method Owner): FontSizeSettings
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): FontSizeSettings
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): WebDavHandler
+B(Argument): Attributes
+
+Candidate of Pattern References:
+A(Method Owner): MessageListAdapter
+B(Argument): TextView
+
+Candidate of Pattern References:
+A(Method Owner): MessageListAdapter
+B(Argument): ViewGroup
+
+Candidate of Pattern References:
+A(Method Owner): MessageListAdapter
+B(Argument): MessageViewHolder
+
+Candidate of Pattern References:
+A(Method Owner): MessageListAdapter
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessageListAdapter
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): MessageListAdapter
+B(Argument): CharSequence
+
+Candidate of Pattern References:
+A(Method Owner): MessageListAdapter
+B(Argument): MessageListFragment
+
+Candidate of Pattern References:
+A(Method Owner): MessageListAdapter
+B(Argument): Address
+
+Candidate of Pattern References:
+A(Method Owner): MessageListAdapter
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): MessageListAdapter
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): NotificationContentCreator
+B(Argument): LocalMessage
+
+Candidate of Pattern References:
+A(Method Owner): NotificationContentCreator
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): NotificationContentCreator
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): NotificationContentCreator
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): WebDavSocketFactory
+B(Argument): InetAddress
+
+Candidate of Pattern References:
+A(Method Owner): WebDavSocketFactory
+B(Argument): Socket
+
+Candidate of Pattern References:
+A(Method Owner): WebDavSocketFactory
+B(Argument): HttpParams
+
+Candidate of Pattern References:
+A(Method Owner): EmailProviderCache
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): ThrottlingQueryHandler
+B(Argument): QueryHandler
+
+Candidate of Pattern References:
+A(Method Owner): ThrottlingQueryHandler
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): MessagingControllerTest
+B(Argument): T
+
+Candidate of Pattern References:
+A(Method Owner): MessagingControllerTest
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): LockScreenNotification
+B(Argument): NotificationController
+
+Candidate of Pattern References:
+A(Method Owner): LockScreenNotification
+B(Argument): Builder
+
+Candidate of Pattern References:
+A(Method Owner): LockScreenNotification
+B(Argument): NotificationData
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpAppPreference
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpAppPreference
+B(Argument): TypedArray
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpAppPreference
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpAppPreference
+B(Argument): Drawable
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpAppPreference
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpAppPreference
+B(Argument): Builder
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentMvpView
+B(Argument): Attachment
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentMvpView
+B(Argument): WaitingAction
+
+Candidate of Pattern References:
+A(Method Owner): UriParserTestHelper
+B(Argument): Document
+
+Candidate of Pattern References:
+A(Method Owner): UriParserTestHelper
+B(Argument): StringBuffer
+
+Candidate of Pattern References:
+A(Method Owner): UriParserTestHelper
+B(Argument): Element
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpDataSource
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): IdExtractor
+B(Argument): MessageInfoHolder
+
+Candidate of Pattern References:
+A(Method Owner): MessageHeaderParser
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): MessageHeaderParser
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): NonConfigurationInstance
+B(Argument): Activity
+
+Candidate of Pattern References:
+A(Method Owner): ActionMatcher
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): ActionMatcher
+B(Argument): PendingIntent
+
+Candidate of Pattern References:
+A(Method Owner): BodyPart
+B(Argument): Multipart
+
+Candidate of Pattern References:
+A(Method Owner): AttachmentDownloadCancelListener
+B(Argument): AttachmentDownloadDialogFragment
+
+Candidate of Pattern References:
+A(Method Owner): ColorPicker
+B(Argument): MotionEvent
+
+Candidate of Pattern References:
+A(Method Owner): ColorPicker
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): ColorPicker
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): ColorPicker
+B(Argument): Canvas
+
+Candidate of Pattern References:
+A(Method Owner): ColorPicker
+B(Argument): Parcelable
+
+Candidate of Pattern References:
+A(Method Owner): ImapResponse
+B(Argument): ImapResponseCallback
+
+Candidate of Pattern References:
+A(Method Owner): SubjectExtractor
+B(Argument): MessageInfoHolder
+
+Candidate of Pattern References:
+A(Method Owner): AddNotificationResult
+B(Argument): NotificationHolder
+
+Candidate of Pattern References:
+A(Method Owner): NotificationContent
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): NotificationContent
+B(Argument): CharSequence
+
+Candidate of Pattern References:
+A(Method Owner): DirectorySetting
+B(Argument): File
+
+Candidate of Pattern References:
+A(Method Owner): K9PreferenceActivity
+B(Argument): ListPreference
+
+Candidate of Pattern References:
+A(Method Owner): K9PreferenceActivity
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): NamespaceResponse
+B(Argument): ImapResponse
+
+Candidate of Pattern References:
+A(Method Owner): SamsungGalaxySStorageProvider
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): DecoderUtil
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): ImapConnectionTest
+B(Argument): MockImapServer
+
+Candidate of Pattern References:
+A(Method Owner): ImapConnectionTest
+B(Argument): TrustedSocketFactory
+
+Candidate of Pattern References:
+A(Method Owner): ImapConnectionTest
+B(Argument): ConnectivityManager
+
+Candidate of Pattern References:
+A(Method Owner): ImapConnectionTest
+B(Argument): OAuth2TokenProvider
+
+Candidate of Pattern References:
+A(Method Owner): ImapConnectionTest
+B(Argument): ImapSettings
+
+Candidate of Pattern References:
+A(Method Owner): IntentAndResolvedActivitiesCount
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpApiFactory
+B(Argument): IOpenPgpService2
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpApiFactory
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): Body
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): TextBodyBuilderTest
+B(Argument): QuoteStyle
+
+Candidate of Pattern References:
+A(Method Owner): CopyUidResponse
+B(Argument): ImapResponse
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewInfoExtractorTest
+B(Argument): AttachmentViewInfo
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewInfoExtractorTest
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewInfoExtractorTest
+B(Argument): BodyPart
+
+Candidate of Pattern References:
+A(Method Owner): MessageViewInfoExtractorTest
+B(Argument): CryptoResultAnnotation
+
+Candidate of Pattern References:
+A(Method Owner): NonLockingScrollView
+B(Argument): MotionEvent
+
+Candidate of Pattern References:
+A(Method Owner): NonLockingScrollView
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): NonLockingScrollView
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): NonLockingScrollView
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): FolderInfoHolder
+B(Argument): LocalFolder
+
+Candidate of Pattern References:
+A(Method Owner): FolderInfoHolder
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): FolderInfoHolder
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): FolderInfoHolder
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): SendDateExtractor
+B(Argument): MessageInfoHolder
+
+Candidate of Pattern References:
+A(Method Owner): AccountSettings
+B(Argument): Storage
+
+Candidate of Pattern References:
+A(Method Owner): Callback
+B(Argument): MessagingException
+
+Candidate of Pattern References:
+A(Method Owner): Callback
+B(Argument): PendingIntent
+
+Candidate of Pattern References:
+A(Method Owner): Callback
+B(Argument): MimeMessage
+
+Candidate of Pattern References:
+A(Method Owner): SearchCondition
+B(Argument): Parcel
+
+Candidate of Pattern References:
+A(Method Owner): SearchCondition
+B(Argument): Attribute
+
+Candidate of Pattern References:
+A(Method Owner): SearchCondition
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): SearchCondition
+B(Argument): SearchField
+
+Candidate of Pattern References:
+A(Method Owner): SettingsExporter
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): SettingsExporter
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): SettingsExporter
+B(Argument): XmlSerializer
+
+Candidate of Pattern References:
+A(Method Owner): SettingsExporter
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): SettingsExporter
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): WebDavStore
+B(Argument): WebDavHttpClient.WebDavHttpClientFactory
+
+Candidate of Pattern References:
+A(Method Owner): WebDavStore
+B(Argument): StringEntity
+
+Candidate of Pattern References:
+A(Method Owner): WebDavStore
+B(Argument): StoreConfig
+
+Candidate of Pattern References:
+A(Method Owner): WebDavStore
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): WebDavStore
+B(Argument): ConnectionInfo
+
+Candidate of Pattern References:
+A(Method Owner): WebDavStore
+B(Argument): ServerSettings
+
+Candidate of Pattern References:
+A(Method Owner): WebDavStore
+B(Argument): HttpResponse
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpUtils
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): OpenPgpUtils
+B(Argument): UserId
+
+Candidate of Pattern References:
+A(Method Owner): AuthenticationErrorNotifications
+B(Argument): NotificationController
+
+Candidate of Pattern References:
+A(Method Owner): AuthenticationErrorNotifications
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): AuthenticationErrorNotifications
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): ContactPicture
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MimeUtility
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): MimeUtility
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): MimeUtility
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): MimeUtility
+B(Argument): Body
+
+Candidate of Pattern References:
+A(Method Owner): StripSignatureFilter
+B(Argument): Node
+
+Candidate of Pattern References:
+A(Method Owner): MessageBuilderTest
+B(Argument): MimeMessage
+
+Candidate of Pattern References:
+A(Method Owner): MessageListActivityListener
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): CryptoResultAnnotation
+B(Argument): OpenPgpDecryptionResult
+
+Candidate of Pattern References:
+A(Method Owner): CryptoResultAnnotation
+B(Argument): MimeBodyPart
+
+Candidate of Pattern References:
+A(Method Owner): CryptoResultAnnotation
+B(Argument): CryptoError
+
+Candidate of Pattern References:
+A(Method Owner): CryptoResultAnnotation
+B(Argument): OpenPgpError
+
+Candidate of Pattern References:
+A(Method Owner): CryptoResultAnnotation
+B(Argument): PendingIntent
+
+Candidate of Pattern References:
+A(Method Owner): CryptoResultAnnotation
+B(Argument): OpenPgpSignatureResult
+
+Candidate of Pattern References:
+A(Method Owner): BodyTextExtractor
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): BodyTextExtractor
+B(Argument): SimpleMessageFormat
+
+Candidate of Pattern References:
+A(Method Owner): AccountsImportedDialog
+B(Argument): Accounts
+
+Candidate of Pattern References:
+A(Method Owner): AccountsImportedDialog
+B(Argument): ImportResults
+
+Candidate of Pattern References:
+A(Method Owner): QuotedMessageMvpView
+B(Argument): QuotedMessagePresenter
+
+Candidate of Pattern References:
+A(Method Owner): QuotedMessageMvpView
+B(Argument): AttachmentResolver
+
+Candidate of Pattern References:
+A(Method Owner): QuotedMessageMvpView
+B(Argument): TextWatcher
+
+Candidate of Pattern References:
+A(Method Owner): QuotedMessageMvpView
+B(Argument): QuotedTextMode
+
+Candidate of Pattern References:
+A(Method Owner): QuotedMessageMvpView
+B(Argument): FontSizes
+
+Candidate of Pattern References:
+A(Method Owner): QuotedMessageMvpView
+B(Argument): SimpleMessageFormat
+
+Candidate of Pattern References:
+A(Method Owner): QuotedMessageMvpView
+B(Argument): MessageCompose
+
+Candidate of Pattern References:
+A(Method Owner): K9WebViewClient
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): K9WebViewClient
+B(Argument): AttachmentResolver
+
+Candidate of Pattern References:
+A(Method Owner): K9WebViewClient
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): K9WebViewClient
+B(Argument): OnPageFinishedListener
+
+Candidate of Pattern References:
+A(Method Owner): K9WebViewClient
+B(Argument): WebView
+
+Candidate of Pattern References:
+A(Method Owner): K9WebViewClient
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): K9WebViewClient
+B(Argument): WebResourceResponse
+
+Candidate of Pattern References:
+A(Method Owner): MessageWebView
+B(Argument): AttachmentResolver
+
+Candidate of Pattern References:
+A(Method Owner): MessageWebView
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): MessageWebView
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessageWebView
+B(Argument): OnPageFinishedListener
+
+Candidate of Pattern References:
+A(Method Owner): MessageList
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): MessageList
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): MessageList
+B(Argument): MessageHeader
+
+Candidate of Pattern References:
+A(Method Owner): MessageList
+B(Argument): MotionEvent
+
+Candidate of Pattern References:
+A(Method Owner): MessageList
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): MessageList
+B(Argument): IntentSender
+
+Candidate of Pattern References:
+A(Method Owner): MessageList
+B(Argument): Menu
+
+Candidate of Pattern References:
+A(Method Owner): MessageList
+B(Argument): MessageListFragment
+
+Candidate of Pattern References:
+A(Method Owner): MessageList
+B(Argument): SearchSpecification
+
+Candidate of Pattern References:
+A(Method Owner): MessageList
+B(Argument): Parcelable
+
+Candidate of Pattern References:
+A(Method Owner): MessageList
+B(Argument): KeyEvent
+
+Candidate of Pattern References:
+A(Method Owner): MessageList
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): MessageList
+B(Argument): MenuItem
+
+Candidate of Pattern References:
+A(Method Owner): MessageList
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): ViewAttachmentAsyncTask
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): DateComparator
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): TextBodyTest
+B(Argument): TextBody
+
+Candidate of Pattern References:
+A(Method Owner): CapabilityResponse
+B(Argument): ImapList
+
+Candidate of Pattern References:
+A(Method Owner): TransportProvider
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): TransportProvider
+B(Argument): StoreConfig
+
+Candidate of Pattern References:
+A(Method Owner): TestUntaggedHandler
+B(Argument): ImapResponse
+
+Candidate of Pattern References:
+A(Method Owner): NotificationData
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): NotificationData
+B(Argument): NotificationContent
+
+Candidate of Pattern References:
+A(Method Owner): NotificationData
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): NotificationData
+B(Argument): NotificationHolder
+
+Candidate of Pattern References:
+A(Method Owner): HtmlToTextTagHandler
+B(Argument): Editable
+
+Candidate of Pattern References:
+A(Method Owner): HtmlToTextTagHandler
+B(Argument): XMLReader
+
+Candidate of Pattern References:
+A(Method Owner): SettingsImporter
+B(Argument): ImportedSettings
+
+Candidate of Pattern References:
+A(Method Owner): SettingsImporter
+B(Argument): ImportedFolder
+
+Candidate of Pattern References:
+A(Method Owner): SettingsImporter
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): SettingsImporter
+B(Argument): Storage
+
+Candidate of Pattern References:
+A(Method Owner): SettingsImporter
+B(Argument): XmlPullParser
+
+Candidate of Pattern References:
+A(Method Owner): SettingsImporter
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): SettingsImporter
+B(Argument): StorageEditor
+
+Candidate of Pattern References:
+A(Method Owner): SettingsImporter
+B(Argument): ImportedAccount
+
+Candidate of Pattern References:
+A(Method Owner): SettingsImporter
+B(Argument): Preferences
+
+Candidate of Pattern References:
+A(Method Owner): SettingsImporter
+B(Argument): ImportedIdentity
+
+Candidate of Pattern References:
+A(Method Owner): SettingsImporter
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): SimpleTextWatcher
+B(Argument): Editable
+
+Candidate of Pattern References:
+A(Method Owner): SimpleTextWatcher
+B(Argument): CharSequence
+
+Candidate of Pattern References:
+A(Method Owner): Pop3Message
+B(Argument): Flag
+
+Candidate of Pattern References:
+A(Method Owner): Pop3Message
+B(Argument): Pop3Folder
+
+Candidate of Pattern References:
+A(Method Owner): PendingAppend
+B(Argument): MessagingController
+
+Candidate of Pattern References:
+A(Method Owner): PendingAppend
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoDisplayStatus
+B(Argument): OpenPgpSignatureResult
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoDisplayStatus
+B(Argument): CryptoResultAnnotation
+
+Candidate of Pattern References:
+A(Method Owner): RecipientLoader
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): RecipientLoader
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): RecipientLoader
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): HtmlProcessor
+B(Argument): Document
+
+Candidate of Pattern References:
+A(Method Owner): HtmlProcessor
+B(Argument): HtmlSanitizer
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo30
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo31
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): AutocryptOpenPgpApiInteractor
+B(Argument): OpenPgpApi
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo34
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo35
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo32
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo33
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo39
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo36
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo37
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): FileHelper
+B(Argument): File
+
+Candidate of Pattern References:
+A(Method Owner): Account
+B(Argument): Expunge
+
+Candidate of Pattern References:
+A(Method Owner): Account
+B(Argument): NetworkType
+
+Candidate of Pattern References:
+A(Method Owner): Account
+B(Argument): ShowPictures
+
+Candidate of Pattern References:
+A(Method Owner): Account
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): Account
+B(Argument): X509Certificate
+
+Candidate of Pattern References:
+A(Method Owner): Account
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): Account
+B(Argument): Storage
+
+Candidate of Pattern References:
+A(Method Owner): Account
+B(Argument): SortType
+
+Candidate of Pattern References:
+A(Method Owner): Account
+B(Argument): DeletePolicy
+
+Candidate of Pattern References:
+A(Method Owner): Account
+B(Argument): FolderMode
+
+Candidate of Pattern References:
+A(Method Owner): Account
+B(Argument): QuoteStyle
+
+Candidate of Pattern References:
+A(Method Owner): Account
+B(Argument): StorageEditor
+
+Candidate of Pattern References:
+A(Method Owner): Account
+B(Argument): LocalSearch
+
+Candidate of Pattern References:
+A(Method Owner): Account
+B(Argument): Preferences
+
+Candidate of Pattern References:
+A(Method Owner): Account
+B(Argument): Address
+
+Candidate of Pattern References:
+A(Method Owner): Account
+B(Argument): MessageFormat
+
+Candidate of Pattern References:
+A(Method Owner): Account
+B(Argument): Searchable
+
+Candidate of Pattern References:
+A(Method Owner): Account
+B(Argument): CheckDirection
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo41
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo41
+B(Argument): MigrationsHelper
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo42
+B(Argument): MigrationsHelper
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo40
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo45
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo46
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo46
+B(Argument): MigrationsHelper
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo43
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo43
+B(Argument): MigrationsHelper
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo44
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo49
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo47
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MimeMessageParseTest
+B(Argument): InputStream
+
+Candidate of Pattern References:
+A(Method Owner): MimeMessageParseTest
+B(Argument): MimeMessage
+
+Candidate of Pattern References:
+A(Method Owner): MimeMessageParseTest
+B(Argument): Body
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo48
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): HasStarExtractor
+B(Argument): MessageInfoHolder
+
+Candidate of Pattern References:
+A(Method Owner): StoreImapSettings
+B(Argument): NetworkType
+
+Candidate of Pattern References:
+A(Method Owner): SimpleMessagingListener
+B(Argument): BaseAccount
+
+Candidate of Pattern References:
+A(Method Owner): SimpleMessagingListener
+B(Argument): Throwable
+
+Candidate of Pattern References:
+A(Method Owner): SimpleMessagingListener
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): SimpleMessagingListener
+B(Argument): Part
+
+Candidate of Pattern References:
+A(Method Owner): SimpleMessagingListener
+B(Argument): AccountStats
+
+Candidate of Pattern References:
+A(Method Owner): SimpleMessagingListener
+B(Argument): Message
+
+Candidate of Pattern References:
+A(Method Owner): SimpleMessagingListener
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): PgpEncryptDescriptionDialog
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): PgpEnabledErrorDialog
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): ConfirmationDialogFragment
+B(Argument): Activity
+
+Candidate of Pattern References:
+A(Method Owner): ConfirmationDialogFragment
+B(Argument): DialogInterface
+
+Candidate of Pattern References:
+A(Method Owner): ConfirmationDialogFragment
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): ChooseIdentity
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo52
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo53
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo50
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo50
+B(Argument): MigrationsHelper
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo51
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo51
+B(Argument): MimeStructureState
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo51
+B(Argument): MigrationsHelper
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo51
+B(Argument): File
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo51
+B(Argument): MimeHeader
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo51
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo56
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MessagesQueryHandler
+B(Argument): Uri
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo57
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo54
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): WearNotifications
+B(Argument): NotificationController
+
+Candidate of Pattern References:
+A(Method Owner): WearNotifications
+B(Argument): Builder
+
+Candidate of Pattern References:
+A(Method Owner): WearNotifications
+B(Argument): NotificationActionCreator
+
+Candidate of Pattern References:
+A(Method Owner): WearNotifications
+B(Argument): NotificationData
+
+Candidate of Pattern References:
+A(Method Owner): WearNotifications
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): WearNotifications
+B(Argument): NotificationHolder
+
+Candidate of Pattern References:
+A(Method Owner): WearNotifications
+B(Argument): WearableExtender
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo55
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo55
+B(Argument): MigrationsHelper
+
+Candidate of Pattern References:
+A(Method Owner): NotificationHolder
+B(Argument): NotificationContent
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo58
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo59
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolderPusher
+B(Argument): ImapStore
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolderPusher
+B(Argument): PushReceiver
+
+Candidate of Pattern References:
+A(Method Owner): ImapFolderPusher
+B(Argument): ImapResponse
+
+Candidate of Pattern References:
+A(Method Owner): FolderListAdapter
+B(Argument): ViewGroup
+
+Candidate of Pattern References:
+A(Method Owner): FolderListAdapter
+B(Argument): Filter
+
+Candidate of Pattern References:
+A(Method Owner): FolderListAdapter
+B(Argument): FolderInfoHolder
+
+Candidate of Pattern References:
+A(Method Owner): FolderListAdapter
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): FolderListAdapter
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo60
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo60
+B(Argument): OldPendingCommand
+
+Candidate of Pattern References:
+A(Method Owner): Base64
+B(Argument): Object
+
+Candidate of Pattern References:
+A(Method Owner): Base64
+B(Argument): BigInteger
+
+Candidate of Pattern References:
+A(Method Owner): BatchSetSelection
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): KeyChainKeyManager
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): KeyChainKeyManager
+B(Argument): SSLEngine
+
+Candidate of Pattern References:
+A(Method Owner): KeyChainKeyManager
+B(Argument): Socket
+
+Candidate of Pattern References:
+A(Method Owner): KeyChainKeyManager
+B(Argument): PrivateKey
+
+Candidate of Pattern References:
+A(Method Owner): MigrationTo61
+B(Argument): SQLiteDatabase
+
+Candidate of Pattern References:
+A(Method Owner): TransportUris
+B(Argument): ServerSettings
+
+Candidate of Pattern References:
+A(Method Owner): AccountList
+B(Argument): BaseAccount
+
+Candidate of Pattern References:
+A(Method Owner): AccountList
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): AccountList
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): ReplyToParserTest
+B(Argument): T
+
+Candidate of Pattern References:
+A(Method Owner): ConnectionSecurityHolder
+B(Argument): ConnectionSecurity
+
+Candidate of Pattern References:
+A(Method Owner): ConnectionSecurityHolder
+B(Argument): Resources
+
+Candidate of Pattern References:
+A(Method Owner): TextBody
+B(Argument): OutputStream
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoMvpView
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoMvpView
+B(Argument): IntentSender
+
+Candidate of Pattern References:
+A(Method Owner): MessageCryptoMvpView
+B(Argument): MessageCryptoDisplayStatus
+
+Candidate of Pattern References:
+A(Method Owner): RecipientTokenSpan
+B(Argument): Recipient
+
+Candidate of Pattern References:
+A(Method Owner): RecipientTokenSpan
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): EmailProviderCacheCursor
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): EmailProviderCacheCursor
+B(Argument): Cursor
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupComposition
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupComposition
+B(Argument): Activity
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupComposition
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): AccountSetupComposition
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): ImapStoreSettings
+B(Argument): ConnectionSecurity
+
+Candidate of Pattern References:
+A(Method Owner): ImapStoreSettings
+B(Argument): AuthType
+
+Candidate of Pattern References:
+A(Method Owner): ImapSettings
+B(Argument): NetworkType
+
+Candidate of Pattern References:
+A(Method Owner): SavedState
+B(Argument): Parcel
+
+Candidate of Pattern References:
+A(Method Owner): SavedState
+B(Argument): Parcelable
+
+Candidate of Pattern References:
+A(Method Owner): RealMigrationsHelper
+B(Argument): LocalStore
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragmentListener
+B(Argument): MessageReference
+
+Candidate of Pattern References:
+A(Method Owner): MessageListFragmentListener
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): MessageCompose
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): MessageCompose
+B(Argument): AttachmentDownloadDialogFragment
+
+Candidate of Pattern References:
+A(Method Owner): MessageCompose
+B(Argument): MailTo
+
+Candidate of Pattern References:
+A(Method Owner): MessageCompose
+B(Argument): MessagingException
+
+Candidate of Pattern References:
+A(Method Owner): MessageCompose
+B(Argument): ProgressDialogFragment
+
+Candidate of Pattern References:
+A(Method Owner): MessageCompose
+B(Argument): MessageViewInfo
+
+Candidate of Pattern References:
+A(Method Owner): MessageCompose
+B(Argument): Menu
+
+Candidate of Pattern References:
+A(Method Owner): MessageCompose
+B(Argument): PendingIntent
+
+Candidate of Pattern References:
+A(Method Owner): MessageCompose
+B(Argument): Bundle
+
+Candidate of Pattern References:
+A(Method Owner): MessageCompose
+B(Argument): MimeMessage
+
+Candidate of Pattern References:
+A(Method Owner): MessageCompose
+B(Argument): SimpleMessageFormat
+
+Candidate of Pattern References:
+A(Method Owner): MessageCompose
+B(Argument): Action
+
+Candidate of Pattern References:
+A(Method Owner): MessageCompose
+B(Argument): MenuItem
+
+Candidate of Pattern References:
+A(Method Owner): MessageCompose
+B(Argument): View
+
+Candidate of Pattern References:
+A(Method Owner): MessageCompose
+B(Argument): Account
+
+Candidate of Pattern References:
+A(Method Owner): MessageCompose
+B(Argument): Identity
+
+Candidate of Pattern References:
+A(Method Owner): IOpenPgpSinkResultCallback
+B(Argument): T
+
+Candidate of Pattern References:
+A(Method Owner): IOpenPgpSinkResultCallback
+B(Argument): Intent
+
+Candidate of Pattern References:
+A(Method Owner): WebDavStoreUriCreator
+B(Argument): ServerSettings
+
+Candidate of Pattern References:
+A(Method Owner): ComparatorChain
+B(Argument): T
+
+Candidate of Pattern References:
+A(Method Owner): CertificateValidationException
+B(Argument): Throwable
+
+Candidate of Pattern References:
+A(Method Owner): CertificateValidationException
+B(Argument): Reason
+
+Candidate of Pattern References:
+A(Method Owner): ToolableViewAnimator
+B(Argument): ViewGroup.LayoutParams
+
+Candidate of Pattern References:
+A(Method Owner): ToolableViewAnimator
+B(Argument): AttributeSet
+
+Candidate of Pattern References:
+A(Method Owner): ToolableViewAnimator
+B(Argument): Context
+
+Candidate of Pattern References:
+A(Method Owner): ToolableViewAnimator
+B(Argument): View

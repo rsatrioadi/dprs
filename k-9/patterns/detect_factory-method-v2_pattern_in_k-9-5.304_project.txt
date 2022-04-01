@@ -1,0 +1,181 @@
+Amount of Candidates found: 30
+
+Candidate of Pattern Factoy Method v2:
+A(Product): SizeAware
+B(Concrete Product): BinaryTempFileBody
+C(Creator): MessageBuilder
+D(Concrete Creator): PgpMessageBuilder
+
+Candidate of Pattern Factoy Method v2:
+A(Product): SizeAware
+B(Concrete Product): BinaryTempFileBody
+C(Creator): BodyFactory
+D(Concrete Creator): DefaultBodyFactory
+
+Candidate of Pattern Factoy Method v2:
+A(Product): SizeAware
+B(Concrete Product): BinaryMemoryBody
+C(Creator): MessageBuilder
+D(Concrete Creator): PgpMessageBuilder
+
+Candidate of Pattern Factoy Method v2:
+A(Product): SizeAware
+B(Concrete Product): TextBody
+C(Creator): MessageBuilder
+D(Concrete Creator): PgpMessageBuilder
+
+Candidate of Pattern Factoy Method v2:
+A(Product): Pusher
+B(Concrete Product): ImapPusher
+C(Creator): RemoteStore
+D(Concrete Creator): ImapStore
+
+Candidate of Pattern Factoy Method v2:
+A(Product): PermissionPingCallback
+B(Concrete Product): RecipientPresenter
+C(Creator): OnOpenPgpInlineChangeListener
+D(Concrete Creator): MessageCompose
+
+Candidate of Pattern Factoy Method v2:
+A(Product): PermissionPingCallback
+B(Concrete Product): RecipientPresenter
+C(Creator): OnOpenPgpSignOnlyChangeListener
+D(Concrete Creator): MessageCompose
+
+Candidate of Pattern Factoy Method v2:
+A(Product): PermissionPingCallback
+B(Concrete Product): RecipientPresenter
+C(Creator): K9Activity
+D(Concrete Creator): MessageCompose
+
+Candidate of Pattern Factoy Method v2:
+A(Product): PermissionPingCallback
+B(Concrete Product): RecipientPresenter
+C(Creator): CancelListener
+D(Concrete Creator): MessageCompose
+
+Candidate of Pattern Factoy Method v2:
+A(Product): PermissionPingCallback
+B(Concrete Product): RecipientPresenter
+C(Creator): AttachmentDownloadCancelListener
+D(Concrete Creator): MessageCompose
+
+Candidate of Pattern Factoy Method v2:
+A(Product): PermissionPingCallback
+B(Concrete Product): RecipientPresenter
+C(Creator): OnOpenPgpDisableListener
+D(Concrete Creator): MessageCompose
+
+Candidate of Pattern Factoy Method v2:
+A(Product): BodyFactory
+B(Concrete Product): DefaultBodyFactory
+C(Creator): Message
+D(Concrete Creator): MimeMessage
+
+Candidate of Pattern Factoy Method v2:
+A(Product): SearchSpecification
+B(Concrete Product): LocalSearch
+C(Creator): OnOpenPgpInlineChangeListener
+D(Concrete Creator): MessageCompose
+
+Candidate of Pattern Factoy Method v2:
+A(Product): SearchSpecification
+B(Concrete Product): LocalSearch
+C(Creator): BaseAccount
+D(Concrete Creator): SearchAccount
+
+Candidate of Pattern Factoy Method v2:
+A(Product): SearchSpecification
+B(Concrete Product): LocalSearch
+C(Creator): OnOpenPgpSignOnlyChangeListener
+D(Concrete Creator): MessageCompose
+
+Candidate of Pattern Factoy Method v2:
+A(Product): SearchSpecification
+B(Concrete Product): LocalSearch
+C(Creator): K9Activity
+D(Concrete Creator): MessageCompose
+
+Candidate of Pattern Factoy Method v2:
+A(Product): SearchSpecification
+B(Concrete Product): LocalSearch
+C(Creator): CancelListener
+D(Concrete Creator): MessageCompose
+
+Candidate of Pattern Factoy Method v2:
+A(Product): SearchSpecification
+B(Concrete Product): LocalSearch
+C(Creator): Store
+D(Concrete Creator): LocalStore
+
+Candidate of Pattern Factoy Method v2:
+A(Product): SearchSpecification
+B(Concrete Product): LocalSearch
+C(Creator): AttachmentDownloadCancelListener
+D(Concrete Creator): MessageCompose
+
+Candidate of Pattern Factoy Method v2:
+A(Product): SearchSpecification
+B(Concrete Product): LocalSearch
+C(Creator): OnOpenPgpDisableListener
+D(Concrete Creator): MessageCompose
+
+Candidate of Pattern Factoy Method v2:
+A(Product): Body
+B(Concrete Product): BinaryTempFileMessageBody
+C(Creator): BodyFactory
+D(Concrete Creator): DefaultBodyFactory
+
+Candidate of Pattern Factoy Method v2:
+A(Product): Body
+B(Concrete Product): BinaryMemoryBody
+C(Creator): MessageBuilder
+D(Concrete Creator): PgpMessageBuilder
+
+Candidate of Pattern Factoy Method v2:
+A(Product): Body
+B(Concrete Product): TextBody
+C(Creator): MessageBuilder
+D(Concrete Creator): PgpMessageBuilder
+
+Candidate of Pattern Factoy Method v2:
+A(Product): OnCryptoClickListener
+B(Concrete Product): MessageCryptoPresenter
+C(Creator): AttachmentViewCallback
+D(Concrete Creator): MessageViewFragment
+
+Candidate of Pattern Factoy Method v2:
+A(Product): OnCryptoClickListener
+B(Concrete Product): MessageCryptoPresenter
+C(Creator): ConfirmationDialogFragmentListener
+D(Concrete Creator): MessageViewFragment
+
+Candidate of Pattern Factoy Method v2:
+A(Product): OnCryptoClickListener
+B(Concrete Product): MessageCryptoPresenter
+C(Creator): OnClickShowCryptoKeyListener
+D(Concrete Creator): MessageViewFragment
+
+Candidate of Pattern Factoy Method v2:
+A(Product): ImapSettings
+B(Concrete Product): StoreImapSettings
+C(Creator): RemoteStore
+D(Concrete Creator): ImapStore
+
+Candidate of Pattern Factoy Method v2:
+A(Product): RawDataBody
+B(Concrete Product): BinaryTempFileBody
+C(Creator): MessageBuilder
+D(Concrete Creator): PgpMessageBuilder
+
+Candidate of Pattern Factoy Method v2:
+A(Product): RawDataBody
+B(Concrete Product): BinaryTempFileBody
+C(Creator): BodyFactory
+D(Concrete Creator): DefaultBodyFactory
+
+Candidate of Pattern Factoy Method v2:
+A(Product): RawDataBody
+B(Concrete Product): BinaryMemoryBody
+C(Creator): MessageBuilder
+D(Concrete Creator): PgpMessageBuilder

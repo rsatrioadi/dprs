@@ -1,0 +1,67 @@
+Amount of Candidates found: 11
+
+Candidate of Pattern Bridge v2:
+A(Refined Abstraction): Pop3Store
+B(Abstraction): RemoteStore
+C(Concrete Implementor): Account
+D(Implementor): StoreConfig
+
+Candidate of Pattern Bridge v2:
+A(Refined Abstraction): PgpMessageBuilder
+B(Abstraction): MessageBuilder
+C(Concrete Implementor): BinaryTempFileMessageBody
+D(Implementor): Body
+
+Candidate of Pattern Bridge v2:
+A(Refined Abstraction): PgpMessageBuilder
+B(Abstraction): MessageBuilder
+C(Concrete Implementor): FileBackedBody
+D(Implementor): Body
+
+Candidate of Pattern Bridge v2:
+A(Refined Abstraction): PgpMessageBuilder
+B(Abstraction): MessageBuilder
+C(Concrete Implementor): BinaryMemoryBody
+D(Implementor): Body
+
+Candidate of Pattern Bridge v2:
+A(Refined Abstraction): PgpMessageBuilder
+B(Abstraction): MessageBuilder
+C(Concrete Implementor): TextBody
+D(Implementor): Body
+
+Candidate of Pattern Bridge v2:
+A(Refined Abstraction): ImapStore
+B(Abstraction): RemoteStore
+C(Concrete Implementor): Account
+D(Implementor): StoreConfig
+
+Candidate of Pattern Bridge v2:
+A(Refined Abstraction): ChooseAccount
+B(Abstraction): AccountList
+C(Concrete Implementor): SearchAccount
+D(Implementor): BaseAccount
+
+Candidate of Pattern Bridge v2:
+A(Refined Abstraction): ChooseAccount
+B(Abstraction): AccountList
+C(Concrete Implementor): Account
+D(Implementor): BaseAccount
+
+Candidate of Pattern Bridge v2:
+A(Refined Abstraction): LauncherShortcuts
+B(Abstraction): AccountList
+C(Concrete Implementor): SearchAccount
+D(Implementor): BaseAccount
+
+Candidate of Pattern Bridge v2:
+A(Refined Abstraction): LauncherShortcuts
+B(Abstraction): AccountList
+C(Concrete Implementor): Account
+D(Implementor): BaseAccount
+
+Candidate of Pattern Bridge v2:
+A(Refined Abstraction): WebDavStore
+B(Abstraction): RemoteStore
+C(Concrete Implementor): Account
+D(Implementor): StoreConfig

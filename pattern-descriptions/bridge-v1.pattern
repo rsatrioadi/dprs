@@ -1,0 +1,11 @@
+Bridge v1
+A Normal Refined Abstraction
+B Abstracted Abstraction
+C Normal Concrete Implementor
+D Abstracted Implementor
+End_Members
+A inherits B
+C inherits D
+B has D
+B calls D
+End_Connections

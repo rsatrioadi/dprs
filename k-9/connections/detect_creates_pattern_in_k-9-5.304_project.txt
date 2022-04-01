@@ -1,0 +1,7689 @@
+Amount of Candidates found: 1922
+
+Candidate of Pattern Creates:
+A(Creator): NotificationDataTest
+B(Instance): MessageReference
+
+Candidate of Pattern Creates:
+A(Creator): NotificationDataTest
+B(Instance): NotificationContent
+
+Candidate of Pattern Creates:
+A(Creator): NotificationDataTest
+B(Instance): NotificationData
+
+Candidate of Pattern Creates:
+A(Creator): SliderPreference
+B(Instance): SeekBar.OnSeekBarChangeListener
+
+Candidate of Pattern Creates:
+A(Creator): SliderPreference
+B(Instance): Bundle
+
+Candidate of Pattern Creates:
+A(Creator): CommandResponse
+B(Instance): NegativeSmtpReplyException
+
+Candidate of Pattern Creates:
+A(Creator): CommandResponse
+B(Instance): EnhancedNegativeSmtpReplyException
+
+Candidate of Pattern Creates:
+A(Creator): CommandResponse
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): CommandResponse
+B(Instance): AuthenticationFailedException
+
+Candidate of Pattern Creates:
+A(Creator): CommandResponse
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): HttpUriParserTest
+B(Instance): StringBuffer
+
+Candidate of Pattern Creates:
+A(Creator): HttpUriParserTest
+B(Instance): HttpUriParser
+
+Candidate of Pattern Creates:
+A(Creator): SetPasswordsAsyncTask
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): SetPasswordsAsyncTask
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): SetPasswordsAsyncTask
+B(Instance): DialogInterface.OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): SetPasswordsAsyncTask
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): SetPasswordsAsyncTask
+B(Instance): AlertDialog.Builder
+
+Candidate of Pattern Creates:
+A(Creator): SetPasswordsAsyncTask
+B(Instance): ChangeLog
+
+Candidate of Pattern Creates:
+A(Creator): SetPasswordsAsyncTask
+B(Instance): ListImportContentsAsyncTask
+
+Candidate of Pattern Creates:
+A(Creator): SetPasswordsAsyncTask
+B(Instance): MoveAccountAsyncTask
+
+Candidate of Pattern Creates:
+A(Creator): SetPasswordsAsyncTask
+B(Instance): WebView
+
+Candidate of Pattern Creates:
+A(Creator): SetPasswordsAsyncTask
+B(Instance): SimpleDialog
+
+Candidate of Pattern Creates:
+A(Creator): PreviewTextExtractorTest
+B(Instance): MimeBodyPart
+
+Candidate of Pattern Creates:
+A(Creator): PreviewTextExtractorTest
+B(Instance): PreviewTextExtractor
+
+Candidate of Pattern Creates:
+A(Creator): CheckBoxListPreference
+B(Instance): DialogInterface.OnMultiChoiceClickListener
+
+Candidate of Pattern Creates:
+A(Creator): BoundaryGeneratorTest
+B(Instance): BoundaryGenerator
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpDataSink
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpDataSink
+B(Instance): OpenPgpError
+
+Candidate of Pattern Creates:
+A(Creator): DeferredFileOutputStream
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): DeferredFileOutputStream
+B(Instance): ByteArrayOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): DeferredFileOutputStream
+B(Instance): FileOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): IdentityHeaderBuilder
+B(Instance): Uri.Builder
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransport
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransport
+B(Instance): LinkedList<>
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransport
+B(Instance): LineWrapOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransport
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransport
+B(Instance): PeekableInputStream
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransport
+B(Instance): BufferedInputStream
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransport
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransport
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransport
+B(Instance): Socket
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransport
+B(Instance): EOLConvertingOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransport
+B(Instance): InetSocketAddress
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransport
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransport
+B(Instance): BufferedOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransport
+B(Instance): SmtpDataStuffing
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransport
+B(Instance): CertificateValidationException
+
+Candidate of Pattern Creates:
+A(Creator): SecureX509TrustManager
+B(Instance): CertificateChainException
+
+Candidate of Pattern Creates:
+A(Creator): SecureX509TrustManager
+B(Instance): HashMap<String, SecureX509TrustManager>
+
+Candidate of Pattern Creates:
+A(Creator): SecureX509TrustManager
+B(Instance): StrictHostnameVerifier
+
+Candidate of Pattern Creates:
+A(Creator): MockSmtpServer
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): MockSmtpServer
+B(Instance): ConcurrentLinkedDeque<>
+
+Candidate of Pattern Creates:
+A(Creator): MockSmtpServer
+B(Instance): CountDownLatch
+
+Candidate of Pattern Creates:
+A(Creator): MockSmtpServer
+B(Instance): ExpectedCommand
+
+Candidate of Pattern Creates:
+A(Creator): MockSmtpServer
+B(Instance): MockServerThread
+
+Candidate of Pattern Creates:
+A(Creator): MockSmtpServer
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): MockSmtpServer
+B(Instance): ServerSocket
+
+Candidate of Pattern Creates:
+A(Creator): MockSmtpServer
+B(Instance): DefaultLogger
+
+Candidate of Pattern Creates:
+A(Creator): MockSmtpServer
+B(Instance): CloseConnection
+
+Candidate of Pattern Creates:
+A(Creator): MockSmtpServer
+B(Instance): CannedResponse
+
+Candidate of Pattern Creates:
+A(Creator): MailToTest
+B(Instance): CaseInsensitiveParamWrapper
+
+Candidate of Pattern Creates:
+A(Creator): AccountsAdapter
+B(Instance): ColorChip
+
+Candidate of Pattern Creates:
+A(Creator): AccountsAdapter
+B(Instance): AccountViewHolder
+
+Candidate of Pattern Creates:
+A(Creator): AccountsAdapter
+B(Instance): AccountClickListener
+
+Candidate of Pattern Creates:
+A(Creator): AccountsAdapter
+B(Instance): OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): AccountsAdapter
+B(Instance): LocalSearch
+
+Candidate of Pattern Creates:
+A(Creator): MoreMessages
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): MockImapServer
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): MockImapServer
+B(Instance): ConcurrentLinkedDeque<>
+
+Candidate of Pattern Creates:
+A(Creator): MockImapServer
+B(Instance): EnableCompression
+
+Candidate of Pattern Creates:
+A(Creator): MockImapServer
+B(Instance): CountDownLatch
+
+Candidate of Pattern Creates:
+A(Creator): MockImapServer
+B(Instance): ExpectedCommand
+
+Candidate of Pattern Creates:
+A(Creator): MockImapServer
+B(Instance): UpgradeToTls
+
+Candidate of Pattern Creates:
+A(Creator): MockImapServer
+B(Instance): MockServerThread
+
+Candidate of Pattern Creates:
+A(Creator): MockImapServer
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): MockImapServer
+B(Instance): ServerSocket
+
+Candidate of Pattern Creates:
+A(Creator): MockImapServer
+B(Instance): DefaultLogger
+
+Candidate of Pattern Creates:
+A(Creator): MockImapServer
+B(Instance): CloseConnection
+
+Candidate of Pattern Creates:
+A(Creator): MockImapServer
+B(Instance): CannedResponse
+
+Candidate of Pattern Creates:
+A(Creator): QueryHandler
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): QueryHandler
+B(Instance): Bundle
+
+Candidate of Pattern Creates:
+A(Creator): LockedAttachmentView
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): MessageReference
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): MessageReference
+B(Instance): StringTokenizer
+
+Candidate of Pattern Creates:
+A(Creator): DeletePolicySetting
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): DeletePolicySetting
+B(Instance): InvalidSettingValueException
+
+Candidate of Pattern Creates:
+A(Creator): UrlEncodingHelper
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): MessageContainerView
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): MessageContainerView
+B(Instance): DownloadImageTask
+
+Candidate of Pattern Creates:
+A(Creator): MessageContainerView
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageContainerView
+B(Instance): OnPageFinishedListener
+
+Candidate of Pattern Creates:
+A(Creator): MessageContainerView
+B(Instance): OnMenuItemClickListener
+
+Candidate of Pattern Creates:
+A(Creator): MessageContainerView
+B(Instance): Address
+
+Candidate of Pattern Creates:
+A(Creator): MessageContainerView
+B(Instance): SavedState
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpApi
+B(Instance): AtomicInteger
+
+Candidate of Pattern Creates:
+A(Creator): DownloadImageTask
+B(Instance): URL
+
+Candidate of Pattern Creates:
+A(Creator): DownloadImageTask
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): DownloadImageTask
+B(Instance): FileOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): BaseNotifications
+B(Instance): BigTextStyle
+
+Candidate of Pattern Creates:
+A(Creator): TimePickerPreference
+B(Instance): TimePicker
+
+Candidate of Pattern Creates:
+A(Creator): TempFileBody
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): TempFileBody
+B(Instance): FileInputStream
+
+Candidate of Pattern Creates:
+A(Creator): TempFileBody
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): FoldableLinearLayout
+B(Instance): TypedValue
+
+Candidate of Pattern Creates:
+A(Creator): FoldableLinearLayout
+B(Instance): SavedState
+
+Candidate of Pattern Creates:
+A(Creator): TestImapPusher
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): NotificationController
+B(Instance): NotificationCompat.Builder
+
+Candidate of Pattern Creates:
+A(Creator): NotificationController
+B(Instance): CertificateErrorNotifications
+
+Candidate of Pattern Creates:
+A(Creator): NotificationController
+B(Instance): SendFailedNotifications
+
+Candidate of Pattern Creates:
+A(Creator): NotificationController
+B(Instance): SyncNotifications
+
+Candidate of Pattern Creates:
+A(Creator): NotificationController
+B(Instance): NotificationActionCreator
+
+Candidate of Pattern Creates:
+A(Creator): NotificationController
+B(Instance): AuthenticationErrorNotifications
+
+Candidate of Pattern Creates:
+A(Creator): AccountCreator
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): AccountCreator
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): ImapResponseParser
+B(Instance): ArrayList<ImapResponse>
+
+Candidate of Pattern Creates:
+A(Creator): ImapResponseParser
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): ImapResponseParser
+B(Instance): NegativeImapResponseException
+
+Candidate of Pattern Creates:
+A(Creator): ImapResponseParser
+B(Instance): IOException
+
+Candidate of Pattern Creates:
+A(Creator): ImapResponseParser
+B(Instance): ImapList
+
+Candidate of Pattern Creates:
+A(Creator): ImapResponseParser
+B(Instance): FixedLengthInputStream
+
+Candidate of Pattern Creates:
+A(Creator): ImapResponseParser
+B(Instance): String
+
+Candidate of Pattern Creates:
+A(Creator): ImapResponseParser
+B(Instance): ImapResponseParserException
+
+Candidate of Pattern Creates:
+A(Creator): ImapResponseParser
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupIncoming
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupIncoming
+B(Instance): OnCheckedChangeListener
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupIncoming
+B(Instance): OnClientCertificateChangedListener
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupIncoming
+B(Instance): TextWatcher
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupIncoming
+B(Instance): URI
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupIncoming
+B(Instance): HashMap<String, String>
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupIncoming
+B(Instance): AdapterView.OnItemSelectedListener
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupIncoming
+B(Instance): ServerSettings
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupIncoming
+B(Instance): Exception
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentInfoExtractor
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentInfoExtractor
+B(Instance): AttachmentViewInfo
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentInfoExtractor
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): CharsetSupportTest
+B(Instance): MimeMessage
+
+Candidate of Pattern Creates:
+A(Creator): CertificateErrorNotificationsTest
+B(Instance): TestCertificateErrorNotifications
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Store
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Store
+B(Instance): HashMap<String, Folder>
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Store
+B(Instance): LinkedList<Folder>
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Store
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Store
+B(Instance): URI
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Store
+B(Instance): Pop3Folder
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Store
+B(Instance): ServerSettings
+
+Candidate of Pattern Creates:
+A(Creator): ReplyToParser
+B(Instance): ReplyToAddresses
+
+Candidate of Pattern Creates:
+A(Creator): ReplyToParser
+B(Instance): HashSet<>
+
+Candidate of Pattern Creates:
+A(Creator): ReplyToParser
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): AutocryptOperations
+B(Instance): AutocryptHeader
+
+Candidate of Pattern Creates:
+A(Creator): ServerNameSuggesterTest
+B(Instance): ServerNameSuggester
+
+Candidate of Pattern Creates:
+A(Creator): InsertionLocation
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): DefaultBodyFactory
+B(Instance): BinaryTempFileBody
+
+Candidate of Pattern Creates:
+A(Creator): DefaultBodyFactory
+B(Instance): BinaryTempFileMessageBody
+
+Candidate of Pattern Creates:
+A(Creator): BinaryTempFileBody
+B(Instance): Base64OutputStream
+
+Candidate of Pattern Creates:
+A(Creator): BinaryTempFileBody
+B(Instance): QuotedPrintableOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): BinaryTempFileBody
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): BinaryTempFileBody
+B(Instance): FileInputStream
+
+Candidate of Pattern Creates:
+A(Creator): BinaryTempFileBody
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): BinaryTempFileBody
+B(Instance): BinaryTempFileBodyInputStream
+
+Candidate of Pattern Creates:
+A(Creator): BinaryTempFileBody
+B(Instance): FileOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): Theme
+B(Instance): AsyncTask<Void, Void, Void>
+
+Candidate of Pattern Creates:
+A(Creator): Theme
+B(Instance): DebugTree
+
+Candidate of Pattern Creates:
+A(Creator): Theme
+B(Instance): GregorianCalendar
+
+Candidate of Pattern Creates:
+A(Creator): Base64OutputStream
+B(Instance): NullPointerException
+
+Candidate of Pattern Creates:
+A(Creator): Base64OutputStream
+B(Instance): IndexOutOfBoundsException
+
+Candidate of Pattern Creates:
+A(Creator): Base64OutputStream
+B(Instance): Base64
+
+Candidate of Pattern Creates:
+A(Creator): MimeMultipart
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): MimeMultipart
+B(Instance): BufferedWriter
+
+Candidate of Pattern Creates:
+A(Creator): MimeMultipart
+B(Instance): UnsupportedOperationException
+
+Candidate of Pattern Creates:
+A(Creator): MimeMultipart
+B(Instance): OutputStreamWriter
+
+Candidate of Pattern Creates:
+A(Creator): LoadingState
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): LoadingState
+B(Instance): Attachment
+
+Candidate of Pattern Creates:
+A(Creator): LoadingState
+B(Instance): Parcelable.Creator<Attachment>
+
+Candidate of Pattern Creates:
+A(Creator): FolderListFilter
+B(Instance): ArrayList<T>
+
+Candidate of Pattern Creates:
+A(Creator): FolderListFilter
+B(Instance): FilterResults
+
+Candidate of Pattern Creates:
+A(Creator): FolderType
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): PgpInlineDialog
+B(Instance): AlertDialog.Builder
+
+Candidate of Pattern Creates:
+A(Creator): PgpInlineDialog
+B(Instance): OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): PgpInlineDialog
+B(Instance): Bundle
+
+Candidate of Pattern Creates:
+A(Creator): ImportedSettings
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): ReconstructMessageFromDatabaseTest
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): ReconstructMessageFromDatabaseTest
+B(Instance): DummyAccount
+
+Candidate of Pattern Creates:
+A(Creator): ReconstructMessageFromDatabaseTest
+B(Instance): ByteArrayOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): ReconstructMessageFromDatabaseTest
+B(Instance): RenamingDelegatingContext
+
+Candidate of Pattern Creates:
+A(Creator): ReconstructMessageFromDatabaseTest
+B(Instance): String
+
+Candidate of Pattern Creates:
+A(Creator): ReconstructMessageFromDatabaseTest
+B(Instance): BinaryMemoryBody
+
+Candidate of Pattern Creates:
+A(Creator): ReconstructMessageFromDatabaseTest
+B(Instance): MimeMessage
+
+Candidate of Pattern Creates:
+A(Creator): ReconstructMessageFromDatabaseTest
+B(Instance): FetchProfile
+
+Candidate of Pattern Creates:
+A(Creator): ImapPusher
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): ImapPusher
+B(Instance): ImapFolderPusher
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpAppSelectDialog
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpAppSelectDialog
+B(Instance): OpenPgpAppSelectFragment
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpAppSelectDialog
+B(Instance): ApgDeprecationDialogFragment
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpAppSelectDialog
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): MigrationMimeStructureStateTest
+B(Instance): ContentValues
+
+Candidate of Pattern Creates:
+A(Creator): RigidWebView
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): RigidWebView
+B(Instance): Throttle
+
+Candidate of Pattern Creates:
+A(Creator): StoreSchemaDefinition
+B(Instance): Error
+
+Candidate of Pattern Creates:
+A(Creator): StoreSchemaDefinition
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): StoreSchemaDefinition
+B(Instance): RealMigrationsHelper
+
+Candidate of Pattern Creates:
+A(Creator): AccountsQueryHandler
+B(Instance): MatrixCursor
+
+Candidate of Pattern Creates:
+A(Creator): MailService
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): MailService
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): ImapResponseHelper
+B(Instance): ImapResponseParser
+
+Candidate of Pattern Creates:
+A(Creator): ImapResponseHelper
+B(Instance): PeekableInputStream
+
+Candidate of Pattern Creates:
+A(Creator): ImapResponseHelper
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): KeyStoreProvider
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentResolverTest
+B(Instance): AttachmentViewInfo
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentResolverTest
+B(Instance): MimeBodyPart
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentDownloadDialogFragment
+B(Instance): ProgressDialog
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentDownloadDialogFragment
+B(Instance): Bundle
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentDownloadDialogFragment
+B(Instance): SimpleMessagingListener
+
+Candidate of Pattern Creates:
+A(Creator): WelcomeMessage
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): MessagePreviewCreator
+B(Instance): EncryptionDetector
+
+Candidate of Pattern Creates:
+A(Creator): MessagePreviewCreator
+B(Instance): TextPartFinder
+
+Candidate of Pattern Creates:
+A(Creator): MessagePreviewCreator
+B(Instance): PreviewTextExtractor
+
+Candidate of Pattern Creates:
+A(Creator): AuthenticationErrorNotificationsTest
+B(Instance): TestAuthenticationErrorNotifications
+
+Candidate of Pattern Creates:
+A(Creator): TracingPowerManager
+B(Instance): TracingWakeLock
+
+Candidate of Pattern Creates:
+A(Creator): TracingPowerManager
+B(Instance): Timer
+
+Candidate of Pattern Creates:
+A(Creator): TracingPowerManager
+B(Instance): AtomicInteger
+
+Candidate of Pattern Creates:
+A(Creator): TestImapStore
+B(Instance): ArrayDeque<>
+
+Candidate of Pattern Creates:
+A(Creator): TestImapStore
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolder
+B(Instance): LinkedHashSet<>
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolder
+B(Instance): ImapSearcher
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolder
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolder
+B(Instance): ThreadLocal<SimpleDateFormat>
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolder
+B(Instance): MimeBodyPart
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolder
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolder
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolder
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolder
+B(Instance): Error
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolder
+B(Instance): FetchBodyCallback
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolder
+B(Instance): ImapMessage
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolder
+B(Instance): EOLConvertingOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolder
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolder
+B(Instance): SimpleDateFormat
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolder
+B(Instance): ConcurrentHashMap<Long, String>
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolder
+B(Instance): ArrayList<String>
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolder
+B(Instance): FetchPartCallback
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolder
+B(Instance): ImapPushState
+
+Candidate of Pattern Creates:
+A(Creator): MergeCursor
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): QuotedMessagePresenter
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): QuotedMessagePresenter
+B(Instance): InsertableHtmlContent
+
+Candidate of Pattern Creates:
+A(Creator): TestImapResponseCallback
+B(Instance): ImapResponseParserTestException
+
+Candidate of Pattern Creates:
+A(Creator): ManageIdentities
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): ManageIdentities
+B(Instance): AdapterView.OnItemClickListener
+
+Candidate of Pattern Creates:
+A(Creator): BootReceiver
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): LocalKeyStoreHolder
+B(Instance): LocalKeyStore
+
+Candidate of Pattern Creates:
+A(Creator): LocalKeyStoreHolder
+B(Instance): CertificateException
+
+Candidate of Pattern Creates:
+A(Creator): LocalKeyStoreHolder
+B(Instance): FileInputStream
+
+Candidate of Pattern Creates:
+A(Creator): LocalKeyStoreHolder
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): LocalKeyStoreHolder
+B(Instance): java.io.FileOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): FixedStorageProviderBase
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): MailTo
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): MailTo
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): MailTo
+B(Instance): CaseInsensitiveParamWrapper
+
+Candidate of Pattern Creates:
+A(Creator): MailTo
+B(Instance): NullPointerException
+
+Candidate of Pattern Creates:
+A(Creator): PushRunnable
+B(Instance): ArrayList<ImapResponse>
+
+Candidate of Pattern Creates:
+A(Creator): PushRunnable
+B(Instance): ArrayList<Long>
+
+Candidate of Pattern Creates:
+A(Creator): PushRunnable
+B(Instance): ArrayList<Message>
+
+Candidate of Pattern Creates:
+A(Creator): PushRunnable
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): PushRunnable
+B(Instance): ImapMessage
+
+Candidate of Pattern Creates:
+A(Creator): PushRunnable
+B(Instance): LinkedList<String>
+
+Candidate of Pattern Creates:
+A(Creator): GlobalSettings
+B(Instance): V
+
+Candidate of Pattern Creates:
+A(Creator): GlobalSettings
+B(Instance): ColorSetting
+
+Candidate of Pattern Creates:
+A(Creator): GlobalSettings
+B(Instance): LinkedHashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): GlobalSettings
+B(Instance): SubThemeSetting
+
+Candidate of Pattern Creates:
+A(Creator): GlobalSettings
+B(Instance): EnumSetting<>
+
+Candidate of Pattern Creates:
+A(Creator): GlobalSettings
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): GlobalSettings
+B(Instance): WebFontSizeSetting
+
+Candidate of Pattern Creates:
+A(Creator): GlobalSettings
+B(Instance): LanguageSetting
+
+Candidate of Pattern Creates:
+A(Creator): GlobalSettings
+B(Instance): TimeSetting
+
+Candidate of Pattern Creates:
+A(Creator): GlobalSettings
+B(Instance): IntegerRangeSetting
+
+Candidate of Pattern Creates:
+A(Creator): GlobalSettings
+B(Instance): ThemeSetting
+
+Candidate of Pattern Creates:
+A(Creator): GlobalSettings
+B(Instance): StringSetting
+
+Candidate of Pattern Creates:
+A(Creator): GlobalSettings
+B(Instance): DirectorySetting
+
+Candidate of Pattern Creates:
+A(Creator): GlobalSettings
+B(Instance): BooleanSetting
+
+Candidate of Pattern Creates:
+A(Creator): GlobalSettings
+B(Instance): SettingsUpgraderV24
+
+Candidate of Pattern Creates:
+A(Creator): GlobalSettings
+B(Instance): SettingsUpgraderV12
+
+Candidate of Pattern Creates:
+A(Creator): GlobalSettings
+B(Instance): FontSizeSetting
+
+Candidate of Pattern Creates:
+A(Creator): GlobalSettings
+B(Instance): SettingsUpgraderV31
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolder
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolder
+B(Instance): BufferedReader
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolder
+B(Instance): WebDavMessage
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolder
+B(Instance): ArrayList<Message>
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolder
+B(Instance): HttpGet
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolder
+B(Instance): StringEntity
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolder
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolder
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolder
+B(Instance): Error
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolder
+B(Instance): IOException
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolder
+B(Instance): ByteArrayOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolder
+B(Instance): URI
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolder
+B(Instance): EOLConvertingOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolder
+B(Instance): ArrayList<WebDavMessage>
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolder
+B(Instance): HashMap<String, String>
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolder
+B(Instance): BufferedOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolder
+B(Instance): InputStreamReader
+
+Candidate of Pattern Creates:
+A(Creator): ColorSetting
+B(Instance): InvalidSettingValueException
+
+Candidate of Pattern Creates:
+A(Creator): RecipientPresenter
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): RecipientPresenter
+B(Instance): AsyncTask<Void, Void, RecipientAutocryptStatus>
+
+Candidate of Pattern Creates:
+A(Creator): RecipientPresenter
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): RecipientPresenter
+B(Instance): OpenPgpApi
+
+Candidate of Pattern Creates:
+A(Creator): RecipientPresenter
+B(Instance): OnBound
+
+Candidate of Pattern Creates:
+A(Creator): RecipientPresenter
+B(Instance): ComposeCryptoStatusBuilder
+
+Candidate of Pattern Creates:
+A(Creator): RecipientPresenter
+B(Instance): OpenPgpServiceConnection
+
+Candidate of Pattern Creates:
+A(Creator): RecipientPresenter
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): RecipientPresenter
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): RecipientPresenter
+B(Instance): RecipientLoader
+
+Candidate of Pattern Creates:
+A(Creator): PushService
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): ACCOUNT_LOCATION
+B(Instance): AccountsAdapter
+
+Candidate of Pattern Creates:
+A(Creator): ACCOUNT_LOCATION
+B(Instance): ArrayList<Account>
+
+Candidate of Pattern Creates:
+A(Creator): ACCOUNT_LOCATION
+B(Instance): PasswordPromptDialog
+
+Candidate of Pattern Creates:
+A(Creator): ACCOUNT_LOCATION
+B(Instance): LocalSearch
+
+Candidate of Pattern Creates:
+A(Creator): ACCOUNT_LOCATION
+B(Instance): ArrayList<BaseAccount>
+
+Candidate of Pattern Creates:
+A(Creator): SearchResponse
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): OnClientCertificateChangedListener
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): OnClientCertificateChangedListener
+B(Instance): KeyChainAliasCallback
+
+Candidate of Pattern Creates:
+A(Creator): OnClientCertificateChangedListener
+B(Instance): OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): TestTrustedSocketFactory
+B(Instance): VeryTrustingTrustManager
+
+Candidate of Pattern Creates:
+A(Creator): RemoveNotificationResult
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): WebDavTransport
+B(Instance): WebDavHttpClient.WebDavHttpClientFactory
+
+Candidate of Pattern Creates:
+A(Creator): WebDavTransport
+B(Instance): WebDavStore
+
+Candidate of Pattern Creates:
+A(Creator): SendMessageTask
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): SendMessageTask
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): SendMessageTask
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): SendMessageTask
+B(Instance): Handler
+
+Candidate of Pattern Creates:
+A(Creator): SendMessageTask
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): SendMessageTask
+B(Instance): MessageLoaderCallbacks
+
+Candidate of Pattern Creates:
+A(Creator): SendMessageTask
+B(Instance): OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): SendMessageTask
+B(Instance): SaveMessageTask
+
+Candidate of Pattern Creates:
+A(Creator): SendMessageTask
+B(Instance): AttachmentMvpView
+
+Candidate of Pattern Creates:
+A(Creator): SendMessageTask
+B(Instance): SimpleMessagingListener
+
+Candidate of Pattern Creates:
+A(Creator): RecipientLoaderTest
+B(Instance): MatrixCursor
+
+Candidate of Pattern Creates:
+A(Creator): RecipientLoaderTest
+B(Instance): RecipientLoader
+
+Candidate of Pattern Creates:
+A(Creator): RecipientTokenHolder
+B(Instance): ForegroundColorSpan
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStoreUriDecoder
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStoreUriDecoder
+B(Instance): WebDavStoreSettings
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStoreUriDecoder
+B(Instance): URI
+
+Candidate of Pattern Creates:
+A(Creator): LocalFolder
+B(Instance): DbCallback<Void>
+
+Candidate of Pattern Creates:
+A(Creator): LocalFolder
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): LocalFolder
+B(Instance): WrappedException
+
+Candidate of Pattern Creates:
+A(Creator): LocalFolder
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): LocalFolder
+B(Instance): DbCallback<Boolean>
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpDecryptionResult
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpDecryptionResult
+B(Instance): Creator<OpenPgpDecryptionResult>
+
+Candidate of Pattern Creates:
+A(Creator): SpecialColumnsCursor
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): SpecialColumnsCursor
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): Throttle
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): Throttle
+B(Instance): Timer
+
+Candidate of Pattern Creates:
+A(Creator): Throttle
+B(Instance): MyTimerTask
+
+Candidate of Pattern Creates:
+A(Creator): PendingCommandSerializer
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): PendingCommandSerializer
+B(Instance): IOError
+
+Candidate of Pattern Creates:
+A(Creator): PendingCommandSerializer
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): PendingCommandSerializer
+B(Instance): Moshi.Builder
+
+Candidate of Pattern Creates:
+A(Creator): PreviewResult
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): FixedLengthInputStreamTest
+B(Instance): FixedLengthInputStream
+
+Candidate of Pattern Creates:
+A(Creator): FixedLengthInputStreamTest
+B(Instance): Buffer
+
+Candidate of Pattern Creates:
+A(Creator): BinaryTempFileMessageBody
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolderTest
+B(Instance): DefaultBodyFactory
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolderTest
+B(Instance): ImapFolder
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolderTest
+B(Instance): HashSet<>
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolderTest
+B(Instance): Date
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolderTest
+B(Instance): Answer<ImapResponse>
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolderTest
+B(Instance): IOException
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolderTest
+B(Instance): ImapList
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolderTest
+B(Instance): Buffer
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolderTest
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolderTest
+B(Instance): FetchProfile
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupOptions
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupOptions
+B(Instance): SpinnerOption
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupOptions
+B(Instance): ArrayAdapter<SpinnerOption>
+
+Candidate of Pattern Creates:
+A(Creator): FolderList
+B(Instance): FolderListHandler
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentResolver
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentResolver
+B(Instance): Stack<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageListHandler
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): MessageListHandler
+B(Instance): WeakReference<>
+
+Candidate of Pattern Creates:
+A(Creator): SettingsExporterTest
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): SettingsExporterTest
+B(Instance): ByteArrayOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): SettingsExporterTest
+B(Instance): SAXBuilder
+
+Candidate of Pattern Creates:
+A(Creator): ColorChip
+B(Instance): ShapeDrawable
+
+Candidate of Pattern Creates:
+A(Creator): ColorChip
+B(Instance): RectF
+
+Candidate of Pattern Creates:
+A(Creator): ColorChip
+B(Instance): Path
+
+Candidate of Pattern Creates:
+A(Creator): ColorChip
+B(Instance): PathShape
+
+Candidate of Pattern Creates:
+A(Creator): DeferredFileBody
+B(Instance): DeferredFileOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): DeferredFileBody
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): DeferredFileBody
+B(Instance): UnsupportedOperationException
+
+Candidate of Pattern Creates:
+A(Creator): DeferredFileBody
+B(Instance): BufferedInputStream
+
+Candidate of Pattern Creates:
+A(Creator): DeferredFileBody
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): DeferredFileBody
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): DeferredFileBody
+B(Instance): FileInputStream
+
+Candidate of Pattern Creates:
+A(Creator): DeferredFileBody
+B(Instance): FileOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): Globals
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): LocalMessage
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): LocalMessage
+B(Instance): MessageReference
+
+Candidate of Pattern Creates:
+A(Creator): LocalMessage
+B(Instance): LocalFolder
+
+Candidate of Pattern Creates:
+A(Creator): LocalMessage
+B(Instance): Date
+
+Candidate of Pattern Creates:
+A(Creator): LocalMessage
+B(Instance): DbCallback<Void>
+
+Candidate of Pattern Creates:
+A(Creator): LocalMessage
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): LocalMessage
+B(Instance): WrappedException
+
+Candidate of Pattern Creates:
+A(Creator): LocalMessage
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): LocalMessage
+B(Instance): ContentValues
+
+Candidate of Pattern Creates:
+A(Creator): SqlQueryBuilder
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): SqlQueryBuilder
+B(Instance): LocalSearch
+
+Candidate of Pattern Creates:
+A(Creator): FolderNameCodec
+B(Instance): String
+
+Candidate of Pattern Creates:
+A(Creator): FolderNameCodec
+B(Instance): CharsetProvider
+
+Candidate of Pattern Creates:
+A(Creator): RemoteStore
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): RemoteStore
+B(Instance): Pop3Store
+
+Candidate of Pattern Creates:
+A(Creator): RemoteStore
+B(Instance): WebDavHttpClient.WebDavHttpClientFactory
+
+Candidate of Pattern Creates:
+A(Creator): RemoteStore
+B(Instance): HashMap<String, Store>
+
+Candidate of Pattern Creates:
+A(Creator): RemoteStore
+B(Instance): ImapStore
+
+Candidate of Pattern Creates:
+A(Creator): RemoteStore
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): RemoteStore
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): RemoteStore
+B(Instance): DefaultTrustedSocketFactory
+
+Candidate of Pattern Creates:
+A(Creator): RemoteStore
+B(Instance): WebDavStore
+
+Candidate of Pattern Creates:
+A(Creator): Type
+B(Instance): HashMap<String, String>
+
+Candidate of Pattern Creates:
+A(Creator): Type
+B(Instance): ServerSettings
+
+Candidate of Pattern Creates:
+A(Creator): Authentication
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): Authentication
+B(Instance): String
+
+Candidate of Pattern Creates:
+A(Creator): IdentityAdapter
+B(Instance): AccountHolder
+
+Candidate of Pattern Creates:
+A(Creator): IdentityAdapter
+B(Instance): IdentityContainer
+
+Candidate of Pattern Creates:
+A(Creator): IdentityAdapter
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): IdentityAdapter
+B(Instance): IdentityHolder
+
+Candidate of Pattern Creates:
+A(Creator): SettingsImporterTest
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): SettingsImporterTest
+B(Instance): StringInputStream
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): LinkedList<>
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): ConcurrentHashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): QuotedPrintableInputStream
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): DbCallback<List<PendingCommand>>
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): StoreSchemaDefinition
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): LocalFolder
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): Object
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): LocalMessage
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): DbCallback<Void>
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): DbCallback<Integer>
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): WrappedException
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): IOException
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): FileInputStream
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): AttachmentInfo
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): DbCallback<List<? extends Folder>>
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): Base64InputStream
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): LocalSearch
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): LockableDatabase
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): FetchProfile
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): OpenPgpDataSource
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): Stack<>
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): DbCallback<Long>
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): ContentValues
+
+Candidate of Pattern Creates:
+A(Creator): LocalStore
+B(Instance): DbCallback<AttachmentInfo>
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStoreSettings
+B(Instance): HashMap<String, String>
+
+Candidate of Pattern Creates:
+A(Creator): DecryptedFileProvider
+B(Instance): FileNotFoundException
+
+Candidate of Pattern Creates:
+A(Creator): DecryptedFileProvider
+B(Instance): QuotedPrintableInputStream
+
+Candidate of Pattern Creates:
+A(Creator): DecryptedFileProvider
+B(Instance): Object
+
+Candidate of Pattern Creates:
+A(Creator): DecryptedFileProvider
+B(Instance): AsyncTask<Void, Void, Void>
+
+Candidate of Pattern Creates:
+A(Creator): DecryptedFileProvider
+B(Instance): FileFactory
+
+Candidate of Pattern Creates:
+A(Creator): DecryptedFileProvider
+B(Instance): UnsupportedOperationException
+
+Candidate of Pattern Creates:
+A(Creator): DecryptedFileProvider
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): DecryptedFileProvider
+B(Instance): IntentFilter
+
+Candidate of Pattern Creates:
+A(Creator): DecryptedFileProvider
+B(Instance): Base64InputStream
+
+Candidate of Pattern Creates:
+A(Creator): DecryptedFileProvider
+B(Instance): DecryptedFileProviderCleanupReceiver
+
+Candidate of Pattern Creates:
+A(Creator): DecryptedFileProvider
+B(Instance): ParcelFileDescriptor.AutoCloseInputStream
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransportTest
+B(Instance): SmtpTransport
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransportTest
+B(Instance): MockSmtpServer
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransportTest
+B(Instance): TestSmtpTransport
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransportTest
+B(Instance): TestMessageBuilder
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransportTest
+B(Instance): AuthenticationFailedException
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransportTest
+B(Instance): ServerSettings
+
+Candidate of Pattern Creates:
+A(Creator): SmtpTransportTest
+B(Instance): MimeMessage
+
+Candidate of Pattern Creates:
+A(Creator): MessageProvider
+B(Instance): MessageReference
+
+Candidate of Pattern Creates:
+A(Creator): MessageProvider
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): MessageProvider
+B(Instance): Semaphore
+
+Candidate of Pattern Creates:
+A(Creator): MessageProvider
+B(Instance): AccountsQueryHandler
+
+Candidate of Pattern Creates:
+A(Creator): MessageProvider
+B(Instance): ArrayList<QueryHandler>
+
+Candidate of Pattern Creates:
+A(Creator): MessageProvider
+B(Instance): UriMatcher
+
+Candidate of Pattern Creates:
+A(Creator): MessageProvider
+B(Instance): UnreadQueryHandler
+
+Candidate of Pattern Creates:
+A(Creator): MessageProvider
+B(Instance): K9.ApplicationAware
+
+Candidate of Pattern Creates:
+A(Creator): MessageProvider
+B(Instance): ThrottlingQueryHandler
+
+Candidate of Pattern Creates:
+A(Creator): MessageProvider
+B(Instance): SimpleMessagingListener
+
+Candidate of Pattern Creates:
+A(Creator): MessageProvider
+B(Instance): MessagesQueryHandler
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentCounter
+B(Instance): EncryptionDetector
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentCounter
+B(Instance): TextPartFinder
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentCounter
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): ChooseFolderHandler
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): ChooseFolderHandler
+B(Instance): Comparator<String>
+
+Candidate of Pattern Creates:
+A(Creator): ChooseFolderHandler
+B(Instance): android.os.Message
+
+Candidate of Pattern Creates:
+A(Creator): ChooseFolderHandler
+B(Instance): SearchView.OnQueryTextListener
+
+Candidate of Pattern Creates:
+A(Creator): ChooseFolderHandler
+B(Instance): ArrayList<String>
+
+Candidate of Pattern Creates:
+A(Creator): ChooseFolderHandler
+B(Instance): SimpleMessagingListener
+
+Candidate of Pattern Creates:
+A(Creator): K9ActivityMagic
+B(Instance): GestureDetector
+
+Candidate of Pattern Creates:
+A(Creator): K9ActivityMagic
+B(Instance): SwipeGestureDetector
+
+Candidate of Pattern Creates:
+A(Creator): TracingWakeLock
+B(Instance): TimerTask
+
+Candidate of Pattern Creates:
+A(Creator): PendingCommandSerializerTest
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): MimeMultipart
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): LocalMessage
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): LocalMimeMessage
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): DbCallback<String>
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): DbCallback<Void>
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): Error
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): DbCallback<Integer>
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): LocalBodyPart
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): WrappedException
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): ByteArrayOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): FileInputStream
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): FileBackedBody
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): BinaryMemoryBody
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): PartContainer
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): DbCallback<List<LocalMessage>>
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): DbCallback<Map<String, Long>>
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): DbCallback<List<String>>
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): FileOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): ThreadInfo
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): Stack<>
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): ContentValues
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): CountingOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): PreferencesHolder
+B(Instance): DbCallback<LocalMessage>
+
+Candidate of Pattern Creates:
+A(Creator): DeviceNotifications
+B(Instance): InboxStyle
+
+Candidate of Pattern Creates:
+A(Creator): ComposeCryptoStatus
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): ComposeCryptoStatus
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): SubThemeSetting
+B(Instance): InvalidSettingValueException
+
+Candidate of Pattern Creates:
+A(Creator): SendFailedNotificationsTest
+B(Instance): SendFailedNotifications
+
+Candidate of Pattern Creates:
+A(Creator): SendFailedNotificationsTest
+B(Instance): Exception
+
+Candidate of Pattern Creates:
+A(Creator): TrustManagerFactoryTest
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): TrustManagerFactoryTest
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewFragment
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewFragment
+B(Instance): ClassCastException
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewFragment
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewFragment
+B(Instance): Handler
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewFragment
+B(Instance): MessageCryptoPresenter
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewFragment
+B(Instance): MessageLoaderHelper
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewFragment
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewFragment
+B(Instance): OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewFragment
+B(Instance): Bundle
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewFragment
+B(Instance): ContextThemeWrapper
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewFragment
+B(Instance): MessageCryptoMvpView
+
+Candidate of Pattern Creates:
+A(Creator): LinuxPRNGSecureRandom
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): LinuxPRNGSecureRandom
+B(Instance): Object
+
+Candidate of Pattern Creates:
+A(Creator): LinuxPRNGSecureRandom
+B(Instance): ByteArrayOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): LinuxPRNGSecureRandom
+B(Instance): FileInputStream
+
+Candidate of Pattern Creates:
+A(Creator): LinuxPRNGSecureRandom
+B(Instance): DataInputStream
+
+Candidate of Pattern Creates:
+A(Creator): LinuxPRNGSecureRandom
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): LinuxPRNGSecureRandom
+B(Instance): DataOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): LinuxPRNGSecureRandom
+B(Instance): SecurityException
+
+Candidate of Pattern Creates:
+A(Creator): HtcIncredibleStorageProvider
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): HeadCleaner
+B(Instance): NodeTraversor
+
+Candidate of Pattern Creates:
+A(Creator): HeadCleaner
+B(Instance): CleaningVisitor
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpApiHelper
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): IdentityHeaderParser
+B(Instance): HashMap<IdentityField, String>
+
+Candidate of Pattern Creates:
+A(Creator): IdentityHeaderParser
+B(Instance): Uri.Builder
+
+Candidate of Pattern Creates:
+A(Creator): IdentityHeaderParser
+B(Instance): StringTokenizer
+
+Candidate of Pattern Creates:
+A(Creator): StorageProviderSetting
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): EditIdentity
+B(Instance): CompoundButton.OnCheckedChangeListener
+
+Candidate of Pattern Creates:
+A(Creator): EditIdentity
+B(Instance): Identity
+
+Candidate of Pattern Creates:
+A(Creator): OptionalEmailAddressSetting
+B(Instance): EmailAddressValidator
+
+Candidate of Pattern Creates:
+A(Creator): OptionalEmailAddressSetting
+B(Instance): InvalidSettingValueException
+
+Candidate of Pattern Creates:
+A(Creator): EncoderUtil
+B(Instance): BitSet
+
+Candidate of Pattern Creates:
+A(Creator): LockScreenNotificationTest
+B(Instance): LockScreenNotification
+
+Candidate of Pattern Creates:
+A(Creator): LockScreenNotificationTest
+B(Instance): NotificationContent
+
+Candidate of Pattern Creates:
+A(Creator): LockScreenNotificationTest
+B(Instance): NotificationHolder
+
+Candidate of Pattern Creates:
+A(Creator): WebDavMessageTest
+B(Instance): WebDavMessage
+
+Candidate of Pattern Creates:
+A(Creator): WebDavMessageTest
+B(Instance): ParsedMessageEnvelope
+
+Candidate of Pattern Creates:
+A(Creator): MimePartStreamParser
+B(Instance): EOLConvertingInputStream
+
+Candidate of Pattern Creates:
+A(Creator): MimePartStreamParser
+B(Instance): MimeStreamParser
+
+Candidate of Pattern Creates:
+A(Creator): MimePartStreamParser
+B(Instance): DeferredFileBody
+
+Candidate of Pattern Creates:
+A(Creator): MimePartStreamParser
+B(Instance): PartBuilder
+
+Candidate of Pattern Creates:
+A(Creator): MimePartStreamParser
+B(Instance): MimeBodyPart
+
+Candidate of Pattern Creates:
+A(Creator): MimePartStreamParser
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): MimePartStreamParser
+B(Instance): MimeConfig.Builder
+
+Candidate of Pattern Creates:
+A(Creator): OnBound
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): OnBound
+B(Instance): ServiceConnection
+
+Candidate of Pattern Creates:
+A(Creator): OnBound
+B(Instance): Exception
+
+Candidate of Pattern Creates:
+A(Creator): WebDavHttpClientFactory
+B(Instance): GZIPInputStream
+
+Candidate of Pattern Creates:
+A(Creator): WebDavHttpClientFactory
+B(Instance): WebDavHttpClient
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): LinkedList<>
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): ConcurrentHashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): MessageReference
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): MessageRemovalListener
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): MessageActor
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): DefaultBodyFactory
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): MessageRetrievalListener<LocalMessage>
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): HashSet<>
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): Date
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): UidReverseComparator
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): Error
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): MemorizingMessagingListener
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): CopyOnWriteArraySet<>
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): MessageRetrievalListener<T>
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): AccountStats
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): UnavailableAccountException
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): ProgressListener
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): PriorityBlockingQueue<>
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): Command
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): ProgressBodyFactory
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): FetchProfile
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): AtomicInteger
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): Thread
+
+Candidate of Pattern Creates:
+A(Creator): MessagingController
+B(Instance): Exception
+
+Candidate of Pattern Creates:
+A(Creator): ActionModeCallback
+B(Instance): MessageReference
+
+Candidate of Pattern Creates:
+A(Creator): ActionModeCallback
+B(Instance): HashSet<>
+
+Candidate of Pattern Creates:
+A(Creator): TransportUrisTest
+B(Instance): ServerSettings
+
+Candidate of Pattern Creates:
+A(Creator): ComposeCryptoStatusBuilder
+B(Instance): ComposeCryptoStatus
+
+Candidate of Pattern Creates:
+A(Creator): ComposeCryptoStatusBuilder
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): ComposeCryptoStatusBuilder
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): Accounts
+B(Instance): AccountsHandler
+
+Candidate of Pattern Creates:
+A(Creator): Accounts
+B(Instance): ConcurrentHashMap<BaseAccount, String>
+
+Candidate of Pattern Creates:
+A(Creator): Accounts
+B(Instance): ConcurrentHashMap<String, AccountStats>
+
+Candidate of Pattern Creates:
+A(Creator): ExportAsyncTask
+B(Instance): HashSet<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoAnnotations
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): AlternateRecipientAdapter
+B(Instance): RecipientTokenHolder
+
+Candidate of Pattern Creates:
+A(Creator): AlternateRecipientAdapter
+B(Instance): OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): RemoteControlService
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): RemoteControlService
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): NotificationIds
+B(Instance): IndexOutOfBoundsException
+
+Candidate of Pattern Creates:
+A(Creator): PartBuilder
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): PartBuilder
+B(Instance): MimeMultipart
+
+Candidate of Pattern Creates:
+A(Creator): PartBuilder
+B(Instance): MimeBodyPart
+
+Candidate of Pattern Creates:
+A(Creator): PartBuilder
+B(Instance): ByteArrayOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): PartBuilder
+B(Instance): MimeMessage
+
+Candidate of Pattern Creates:
+A(Creator): PartBuilder
+B(Instance): MimeException
+
+Candidate of Pattern Creates:
+A(Creator): PartBuilder
+B(Instance): Stack<>
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilder
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilder
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilder
+B(Instance): BinaryTempFileBody
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilder
+B(Instance): MimeBodyPart
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilder
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilder
+B(Instance): IOException
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilder
+B(Instance): BinaryMemoryBody
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilder
+B(Instance): EOLConvertingOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilder
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilder
+B(Instance): OpenPgpDataSource
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilder
+B(Instance): TextBody
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoPresenter
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): Field
+B(Instance): ArrayList<Field>
+
+Candidate of Pattern Creates:
+A(Creator): Field
+B(Instance): NullPointerException
+
+Candidate of Pattern Creates:
+A(Creator): Field
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): AutocryptPeerUpdate
+B(Instance): Creator<AutocryptPeerUpdate>
+
+Candidate of Pattern Creates:
+A(Creator): AutocryptPeerUpdate
+B(Instance): Date
+
+Candidate of Pattern Creates:
+A(Creator): AccountClickListener
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): AccountClickListener
+B(Instance): ExportAsyncTask
+
+Candidate of Pattern Creates:
+A(Creator): AccountClickListener
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): DisplayMode
+B(Instance): MessageReference
+
+Candidate of Pattern Creates:
+A(Creator): DisplayMode
+B(Instance): ChangeLog
+
+Candidate of Pattern Creates:
+A(Creator): DisplayMode
+B(Instance): StorageListenerImplementation
+
+Candidate of Pattern Creates:
+A(Creator): DisplayMode
+B(Instance): LocalSearch
+
+Candidate of Pattern Creates:
+A(Creator): DisplayMode
+B(Instance): SearchCondition
+
+Candidate of Pattern Creates:
+A(Creator): ImapStoreTest
+B(Instance): TestImapStore
+
+Candidate of Pattern Creates:
+A(Creator): ImapStoreTest
+B(Instance): HashSet<>
+
+Candidate of Pattern Creates:
+A(Creator): MimeBodyPart
+B(Instance): BufferedWriter
+
+Candidate of Pattern Creates:
+A(Creator): MimeBodyPart
+B(Instance): OutputStreamWriter
+
+Candidate of Pattern Creates:
+A(Creator): MimeBodyPart
+B(Instance): MimeHeader
+
+Candidate of Pattern Creates:
+A(Creator): MessageReferenceTest
+B(Instance): MessageReference
+
+Candidate of Pattern Creates:
+A(Creator): MessageReferenceTest
+B(Instance): Object
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpKeyPreference
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpKeyPreference
+B(Instance): OpenPgpApi
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpKeyPreference
+B(Instance): OpenPgpServiceConnection.OnBound
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpKeyPreference
+B(Instance): OpenPgpServiceConnection
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpKeyPreference
+B(Instance): MyCallback
+
+Candidate of Pattern Creates:
+A(Creator): MessageActions
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentController
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentController
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentController
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentController
+B(Instance): SaveAttachmentAsyncTask
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentController
+B(Instance): FileOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentController
+B(Instance): IntentAndResolvedActivitiesCount
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentController
+B(Instance): ViewAttachmentAsyncTask
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentController
+B(Instance): SimpleMessagingListener
+
+Candidate of Pattern Creates:
+A(Creator): MessageLoaderHelper
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): MessageLoaderHelper
+B(Instance): LoaderCallbacks<MessageViewInfo>
+
+Candidate of Pattern Creates:
+A(Creator): MessageLoaderHelper
+B(Instance): LocalMessageLoader
+
+Candidate of Pattern Creates:
+A(Creator): MessageLoaderHelper
+B(Instance): LoaderCallbacks<LocalMessage>
+
+Candidate of Pattern Creates:
+A(Creator): MessageLoaderHelper
+B(Instance): MessageCryptoCallback
+
+Candidate of Pattern Creates:
+A(Creator): MessageLoaderHelper
+B(Instance): MessageCryptoHelper
+
+Candidate of Pattern Creates:
+A(Creator): MessageLoaderHelper
+B(Instance): LocalMessageExtractorLoader
+
+Candidate of Pattern Creates:
+A(Creator): MessageLoaderHelper
+B(Instance): OpenPgpApiFactory
+
+Candidate of Pattern Creates:
+A(Creator): MessageLoaderHelper
+B(Instance): SimpleMessagingListener
+
+Candidate of Pattern Creates:
+A(Creator): TestMessageBuilder
+B(Instance): TestMessage
+
+Candidate of Pattern Creates:
+A(Creator): Utility
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): Utility
+B(Instance): Handler
+
+Candidate of Pattern Creates:
+A(Creator): Utility
+B(Instance): Bundle
+
+Candidate of Pattern Creates:
+A(Creator): Utility
+B(Instance): ArrayList<String>
+
+Candidate of Pattern Creates:
+A(Creator): ParsedMessageEnvelope
+B(Instance): HashMap<String, String>
+
+Candidate of Pattern Creates:
+A(Creator): ParsedMessageEnvelope
+B(Instance): ArrayList<String>
+
+Candidate of Pattern Creates:
+A(Creator): IdentityHelperTest
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): IdentityHelperTest
+B(Instance): DummyAccount
+
+Candidate of Pattern Creates:
+A(Creator): IdentityHelperTest
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): IdentityHelperTest
+B(Instance): Address
+
+Candidate of Pattern Creates:
+A(Creator): IdentityHelperTest
+B(Instance): Identity
+
+Candidate of Pattern Creates:
+A(Creator): EnumSetting
+B(Instance): InvalidSettingValueException
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpMetadata
+B(Instance): Creator<OpenPgpMetadata>
+
+Candidate of Pattern Creates:
+A(Creator): UpgradeDatabases
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): UpgradeDatabases
+B(Instance): UpgradeDatabaseBroadcastReceiver
+
+Candidate of Pattern Creates:
+A(Creator): UpgradeDatabases
+B(Instance): IntentFilter
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentInfoLoader
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentInfoLoader
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): MessageHelper
+B(Instance): MimeBodyPart
+
+Candidate of Pattern Creates:
+A(Creator): MessageHelper
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): MessageHelper
+B(Instance): Stack<Part>
+
+Candidate of Pattern Creates:
+A(Creator): IdentitySettings
+B(Instance): V
+
+Candidate of Pattern Creates:
+A(Creator): IdentitySettings
+B(Instance): EmailAddressValidator
+
+Candidate of Pattern Creates:
+A(Creator): IdentitySettings
+B(Instance): LinkedHashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): IdentitySettings
+B(Instance): OptionalEmailAddressSetting
+
+Candidate of Pattern Creates:
+A(Creator): IdentitySettings
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): IdentitySettings
+B(Instance): BooleanSetting
+
+Candidate of Pattern Creates:
+A(Creator): IdentitySettings
+B(Instance): SignatureSetting
+
+Candidate of Pattern Creates:
+A(Creator): HeaderEntry
+B(Instance): SpannableString
+
+Candidate of Pattern Creates:
+A(Creator): HeaderEntry
+B(Instance): LinkedList<HeaderEntry>
+
+Candidate of Pattern Creates:
+A(Creator): HeaderEntry
+B(Instance): SpannableStringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): HeaderEntry
+B(Instance): StyleSpan
+
+Candidate of Pattern Creates:
+A(Creator): HeaderEntry
+B(Instance): SavedState
+
+Candidate of Pattern Creates:
+A(Creator): HeaderEntry
+B(Instance): LinkedHashSet<String>
+
+Candidate of Pattern Creates:
+A(Creator): ExternalStorageProvider
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): MimeStructureState
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): StatsColumns
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): StatsColumns
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): StatsColumns
+B(Instance): SpecialColumnsCursor
+
+Candidate of Pattern Creates:
+A(Creator): StatsColumns
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): StatsColumns
+B(Instance): IdTrickeryCursor
+
+Candidate of Pattern Creates:
+A(Creator): StatsColumns
+B(Instance): HashMap<String, String>
+
+Candidate of Pattern Creates:
+A(Creator): StatsColumns
+B(Instance): ArrayList<String>
+
+Candidate of Pattern Creates:
+A(Creator): StatsColumns
+B(Instance): DbCallback<Cursor>
+
+Candidate of Pattern Creates:
+A(Creator): StatsColumns
+B(Instance): EmailProviderCacheCursor
+
+Candidate of Pattern Creates:
+A(Creator): FallbackGlideModelLoader
+B(Instance): DataFetcher<FallbackGlideParams>
+
+Candidate of Pattern Creates:
+A(Creator): HtmlSanitizer
+B(Instance): HeadCleaner
+
+Candidate of Pattern Creates:
+A(Creator): HtmlSanitizer
+B(Instance): Cleaner
+
+Candidate of Pattern Creates:
+A(Creator): RecipientPresenterTest
+B(Instance): ReplyToAddresses
+
+Candidate of Pattern Creates:
+A(Creator): RecipientPresenterTest
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): RecipientPresenterTest
+B(Instance): RecipientPresenter
+
+Candidate of Pattern Creates:
+A(Creator): RecipientPresenterTest
+B(Instance): RecipientAutocryptStatus
+
+Candidate of Pattern Creates:
+A(Creator): PollService
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): PollService
+B(Instance): Listener
+
+Candidate of Pattern Creates:
+A(Creator): ListHeaders
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): ListHeaders
+B(Instance): Address
+
+Candidate of Pattern Creates:
+A(Creator): ServerNameSuggester
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo60Test
+B(Instance): OldPendingCommand
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo60Test
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo60Test
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): DeviceNotificationsTest
+B(Instance): Answer<Builder>
+
+Candidate of Pattern Creates:
+A(Creator): DeviceNotificationsTest
+B(Instance): TestDeviceNotifications
+
+Candidate of Pattern Creates:
+A(Creator): DeviceNotificationsTest
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): DeviceNotificationsTest
+B(Instance): NotificationContent
+
+Candidate of Pattern Creates:
+A(Creator): DeviceNotificationsTest
+B(Instance): NotificationHolder
+
+Candidate of Pattern Creates:
+A(Creator): UidReverseComparatorTest
+B(Instance): UidReverseComparator
+
+Candidate of Pattern Creates:
+A(Creator): ImapStore
+B(Instance): ImapPusher
+
+Candidate of Pattern Creates:
+A(Creator): ImapStore
+B(Instance): ImapFolder
+
+Candidate of Pattern Creates:
+A(Creator): ImapStore
+B(Instance): HashSet<>
+
+Candidate of Pattern Creates:
+A(Creator): ImapStore
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): ImapStore
+B(Instance): LinkedList<ImapConnection>
+
+Candidate of Pattern Creates:
+A(Creator): ImapStore
+B(Instance): ImapConnection
+
+Candidate of Pattern Creates:
+A(Creator): ImapStore
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): ImapStore
+B(Instance): StoreImapSettings
+
+Candidate of Pattern Creates:
+A(Creator): ImapStore
+B(Instance): HashMap<String, ImapFolder>
+
+Candidate of Pattern Creates:
+A(Creator): ApgDeprecationWarningDialog
+B(Instance): OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): Preconditions
+B(Instance): NullPointerException
+
+Candidate of Pattern Creates:
+A(Creator): BitcoinUriParserTest
+B(Instance): BitcoinUriParser
+
+Candidate of Pattern Creates:
+A(Creator): BitcoinUriParserTest
+B(Instance): StringBuffer
+
+Candidate of Pattern Creates:
+A(Creator): UnreadWidgetProperties
+B(Instance): LocalSearch
+
+Candidate of Pattern Creates:
+A(Creator): K9MailLib
+B(Instance): DefaultDebugStatus
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentContentLoader
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentContentLoader
+B(Instance): FileOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): StringResourceSetting
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): StringResourceSetting
+B(Instance): InvalidSettingValueException
+
+Candidate of Pattern Creates:
+A(Creator): UriLinkifierTest
+B(Instance): StringBuffer
+
+Candidate of Pattern Creates:
+A(Creator): ContactPictureLoader
+B(Instance): FileToStreamDecoder<>
+
+Candidate of Pattern Creates:
+A(Creator): ContactPictureLoader
+B(Instance): FallbackGlideBitmapDecoder
+
+Candidate of Pattern Creates:
+A(Creator): ContactPictureLoader
+B(Instance): FallbackGlideParams
+
+Candidate of Pattern Creates:
+A(Creator): ContactPictureLoader
+B(Instance): FallbackGlideModelLoader
+
+Candidate of Pattern Creates:
+A(Creator): ContactPictureLoader
+B(Instance): Canvas
+
+Candidate of Pattern Creates:
+A(Creator): ContactPictureLoader
+B(Instance): RequestListener<Uri, GlideDrawable>
+
+Candidate of Pattern Creates:
+A(Creator): ContactPictureLoader
+B(Instance): StreamBitmapDecoder
+
+Candidate of Pattern Creates:
+A(Creator): ContactPictureLoader
+B(Instance): BitmapToGlideDrawableTranscoder
+
+Candidate of Pattern Creates:
+A(Creator): ContactPictureLoader
+B(Instance): BitmapEncoder
+
+Candidate of Pattern Creates:
+A(Creator): ContactPictureLoader
+B(Instance): Paint
+
+Candidate of Pattern Creates:
+A(Creator): ContactPictureLoader
+B(Instance): Rect
+
+Candidate of Pattern Creates:
+A(Creator): CaseInsensitiveParamWrapper
+B(Instance): ArrayList<String>
+
+Candidate of Pattern Creates:
+A(Creator): Prefs
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): Prefs
+B(Instance): OnCancelListener
+
+Candidate of Pattern Creates:
+A(Creator): Prefs
+B(Instance): ArrayList<CharSequence>
+
+Candidate of Pattern Creates:
+A(Creator): Prefs
+B(Instance): ColorPickerDialog
+
+Candidate of Pattern Creates:
+A(Creator): Prefs
+B(Instance): HashSet<String>
+
+Candidate of Pattern Creates:
+A(Creator): Prefs
+B(Instance): Preference.OnPreferenceClickListener
+
+Candidate of Pattern Creates:
+A(Creator): Prefs
+B(Instance): ApgDeprecationWarningDialog
+
+Candidate of Pattern Creates:
+A(Creator): Prefs
+B(Instance): Preference.OnPreferenceChangeListener
+
+Candidate of Pattern Creates:
+A(Creator): Prefs
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): Prefs
+B(Instance): ColorPickerDialog.OnColorChangedListener
+
+Candidate of Pattern Creates:
+A(Creator): Prefs
+B(Instance): OnPreferenceClickListener
+
+Candidate of Pattern Creates:
+A(Creator): Prefs
+B(Instance): FileBrowserFailOverCallback
+
+Candidate of Pattern Creates:
+A(Creator): EOLConvertingOutputStreamTest
+B(Instance): ByteArrayOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): EOLConvertingOutputStreamTest
+B(Instance): EOLConvertingOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): ParcelFileDescriptorUtil
+B(Instance): AutoCloseInputStream
+
+Candidate of Pattern Creates:
+A(Creator): ParcelFileDescriptorUtil
+B(Instance): TransferThread
+
+Candidate of Pattern Creates:
+A(Creator): ParcelFileDescriptorUtil
+B(Instance): ParcelFileDescriptor.AutoCloseOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): TestMessage
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): TestMessage
+B(Instance): Address
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentProviderColumns
+B(Instance): FileNotFoundException
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentProviderColumns
+B(Instance): UnsupportedOperationException
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentProviderColumns
+B(Instance): MatrixCursor
+
+Candidate of Pattern Creates:
+A(Creator): LocalStoreTest
+B(Instance): MimeMultipart
+
+Candidate of Pattern Creates:
+A(Creator): LocalStoreTest
+B(Instance): LocalMessage
+
+Candidate of Pattern Creates:
+A(Creator): LocalStoreTest
+B(Instance): LocalMimeMessage
+
+Candidate of Pattern Creates:
+A(Creator): LocalStoreTest
+B(Instance): MimeBodyPart
+
+Candidate of Pattern Creates:
+A(Creator): LocalStoreTest
+B(Instance): LocalBodyPart
+
+Candidate of Pattern Creates:
+A(Creator): EncryptionDetectorTest
+B(Instance): EncryptionDetector
+
+Candidate of Pattern Creates:
+A(Creator): TextBodyBuilder
+B(Instance): TextBody
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentTempFileProvider
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentTempFileProvider
+B(Instance): Object
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentTempFileProvider
+B(Instance): AsyncTask<Void, Void, Void>
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentTempFileProvider
+B(Instance): UnsupportedOperationException
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentTempFileProvider
+B(Instance): IOException
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentTempFileProvider
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentTempFileProvider
+B(Instance): IntentFilter
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentTempFileProvider
+B(Instance): AttachmentTempFileProviderCleanupReceiver
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentTempFileProvider
+B(Instance): FileOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): MessageInfoHolderRetrieverListener
+B(Instance): MessageInfoHolder
+
+Candidate of Pattern Creates:
+A(Creator): MessageInfoHolderRetrieverListener
+B(Instance): ArrayList<MessageInfoHolder>
+
+Candidate of Pattern Creates:
+A(Creator): MessageInfoHolderRetrieverListener
+B(Instance): FolderInfoHolder
+
+Candidate of Pattern Creates:
+A(Creator): ProgressDialogFragment
+B(Instance): ProgressDialog
+
+Candidate of Pattern Creates:
+A(Creator): ProgressDialogFragment
+B(Instance): Bundle
+
+Candidate of Pattern Creates:
+A(Creator): Charset
+B(Instance): MalformedInputException
+
+Candidate of Pattern Creates:
+A(Creator): Charset
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): TransferThread
+B(Instance): AutoCloseInputStream
+
+Candidate of Pattern Creates:
+A(Creator): TransferThread
+B(Instance): BufferedInputStream
+
+Candidate of Pattern Creates:
+A(Creator): TransferThread
+B(Instance): DataSinkTransferThread<T>
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpAsyncTask
+B(Instance): Handler
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpAsyncTask
+B(Instance): OpenPgpSourceSinkAsyncTask<>
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpAsyncTask
+B(Instance): Messenger
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpAsyncTask
+B(Instance): Handler.Callback
+
+Candidate of Pattern Creates:
+A(Creator): Contacts
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): FooterViewHolder
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): FooterViewHolder
+B(Instance): HashSet<>
+
+Candidate of Pattern Creates:
+A(Creator): FooterViewHolder
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): FooterViewHolder
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): AutocryptHeaderParser
+B(Instance): AutocryptHeader
+
+Candidate of Pattern Creates:
+A(Creator): AutocryptHeaderParser
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): ImapList
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): ImapList
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): ImapList
+B(Instance): SimpleDateFormat
+
+Candidate of Pattern Creates:
+A(Creator): DebugStatus
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): IdleStopper
+B(Instance): NullPointerException
+
+Candidate of Pattern Creates:
+A(Creator): SimpleMessageBuilder
+B(Instance): UnsupportedOperationException
+
+Candidate of Pattern Creates:
+A(Creator): AuthTypeAdapter
+B(Instance): AuthTypeHolder
+
+Candidate of Pattern Creates:
+A(Creator): MonitoredCursor
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): MonitoredCursor
+B(Instance): AtomicBoolean
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpAppSelectFragment
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpAppSelectFragment
+B(Instance): DialogInterface.OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpAppSelectFragment
+B(Instance): AlertDialog.Builder
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpAppSelectFragment
+B(Instance): OpenPgpProviderEntry
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpAppSelectFragment
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpAppSelectFragment
+B(Instance): ArrayAdapter<OpenPgpProviderEntry>
+
+Candidate of Pattern Creates:
+A(Creator): ApplicationAware
+B(Instance): ArrayList<ApplicationAware>
+
+Candidate of Pattern Creates:
+A(Creator): ImapListTest
+B(Instance): ImapList
+
+Candidate of Pattern Creates:
+A(Creator): ContactPictureLoaderTest
+B(Instance): Address
+
+Candidate of Pattern Creates:
+A(Creator): CopyUidResponseTest
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): MessagingControllerPushReceiver
+B(Instance): CountDownLatch
+
+Candidate of Pattern Creates:
+A(Creator): MessagingControllerPushReceiver
+B(Instance): SimpleMessagingListener
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnection
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnection
+B(Instance): ImapResponseParser
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnection
+B(Instance): ZOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnection
+B(Instance): InflaterInputStream
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnection
+B(Instance): HashSet<String>
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnection
+B(Instance): PeekableInputStream
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnection
+B(Instance): BufferedInputStream
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnection
+B(Instance): ConnectException
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnection
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnection
+B(Instance): AuthenticationFailedException
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnection
+B(Instance): UntaggedHandler
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnection
+B(Instance): Socket
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnection
+B(Instance): InetSocketAddress
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnection
+B(Instance): BufferedOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnection
+B(Instance): Inflater
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnection
+B(Instance): CertificateValidationException
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnection
+B(Instance): Exception
+
+Candidate of Pattern Creates:
+A(Creator): RecipientMvpView
+B(Instance): LinearOutSlowInInterpolator
+
+Candidate of Pattern Creates:
+A(Creator): RecipientMvpView
+B(Instance): FastOutLinearInInterpolator
+
+Candidate of Pattern Creates:
+A(Creator): RecipientMvpView
+B(Instance): TokenListener<Recipient>
+
+Candidate of Pattern Creates:
+A(Creator): PermanentFlagsResponse
+B(Instance): HashSet<>
+
+Candidate of Pattern Creates:
+A(Creator): SynchronizationAid
+B(Instance): LinkedHashMap<String, String>
+
+Candidate of Pattern Creates:
+A(Creator): SynchronizationAid
+B(Instance): ReentrantReadWriteLock
+
+Candidate of Pattern Creates:
+A(Creator): SynchronizationAid
+B(Instance): UnavailableStorageException
+
+Candidate of Pattern Creates:
+A(Creator): SynchronizationAid
+B(Instance): ExternalStorageProvider
+
+Candidate of Pattern Creates:
+A(Creator): SynchronizationAid
+B(Instance): IdentityHashMap<StorageProvider, SynchronizationAid>
+
+Candidate of Pattern Creates:
+A(Creator): SynchronizationAid
+B(Instance): NullPointerException
+
+Candidate of Pattern Creates:
+A(Creator): SynchronizationAid
+B(Instance): InternalStorageProvider
+
+Candidate of Pattern Creates:
+A(Creator): SynchronizationAid
+B(Instance): StorageManager
+
+Candidate of Pattern Creates:
+A(Creator): SynchronizationAid
+B(Instance): ArrayList<StorageListener>
+
+Candidate of Pattern Creates:
+A(Creator): SynchronizationAid
+B(Instance): LinkedHashMap<String, StorageProvider>
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentInfo
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentInfo
+B(Instance): PreferencesHolder
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentInfo
+B(Instance): DbCallback<Void>
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentInfo
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): CleaningVisitor
+B(Instance): TextNode
+
+Candidate of Pattern Creates:
+A(Creator): CleaningVisitor
+B(Instance): Element
+
+Candidate of Pattern Creates:
+A(Creator): CleaningVisitor
+B(Instance): DataNode
+
+Candidate of Pattern Creates:
+A(Creator): K9ActivityCommon
+B(Instance): Locale
+
+Candidate of Pattern Creates:
+A(Creator): InsertableHtmlContent
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): ConfirmationDialog
+B(Instance): DialogInterface.OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): ConfirmationDialog
+B(Instance): AlertDialog.Builder
+
+Candidate of Pattern Creates:
+A(Creator): UnreadQueryHandler
+B(Instance): MatrixCursor
+
+Candidate of Pattern Creates:
+A(Creator): AutocryptHeaderTest
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): AutocryptHeaderTest
+B(Instance): AutocryptHeader
+
+Candidate of Pattern Creates:
+A(Creator): DatabasePreviewType
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupNames
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupNames
+B(Instance): TextWatcher
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilderTest
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilderTest
+B(Instance): Date
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilderTest
+B(Instance): ComposeCryptoStatusBuilder
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilderTest
+B(Instance): PgpMessageBuilder
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilderTest
+B(Instance): ArrayList<Address>
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilderTest
+B(Instance): ArrayList<Attachment>
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilderTest
+B(Instance): ByteArrayOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilderTest
+B(Instance): InsertableHtmlContent
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilderTest
+B(Instance): String
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilderTest
+B(Instance): ArrayList<Recipient>
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilderTest
+B(Instance): OpenPgpError
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilderTest
+B(Instance): Recipient
+
+Candidate of Pattern Creates:
+A(Creator): PgpMessageBuilderTest
+B(Instance): Identity
+
+Candidate of Pattern Creates:
+A(Creator): WebFontSizeSetting
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): WebFontSizeSetting
+B(Instance): InvalidSettingValueException
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentInfoExtractorTest
+B(Instance): AttachmentInfoExtractor
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentInfoExtractorTest
+B(Instance): MimeBodyPart
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentInfoExtractorTest
+B(Instance): LocalBodyPart
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentInfoExtractorTest
+B(Instance): TextBody
+
+Candidate of Pattern Creates:
+A(Creator): FileBackedBody
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): FileBackedBody
+B(Instance): FileInputStream
+
+Candidate of Pattern Creates:
+A(Creator): FileBackedBody
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): LanguageSetting
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): LanguageSetting
+B(Instance): InvalidSettingValueException
+
+Candidate of Pattern Creates:
+A(Creator): AutocryptStatusInteractor
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): AutocryptStatusInteractor
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): AutocryptStatusInteractor
+B(Instance): RecipientAutocryptStatus
+
+Candidate of Pattern Creates:
+A(Creator): CharsetSupport
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): CharsetSupport
+B(Instance): Iso2022JpToShiftJisInputStream
+
+Candidate of Pattern Creates:
+A(Creator): PasswordPromptDialog
+B(Instance): SetPasswordsAsyncTask
+
+Candidate of Pattern Creates:
+A(Creator): PasswordPromptDialog
+B(Instance): OnCheckedChangeListener
+
+Candidate of Pattern Creates:
+A(Creator): PasswordPromptDialog
+B(Instance): DialogInterface.OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): PasswordPromptDialog
+B(Instance): AlertDialog.Builder
+
+Candidate of Pattern Creates:
+A(Creator): PasswordPromptDialog
+B(Instance): ScrollView
+
+Candidate of Pattern Creates:
+A(Creator): ImapUtility
+B(Instance): ArrayList<String>
+
+Candidate of Pattern Creates:
+A(Creator): MessageReferenceHelper
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): StoreSchemaDefinitionTest
+B(Instance): StoreSchemaDefinition
+
+Candidate of Pattern Creates:
+A(Creator): StoreSchemaDefinitionTest
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): StoreSchemaDefinitionTest
+B(Instance): ContentValues
+
+Candidate of Pattern Creates:
+A(Creator): UnreadWidgetProvider
+B(Instance): ComponentName
+
+Candidate of Pattern Creates:
+A(Creator): UnreadWidgetProvider
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): UnreadWidgetProvider
+B(Instance): RemoteViews
+
+Candidate of Pattern Creates:
+A(Creator): MemorizingMessagingListener
+B(Instance): Memory
+
+Candidate of Pattern Creates:
+A(Creator): MemorizingMessagingListener
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): RecipientAdapter
+B(Instance): RecipientTokenHolder
+
+Candidate of Pattern Creates:
+A(Creator): RecipientAdapter
+B(Instance): FilterResults
+
+Candidate of Pattern Creates:
+A(Creator): RecipientAdapter
+B(Instance): Filter
+
+Candidate of Pattern Creates:
+A(Creator): ImapResponseParserTest
+B(Instance): ImapResponseParser
+
+Candidate of Pattern Creates:
+A(Creator): ImapResponseParserTest
+B(Instance): ImapResponseCallback
+
+Candidate of Pattern Creates:
+A(Creator): ImapResponseParserTest
+B(Instance): PeekableInputStream
+
+Candidate of Pattern Creates:
+A(Creator): ImapResponseParserTest
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): ImapResponseParserTest
+B(Instance): IOException
+
+Candidate of Pattern Creates:
+A(Creator): ImapResponseParserTest
+B(Instance): TestUntaggedHandler
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelper
+B(Instance): ArrayDeque<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelper
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelper
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelper
+B(Instance): Object
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelper
+B(Instance): IOpenPgpSinkResultCallback<Void>
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelper
+B(Instance): OpenPgpDataSink<MimeBodyPart>
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelper
+B(Instance): OnBound
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelper
+B(Instance): MessageCryptoAnnotations
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelper
+B(Instance): MimeBodyPart
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelper
+B(Instance): Throwable
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelper
+B(Instance): IOpenPgpCallback
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelper
+B(Instance): OpenPgpServiceConnection
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelper
+B(Instance): ByteArrayOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelper
+B(Instance): String
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelper
+B(Instance): IOpenPgpSinkResultCallback<MimeBodyPart>
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelper
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelper
+B(Instance): CryptoPart
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelper
+B(Instance): OpenPgpDataSource
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelper
+B(Instance): OpenPgpApi.OpenPgpDataSource
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelper
+B(Instance): TextBody
+
+Candidate of Pattern Creates:
+A(Creator): ActivityListener
+B(Instance): Object
+
+Candidate of Pattern Creates:
+A(Creator): ActivityListener
+B(Instance): IntentFilter
+
+Candidate of Pattern Creates:
+A(Creator): ActivityListener
+B(Instance): BroadcastReceiver
+
+Candidate of Pattern Creates:
+A(Creator): SignSafeOutputStream
+B(Instance): IOException
+
+Candidate of Pattern Creates:
+A(Creator): ImapStoreUriCreator
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): ImapStoreUriCreator
+B(Instance): URI
+
+Candidate of Pattern Creates:
+A(Creator): MessageBuilder
+B(Instance): IdentityHeaderBuilder
+
+Candidate of Pattern Creates:
+A(Creator): MessageBuilder
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): MessageBuilder
+B(Instance): TempFileBody
+
+Candidate of Pattern Creates:
+A(Creator): MessageBuilder
+B(Instance): MimeMultipart
+
+Candidate of Pattern Creates:
+A(Creator): MessageBuilder
+B(Instance): Object
+
+Candidate of Pattern Creates:
+A(Creator): MessageBuilder
+B(Instance): AsyncTask<Void, Void, Void>
+
+Candidate of Pattern Creates:
+A(Creator): MessageBuilder
+B(Instance): MimeBodyPart
+
+Candidate of Pattern Creates:
+A(Creator): MessageBuilder
+B(Instance): TextBodyBuilder
+
+Candidate of Pattern Creates:
+A(Creator): MessageBuilder
+B(Instance): Address
+
+Candidate of Pattern Creates:
+A(Creator): MessageBuilder
+B(Instance): MimeMessage
+
+Candidate of Pattern Creates:
+A(Creator): ImapPushStateTest
+B(Instance): ImapPushState
+
+Candidate of Pattern Creates:
+A(Creator): BinaryMemoryBody
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): BinaryMemoryBody
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): Encoding
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): SearchAccount
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): SearchAccount
+B(Instance): LocalSearch
+
+Candidate of Pattern Creates:
+A(Creator): Storage
+B(Instance): ThreadLocal<ConcurrentMap<String, String>>
+
+Candidate of Pattern Creates:
+A(Creator): Storage
+B(Instance): ThreadLocal<List<String>>
+
+Candidate of Pattern Creates:
+A(Creator): Storage
+B(Instance): URI
+
+Candidate of Pattern Creates:
+A(Creator): Storage
+B(Instance): StorageEditor
+
+Candidate of Pattern Creates:
+A(Creator): Storage
+B(Instance): ArrayList<String>
+
+Candidate of Pattern Creates:
+A(Creator): Storage
+B(Instance): ConcurrentHashMap<Context, Storage>
+
+Candidate of Pattern Creates:
+A(Creator): Storage
+B(Instance): ContentValues
+
+Candidate of Pattern Creates:
+A(Creator): Storage
+B(Instance): ThreadLocal<SQLiteDatabase>
+
+Candidate of Pattern Creates:
+A(Creator): Storage
+B(Instance): ConcurrentHashMap<String, String>
+
+Candidate of Pattern Creates:
+A(Creator): MockServerThread
+B(Instance): UnexpectedCommandException
+
+Candidate of Pattern Creates:
+A(Creator): MockServerThread
+B(Instance): ZOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): MockServerThread
+B(Instance): InflaterInputStream
+
+Candidate of Pattern Creates:
+A(Creator): MockServerThread
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): MockServerThread
+B(Instance): EOFException
+
+Candidate of Pattern Creates:
+A(Creator): MockServerThread
+B(Instance): Inflater
+
+Candidate of Pattern Creates:
+A(Creator): HtmlSanitizerTest
+B(Instance): HtmlSanitizer
+
+Candidate of Pattern Creates:
+A(Creator): CryptoInfoDialog
+B(Instance): AccelerateDecelerateInterpolator
+
+Candidate of Pattern Creates:
+A(Creator): CryptoInfoDialog
+B(Instance): AlertDialog.Builder
+
+Candidate of Pattern Creates:
+A(Creator): CryptoInfoDialog
+B(Instance): OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): CryptoInfoDialog
+B(Instance): OnLayoutChangeListener
+
+Candidate of Pattern Creates:
+A(Creator): CryptoInfoDialog
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): CryptoInfoDialog
+B(Instance): Bundle
+
+Candidate of Pattern Creates:
+A(Creator): WearNotificationsTest
+B(Instance): MessageReference
+
+Candidate of Pattern Creates:
+A(Creator): WearNotificationsTest
+B(Instance): NumberOfActionsMatcher
+
+Candidate of Pattern Creates:
+A(Creator): WearNotificationsTest
+B(Instance): TestWearNotifications
+
+Candidate of Pattern Creates:
+A(Creator): WearNotificationsTest
+B(Instance): ArrayList<MessageReference>
+
+Candidate of Pattern Creates:
+A(Creator): WearNotificationsTest
+B(Instance): ActionMatcher
+
+Candidate of Pattern Creates:
+A(Creator): WearNotificationsTest
+B(Instance): NotificationContent
+
+Candidate of Pattern Creates:
+A(Creator): WearNotificationsTest
+B(Instance): NotificationHolder
+
+Candidate of Pattern Creates:
+A(Creator): DeviceIdleManager
+B(Instance): DozeChecker
+
+Candidate of Pattern Creates:
+A(Creator): DeviceIdleManager
+B(Instance): NoOpDeviceIdleManager
+
+Candidate of Pattern Creates:
+A(Creator): PopulateFolderPrefsTask
+B(Instance): LinkedList<>
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpProviderEntry
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpError
+B(Instance): Creator<OpenPgpError>
+
+Candidate of Pattern Creates:
+A(Creator): MessageTopView
+B(Instance): OnRenderingFinishedListener
+
+Candidate of Pattern Creates:
+A(Creator): MessageTopView
+B(Instance): OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): MessageTopView
+B(Instance): AnimatorListenerAdapter
+
+Candidate of Pattern Creates:
+A(Creator): ConnectionSecurityAdapter
+B(Instance): ConnectionSecurityHolder
+
+Candidate of Pattern Creates:
+A(Creator): PseudoEnumSetting
+B(Instance): InvalidSettingValueException
+
+Candidate of Pattern Creates:
+A(Creator): ReconstructMessageTest
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): ReconstructMessageTest
+B(Instance): ByteArrayOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): ReconstructMessageTest
+B(Instance): String
+
+Candidate of Pattern Creates:
+A(Creator): ListHeadersTest
+B(Instance): MimeMessage
+
+Candidate of Pattern Creates:
+A(Creator): ChooseAccount
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): SortType
+B(Instance): ConcurrentHashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): SortType
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): SortType
+B(Instance): NotificationSetting
+
+Candidate of Pattern Creates:
+A(Creator): SleepService
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): SleepService
+B(Instance): ConcurrentHashMap<Integer, SleepDatum>
+
+Candidate of Pattern Creates:
+A(Creator): SleepService
+B(Instance): CountDownLatch
+
+Candidate of Pattern Creates:
+A(Creator): SleepService
+B(Instance): SleepDatum
+
+Candidate of Pattern Creates:
+A(Creator): SleepService
+B(Instance): AtomicInteger
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupBasics
+B(Instance): EmailAddressValidator
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupBasics
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupBasics
+B(Instance): OnCheckedChangeListener
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupBasics
+B(Instance): DialogInterface.OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupBasics
+B(Instance): Provider
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupBasics
+B(Instance): AlertDialog.Builder
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupBasics
+B(Instance): URI
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupBasics
+B(Instance): ServerSettings
+
+Candidate of Pattern Creates:
+A(Creator): ApgDeprecationDialogFragment
+B(Instance): ApgDeprecationWarningDialog
+
+Candidate of Pattern Creates:
+A(Creator): PartContainer
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): PartContainer
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): PartContainer
+B(Instance): HashSet<>
+
+Candidate of Pattern Creates:
+A(Creator): PartContainer
+B(Instance): DbCallback<List<Message>>
+
+Candidate of Pattern Creates:
+A(Creator): PartContainer
+B(Instance): DbCallback<Void>
+
+Candidate of Pattern Creates:
+A(Creator): PartContainer
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): PartContainer
+B(Instance): DbCallback<Integer>
+
+Candidate of Pattern Creates:
+A(Creator): PartContainer
+B(Instance): WrappedException
+
+Candidate of Pattern Creates:
+A(Creator): PartContainer
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): PartContainer
+B(Instance): ThreadInfo
+
+Candidate of Pattern Creates:
+A(Creator): PartContainer
+B(Instance): DbCallback<Long>
+
+Candidate of Pattern Creates:
+A(Creator): PartContainer
+B(Instance): ContentValues
+
+Candidate of Pattern Creates:
+A(Creator): MessageCreationHelper
+B(Instance): MimeMultipart
+
+Candidate of Pattern Creates:
+A(Creator): MessageCreationHelper
+B(Instance): MimeBodyPart
+
+Candidate of Pattern Creates:
+A(Creator): MessageCreationHelper
+B(Instance): BinaryMemoryBody
+
+Candidate of Pattern Creates:
+A(Creator): MessageCreationHelper
+B(Instance): MimeMessage
+
+Candidate of Pattern Creates:
+A(Creator): MessageCreationHelper
+B(Instance): TextBody
+
+Candidate of Pattern Creates:
+A(Creator): ListResponse
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): AutocryptHeader
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): AutocryptHeader
+B(Instance): UnsupportedOperationException
+
+Candidate of Pattern Creates:
+A(Creator): TimeSetting
+B(Instance): InvalidSettingValueException
+
+Candidate of Pattern Creates:
+A(Creator): Settings
+B(Instance): HashSet<>
+
+Candidate of Pattern Creates:
+A(Creator): Settings
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): Settings
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): Settings
+B(Instance): TreeMap<>
+
+Candidate of Pattern Creates:
+A(Creator): ChooseFolder
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): ChooseFolder
+B(Instance): ChooseFolderHandler
+
+Candidate of Pattern Creates:
+A(Creator): ChooseFolder
+B(Instance): FolderListFilter<String>
+
+Candidate of Pattern Creates:
+A(Creator): ChooseFolder
+B(Instance): AdapterView.OnItemClickListener
+
+Candidate of Pattern Creates:
+A(Creator): ChooseFolder
+B(Instance): ArrayAdapter<String>
+
+Candidate of Pattern Creates:
+A(Creator): PgpSignOnlyDialog
+B(Instance): AlertDialog.Builder
+
+Candidate of Pattern Creates:
+A(Creator): PgpSignOnlyDialog
+B(Instance): OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): PgpSignOnlyDialog
+B(Instance): Bundle
+
+Candidate of Pattern Creates:
+A(Creator): K9AlarmManager
+B(Instance): DozeChecker
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTest
+B(Instance): BufferedInputStream
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTest
+B(Instance): FileInputStream
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTest
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTest
+B(Instance): BufferedOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTest
+B(Instance): FetchProfile
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTest
+B(Instance): FileOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): IntegerRangeSetting
+B(Instance): InvalidSettingValueException
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoStructureDetector
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoStructureDetector
+B(Instance): ByteArrayOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoStructureDetector
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoStructureDetector
+B(Instance): Stack<>
+
+Candidate of Pattern Creates:
+A(Creator): AccountsHandler
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): AccountsHandler
+B(Instance): StorageManager.StorageListener
+
+Candidate of Pattern Creates:
+A(Creator): AccountsHandler
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): AccountsHandler
+B(Instance): ChangeLog
+
+Candidate of Pattern Creates:
+A(Creator): AccountsHandler
+B(Instance): ActivityListener
+
+Candidate of Pattern Creates:
+A(Creator): AccountsHandler
+B(Instance): AccountStats
+
+Candidate of Pattern Creates:
+A(Creator): AccountsHandler
+B(Instance): LocalSearch
+
+Candidate of Pattern Creates:
+A(Creator): AccountsHandler
+B(Instance): ArrayList<BaseAccount>
+
+Candidate of Pattern Creates:
+A(Creator): DatabaseUpgradeService
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): DatabaseUpgradeService
+B(Instance): AtomicBoolean
+
+Candidate of Pattern Creates:
+A(Creator): DatabaseUpgradeService
+B(Instance): Thread
+
+Candidate of Pattern Creates:
+A(Creator): Recipient
+B(Instance): Address
+
+Candidate of Pattern Creates:
+A(Creator): ActivityListenerTest
+B(Instance): ActivityListener
+
+Candidate of Pattern Creates:
+A(Creator): PermissionPingCallback
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): PermissionPingCallback
+B(Instance): IOpenPgpCallback
+
+Candidate of Pattern Creates:
+A(Creator): IntegerResourceSetting
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): IntegerResourceSetting
+B(Instance): InvalidSettingValueException
+
+Candidate of Pattern Creates:
+A(Creator): DeletePolicy
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): UriLinkifier
+B(Instance): BitcoinUriParser
+
+Candidate of Pattern Creates:
+A(Creator): UriLinkifier
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): UriLinkifier
+B(Instance): HttpUriParser
+
+Candidate of Pattern Creates:
+A(Creator): UriLinkifier
+B(Instance): EthereumUriParser
+
+Candidate of Pattern Creates:
+A(Creator): MessageListWidgetService
+B(Instance): MessageListRemoteViewFactory
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): ArrayList<Pop3Message>
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): Pop3ResponseInputStream
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): HashSet<String>
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): HashMap<String, Pop3Message>
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): UnsupportedOperationException
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): Pop3Capabilities
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): BufferedInputStream
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): Pop3ErrorResponse
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): HashMap<String, Integer>
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): IOException
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): AuthenticationFailedException
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): String
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): Socket
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): InetSocketAddress
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): HashMap<Integer, Pop3Message>
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): BufferedOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): ArrayList<String>
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): Pop3Message
+
+Candidate of Pattern Creates:
+A(Creator): Pop3Folder
+B(Instance): CertificateValidationException
+
+Candidate of Pattern Creates:
+A(Creator): OnColorChangedListener
+B(Instance): DialogInterface.OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): RealDeviceIdleManager
+B(Instance): IntentFilter
+
+Candidate of Pattern Creates:
+A(Creator): RealDeviceIdleManager
+B(Instance): DeviceIdleReceiver
+
+Candidate of Pattern Creates:
+A(Creator): StorageListenerImplementation
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): StorageListenerImplementation
+B(Instance): LocalSearch
+
+Candidate of Pattern Creates:
+A(Creator): StorageListenerImplementation
+B(Instance): Bundle
+
+Candidate of Pattern Creates:
+A(Creator): StorageListenerImplementation
+B(Instance): Thread
+
+Candidate of Pattern Creates:
+A(Creator): ImapStoreUriDecoder
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): ImapStoreUriDecoder
+B(Instance): URI
+
+Candidate of Pattern Creates:
+A(Creator): ImapStoreUriDecoder
+B(Instance): ImapStoreSettings
+
+Candidate of Pattern Creates:
+A(Creator): InternalStorageProvider
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): K9RobolectricTestRunner
+B(Instance): Config.Builder
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): SenderComparator
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): ClassCastException
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): ComparatorChain<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): ReverseIdComparator
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): MessageListHandler
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): HashSet<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): ActionModeCallback
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): FlaggedComparator
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): AttachmentComparator
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): IntentFilter
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): UnreadComparator
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): ReverseComparator<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): SwipeRefreshLayout.OnRefreshListener
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): Bundle
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): BroadcastReceiver
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): ArrivalComparator
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): SubjectComparator
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): MessageListAdapter
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): EnumMap<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): FolderInfoHolder
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): Rect
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): MessageListActivityListener
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragment
+B(Instance): DateComparator
+
+Candidate of Pattern Creates:
+A(Creator): MyCallback
+B(Instance): SavedState
+
+Candidate of Pattern Creates:
+A(Creator): HighlightDialogFragment
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): HighlightDialogFragment
+B(Instance): Builder
+
+Candidate of Pattern Creates:
+A(Creator): HighlightDialogFragment
+B(Instance): ViewTarget
+
+Candidate of Pattern Creates:
+A(Creator): TextQuoteCreator
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): EmailAddressList
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): EmailAddressList
+B(Instance): ArrayAdapter<String>
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessageBuilder
+B(Instance): LinkedList<>
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessageBuilder
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessageBuilder
+B(Instance): MimeMultipart
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessageBuilder
+B(Instance): UnsupportedOperationException
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessageBuilder
+B(Instance): MimeBodyPart
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessageBuilder
+B(Instance): ByteArrayOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessageBuilder
+B(Instance): MimeHeader
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessageBuilder
+B(Instance): MimeMessage
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessageBuilder
+B(Instance): MimeException
+
+Candidate of Pattern Creates:
+A(Creator): HtmlConverter
+B(Instance): HtmlToTextTagHandler
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupAccountType
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupAccountType
+B(Instance): ServerNameSuggester
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupAccountType
+B(Instance): URI
+
+Candidate of Pattern Creates:
+A(Creator): MessageExtractor
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): MessageExtractor
+B(Instance): ArrayList<Viewable>
+
+Candidate of Pattern Creates:
+A(Creator): MessageExtractor
+B(Instance): MessageHeader
+
+Candidate of Pattern Creates:
+A(Creator): MessageExtractor
+B(Instance): HashSet<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageExtractor
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): MessageExtractor
+B(Instance): BoundedInputStream
+
+Candidate of Pattern Creates:
+A(Creator): MessageExtractor
+B(Instance): String
+
+Candidate of Pattern Creates:
+A(Creator): MessageExtractor
+B(Instance): Alternative
+
+Candidate of Pattern Creates:
+A(Creator): MessageExtractor
+B(Instance): Text
+
+Candidate of Pattern Creates:
+A(Creator): MessageExtractor
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageExtractor
+B(Instance): Html
+
+Candidate of Pattern Creates:
+A(Creator): MessageExtractor
+B(Instance): Flowed
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewFragmentListener
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewFragmentListener
+B(Instance): AttachmentController
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewFragmentListener
+B(Instance): MessageLoaderCallbacks
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewFragmentListener
+B(Instance): FileBrowserFailOverCallback
+
+Candidate of Pattern Creates:
+A(Creator): K9LibRobolectricTestRunner
+B(Instance): Config.Builder
+
+Candidate of Pattern Creates:
+A(Creator): CoreService
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): CoreService
+B(Instance): ConcurrentHashMap<Integer, TracingWakeLock>
+
+Candidate of Pattern Creates:
+A(Creator): CoreService
+B(Instance): AtomicInteger
+
+Candidate of Pattern Creates:
+A(Creator): BoundaryGenerator
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): BoundaryGenerator
+B(Instance): Random
+
+Candidate of Pattern Creates:
+A(Creator): MessageFulltextCreator
+B(Instance): EncryptionDetector
+
+Candidate of Pattern Creates:
+A(Creator): MessageFulltextCreator
+B(Instance): TextPartFinder
+
+Candidate of Pattern Creates:
+A(Creator): UnreadWidgetConfiguration
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): UnreadWidgetConfiguration
+B(Instance): Preference.OnPreferenceClickListener
+
+Candidate of Pattern Creates:
+A(Creator): UnreadWidgetConfiguration
+B(Instance): UnreadWidgetProperties
+
+Candidate of Pattern Creates:
+A(Creator): UnreadWidgetConfiguration
+B(Instance): Preference.OnPreferenceChangeListener
+
+Candidate of Pattern Creates:
+A(Creator): TemporaryAttachmentStore
+B(Instance): IOException
+
+Candidate of Pattern Creates:
+A(Creator): TemporaryAttachmentStore
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): EmailProviderTest
+B(Instance): MimeMessage
+
+Candidate of Pattern Creates:
+A(Creator): EmailProviderTest
+B(Instance): GregorianCalendar
+
+Candidate of Pattern Creates:
+A(Creator): LauncherShortcuts
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpDataResult
+B(Instance): OpenPgpDataResult<>
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpDataResult
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpDataResult
+B(Instance): OpenPgpError
+
+Candidate of Pattern Creates:
+A(Creator): BinaryAttachmentBody
+B(Instance): Base64OutputStream
+
+Candidate of Pattern Creates:
+A(Creator): BinaryAttachmentBody
+B(Instance): QuotedPrintableOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): Operator
+B(Instance): Stack<ConditionsTreeNode>
+
+Candidate of Pattern Creates:
+A(Creator): Operator
+B(Instance): HashSet<ConditionsTreeNode>
+
+Candidate of Pattern Creates:
+A(Creator): Operator
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): Operator
+B(Instance): ArrayList<ConditionsTreeNode>
+
+Candidate of Pattern Creates:
+A(Creator): Operator
+B(Instance): ConditionsTreeNode
+
+Candidate of Pattern Creates:
+A(Creator): Operator
+B(Instance): Parcelable.Creator<ConditionsTreeNode>
+
+Candidate of Pattern Creates:
+A(Creator): Operator
+B(Instance): SearchCondition
+
+Candidate of Pattern Creates:
+A(Creator): Operator
+B(Instance): Exception
+
+Candidate of Pattern Creates:
+A(Creator): AutocryptHeaderParserTest
+B(Instance): FileInputStream
+
+Candidate of Pattern Creates:
+A(Creator): SyncNotificationsTest
+B(Instance): SyncNotifications
+
+Candidate of Pattern Creates:
+A(Creator): ThemeSetting
+B(Instance): InvalidSettingValueException
+
+Candidate of Pattern Creates:
+A(Creator): Pop3StoreTest
+B(Instance): Pop3Store
+
+Candidate of Pattern Creates:
+A(Creator): Pop3StoreTest
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): Pop3StoreTest
+B(Instance): ByteArrayOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): Pop3StoreTest
+B(Instance): String
+
+Candidate of Pattern Creates:
+A(Creator): DeferredFileBodyTest
+B(Instance): DeferredFileBody
+
+Candidate of Pattern Creates:
+A(Creator): DeferredFileBodyTest
+B(Instance): FileFactory
+
+Candidate of Pattern Creates:
+A(Creator): DeferredFileBodyTest
+B(Instance): ByteArrayOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): DeferredFileBodyTest
+B(Instance): FileInputStream
+
+Candidate of Pattern Creates:
+A(Creator): HtmlSignatureRemover
+B(Instance): AdvancedNodeTraversor
+
+Candidate of Pattern Creates:
+A(Creator): HtmlSignatureRemover
+B(Instance): StripSignatureFilter
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStoreTest
+B(Instance): BasicClientCookie
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStoreTest
+B(Instance): StringEntity
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStoreTest
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStoreTest
+B(Instance): BasicHttpParams
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStoreTest
+B(Instance): BasicStatusLine
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStoreTest
+B(Instance): ServerSettings
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStoreTest
+B(Instance): Answer<HttpResponse>
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStoreTest
+B(Instance): SSLException
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStoreTest
+B(Instance): WebDavStore
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStoreTest
+B(Instance): BasicHttpEntity
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStoreTest
+B(Instance): BasicHttpResponse
+
+Candidate of Pattern Creates:
+A(Creator): Hex
+B(Instance): String
+
+Candidate of Pattern Creates:
+A(Creator): MessageHelperTest
+B(Instance): Contacts
+
+Candidate of Pattern Creates:
+A(Creator): MessageHelperTest
+B(Instance): Address
+
+Candidate of Pattern Creates:
+A(Creator): Multipart
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): Multipart
+B(Instance): ArrayList<BodyPart>
+
+Candidate of Pattern Creates:
+A(Creator): EthereumUriParserTest
+B(Instance): StringBuffer
+
+Candidate of Pattern Creates:
+A(Creator): EthereumUriParserTest
+B(Instance): EthereumUriParser
+
+Candidate of Pattern Creates:
+A(Creator): StorageEditor
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): StorageEditor
+B(Instance): HashMap<String, String>
+
+Candidate of Pattern Creates:
+A(Creator): StorageEditor
+B(Instance): ArrayList<String>
+
+Candidate of Pattern Creates:
+A(Creator): PreviewTextExtractor
+B(Instance): PreviewExtractionException
+
+Candidate of Pattern Creates:
+A(Creator): EmailProvider
+B(Instance): UriMatcher
+
+Candidate of Pattern Creates:
+A(Creator): EmailProvider
+B(Instance): HashMap<String, String>
+
+Candidate of Pattern Creates:
+A(Creator): K9RemoteControl
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): K9RemoteControl
+B(Instance): AccountReceiver
+
+Candidate of Pattern Creates:
+A(Creator): NotificationActionService
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): NotificationActionService
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpSignatureResult
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpSignatureResult
+B(Instance): Creator<OpenPgpSignatureResult>
+
+Candidate of Pattern Creates:
+A(Creator): NotificationDeleteConfirmation
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): NotificationDeleteConfirmation
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): NotificationDeleteConfirmation
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): NotificationDeleteConfirmation
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentTempFileProviderCleanupReceiver
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): AddNotificationResultTest
+B(Instance): NotificationHolder
+
+Candidate of Pattern Creates:
+A(Creator): HtmlQuoteCreator
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): HtmlQuoteCreator
+B(Instance): InsertableHtmlContent
+
+Candidate of Pattern Creates:
+A(Creator): MessageListRemoteViewFactory
+B(Instance): SpannableString
+
+Candidate of Pattern Creates:
+A(Creator): MessageListRemoteViewFactory
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): MessageListRemoteViewFactory
+B(Instance): RemoteViews
+
+Candidate of Pattern Creates:
+A(Creator): MessageListRemoteViewFactory
+B(Instance): MailItem
+
+Candidate of Pattern Creates:
+A(Creator): MessageListRemoteViewFactory
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageListRemoteViewFactory
+B(Instance): StyleSpan
+
+Candidate of Pattern Creates:
+A(Creator): Share
+B(Instance): ComponentName
+
+Candidate of Pattern Creates:
+A(Creator): Share
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): Share
+B(Instance): SynchronousQueue<Handler>
+
+Candidate of Pattern Creates:
+A(Creator): Share
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): Share
+B(Instance): StorageGoneReceiver
+
+Candidate of Pattern Creates:
+A(Creator): Share
+B(Instance): Handler
+
+Candidate of Pattern Creates:
+A(Creator): Share
+B(Instance): K9MailLib.DebugStatus
+
+Candidate of Pattern Creates:
+A(Creator): Share
+B(Instance): IntentFilter
+
+Candidate of Pattern Creates:
+A(Creator): Share
+B(Instance): ShutdownReceiver
+
+Candidate of Pattern Creates:
+A(Creator): Share
+B(Instance): SimpleMessagingListener
+
+Candidate of Pattern Creates:
+A(Creator): Share
+B(Instance): Thread
+
+Candidate of Pattern Creates:
+A(Creator): ImportResults
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): ImportResults
+B(Instance): SettingsImportExportException
+
+Candidate of Pattern Creates:
+A(Creator): ImportResults
+B(Instance): ImportedSettings
+
+Candidate of Pattern Creates:
+A(Creator): ImportResults
+B(Instance): ImportedFolder
+
+Candidate of Pattern Creates:
+A(Creator): ImportResults
+B(Instance): AccountDescription
+
+Candidate of Pattern Creates:
+A(Creator): ImportResults
+B(Instance): ImportContents
+
+Candidate of Pattern Creates:
+A(Creator): ImportResults
+B(Instance): Imported
+
+Candidate of Pattern Creates:
+A(Creator): ImportResults
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): ImportResults
+B(Instance): InvalidSettingValueException
+
+Candidate of Pattern Creates:
+A(Creator): ImportResults
+B(Instance): ImportedServerSettings
+
+Candidate of Pattern Creates:
+A(Creator): ImportResults
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): ImportResults
+B(Instance): ImportedAccount
+
+Candidate of Pattern Creates:
+A(Creator): ImportResults
+B(Instance): AccountDescriptionPair
+
+Candidate of Pattern Creates:
+A(Creator): ImportResults
+B(Instance): ImportedServer
+
+Candidate of Pattern Creates:
+A(Creator): ImportResults
+B(Instance): ImportedIdentity
+
+Candidate of Pattern Creates:
+A(Creator): ImportResults
+B(Instance): InputStreamReader
+
+Candidate of Pattern Creates:
+A(Creator): ThemeUtils
+B(Instance): TypedValue
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewInfoExtractor
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewInfoExtractor
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewInfoExtractor
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewInfoExtractor
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewInfoExtractor
+B(Instance): ViewableExtractedText
+
+Candidate of Pattern Creates:
+A(Creator): DefaultTrustedSocketFactory
+B(Instance): ArrayList<String>
+
+Candidate of Pattern Creates:
+A(Creator): DefaultTrustedSocketFactory
+B(Instance): KeyChainKeyManager
+
+Candidate of Pattern Creates:
+A(Creator): SmtpDataStuffingTest
+B(Instance): Buffer
+
+Candidate of Pattern Creates:
+A(Creator): SmtpDataStuffingTest
+B(Instance): SmtpDataStuffing
+
+Candidate of Pattern Creates:
+A(Creator): MessagePreviewCreatorTest
+B(Instance): MessagePreviewCreator
+
+Candidate of Pattern Creates:
+A(Creator): MessagePreviewCreatorTest
+B(Instance): PreviewExtractionException
+
+Candidate of Pattern Creates:
+A(Creator): MessagePreviewCreatorTest
+B(Instance): MimeMessage
+
+Candidate of Pattern Creates:
+A(Creator): DecryptedFileProviderCleanupReceiver
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): TestMessageConstructionUtils
+B(Instance): MimeBodyPart
+
+Candidate of Pattern Creates:
+A(Creator): TestMessageConstructionUtils
+B(Instance): MimeMessage
+
+Candidate of Pattern Creates:
+A(Creator): TestMessageConstructionUtils
+B(Instance): TextBody
+
+Candidate of Pattern Creates:
+A(Creator): LocalSearch
+B(Instance): HashSet<ConditionsTreeNode>
+
+Candidate of Pattern Creates:
+A(Creator): LocalSearch
+B(Instance): HashSet<String>
+
+Candidate of Pattern Creates:
+A(Creator): LocalSearch
+B(Instance): Parcelable.Creator<LocalSearch>
+
+Candidate of Pattern Creates:
+A(Creator): LocalSearch
+B(Instance): ArrayList<String>
+
+Candidate of Pattern Creates:
+A(Creator): LocalSearch
+B(Instance): ConditionsTreeNode
+
+Candidate of Pattern Creates:
+A(Creator): LocalSearch
+B(Instance): SearchCondition
+
+Candidate of Pattern Creates:
+A(Creator): NotificationActionCreator
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): NotificationActionCreator
+B(Instance): LocalSearch
+
+Candidate of Pattern Creates:
+A(Creator): ContactBadge
+B(Instance): QueryHandler
+
+Candidate of Pattern Creates:
+A(Creator): ContactBadge
+B(Instance): Bundle
+
+Candidate of Pattern Creates:
+A(Creator): MyTimerTask
+B(Instance): HandlerRunnable
+
+Candidate of Pattern Creates:
+A(Creator): MessageListWidgetProvider
+B(Instance): ComponentName
+
+Candidate of Pattern Creates:
+A(Creator): MessageListWidgetProvider
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): MessageListWidgetProvider
+B(Instance): RemoteViews
+
+Candidate of Pattern Creates:
+A(Creator): ImportSelectionDialog
+B(Instance): ImportAsyncTask
+
+Candidate of Pattern Creates:
+A(Creator): ImportSelectionDialog
+B(Instance): DialogInterface.OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): ImportSelectionDialog
+B(Instance): OnMultiChoiceClickListener
+
+Candidate of Pattern Creates:
+A(Creator): ImportSelectionDialog
+B(Instance): AlertDialog.Builder
+
+Candidate of Pattern Creates:
+A(Creator): ImportSelectionDialog
+B(Instance): ArrayList<String>
+
+Candidate of Pattern Creates:
+A(Creator): MessageIdGeneratorTest
+B(Instance): MessageIdGenerator
+
+Candidate of Pattern Creates:
+A(Creator): MessageIdGeneratorTest
+B(Instance): Address
+
+Candidate of Pattern Creates:
+A(Creator): MessageIdGeneratorTest
+B(Instance): MimeMessage
+
+Candidate of Pattern Creates:
+A(Creator): NewMailNotificationsTest
+B(Instance): MessageReference
+
+Candidate of Pattern Creates:
+A(Creator): NewMailNotificationsTest
+B(Instance): TestNewMailNotifications
+
+Candidate of Pattern Creates:
+A(Creator): NewMailNotificationsTest
+B(Instance): NotificationContent
+
+Candidate of Pattern Creates:
+A(Creator): NewMailNotificationsTest
+B(Instance): NotificationHolder
+
+Candidate of Pattern Creates:
+A(Creator): SignSafeOutputStreamTest
+B(Instance): QuotedPrintableOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): SignSafeOutputStreamTest
+B(Instance): ByteArrayOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): SignSafeOutputStreamTest
+B(Instance): String
+
+Candidate of Pattern Creates:
+A(Creator): SignSafeOutputStreamTest
+B(Instance): SignSafeOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoStructureDetectorTest
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoStructureDetectorTest
+B(Instance): MimeMessage
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoStructureDetectorTest
+B(Instance): TextBody
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelperTest
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelperTest
+B(Instance): MimeBodyPart
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelperTest
+B(Instance): MessageCryptoHelper
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelperTest
+B(Instance): MimeMessage
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoHelperTest
+B(Instance): TextBody
+
+Candidate of Pattern Creates:
+A(Creator): SelectOrExamineResponse
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupOutgoing
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupOutgoing
+B(Instance): OnClientCertificateChangedListener
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupOutgoing
+B(Instance): TextWatcher
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupOutgoing
+B(Instance): URI
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupOutgoing
+B(Instance): AdapterView.OnItemSelectedListener
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupOutgoing
+B(Instance): ServerSettings
+
+Candidate of Pattern Creates:
+A(Creator): FolderSettings
+B(Instance): V
+
+Candidate of Pattern Creates:
+A(Creator): FolderSettings
+B(Instance): LinkedHashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): FolderSettings
+B(Instance): EnumSetting<>
+
+Candidate of Pattern Creates:
+A(Creator): FolderSettings
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): FolderSettings
+B(Instance): BooleanSetting
+
+Candidate of Pattern Creates:
+A(Creator): BaseNotificationsTest
+B(Instance): TestNotifications
+
+Candidate of Pattern Creates:
+A(Creator): BaseNotificationsTest
+B(Instance): NotificationContent
+
+Candidate of Pattern Creates:
+A(Creator): BaseNotificationsTest
+B(Instance): NotificationHolder
+
+Candidate of Pattern Creates:
+A(Creator): NewMailNotifications
+B(Instance): Object
+
+Candidate of Pattern Creates:
+A(Creator): NewMailNotifications
+B(Instance): SparseArray<NotificationData>
+
+Candidate of Pattern Creates:
+A(Creator): NewMailNotifications
+B(Instance): NotificationContentCreator
+
+Candidate of Pattern Creates:
+A(Creator): NewMailNotifications
+B(Instance): NotificationData
+
+Candidate of Pattern Creates:
+A(Creator): NewMailNotifications
+B(Instance): WearNotifications
+
+Candidate of Pattern Creates:
+A(Creator): RetainFragment
+B(Instance): RetainFragment<>
+
+Candidate of Pattern Creates:
+A(Creator): MimeHeader
+B(Instance): ArrayList<Field>
+
+Candidate of Pattern Creates:
+A(Creator): MimeHeader
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): MimeHeader
+B(Instance): BufferedWriter
+
+Candidate of Pattern Creates:
+A(Creator): MimeHeader
+B(Instance): OutputStreamWriter
+
+Candidate of Pattern Creates:
+A(Creator): MimeHeader
+B(Instance): ArrayList<String>
+
+Candidate of Pattern Creates:
+A(Creator): MimeHeader
+B(Instance): LinkedHashSet<String>
+
+Candidate of Pattern Creates:
+A(Creator): ImapStoreUriTest
+B(Instance): HashMap<String, String>
+
+Candidate of Pattern Creates:
+A(Creator): ImapStoreUriTest
+B(Instance): ServerSettings
+
+Candidate of Pattern Creates:
+A(Creator): Listener
+B(Instance): HashMap<String, Integer>
+
+Candidate of Pattern Creates:
+A(Creator): CoreReceiver
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): CoreReceiver
+B(Instance): ConcurrentHashMap<Integer, TracingWakeLock>
+
+Candidate of Pattern Creates:
+A(Creator): CoreReceiver
+B(Instance): AtomicInteger
+
+Candidate of Pattern Creates:
+A(Creator): MessageExtractorTest
+B(Instance): MimeBodyPart
+
+Candidate of Pattern Creates:
+A(Creator): MessageExtractorTest
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): MessageExtractorTest
+B(Instance): BinaryMemoryBody
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolderTest
+B(Instance): WebDavMessage
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolderTest
+B(Instance): WebDavFolder
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolderTest
+B(Instance): Date
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolderTest
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolderTest
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolderTest
+B(Instance): IOException
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolderTest
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolderTest
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolderTest
+B(Instance): Answer<HttpResponse>
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolderTest
+B(Instance): FetchProfile
+
+Candidate of Pattern Creates:
+A(Creator): WebDavFolderTest
+B(Instance): BasicHttpEntity
+
+Candidate of Pattern Creates:
+A(Creator): SimpleDialog
+B(Instance): DialogInterface.OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): SimpleDialog
+B(Instance): AlertDialog.Builder
+
+Candidate of Pattern Creates:
+A(Creator): SimpleDialog
+B(Instance): AccountsImportedDialog
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentPresenter
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentPresenter
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentPresenter
+B(Instance): LinkedHashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentPresenter
+B(Instance): Handler
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentPresenter
+B(Instance): AttachmentInfoLoader
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentPresenter
+B(Instance): AttachmentContentLoader
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentPresenter
+B(Instance): LoaderManager.LoaderCallbacks<Attachment>
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentPresenter
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentPresenter
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): AttachmentPresenter
+B(Instance): Bundle
+
+Candidate of Pattern Creates:
+A(Creator): Preferences
+B(Instance): LinkedList<>
+
+Candidate of Pattern Creates:
+A(Creator): Preferences
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): Preferences
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): Preferences
+B(Instance): Account
+
+Candidate of Pattern Creates:
+A(Creator): DataSinkTransferThread
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): HtmlConverterTest
+B(Instance): BufferedWriter
+
+Candidate of Pattern Creates:
+A(Creator): HtmlConverterTest
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): HtmlConverterTest
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): HtmlConverterTest
+B(Instance): FileWriter
+
+Candidate of Pattern Creates:
+A(Creator): Command
+B(Instance): LinkedList<>
+
+Candidate of Pattern Creates:
+A(Creator): Command
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): Command
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): Command
+B(Instance): CountDownLatch
+
+Candidate of Pattern Creates:
+A(Creator): Command
+B(Instance): MessagingControllerPushReceiver
+
+Candidate of Pattern Creates:
+A(Creator): Command
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): RecipientSelectView
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): RecipientSelectView
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): RecipientSelectView
+B(Instance): Handler
+
+Candidate of Pattern Creates:
+A(Creator): RecipientSelectView
+B(Instance): AlternateRecipientAdapter
+
+Candidate of Pattern Creates:
+A(Creator): RecipientSelectView
+B(Instance): ListPopupWindow
+
+Candidate of Pattern Creates:
+A(Creator): RecipientSelectView
+B(Instance): RecipientAdapter
+
+Candidate of Pattern Creates:
+A(Creator): RecipientSelectView
+B(Instance): Recipient
+
+Candidate of Pattern Creates:
+A(Creator): RecipientSelectView
+B(Instance): Bundle
+
+Candidate of Pattern Creates:
+A(Creator): RecipientSelectView
+B(Instance): RecipientTokenViewHolder
+
+Candidate of Pattern Creates:
+A(Creator): RecipientSelectView
+B(Instance): RecipientLoader
+
+Candidate of Pattern Creates:
+A(Creator): RecipientSelectView
+B(Instance): RecipientTokenSpan
+
+Candidate of Pattern Creates:
+A(Creator): ProgressBodyFactory
+B(Instance): Timer
+
+Candidate of Pattern Creates:
+A(Creator): ProgressBodyFactory
+B(Instance): TimerTask
+
+Candidate of Pattern Creates:
+A(Creator): ProgressBodyFactory
+B(Instance): CountingOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): Address
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): Address
+B(Instance): ArrayList<Address>
+
+Candidate of Pattern Creates:
+A(Creator): Address
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): DataSet
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): DataSet
+B(Instance): HashMap<String, ParsedMessageEnvelope>
+
+Candidate of Pattern Creates:
+A(Creator): DataSet
+B(Instance): HashMap<String, Map<String, String>>
+
+Candidate of Pattern Creates:
+A(Creator): DataSet
+B(Instance): ParsedMessageEnvelope
+
+Candidate of Pattern Creates:
+A(Creator): DataSet
+B(Instance): HashMap<String, String>
+
+Candidate of Pattern Creates:
+A(Creator): DataSet
+B(Instance): SimpleDateFormat
+
+Candidate of Pattern Creates:
+A(Creator): DataSet
+B(Instance): ArrayList<String>
+
+Candidate of Pattern Creates:
+A(Creator): DataSet
+B(Instance): HashMap<String, Boolean>
+
+Candidate of Pattern Creates:
+A(Creator): SwipeGestureDetector
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): NotificationContentCreatorTest
+B(Instance): MessageReference
+
+Candidate of Pattern Creates:
+A(Creator): NotificationContentCreatorTest
+B(Instance): Address
+
+Candidate of Pattern Creates:
+A(Creator): NotificationContentCreatorTest
+B(Instance): NotificationContentCreator
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessage
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessage
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessage
+B(Instance): EOLConvertingInputStream
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessage
+B(Instance): DefaultBodyFactory
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessage
+B(Instance): MimeStreamParser
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessage
+B(Instance): BufferedWriter
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessage
+B(Instance): UnsupportedOperationException
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessage
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessage
+B(Instance): MimeConfig.Builder
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessage
+B(Instance): MimeMessageBuilder
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessage
+B(Instance): OutputStreamWriter
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessage
+B(Instance): SimpleDateFormat
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessage
+B(Instance): MimeHeader
+
+Candidate of Pattern Creates:
+A(Creator): FontSizeSettings
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): FontSizeSettings
+B(Instance): Preference.OnPreferenceChangeListener
+
+Candidate of Pattern Creates:
+A(Creator): WebDavHandler
+B(Instance): String
+
+Candidate of Pattern Creates:
+A(Creator): WebDavHandler
+B(Instance): DataSet
+
+Candidate of Pattern Creates:
+A(Creator): WebDavHandler
+B(Instance): LinkedList<String>
+
+Candidate of Pattern Creates:
+A(Creator): MessageListAdapter
+B(Instance): SpannableStringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): MessageListAdapter
+B(Instance): MessageViewHolder
+
+Candidate of Pattern Creates:
+A(Creator): MessageListAdapter
+B(Instance): TypedValue
+
+Candidate of Pattern Creates:
+A(Creator): MessageListAdapter
+B(Instance): ForegroundColorSpan
+
+Candidate of Pattern Creates:
+A(Creator): MessageListAdapter
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): MessageListAdapter
+B(Instance): AbsoluteSizeSpan
+
+Candidate of Pattern Creates:
+A(Creator): NotificationContentCreator
+B(Instance): SpannableStringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): NotificationContentCreator
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): NotificationContentCreator
+B(Instance): NotificationContent
+
+Candidate of Pattern Creates:
+A(Creator): XOAuth2ChallengeParser
+B(Instance): JSONObject
+
+Candidate of Pattern Creates:
+A(Creator): EmailProviderCache
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): EmailProviderCache
+B(Instance): HashMap<Long, Long>
+
+Candidate of Pattern Creates:
+A(Creator): EmailProviderCache
+B(Instance): HashMap<Long, Map<String, String>>
+
+Candidate of Pattern Creates:
+A(Creator): EmailProviderCache
+B(Instance): HashMap<String, String>
+
+Candidate of Pattern Creates:
+A(Creator): EmailProviderCache
+B(Instance): HashMap<String, EmailProviderCache>
+
+Candidate of Pattern Creates:
+A(Creator): ThrottlingQueryHandler
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): ThrottlingQueryHandler
+B(Instance): WeakReference<MonitoredCursor>
+
+Candidate of Pattern Creates:
+A(Creator): ThrottlingQueryHandler
+B(Instance): MonitoredCursor
+
+Candidate of Pattern Creates:
+A(Creator): MessagingControllerTest
+B(Instance): UnavailableStorageException
+
+Candidate of Pattern Creates:
+A(Creator): MessagingControllerTest
+B(Instance): Date
+
+Candidate of Pattern Creates:
+A(Creator): MessagingControllerTest
+B(Instance): MessagingController
+
+Candidate of Pattern Creates:
+A(Creator): MessagingControllerTest
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): MessagingControllerTest
+B(Instance): Answer<LocalMessage>
+
+Candidate of Pattern Creates:
+A(Creator): MessagingControllerTest
+B(Instance): AuthenticationFailedException
+
+Candidate of Pattern Creates:
+A(Creator): MessagingControllerTest
+B(Instance): Answer<T>
+
+Candidate of Pattern Creates:
+A(Creator): MessagingControllerTest
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): MessagingControllerTest
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): MessagingControllerTest
+B(Instance): Answer
+
+Candidate of Pattern Creates:
+A(Creator): MessagingControllerTest
+B(Instance): Answer<Void>
+
+Candidate of Pattern Creates:
+A(Creator): MessagingControllerTest
+B(Instance): CertificateValidationException
+
+Candidate of Pattern Creates:
+A(Creator): MockHelper
+B(Instance): Answer
+
+Candidate of Pattern Creates:
+A(Creator): LockScreenNotification
+B(Instance): LinkedHashSet<CharSequence>
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpAppPreference
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpAppPreference
+B(Instance): DialogInterface.OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpAppPreference
+B(Instance): OpenPgpProviderEntry
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpAppPreference
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpAppPreference
+B(Instance): ArrayAdapter<OpenPgpProviderEntry>
+
+Candidate of Pattern Creates:
+A(Creator): FolderListHandler
+B(Instance): OnItemClickListener
+
+Candidate of Pattern Creates:
+A(Creator): FolderListHandler
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): FolderListHandler
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): FolderListHandler
+B(Instance): SearchView.OnCloseListener
+
+Candidate of Pattern Creates:
+A(Creator): FolderListHandler
+B(Instance): ChangeLog
+
+Candidate of Pattern Creates:
+A(Creator): FolderListHandler
+B(Instance): LocalSearch
+
+Candidate of Pattern Creates:
+A(Creator): FolderListHandler
+B(Instance): Bundle
+
+Candidate of Pattern Creates:
+A(Creator): FolderListHandler
+B(Instance): SearchView.OnQueryTextListener
+
+Candidate of Pattern Creates:
+A(Creator): FolderListHandler
+B(Instance): SimpleMessagingListener
+
+Candidate of Pattern Creates:
+A(Creator): FolderListHandler
+B(Instance): FolderListAdapter
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpDataSource
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpDataSource
+B(Instance): ParcelFileDescriptor.AutoCloseOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpDataSource
+B(Instance): DataSourceTransferThread
+
+Candidate of Pattern Creates:
+A(Creator): MessageHeaderParser
+B(Instance): MimeStreamParser
+
+Candidate of Pattern Creates:
+A(Creator): MessageHeaderParser
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): MessageHeaderParser
+B(Instance): MimeConfig.Builder
+
+Candidate of Pattern Creates:
+A(Creator): MessageHeaderParser
+B(Instance): MessageHeaderParserContentHandler
+
+Candidate of Pattern Creates:
+A(Creator): ColorPicker
+B(Instance): SweepGradient
+
+Candidate of Pattern Creates:
+A(Creator): ColorPicker
+B(Instance): RectF
+
+Candidate of Pattern Creates:
+A(Creator): ColorPicker
+B(Instance): Bundle
+
+Candidate of Pattern Creates:
+A(Creator): ColorPicker
+B(Instance): Paint
+
+Candidate of Pattern Creates:
+A(Creator): AddNotificationResult
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): DirectorySetting
+B(Instance): InvalidSettingValueException
+
+Candidate of Pattern Creates:
+A(Creator): DirectorySetting
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): K9PreferenceActivity
+B(Instance): PreferenceChangeListener
+
+Candidate of Pattern Creates:
+A(Creator): DecoderUtil
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): DecoderUtil
+B(Instance): QuotedPrintableInputStream
+
+Candidate of Pattern Creates:
+A(Creator): DecoderUtil
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): DecoderUtil
+B(Instance): Base64InputStream
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnectionTest
+B(Instance): MockImapServer
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnectionTest
+B(Instance): UnsupportedOperationException
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnectionTest
+B(Instance): ImapConnection
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnectionTest
+B(Instance): SimpleImapSettings
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnectionTest
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): ImapConnectionTest
+B(Instance): OAuth2TokenProvider
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpApiFactory
+B(Instance): OpenPgpApi
+
+Candidate of Pattern Creates:
+A(Creator): TextBodyBuilderTest
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): TextBodyBuilderTest
+B(Instance): TestingTextBodyBuilder
+
+Candidate of Pattern Creates:
+A(Creator): TextBodyBuilderTest
+B(Instance): InsertableHtmlContent
+
+Candidate of Pattern Creates:
+A(Creator): CopyUidResponse
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewInfoExtractorTest
+B(Instance): Date
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewInfoExtractorTest
+B(Instance): ArrayList<Part>
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewInfoExtractorTest
+B(Instance): MessageCryptoAnnotations
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewInfoExtractorTest
+B(Instance): MimeBodyPart
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewInfoExtractorTest
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewInfoExtractorTest
+B(Instance): Answer<String>
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewInfoExtractorTest
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewInfoExtractorTest
+B(Instance): MessageViewInfoExtractor
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewInfoExtractorTest
+B(Instance): Address
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewInfoExtractorTest
+B(Instance): MimeMessage
+
+Candidate of Pattern Creates:
+A(Creator): MessageViewInfoExtractorTest
+B(Instance): TextBody
+
+Candidate of Pattern Creates:
+A(Creator): NonLockingScrollView
+B(Instance): ArrayList<View>
+
+Candidate of Pattern Creates:
+A(Creator): NonLockingScrollView
+B(Instance): HierarchyTreeChangeListener
+
+Candidate of Pattern Creates:
+A(Creator): NonLockingScrollView
+B(Instance): Rect
+
+Candidate of Pattern Creates:
+A(Creator): FolderInfoHolder
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): SplitViewMode
+B(Instance): HashMap<SortType, Boolean>
+
+Candidate of Pattern Creates:
+A(Creator): AccountSettings
+B(Instance): V
+
+Candidate of Pattern Creates:
+A(Creator): AccountSettings
+B(Instance): DeletePolicySetting
+
+Candidate of Pattern Creates:
+A(Creator): AccountSettings
+B(Instance): ColorSetting
+
+Candidate of Pattern Creates:
+A(Creator): AccountSettings
+B(Instance): LinkedHashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): AccountSettings
+B(Instance): EnumSetting<>
+
+Candidate of Pattern Creates:
+A(Creator): AccountSettings
+B(Instance): StorageProviderSetting
+
+Candidate of Pattern Creates:
+A(Creator): AccountSettings
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): AccountSettings
+B(Instance): StringResourceSetting
+
+Candidate of Pattern Creates:
+A(Creator): AccountSettings
+B(Instance): RingtoneSetting
+
+Candidate of Pattern Creates:
+A(Creator): AccountSettings
+B(Instance): IntegerRangeSetting
+
+Candidate of Pattern Creates:
+A(Creator): AccountSettings
+B(Instance): IntegerResourceSetting
+
+Candidate of Pattern Creates:
+A(Creator): AccountSettings
+B(Instance): StringSetting
+
+Candidate of Pattern Creates:
+A(Creator): AccountSettings
+B(Instance): BooleanSetting
+
+Candidate of Pattern Creates:
+A(Creator): SearchCondition
+B(Instance): Parcelable.Creator<SearchCondition>
+
+Candidate of Pattern Creates:
+A(Creator): SettingsExporter
+B(Instance): SettingsImportExportException
+
+Candidate of Pattern Creates:
+A(Creator): SettingsExporter
+B(Instance): HashSet<>
+
+Candidate of Pattern Creates:
+A(Creator): SettingsExporter
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): SettingsExporter
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): SettingsExporter
+B(Instance): SimpleDateFormat
+
+Candidate of Pattern Creates:
+A(Creator): SettingsExporter
+B(Instance): FileOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): SettingsExporter
+B(Instance): TreeMap<String, Object>
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): LinkedList<>
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): BasicNameValuePair
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): BufferedReader
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): Scheme
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): WebDavFolder
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): InputSource
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): StringEntity
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): IOException
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): UrlEncodedFormEntity
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): BasicCookieStore
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): URI
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): HttpGeneric
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): ConnectionInfo
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): DataSet
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): WebDavHandler
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): WebDavSocketFactory
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): BasicHttpContext
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): InputStreamReader
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStore
+B(Instance): CertificateValidationException
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpApiHelperTest
+B(Instance): Identity
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpUtils
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): OpenPgpUtils
+B(Instance): UserId
+
+Candidate of Pattern Creates:
+A(Creator): AuthenticationErrorNotifications
+B(Instance): BigTextStyle
+
+Candidate of Pattern Creates:
+A(Creator): ContactPicture
+B(Instance): ContactPictureLoader
+
+Candidate of Pattern Creates:
+A(Creator): ContactPicture
+B(Instance): TypedValue
+
+Candidate of Pattern Creates:
+A(Creator): MimeUtility
+B(Instance): QuotedPrintableInputStream
+
+Candidate of Pattern Creates:
+A(Creator): MimeUtility
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): MimeUtility
+B(Instance): Base64InputStream
+
+Candidate of Pattern Creates:
+A(Creator): MessageBuilderTest
+B(Instance): Date
+
+Candidate of Pattern Creates:
+A(Creator): MessageBuilderTest
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): MessageBuilderTest
+B(Instance): ArrayList<Attachment>
+
+Candidate of Pattern Creates:
+A(Creator): MessageBuilderTest
+B(Instance): ByteArrayOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): MessageBuilderTest
+B(Instance): SimpleMessageBuilder
+
+Candidate of Pattern Creates:
+A(Creator): MessageBuilderTest
+B(Instance): InsertableHtmlContent
+
+Candidate of Pattern Creates:
+A(Creator): MessageBuilderTest
+B(Instance): Address
+
+Candidate of Pattern Creates:
+A(Creator): MessageBuilderTest
+B(Instance): FileOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): MessageBuilderTest
+B(Instance): Identity
+
+Candidate of Pattern Creates:
+A(Creator): MessageListActivityListener
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): MessageListActivityListener
+B(Instance): FooterViewHolder
+
+Candidate of Pattern Creates:
+A(Creator): CryptoResultAnnotation
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): AccountsImportedDialog
+B(Instance): ArrayList<Account>
+
+Candidate of Pattern Creates:
+A(Creator): AccountsImportedDialog
+B(Instance): ImportSelectionDialog
+
+Candidate of Pattern Creates:
+A(Creator): ImapPusherTest
+B(Instance): TestImapPusher
+
+Candidate of Pattern Creates:
+A(Creator): QuotedMessageMvpView
+B(Instance): OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): QuotedMessageMvpView
+B(Instance): WebViewClient
+
+Candidate of Pattern Creates:
+A(Creator): K9WebViewClient
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): K9WebViewClient
+B(Instance): PreLollipopWebViewClient
+
+Candidate of Pattern Creates:
+A(Creator): K9WebViewClient
+B(Instance): LollipopWebViewClient
+
+Candidate of Pattern Creates:
+A(Creator): K9WebViewClient
+B(Instance): WebResourceResponse
+
+Candidate of Pattern Creates:
+A(Creator): MessageWebView
+B(Instance): KeyEvent
+
+Candidate of Pattern Creates:
+A(Creator): MessageList
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): TextBodyTest
+B(Instance): Buffer
+
+Candidate of Pattern Creates:
+A(Creator): TextBodyTest
+B(Instance): TextBody
+
+Candidate of Pattern Creates:
+A(Creator): CapabilityResponse
+B(Instance): HashSet<>
+
+Candidate of Pattern Creates:
+A(Creator): TransportProvider
+B(Instance): SmtpTransport
+
+Candidate of Pattern Creates:
+A(Creator): TransportProvider
+B(Instance): WebDavTransport
+
+Candidate of Pattern Creates:
+A(Creator): TransportProvider
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): TransportProvider
+B(Instance): DefaultTrustedSocketFactory
+
+Candidate of Pattern Creates:
+A(Creator): TestUntaggedHandler
+B(Instance): ArrayList<ImapResponse>
+
+Candidate of Pattern Creates:
+A(Creator): NotificationData
+B(Instance): ArrayList<NotificationContent>
+
+Candidate of Pattern Creates:
+A(Creator): NotificationData
+B(Instance): SparseBooleanArray
+
+Candidate of Pattern Creates:
+A(Creator): NotificationData
+B(Instance): ArrayList<MessageReference>
+
+Candidate of Pattern Creates:
+A(Creator): NotificationData
+B(Instance): LinkedList<NotificationContent>
+
+Candidate of Pattern Creates:
+A(Creator): NotificationData
+B(Instance): LinkedList<NotificationHolder>
+
+Candidate of Pattern Creates:
+A(Creator): NotificationData
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): NotificationData
+B(Instance): NotificationHolder
+
+Candidate of Pattern Creates:
+A(Creator): HtmlToTextTagHandler
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): HtmlToTextTagHandler
+B(Instance): StringBuffer
+
+Candidate of Pattern Creates:
+A(Creator): HtmlToTextTagHandler
+B(Instance): HashSet<String>
+
+Candidate of Pattern Creates:
+A(Creator): HtmlToTextTagHandler
+B(Instance): ListTagHandler
+
+Candidate of Pattern Creates:
+A(Creator): HtmlToTextTagHandler
+B(Instance): Annotation
+
+Candidate of Pattern Creates:
+A(Creator): K9AlarmManagerTest
+B(Instance): K9AlarmManager
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoDisplayStatus
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): MessageCryptoDisplayStatus
+B(Instance): AssertionError
+
+Candidate of Pattern Creates:
+A(Creator): RecipientLoader
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): RecipientLoader
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): RecipientLoader
+B(Instance): ForceLoadContentObserver
+
+Candidate of Pattern Creates:
+A(Creator): RecipientLoader
+B(Instance): Recipient
+
+Candidate of Pattern Creates:
+A(Creator): RecipientLoader
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): HtmlProcessor
+B(Instance): HtmlSanitizer
+
+Candidate of Pattern Creates:
+A(Creator): MessageFormat
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): MessageFormat
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): MessageFormat
+B(Instance): ColorChip
+
+Candidate of Pattern Creates:
+A(Creator): MessageFormat
+B(Instance): AccountStats
+
+Candidate of Pattern Creates:
+A(Creator): MessageFormat
+B(Instance): NotificationSetting
+
+Candidate of Pattern Creates:
+A(Creator): MessageFormat
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageFormat
+B(Instance): LocalSearch
+
+Candidate of Pattern Creates:
+A(Creator): MessageFormat
+B(Instance): SearchCondition
+
+Candidate of Pattern Creates:
+A(Creator): MessageFormat
+B(Instance): Identity
+
+Candidate of Pattern Creates:
+A(Creator): AutocryptOpenPgpApiInteractor
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): AutocryptOpenPgpApiInteractor
+B(Instance): ByteArrayOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): ConfirmationDialogFragmentListener
+B(Instance): ClassCastException
+
+Candidate of Pattern Creates:
+A(Creator): ConfirmationDialogFragmentListener
+B(Instance): AlertDialog.Builder
+
+Candidate of Pattern Creates:
+A(Creator): ConfirmationDialogFragmentListener
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): MergeCursorWithUniqueId
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): MergeCursorWithUniqueId
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): BooleanSetting
+B(Instance): InvalidSettingValueException
+
+Candidate of Pattern Creates:
+A(Creator): FileHelper
+B(Instance): IOException
+
+Candidate of Pattern Creates:
+A(Creator): FileHelper
+B(Instance): FileInputStream
+
+Candidate of Pattern Creates:
+A(Creator): FileHelper
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): FileHelper
+B(Instance): FileOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo46
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo46
+B(Instance): ContentValues
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo43
+B(Instance): LocalFolder
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo43
+B(Instance): ContentValues
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo47
+B(Instance): ContentValues
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessageParseTest
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessageParseTest
+B(Instance): ArrayList<Body>
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessageParseTest
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessageParseTest
+B(Instance): ArrayList<String>
+
+Candidate of Pattern Creates:
+A(Creator): MimeMessageParseTest
+B(Instance): Address
+
+Candidate of Pattern Creates:
+A(Creator): PgpMimeMessageTest
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): PgpMimeMessageTest
+B(Instance): ByteArrayOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): PgpMimeMessageTest
+B(Instance): BcPGPObjectFactory
+
+Candidate of Pattern Creates:
+A(Creator): PgpMimeMessageTest
+B(Instance): BcPGPContentVerifierBuilderProvider
+
+Candidate of Pattern Creates:
+A(Creator): PgpMimeMessageTest
+B(Instance): BcPGPPublicKeyRingCollection
+
+Candidate of Pattern Creates:
+A(Creator): PgpEncryptDescriptionDialog
+B(Instance): AlertDialog.Builder
+
+Candidate of Pattern Creates:
+A(Creator): PgpEncryptDescriptionDialog
+B(Instance): OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): PgpEncryptDescriptionDialog
+B(Instance): Bundle
+
+Candidate of Pattern Creates:
+A(Creator): PgpEnabledErrorDialog
+B(Instance): AlertDialog.Builder
+
+Candidate of Pattern Creates:
+A(Creator): PgpEnabledErrorDialog
+B(Instance): OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): PgpEnabledErrorDialog
+B(Instance): Bundle
+
+Candidate of Pattern Creates:
+A(Creator): ConfirmationDialogFragment
+B(Instance): Bundle
+
+Candidate of Pattern Creates:
+A(Creator): ChooseIdentity
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): ChooseIdentity
+B(Instance): AdapterView.OnItemClickListener
+
+Candidate of Pattern Creates:
+A(Creator): ChooseIdentity
+B(Instance): ArrayAdapter<String>
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo50
+B(Instance): ContentValues
+
+Candidate of Pattern Creates:
+A(Creator): TextPartFinderTest
+B(Instance): TextPartFinder
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo51
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo51
+B(Instance): QuotedPrintableOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo51
+B(Instance): ByteArrayOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo51
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo51
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo51
+B(Instance): MimeHeader
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo51
+B(Instance): ContentValues
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): UriExtractor
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): DeleteUriExtractor
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): AccountColorExtractor
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): UnreadExtractor
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): SynchronousQueue<List<MessageInfoHolder>>
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): MatrixCursor
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): PreviewExtractor
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): ReverseDateComparator
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): HasAttachmentsExtractor
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): MessageInfoHolderRetrieverListener
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): IncrementExtractor
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): AccountNumberExtractor
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): LinkedHashMap<String, FieldExtractor<MessageInfoHolder, ?>>
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): AccountExtractor
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): SenderAddressExtractor
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): CountExtractor<MessageInfoHolder>
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): SenderExtractor
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): IdExtractor
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): SubjectExtractor
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): SendDateExtractor
+
+Candidate of Pattern Creates:
+A(Creator): MessagesQueryHandler
+B(Instance): HasStarExtractor
+
+Candidate of Pattern Creates:
+A(Creator): FolderOperation
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): FolderOperation
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): WearNotifications
+B(Instance): NotificationCompat.Action.Builder
+
+Candidate of Pattern Creates:
+A(Creator): WearNotifications
+B(Instance): NotificationCompat.WearableExtender
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo55
+B(Instance): FetchProfile
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo55
+B(Instance): ContentValues
+
+Candidate of Pattern Creates:
+A(Creator): SettingsUpgraderV12
+B(Instance): HashSet<>
+
+Candidate of Pattern Creates:
+A(Creator): RecipientType
+B(Instance): EOLConvertingOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): RecipientType
+B(Instance): CountingOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): BACKGROUND_OPS
+B(Instance): FontSizes
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolderPusher
+B(Instance): ArrayList<ImapResponse>
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolderPusher
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolderPusher
+B(Instance): PushRunnable
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolderPusher
+B(Instance): Object
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolderPusher
+B(Instance): IdleStopper
+
+Candidate of Pattern Creates:
+A(Creator): ImapFolderPusher
+B(Instance): Thread
+
+Candidate of Pattern Creates:
+A(Creator): FolderListAdapter
+B(Instance): FolderListFilter
+
+Candidate of Pattern Creates:
+A(Creator): FolderListAdapter
+B(Instance): FolderClickListener
+
+Candidate of Pattern Creates:
+A(Creator): FolderListAdapter
+B(Instance): ArrayList<FolderInfoHolder>
+
+Candidate of Pattern Creates:
+A(Creator): FolderListAdapter
+B(Instance): ActivityListener
+
+Candidate of Pattern Creates:
+A(Creator): FolderListAdapter
+B(Instance): OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): FolderListAdapter
+B(Instance): FolderViewHolder
+
+Candidate of Pattern Creates:
+A(Creator): FolderListAdapter
+B(Instance): LocalSearch
+
+Candidate of Pattern Creates:
+A(Creator): FolderListAdapter
+B(Instance): LinkedList<FolderInfoHolder>
+
+Candidate of Pattern Creates:
+A(Creator): FolderListAdapter
+B(Instance): FolderInfoHolder
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo60
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo60
+B(Instance): OldPendingCommand
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo60
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo60
+B(Instance): String
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo60
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): MigrationTo60
+B(Instance): ContentValues
+
+Candidate of Pattern Creates:
+A(Creator): Base64
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): Base64
+B(Instance): BigInteger
+
+Candidate of Pattern Creates:
+A(Creator): Base64
+B(Instance): String
+
+Candidate of Pattern Creates:
+A(Creator): Base64
+B(Instance): NullPointerException
+
+Candidate of Pattern Creates:
+A(Creator): Base64
+B(Instance): EncoderException
+
+Candidate of Pattern Creates:
+A(Creator): Base64
+B(Instance): DecoderException
+
+Candidate of Pattern Creates:
+A(Creator): BatchSetSelection
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): BatchSetSelection
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): BatchSetSelection
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): BatchSetSelection
+B(Instance): ContentValues
+
+Candidate of Pattern Creates:
+A(Creator): KeyChainKeyManager
+B(Instance): MessagingException
+
+Candidate of Pattern Creates:
+A(Creator): KeyChainKeyManager
+B(Instance): CertificateValidationException
+
+Candidate of Pattern Creates:
+A(Creator): TransportUris
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): TransportUris
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): TransportUris
+B(Instance): URI
+
+Candidate of Pattern Creates:
+A(Creator): TransportUris
+B(Instance): ServerSettings
+
+Candidate of Pattern Creates:
+A(Creator): AccountList
+B(Instance): AccountsAdapter
+
+Candidate of Pattern Creates:
+A(Creator): AccountList
+B(Instance): LoadAccounts
+
+Candidate of Pattern Creates:
+A(Creator): AccountList
+B(Instance): ArrayList<BaseAccount>
+
+Candidate of Pattern Creates:
+A(Creator): ReplyToParserTest
+B(Instance): ReplyToParser
+
+Candidate of Pattern Creates:
+A(Creator): ReplyToParserTest
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): FontSizeSetting
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): FontSizeSetting
+B(Instance): InvalidSettingValueException
+
+Candidate of Pattern Creates:
+A(Creator): SettingsUpgraderV31
+B(Instance): HashSet<>
+
+Candidate of Pattern Creates:
+A(Creator): TextBody
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): TextBody
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): TextBody
+B(Instance): QuotedPrintableOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): TextBody
+B(Instance): ByteArrayInputStream
+
+Candidate of Pattern Creates:
+A(Creator): TextBody
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): TextBody
+B(Instance): SignSafeOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): TextBody
+B(Instance): CountingOutputStream
+
+Candidate of Pattern Creates:
+A(Creator): EmailProviderCacheCursor
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): EmailProviderCacheCursor
+B(Instance): ArrayList<Integer>
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupComposition
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): AccountSetupComposition
+B(Instance): CompoundButton.OnCheckedChangeListener
+
+Candidate of Pattern Creates:
+A(Creator): ImapStoreSettings
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): SavedState
+B(Instance): Parcelable.Creator<SavedState>
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragmentListener
+B(Instance): MessageReference
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragmentListener
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragmentListener
+B(Instance): HashSet<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragmentListener
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragmentListener
+B(Instance): ArrayList<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragmentListener
+B(Instance): MergeCursorWithUniqueId
+
+Candidate of Pattern Creates:
+A(Creator): MessageListFragmentListener
+B(Instance): CursorLoader
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): IllegalStateException
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): DialogInterface.OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): ReplyToParser
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): QuotedMessagePresenter
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): RecipientPresenter
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): ComposePgpInlineDecider
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): IdentityAdapter
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): Date
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): MessageLoaderHelper
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): HashMap<>
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): AlertDialog.Builder
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): RecipientMvpView
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): TypedValue
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): LocalSearch
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): ComposePgpEnableByDefaultDecider
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): AttachmentPresenter
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): ContextThemeWrapper
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): QuotedMessageMvpView
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): SimpleTextWatcher
+
+Candidate of Pattern Creates:
+A(Creator): MessageCompose
+B(Instance): Identity
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStoreUriCreator
+B(Instance): IllegalArgumentException
+
+Candidate of Pattern Creates:
+A(Creator): WebDavStoreUriCreator
+B(Instance): URI
+
+Candidate of Pattern Creates:
+A(Creator): RemoveNotificationResultTest
+B(Instance): NotificationHolder
+
+Candidate of Pattern Creates:
+A(Creator): PRNGFixes
+B(Instance): SecureRandom
+
+Candidate of Pattern Creates:
+A(Creator): PRNGFixes
+B(Instance): IOException
+
+Candidate of Pattern Creates:
+A(Creator): PRNGFixes
+B(Instance): LinuxPRNGSecureRandomProvider
+
+Candidate of Pattern Creates:
+A(Creator): PRNGFixes
+B(Instance): SecurityException
+
+Candidate of Pattern Creates:
+A(Creator): CheckDirection
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): CheckDirection
+B(Instance): StringBuilder
+
+Candidate of Pattern Creates:
+A(Creator): CheckDirection
+B(Instance): DialogInterface.OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): CheckDirection
+B(Instance): Runnable
+
+Candidate of Pattern Creates:
+A(Creator): CheckDirection
+B(Instance): Handler
+
+Candidate of Pattern Creates:
+A(Creator): CheckDirection
+B(Instance): AlertDialog.Builder
+
+Candidate of Pattern Creates:
+A(Creator): CheckDirection
+B(Instance): CheckAccountTask
+
+Candidate of Pattern Creates:
+A(Creator): CheckDirection
+B(Instance): RuntimeException
+
+Candidate of Pattern Creates:
+A(Creator): FileBrowserFailOverCallback
+B(Instance): Intent
+
+Candidate of Pattern Creates:
+A(Creator): FileBrowserFailOverCallback
+B(Instance): DialogInterface.OnClickListener
+
+Candidate of Pattern Creates:
+A(Creator): FileBrowserFailOverCallback
+B(Instance): EditText
+
+Candidate of Pattern Creates:
+A(Creator): FileBrowserFailOverCallback
+B(Instance): AlertDialog.Builder
+
+Candidate of Pattern Creates:
+A(Creator): FileBrowserFailOverCallback
+B(Instance): File
+
+Candidate of Pattern Creates:
+A(Creator): FileBrowserFailOverCallback
+B(Instance): FileBrowserHelper
+
+Candidate of Pattern Creates:
+A(Creator): ToolableViewAnimator
+B(Instance): IllegalArgumentException

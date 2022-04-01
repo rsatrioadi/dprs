@@ -1,0 +1,12 @@
+Decorator
+A Interface Component
+B Normal Concrete Component
+C Abstract Decorator
+D Normal Concrete Decorator
+End_Members
+B inherits A
+C inherits A
+D inherits C
+C references A
+D calls C
+End_Connections

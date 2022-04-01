@@ -1,0 +1,12 @@
+Builder
+A Any Director
+B Abstracted Builder
+C Normal Concrete Builder
+D Normal Product
+End_Members
+A has B
+A calls B
+B uses D
+C inherits B
+C creates D
+End_Connections

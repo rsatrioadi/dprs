@@ -1,0 +1,4293 @@
+Amount of Candidates found: 1073
+
+Candidate of Pattern Calls:
+A(Caller): NotificationDataTest
+B(Callee): RemoveNotificationResult
+
+Candidate of Pattern Calls:
+A(Caller): NotificationDataTest
+B(Callee): AddNotificationResult
+
+Candidate of Pattern Calls:
+A(Caller): NotificationDataTest
+B(Callee): NotificationData
+
+Candidate of Pattern Calls:
+A(Caller): NotificationDataTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): CommandResponse
+B(Callee): NegativeSmtpReplyException
+
+Candidate of Pattern Calls:
+A(Caller): HttpUriParserTest
+B(Callee): HttpUriParser
+
+Candidate of Pattern Calls:
+A(Caller): SetPasswordsAsyncTask
+B(Callee): Accounts
+
+Candidate of Pattern Calls:
+A(Caller): SetPasswordsAsyncTask
+B(Callee): ServerSettings
+
+Candidate of Pattern Calls:
+A(Caller): SetPasswordsAsyncTask
+B(Callee): SimpleDialog
+
+Candidate of Pattern Calls:
+A(Caller): SetPasswordsAsyncTask
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): PreviewTextExtractorTest
+B(Callee): PreviewTextExtractor
+
+Candidate of Pattern Calls:
+A(Caller): BoundaryGeneratorTest
+B(Callee): BoundaryGenerator
+
+Candidate of Pattern Calls:
+A(Caller): OpenPgpDataSink
+B(Callee): OpenPgpDataSource
+
+Candidate of Pattern Calls:
+A(Caller): DeferredFileOutputStream
+B(Callee): FileFactory
+
+Candidate of Pattern Calls:
+A(Caller): IdentityHeaderBuilder
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): IdentityHeaderBuilder
+B(Callee): InsertableHtmlContent
+
+Candidate of Pattern Calls:
+A(Caller): IdentityHeaderBuilder
+B(Callee): IdentityField
+
+Candidate of Pattern Calls:
+A(Caller): IdentityHeaderBuilder
+B(Callee): Identity
+
+Candidate of Pattern Calls:
+A(Caller): IdentityHeaderBuilder
+B(Callee): TextBody
+
+Candidate of Pattern Calls:
+A(Caller): SmtpTransport
+B(Callee): TrustedSocketFactory
+
+Candidate of Pattern Calls:
+A(Caller): SmtpTransport
+B(Callee): PeekableInputStream
+
+Candidate of Pattern Calls:
+A(Caller): SmtpTransport
+B(Callee): MessagingException
+
+Candidate of Pattern Calls:
+A(Caller): SmtpTransport
+B(Callee): EOLConvertingOutputStream
+
+Candidate of Pattern Calls:
+A(Caller): SmtpTransport
+B(Callee): StoreConfig
+
+Candidate of Pattern Calls:
+A(Caller): SmtpTransport
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): SmtpTransport
+B(Callee): Address
+
+Candidate of Pattern Calls:
+A(Caller): PendingExpunge
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): MockSmtpServer
+B(Callee): MockServerThread
+
+Candidate of Pattern Calls:
+A(Caller): MailToTest
+B(Callee): MailTo
+
+Candidate of Pattern Calls:
+A(Caller): MailToTest
+B(Callee): CaseInsensitiveParamWrapper
+
+Candidate of Pattern Calls:
+A(Caller): AccountsAdapter
+B(Callee): BaseAccount
+
+Candidate of Pattern Calls:
+A(Caller): AccountsAdapter
+B(Callee): LocalSearch
+
+Candidate of Pattern Calls:
+A(Caller): AccountsAdapter
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): MockImapServer
+B(Callee): MockServerThread
+
+Candidate of Pattern Calls:
+A(Caller): LockedAttachmentView
+B(Callee): AttachmentView
+
+Candidate of Pattern Calls:
+A(Caller): MessageContainerView
+B(Callee): AttachmentViewCallback
+
+Candidate of Pattern Calls:
+A(Caller): MessageContainerView
+B(Callee): OnRenderingFinishedListener
+
+Candidate of Pattern Calls:
+A(Caller): MessageContainerView
+B(Callee): AttachmentResolver
+
+Candidate of Pattern Calls:
+A(Caller): MessageContainerView
+B(Callee): ClipboardManager
+
+Candidate of Pattern Calls:
+A(Caller): MessageContainerView
+B(Callee): Contacts
+
+Candidate of Pattern Calls:
+A(Caller): MessageContainerView
+B(Callee): AttachmentView
+
+Candidate of Pattern Calls:
+A(Caller): MessageContainerView
+B(Callee): MessageWebView
+
+Candidate of Pattern Calls:
+A(Caller): BaseNotifications
+B(Callee): NotificationController
+
+Candidate of Pattern Calls:
+A(Caller): BaseNotifications
+B(Callee): NotificationActionCreator
+
+Candidate of Pattern Calls:
+A(Caller): BaseNotifications
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): DeleteUriExtractor
+B(Callee): LocalMessage
+
+Candidate of Pattern Calls:
+A(Caller): ImportAsyncTask
+B(Callee): Accounts
+
+Candidate of Pattern Calls:
+A(Caller): NotificationController
+B(Callee): CertificateErrorNotifications
+
+Candidate of Pattern Calls:
+A(Caller): NotificationController
+B(Callee): SendFailedNotifications
+
+Candidate of Pattern Calls:
+A(Caller): NotificationController
+B(Callee): SyncNotifications
+
+Candidate of Pattern Calls:
+A(Caller): NotificationController
+B(Callee): NewMailNotifications
+
+Candidate of Pattern Calls:
+A(Caller): NotificationController
+B(Callee): AuthenticationErrorNotifications
+
+Candidate of Pattern Calls:
+A(Caller): NotificationController
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): ImapResponseParser
+B(Callee): PeekableInputStream
+
+Candidate of Pattern Calls:
+A(Caller): ImapResponseParser
+B(Callee): FixedLengthInputStream
+
+Candidate of Pattern Calls:
+A(Caller): ImapResponseParser
+B(Callee): UntaggedHandler
+
+Candidate of Pattern Calls:
+A(Caller): ImapResponseParser
+B(Callee): ImapResponse
+
+Candidate of Pattern Calls:
+A(Caller): AccountSetupIncoming
+B(Callee): AuthTypeAdapter
+
+Candidate of Pattern Calls:
+A(Caller): AccountSetupIncoming
+B(Callee): ConnectionSecurityAdapter
+
+Candidate of Pattern Calls:
+A(Caller): AccountSetupIncoming
+B(Callee): ClientCertificateSpinner
+
+Candidate of Pattern Calls:
+A(Caller): AccountSetupIncoming
+B(Callee): Store
+
+Candidate of Pattern Calls:
+A(Caller): AccountSetupIncoming
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): PendingMarkAllAsRead
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentInfoExtractor
+B(Callee): DeferredFileBody
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentInfoExtractor
+B(Callee): LocalMessage
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentInfoExtractor
+B(Callee): LocalPart
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentInfoExtractor
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): CharsetSupportTest
+B(Callee): MimeMessage
+
+Candidate of Pattern Calls:
+A(Caller): CertificateErrorNotificationsTest
+B(Callee): NotificationController
+
+Candidate of Pattern Calls:
+A(Caller): CertificateErrorNotificationsTest
+B(Callee): CertificateErrorNotifications
+
+Candidate of Pattern Calls:
+A(Caller): CertificateErrorNotificationsTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): Pop3Store
+B(Callee): Folder
+
+Candidate of Pattern Calls:
+A(Caller): Pop3Store
+B(Callee): StoreConfig
+
+Candidate of Pattern Calls:
+A(Caller): Pop3Store
+B(Callee): Pop3Folder
+
+Candidate of Pattern Calls:
+A(Caller): ReplyToParser
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): ReplyToParser
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): AutocryptOperations
+B(Callee): AutocryptHeaderParser
+
+Candidate of Pattern Calls:
+A(Caller): AutocryptOperations
+B(Callee): AutocryptHeader
+
+Candidate of Pattern Calls:
+A(Caller): AutocryptOperations
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): ServerNameSuggesterTest
+B(Callee): ServerNameSuggester
+
+Candidate of Pattern Calls:
+A(Caller): DefaultBodyFactory
+B(Callee): BinaryTempFileBody
+
+Candidate of Pattern Calls:
+A(Caller): PendingEmptyTrash
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): Theme
+B(Callee): SortType
+
+Candidate of Pattern Calls:
+A(Caller): Theme
+B(Callee): StorageEditor
+
+Candidate of Pattern Calls:
+A(Caller): Theme
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): Base64OutputStream
+B(Callee): Base64
+
+Candidate of Pattern Calls:
+A(Caller): FolderType
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): LocalMessageLoader
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): LocalMessageLoader
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): ReconstructMessageFromDatabaseTest
+B(Callee): LocalFolder
+
+Candidate of Pattern Calls:
+A(Caller): ReconstructMessageFromDatabaseTest
+B(Callee): LocalMessage
+
+Candidate of Pattern Calls:
+A(Caller): ReconstructMessageFromDatabaseTest
+B(Callee): LocalStore
+
+Candidate of Pattern Calls:
+A(Caller): ReconstructMessageFromDatabaseTest
+B(Callee): MimeMessage
+
+Candidate of Pattern Calls:
+A(Caller): ImapPusher
+B(Callee): ImapStore
+
+Candidate of Pattern Calls:
+A(Caller): ImapPusher
+B(Callee): ImapFolderPusher
+
+Candidate of Pattern Calls:
+A(Caller): MessageIdGenerator
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): MigrationMimeStructureStateTest
+B(Callee): MimeStructureState
+
+Candidate of Pattern Calls:
+A(Caller): RigidWebView
+B(Callee): Throttle
+
+Candidate of Pattern Calls:
+A(Caller): RigidWebView
+B(Callee): Clock
+
+Candidate of Pattern Calls:
+A(Caller): AccountsQueryHandler
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): MailService
+B(Callee): Pusher
+
+Candidate of Pattern Calls:
+A(Caller): MailService
+B(Callee): Storage
+
+Candidate of Pattern Calls:
+A(Caller): MailService
+B(Callee): StorageEditor
+
+Candidate of Pattern Calls:
+A(Caller): MailService
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): MailService
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): AccountReceiver
+B(Callee): K9AccountReceptor
+
+Candidate of Pattern Calls:
+A(Caller): ImapResponseHelper
+B(Callee): ImapResponseParser
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentResolverTest
+B(Callee): AttachmentInfoExtractor
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentResolverTest
+B(Callee): Multipart
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentDownloadDialogFragment
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentDownloadDialogFragment
+B(Callee): AttachmentDownloadCancelListener
+
+Candidate of Pattern Calls:
+A(Caller): WebDavMessage
+B(Callee): WebDavFolder
+
+Candidate of Pattern Calls:
+A(Caller): WebDavMessage
+B(Callee): ParsedMessageEnvelope
+
+Candidate of Pattern Calls:
+A(Caller): MessagePreviewCreator
+B(Callee): EncryptionDetector
+
+Candidate of Pattern Calls:
+A(Caller): MessagePreviewCreator
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): MessagePreviewCreator
+B(Callee): TextPartFinder
+
+Candidate of Pattern Calls:
+A(Caller): MessagePreviewCreator
+B(Callee): PreviewTextExtractor
+
+Candidate of Pattern Calls:
+A(Caller): AuthenticationErrorNotificationsTest
+B(Callee): NotificationController
+
+Candidate of Pattern Calls:
+A(Caller): AuthenticationErrorNotificationsTest
+B(Callee): AuthenticationErrorNotifications
+
+Candidate of Pattern Calls:
+A(Caller): AuthenticationErrorNotificationsTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolder
+B(Callee): ImapSearcher
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolder
+B(Callee): MimeMultipart
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolder
+B(Callee): SearchResponse
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolder
+B(Callee): FolderNameCodec
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolder
+B(Callee): ImapStore
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolder
+B(Callee): ImapList
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolder
+B(Callee): ImapConnection
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolder
+B(Callee): PermanentFlagsResponse
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolder
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolder
+B(Callee): ImapMessage
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolder
+B(Callee): EOLConvertingOutputStream
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolder
+B(Callee): BodyFactory
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolder
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolder
+B(Callee): SelectOrExamineResponse
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolder
+B(Callee): ImapResponse
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolder
+B(Callee): CopyUidResponse
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolder
+B(Callee): ImapPushState
+
+Candidate of Pattern Calls:
+A(Caller): QuotedMessagePresenter
+B(Callee): InsertableHtmlContent
+
+Candidate of Pattern Calls:
+A(Caller): QuotedMessagePresenter
+B(Callee): MessageBuilder
+
+Candidate of Pattern Calls:
+A(Caller): QuotedMessagePresenter
+B(Callee): QuotedMessageMvpView
+
+Candidate of Pattern Calls:
+A(Caller): QuotedMessagePresenter
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): QuotedMessagePresenter
+B(Callee): MessageCompose
+
+Candidate of Pattern Calls:
+A(Caller): TestImapResponseCallback
+B(Callee): FixedLengthInputStream
+
+Candidate of Pattern Calls:
+A(Caller): PendingSetFlag
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): PendingMoveOrCopy
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): BootReceiver
+B(Callee): K9AlarmManager
+
+Candidate of Pattern Calls:
+A(Caller): MailTo
+B(Callee): CaseInsensitiveParamWrapper
+
+Candidate of Pattern Calls:
+A(Caller): PushRunnable
+B(Callee): ImapConnection
+
+Candidate of Pattern Calls:
+A(Caller): PushRunnable
+B(Callee): ImapMessage
+
+Candidate of Pattern Calls:
+A(Caller): PushRunnable
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): PushRunnable
+B(Callee): ImapResponse
+
+Candidate of Pattern Calls:
+A(Caller): GlobalSettings
+B(Callee): Storage
+
+Candidate of Pattern Calls:
+A(Caller): FallbackGlideParams
+B(Callee): Address
+
+Candidate of Pattern Calls:
+A(Caller): WebDavFolder
+B(Callee): WebDavMessage
+
+Candidate of Pattern Calls:
+A(Caller): WebDavFolder
+B(Callee): WebDavHttpClient
+
+Candidate of Pattern Calls:
+A(Caller): WebDavFolder
+B(Callee): ParsedMessageEnvelope
+
+Candidate of Pattern Calls:
+A(Caller): WebDavFolder
+B(Callee): Folder
+
+Candidate of Pattern Calls:
+A(Caller): WebDavFolder
+B(Callee): EOLConvertingOutputStream
+
+Candidate of Pattern Calls:
+A(Caller): WebDavFolder
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): WebDavFolder
+B(Callee): DataSet
+
+Candidate of Pattern Calls:
+A(Caller): WebDavFolder
+B(Callee): WebDavStore
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenter
+B(Callee): ReplyToParser
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenter
+B(Callee): MailTo
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenter
+B(Callee): ComposePgpInlineDecider
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenter
+B(Callee): ComposeCryptoStatus
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenter
+B(Callee): PgpMessageBuilder
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenter
+B(Callee): RecipientsChangedListener
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenter
+B(Callee): Contacts
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenter
+B(Callee): OpenPgpServiceConnection
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenter
+B(Callee): RecipientMvpView
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenter
+B(Callee): AutocryptStatusInteractor
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenter
+B(Callee): MessageBuilder
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenter
+B(Callee): OpenPgpError
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenter
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenter
+B(Callee): ComposePgpEnableByDefaultDecider
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenter
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): ACCOUNT_LOCATION
+B(Callee): BaseAccount
+
+Candidate of Pattern Calls:
+A(Caller): ACCOUNT_LOCATION
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): ACCOUNT_LOCATION
+B(Callee): PasswordPromptDialog
+
+Candidate of Pattern Calls:
+A(Caller): ACCOUNT_LOCATION
+B(Callee): SearchAccount
+
+Candidate of Pattern Calls:
+A(Caller): ACCOUNT_LOCATION
+B(Callee): LocalSearch
+
+Candidate of Pattern Calls:
+A(Caller): ACCOUNT_LOCATION
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): SearchResponse
+B(Callee): ImapResponse
+
+Candidate of Pattern Calls:
+A(Caller): WebDavTransport
+B(Callee): WebDavStore
+
+Candidate of Pattern Calls:
+A(Caller): SendMessageTask
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): SendMessageTask
+B(Callee): MailTo
+
+Candidate of Pattern Calls:
+A(Caller): SendMessageTask
+B(Callee): Contacts
+
+Candidate of Pattern Calls:
+A(Caller): SendMessageTask
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): SendMessageTask
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): UpgradeDatabaseBroadcastReceiver
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): RecipientLoaderTest
+B(Callee): Recipient
+
+Candidate of Pattern Calls:
+A(Caller): RecipientLoaderTest
+B(Callee): Address
+
+Candidate of Pattern Calls:
+A(Caller): RecipientLoaderTest
+B(Callee): RecipientLoader
+
+Candidate of Pattern Calls:
+A(Caller): LocalFolder
+B(Callee): LocalStore
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewHolder
+B(Callee): MessageListFragment
+
+Candidate of Pattern Calls:
+A(Caller): Throttle
+B(Callee): Clock
+
+Candidate of Pattern Calls:
+A(Caller): Throttle
+B(Callee): MyTimerTask
+
+Candidate of Pattern Calls:
+A(Caller): PendingCommandSerializer
+B(Callee): PendingCommand
+
+Candidate of Pattern Calls:
+A(Caller): FixedLengthInputStreamTest
+B(Callee): FixedLengthInputStream
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolderTest
+B(Callee): ImapFolder
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolderTest
+B(Callee): ImapStore
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolderTest
+B(Callee): ImapConnection
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolderTest
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolderTest
+B(Callee): StoreConfig
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolderTest
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolderTest
+B(Callee): Body
+
+Candidate of Pattern Calls:
+A(Caller): AccountSetupOptions
+B(Callee): Store
+
+Candidate of Pattern Calls:
+A(Caller): AccountSetupOptions
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentResolver
+B(Callee): AttachmentInfoExtractor
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentResolver
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentResolver
+B(Callee): Multipart
+
+Candidate of Pattern Calls:
+A(Caller): MessageListHandler
+B(Callee): MessageListFragment
+
+Candidate of Pattern Calls:
+A(Caller): ResponseCodeExtractor
+B(Callee): ImapList
+
+Candidate of Pattern Calls:
+A(Caller): NegativeImapResponseException
+B(Callee): ImapResponse
+
+Candidate of Pattern Calls:
+A(Caller): DeferredFileBody
+B(Callee): FileFactory
+
+Candidate of Pattern Calls:
+A(Caller): LocalMessage
+B(Callee): LocalFolder
+
+Candidate of Pattern Calls:
+A(Caller): LocalMessage
+B(Callee): LocalStore
+
+Candidate of Pattern Calls:
+A(Caller): LocalMessage
+B(Callee): DatabasePreviewType
+
+Candidate of Pattern Calls:
+A(Caller): SqlQueryBuilder
+B(Callee): LocalFolder
+
+Candidate of Pattern Calls:
+A(Caller): SqlQueryBuilder
+B(Callee): LocalStore
+
+Candidate of Pattern Calls:
+A(Caller): SqlQueryBuilder
+B(Callee): LocalSearch
+
+Candidate of Pattern Calls:
+A(Caller): SqlQueryBuilder
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): RemoteStore
+B(Callee): StoreConfig
+
+Candidate of Pattern Calls:
+A(Caller): IdentityAdapter
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): IdentityAdapter
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): IdentityAdapter
+B(Callee): Identity
+
+Candidate of Pattern Calls:
+A(Caller): SettingsImporterTest
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): LocalStore
+B(Callee): LocalFolder
+
+Candidate of Pattern Calls:
+A(Caller): LocalStore
+B(Callee): PendingCommandSerializer
+
+Candidate of Pattern Calls:
+A(Caller): LocalStore
+B(Callee): LocalMessage
+
+Candidate of Pattern Calls:
+A(Caller): LocalStore
+B(Callee): PendingCommand
+
+Candidate of Pattern Calls:
+A(Caller): LocalStore
+B(Callee): LocalPart
+
+Candidate of Pattern Calls:
+A(Caller): LocalStore
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): LocalStore
+B(Callee): StorageManager
+
+Candidate of Pattern Calls:
+A(Caller): LocalStore
+B(Callee): Multipart
+
+Candidate of Pattern Calls:
+A(Caller): LocalStore
+B(Callee): LocalSearch
+
+Candidate of Pattern Calls:
+A(Caller): LocalStore
+B(Callee): LockableDatabase
+
+Candidate of Pattern Calls:
+A(Caller): LocalStore
+B(Callee): Body
+
+Candidate of Pattern Calls:
+A(Caller): LocalStore
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): SmtpTransportTest
+B(Callee): SmtpTransport
+
+Candidate of Pattern Calls:
+A(Caller): SmtpTransportTest
+B(Callee): NegativeSmtpReplyException
+
+Candidate of Pattern Calls:
+A(Caller): SmtpTransportTest
+B(Callee): MockSmtpServer
+
+Candidate of Pattern Calls:
+A(Caller): SmtpTransportTest
+B(Callee): MessagingException
+
+Candidate of Pattern Calls:
+A(Caller): SmtpTransportTest
+B(Callee): StoreConfig
+
+Candidate of Pattern Calls:
+A(Caller): SmtpTransportTest
+B(Callee): OAuth2TokenProvider
+
+Candidate of Pattern Calls:
+A(Caller): SmtpTransportTest
+B(Callee): CertificateValidationException
+
+Candidate of Pattern Calls:
+A(Caller): MessageProvider
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): MessageProvider
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentCounter
+B(Callee): EncryptionDetector
+
+Candidate of Pattern Calls:
+A(Caller): ChooseFolderHandler
+B(Callee): Folder
+
+Candidate of Pattern Calls:
+A(Caller): ChooseFolderHandler
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): PendingCommandSerializerTest
+B(Callee): PendingCommandSerializer
+
+Candidate of Pattern Calls:
+A(Caller): PendingCommandSerializerTest
+B(Callee): PendingCommand
+
+Candidate of Pattern Calls:
+A(Caller): PreferencesHolder
+B(Callee): MoreMessages
+
+Candidate of Pattern Calls:
+A(Caller): PreferencesHolder
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): PreferencesHolder
+B(Callee): MessageRemovalListener
+
+Candidate of Pattern Calls:
+A(Caller): PreferencesHolder
+B(Callee): MimeMultipart
+
+Candidate of Pattern Calls:
+A(Caller): PreferencesHolder
+B(Callee): SizeAware
+
+Candidate of Pattern Calls:
+A(Caller): PreferencesHolder
+B(Callee): MessagePreviewCreator
+
+Candidate of Pattern Calls:
+A(Caller): PreferencesHolder
+B(Callee): LocalFolder
+
+Candidate of Pattern Calls:
+A(Caller): PreferencesHolder
+B(Callee): PreviewResult
+
+Candidate of Pattern Calls:
+A(Caller): PreferencesHolder
+B(Callee): LocalMessage
+
+Candidate of Pattern Calls:
+A(Caller): PreferencesHolder
+B(Callee): AttachmentCounter
+
+Candidate of Pattern Calls:
+A(Caller): PreferencesHolder
+B(Callee): DatabasePreviewType
+
+Candidate of Pattern Calls:
+A(Caller): PreferencesHolder
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): PreferencesHolder
+B(Callee): Storage
+
+Candidate of Pattern Calls:
+A(Caller): PreferencesHolder
+B(Callee): MessageFulltextCreator
+
+Candidate of Pattern Calls:
+A(Caller): PreferencesHolder
+B(Callee): Multipart
+
+Candidate of Pattern Calls:
+A(Caller): PreferencesHolder
+B(Callee): StorageEditor
+
+Candidate of Pattern Calls:
+A(Caller): PreferencesHolder
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): PreferencesHolder
+B(Callee): Body
+
+Candidate of Pattern Calls:
+A(Caller): PreferencesHolder
+B(Callee): CountingOutputStream
+
+Candidate of Pattern Calls:
+A(Caller): DeviceNotifications
+B(Callee): NotificationController
+
+Candidate of Pattern Calls:
+A(Caller): DeviceNotifications
+B(Callee): NotificationSetting
+
+Candidate of Pattern Calls:
+A(Caller): DeviceNotifications
+B(Callee): NotificationActionCreator
+
+Candidate of Pattern Calls:
+A(Caller): DeviceNotifications
+B(Callee): LockScreenNotification
+
+Candidate of Pattern Calls:
+A(Caller): DeviceNotifications
+B(Callee): NotificationData
+
+Candidate of Pattern Calls:
+A(Caller): DeviceNotifications
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): DeviceNotifications
+B(Callee): WearNotifications
+
+Candidate of Pattern Calls:
+A(Caller): AddressTest
+B(Callee): Address
+
+Candidate of Pattern Calls:
+A(Caller): ComposeCryptoStatus
+B(Callee): RecipientAutocryptStatus
+
+Candidate of Pattern Calls:
+A(Caller): ComposeCryptoStatus
+B(Callee): RecipientAutocryptStatusType
+
+Candidate of Pattern Calls:
+A(Caller): SendFailedNotificationsTest
+B(Callee): NotificationController
+
+Candidate of Pattern Calls:
+A(Caller): SendFailedNotificationsTest
+B(Callee): SendFailedNotifications
+
+Candidate of Pattern Calls:
+A(Caller): SendFailedNotificationsTest
+B(Callee): NotificationActionCreator
+
+Candidate of Pattern Calls:
+A(Caller): SendFailedNotificationsTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): TrustManagerFactoryTest
+B(Callee): LocalKeyStore
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewFragment
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewFragment
+B(Callee): LocalMessage
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewFragment
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewFragment
+B(Callee): MessageCryptoPresenter
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewFragment
+B(Callee): MessageLoaderHelper
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewFragment
+B(Callee): MessageTopView
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewFragment
+B(Callee): MessageViewFragmentListener
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewFragment
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): OpenPgpApiHelper
+B(Callee): Identity
+
+Candidate of Pattern Calls:
+A(Caller): IdentityHeaderParser
+B(Callee): IdentityField
+
+Candidate of Pattern Calls:
+A(Caller): UidReverseComparator
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): StorageProviderSetting
+B(Callee): StorageManager
+
+Candidate of Pattern Calls:
+A(Caller): EditIdentity
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): EditIdentity
+B(Callee): Identity
+
+Candidate of Pattern Calls:
+A(Caller): OptionalEmailAddressSetting
+B(Callee): EmailAddressValidator
+
+Candidate of Pattern Calls:
+A(Caller): LockScreenNotificationTest
+B(Callee): NotificationController
+
+Candidate of Pattern Calls:
+A(Caller): LockScreenNotificationTest
+B(Callee): LockScreenNotification
+
+Candidate of Pattern Calls:
+A(Caller): LockScreenNotificationTest
+B(Callee): NotificationData
+
+Candidate of Pattern Calls:
+A(Caller): LockScreenNotificationTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): WebDavMessageTest
+B(Callee): WebDavMessage
+
+Candidate of Pattern Calls:
+A(Caller): WebDavMessageTest
+B(Callee): WebDavFolder
+
+Candidate of Pattern Calls:
+A(Caller): WebDavMessageTest
+B(Callee): ParsedMessageEnvelope
+
+Candidate of Pattern Calls:
+A(Caller): WebDavMessageTest
+B(Callee): WebDavStore
+
+Candidate of Pattern Calls:
+A(Caller): MimePartStreamParser
+B(Callee): DeferredFileBody
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): NotificationController
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): Transport
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): TracingPowerManager
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): LocalFolder
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): LocalMessage
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): LocalStore
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): TracingWakeLock
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): PendingCommand
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): Folder
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): MessagingException
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): Contacts
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): MemorizingMessagingListener
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): SearchAccount
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): MessagingListener
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): LocalSearch
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): Store
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): EmailProviderCache
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): TransportProvider
+
+Candidate of Pattern Calls:
+A(Caller): MessagingController
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): ActionModeCallback
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): ActionModeCallback
+B(Callee): Folder
+
+Candidate of Pattern Calls:
+A(Caller): ActionModeCallback
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): ExportAsyncTask
+B(Callee): Accounts
+
+Candidate of Pattern Calls:
+A(Caller): AlternateRecipientAdapter
+B(Callee): Recipient
+
+Candidate of Pattern Calls:
+A(Caller): AlternateRecipientAdapter
+B(Callee): AlternateRecipientListener
+
+Candidate of Pattern Calls:
+A(Caller): RemoteControlService
+B(Callee): Storage
+
+Candidate of Pattern Calls:
+A(Caller): RemoteControlService
+B(Callee): StorageEditor
+
+Candidate of Pattern Calls:
+A(Caller): RemoteControlService
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): RemoteControlService
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): NotificationIds
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): PartBuilder
+B(Callee): Field
+
+Candidate of Pattern Calls:
+A(Caller): PartBuilder
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): PartBuilder
+B(Callee): Multipart
+
+Candidate of Pattern Calls:
+A(Caller): PgpMessageBuilder
+B(Callee): OpenPgpApi
+
+Candidate of Pattern Calls:
+A(Caller): PgpMessageBuilder
+B(Callee): AutocryptOperations
+
+Candidate of Pattern Calls:
+A(Caller): PgpMessageBuilder
+B(Callee): BinaryTempFileBody
+
+Candidate of Pattern Calls:
+A(Caller): PgpMessageBuilder
+B(Callee): MimeMultipart
+
+Candidate of Pattern Calls:
+A(Caller): PgpMessageBuilder
+B(Callee): ComposeCryptoStatus
+
+Candidate of Pattern Calls:
+A(Caller): PgpMessageBuilder
+B(Callee): MimeBodyPart
+
+Candidate of Pattern Calls:
+A(Caller): PgpMessageBuilder
+B(Callee): OpenPgpError
+
+Candidate of Pattern Calls:
+A(Caller): PgpMessageBuilder
+B(Callee): Address
+
+Candidate of Pattern Calls:
+A(Caller): PgpMessageBuilder
+B(Callee): MimeMessage
+
+Candidate of Pattern Calls:
+A(Caller): PgpMessageBuilder
+B(Callee): Body
+
+Candidate of Pattern Calls:
+A(Caller): PgpMessageBuilder
+B(Callee): AutocryptOpenPgpApiInteractor
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoPresenter
+B(Callee): MessageTopView
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoPresenter
+B(Callee): CryptoResultAnnotation
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoPresenter
+B(Callee): MessageCryptoDisplayStatus
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoPresenter
+B(Callee): MessageCryptoMvpView
+
+Candidate of Pattern Calls:
+A(Caller): AccountClickListener
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): DisplayMode
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): DisplayMode
+B(Callee): MessageViewFragment
+
+Candidate of Pattern Calls:
+A(Caller): DisplayMode
+B(Callee): ViewSwitcher
+
+Candidate of Pattern Calls:
+A(Caller): DisplayMode
+B(Callee): MessageListFragment
+
+Candidate of Pattern Calls:
+A(Caller): DisplayMode
+B(Callee): LocalSearch
+
+Candidate of Pattern Calls:
+A(Caller): DisplayMode
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): DisplayMode
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): EmailProviderCacheTest
+B(Callee): LocalFolder
+
+Candidate of Pattern Calls:
+A(Caller): EmailProviderCacheTest
+B(Callee): LocalMessage
+
+Candidate of Pattern Calls:
+A(Caller): EmailProviderCacheTest
+B(Callee): EmailProviderCache
+
+Candidate of Pattern Calls:
+A(Caller): ImapStoreTest
+B(Callee): TestImapStore
+
+Candidate of Pattern Calls:
+A(Caller): ImapStoreTest
+B(Callee): Folder
+
+Candidate of Pattern Calls:
+A(Caller): ImapStoreTest
+B(Callee): ImapConnection
+
+Candidate of Pattern Calls:
+A(Caller): ImapStoreTest
+B(Callee): StoreConfig
+
+Candidate of Pattern Calls:
+A(Caller): MimeBodyPart
+B(Callee): Multipart
+
+Candidate of Pattern Calls:
+A(Caller): MimeBodyPart
+B(Callee): MimeHeader
+
+Candidate of Pattern Calls:
+A(Caller): MimeBodyPart
+B(Callee): Body
+
+Candidate of Pattern Calls:
+A(Caller): EncryptionDetector
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): EncryptionDetector
+B(Callee): TextPartFinder
+
+Candidate of Pattern Calls:
+A(Caller): EncryptionDetector
+B(Callee): Multipart
+
+Candidate of Pattern Calls:
+A(Caller): MessageReferenceTest
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): OpenPgpKeyPreference
+B(Callee): OpenPgpApi
+
+Candidate of Pattern Calls:
+A(Caller): OpenPgpKeyPreference
+B(Callee): OpenPgpServiceConnection
+
+Candidate of Pattern Calls:
+A(Caller): MessageActions
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): MessageActions
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentController
+B(Callee): AttachmentViewInfo
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentController
+B(Callee): MessageViewFragment
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentController
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentController
+B(Callee): LocalPart
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentController
+B(Callee): IntentAndResolvedActivitiesCount
+
+Candidate of Pattern Calls:
+A(Caller): MessageLoaderHelper
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): MessageLoaderHelper
+B(Callee): LocalMessageLoader
+
+Candidate of Pattern Calls:
+A(Caller): MessageLoaderHelper
+B(Callee): MessageLoaderCallbacks
+
+Candidate of Pattern Calls:
+A(Caller): MessageLoaderHelper
+B(Callee): MessageCryptoHelper
+
+Candidate of Pattern Calls:
+A(Caller): MessageLoaderHelper
+B(Callee): LocalMessageExtractorLoader
+
+Candidate of Pattern Calls:
+A(Caller): MessageLoaderHelper
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): Utility
+B(Callee): ContactBadge
+
+Candidate of Pattern Calls:
+A(Caller): Utility
+B(Callee): Address
+
+Candidate of Pattern Calls:
+A(Caller): IdentityHelperTest
+B(Callee): MimeMessage
+
+Candidate of Pattern Calls:
+A(Caller): IdentityHelperTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): IdentityHelperTest
+B(Callee): Identity
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentInfoLoader
+B(Callee): Attachment
+
+Candidate of Pattern Calls:
+A(Caller): MessageHelper
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): MessageHelper
+B(Callee): Multipart
+
+Candidate of Pattern Calls:
+A(Caller): IdentitySettings
+B(Callee): Storage
+
+Candidate of Pattern Calls:
+A(Caller): HeaderEntry
+B(Callee): ClipboardManager
+
+Candidate of Pattern Calls:
+A(Caller): HeaderEntry
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): StatsColumns
+B(Callee): LocalStore
+
+Candidate of Pattern Calls:
+A(Caller): StatsColumns
+B(Callee): LockableDatabase
+
+Candidate of Pattern Calls:
+A(Caller): StatsColumns
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): StatsColumns
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): FallbackGlideModelLoader
+B(Callee): FallbackGlideParams
+
+Candidate of Pattern Calls:
+A(Caller): HtmlSanitizer
+B(Callee): HeadCleaner
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenterTest
+B(Callee): ReplyToParser
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenterTest
+B(Callee): RecipientPresenter
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenterTest
+B(Callee): ComposeCryptoStatus
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenterTest
+B(Callee): OpenPgpServiceConnection
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenterTest
+B(Callee): AutocryptStatusInteractor
+
+Candidate of Pattern Calls:
+A(Caller): RecipientPresenterTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): NotificationGroupKeys
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): PollService
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): PollService
+B(Callee): Listener
+
+Candidate of Pattern Calls:
+A(Caller): ListHeaders
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): DeviceNotificationsTest
+B(Callee): NotificationController
+
+Candidate of Pattern Calls:
+A(Caller): DeviceNotificationsTest
+B(Callee): NotificationData
+
+Candidate of Pattern Calls:
+A(Caller): DeviceNotificationsTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): UidReverseComparatorTest
+B(Callee): UidReverseComparator
+
+Candidate of Pattern Calls:
+A(Caller): UidReverseComparatorTest
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): ImapStore
+B(Callee): ImapFolder
+
+Candidate of Pattern Calls:
+A(Caller): ImapStore
+B(Callee): FolderNameCodec
+
+Candidate of Pattern Calls:
+A(Caller): ImapStore
+B(Callee): ImapConnection
+
+Candidate of Pattern Calls:
+A(Caller): ImapStore
+B(Callee): ListResponse
+
+Candidate of Pattern Calls:
+A(Caller): ImapStore
+B(Callee): StoreConfig
+
+Candidate of Pattern Calls:
+A(Caller): CryptoPartType
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): BitcoinUriParserTest
+B(Callee): BitcoinUriParser
+
+Candidate of Pattern Calls:
+A(Caller): UnreadWidgetProperties
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): UnreadWidgetProperties
+B(Callee): SearchAccount
+
+Candidate of Pattern Calls:
+A(Caller): UnreadWidgetProperties
+B(Callee): LocalSearch
+
+Candidate of Pattern Calls:
+A(Caller): UnreadWidgetProperties
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): K9MailLib
+B(Callee): DebugStatus
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentContentLoader
+B(Callee): Attachment
+
+Candidate of Pattern Calls:
+A(Caller): ContactPictureLoader
+B(Callee): Contacts
+
+Candidate of Pattern Calls:
+A(Caller): ContactPictureLoader
+B(Callee): Address
+
+Candidate of Pattern Calls:
+A(Caller): Prefs
+B(Callee): CheckBoxListPreference
+
+Candidate of Pattern Calls:
+A(Caller): Prefs
+B(Callee): Storage
+
+Candidate of Pattern Calls:
+A(Caller): Prefs
+B(Callee): StorageEditor
+
+Candidate of Pattern Calls:
+A(Caller): Prefs
+B(Callee): OpenPgpAppPreference
+
+Candidate of Pattern Calls:
+A(Caller): EOLConvertingOutputStreamTest
+B(Callee): EOLConvertingOutputStream
+
+Candidate of Pattern Calls:
+A(Caller): JisSupport
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): MessageProviderTest
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): MessageProviderTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentProviderColumns
+B(Callee): LocalStore
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentProviderColumns
+B(Callee): OpenPgpDataSource
+
+Candidate of Pattern Calls:
+A(Caller): LocalStoreTest
+B(Callee): LocalMessage
+
+Candidate of Pattern Calls:
+A(Caller): EncryptionDetectorTest
+B(Callee): EncryptionDetector
+
+Candidate of Pattern Calls:
+A(Caller): EncryptionDetectorTest
+B(Callee): TextPartFinder
+
+Candidate of Pattern Calls:
+A(Caller): TextBodyBuilder
+B(Callee): InsertableHtmlContent
+
+Candidate of Pattern Calls:
+A(Caller): TextBodyBuilder
+B(Callee): TextBody
+
+Candidate of Pattern Calls:
+A(Caller): MessageInfoHolderRetrieverListener
+B(Callee): LocalMessage
+
+Candidate of Pattern Calls:
+A(Caller): ProgressDialogFragment
+B(Callee): CancelListener
+
+Candidate of Pattern Calls:
+A(Caller): OpenPgpAsyncTask
+B(Callee): IOpenPgpCallback
+
+Candidate of Pattern Calls:
+A(Caller): Contacts
+B(Callee): Address
+
+Candidate of Pattern Calls:
+A(Caller): CheckAccountTask
+B(Callee): Transport
+
+Candidate of Pattern Calls:
+A(Caller): CheckAccountTask
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): CheckAccountTask
+B(Callee): Store
+
+Candidate of Pattern Calls:
+A(Caller): CheckAccountTask
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): FooterViewHolder
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): FooterViewHolder
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): AutocryptHeaderParser
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): CertificateErrorNotifications
+B(Callee): NotificationController
+
+Candidate of Pattern Calls:
+A(Caller): CertificateErrorNotifications
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): IdleStopper
+B(Callee): ImapConnection
+
+Candidate of Pattern Calls:
+A(Caller): ImapListTest
+B(Callee): ImapList
+
+Candidate of Pattern Calls:
+A(Caller): CopyUidResponseTest
+B(Callee): CopyUidResponse
+
+Candidate of Pattern Calls:
+A(Caller): MessagingControllerPushReceiver
+B(Callee): LocalFolder
+
+Candidate of Pattern Calls:
+A(Caller): MessagingControllerPushReceiver
+B(Callee): LocalStore
+
+Candidate of Pattern Calls:
+A(Caller): MessagingControllerPushReceiver
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): MessagingControllerPushReceiver
+B(Callee): Folder
+
+Candidate of Pattern Calls:
+A(Caller): MessagingControllerPushReceiver
+B(Callee): MessagingListener
+
+Candidate of Pattern Calls:
+A(Caller): MessagingControllerPushReceiver
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): ImapConnection
+B(Callee): ImapResponseParser
+
+Candidate of Pattern Calls:
+A(Caller): ImapConnection
+B(Callee): TrustedSocketFactory
+
+Candidate of Pattern Calls:
+A(Caller): ImapConnection
+B(Callee): NegativeImapResponseException
+
+Candidate of Pattern Calls:
+A(Caller): ImapConnection
+B(Callee): OAuth2TokenProvider
+
+Candidate of Pattern Calls:
+A(Caller): ImapConnection
+B(Callee): ImapResponse
+
+Candidate of Pattern Calls:
+A(Caller): ImapConnection
+B(Callee): NamespaceResponse
+
+Candidate of Pattern Calls:
+A(Caller): ImapConnection
+B(Callee): CapabilityResponse
+
+Candidate of Pattern Calls:
+A(Caller): ImapConnection
+B(Callee): ImapSettings
+
+Candidate of Pattern Calls:
+A(Caller): RecipientMvpView
+B(Callee): RecipientPresenter
+
+Candidate of Pattern Calls:
+A(Caller): RecipientMvpView
+B(Callee): FontSizes
+
+Candidate of Pattern Calls:
+A(Caller): RecipientMvpView
+B(Callee): RecipientSelectView
+
+Candidate of Pattern Calls:
+A(Caller): RecipientMvpView
+B(Callee): MessageCompose
+
+Candidate of Pattern Calls:
+A(Caller): RecipientMvpView
+B(Callee): ToolableViewAnimator
+
+Candidate of Pattern Calls:
+A(Caller): PermanentFlagsResponse
+B(Callee): ImapList
+
+Candidate of Pattern Calls:
+A(Caller): PermanentFlagsResponse
+B(Callee): ImapResponse
+
+Candidate of Pattern Calls:
+A(Caller): SynchronizationAid
+B(Callee): StorageListener
+
+Candidate of Pattern Calls:
+A(Caller): SynchronizationAid
+B(Callee): StorageProvider
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentInfo
+B(Callee): LocalFolder
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentInfo
+B(Callee): BatchSetSelection
+
+Candidate of Pattern Calls:
+A(Caller): AutocryptOperationsHelper
+B(Callee): AutocryptHeaderParser
+
+Candidate of Pattern Calls:
+A(Caller): PermanentFlagsResponseTest
+B(Callee): PermanentFlagsResponse
+
+Candidate of Pattern Calls:
+A(Caller): NotificationIdsTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): FontSizes
+B(Callee): Storage
+
+Candidate of Pattern Calls:
+A(Caller): FontSizes
+B(Callee): StorageEditor
+
+Candidate of Pattern Calls:
+A(Caller): K9Activity
+B(Callee): K9ActivityCommon
+
+Candidate of Pattern Calls:
+A(Caller): UnreadQueryHandler
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): AutocryptHeaderTest
+B(Callee): AutocryptHeader
+
+Candidate of Pattern Calls:
+A(Caller): AccountSetupNames
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): FetchBodyCallback
+B(Callee): ImapList
+
+Candidate of Pattern Calls:
+A(Caller): FetchBodyCallback
+B(Callee): ImapResponse
+
+Candidate of Pattern Calls:
+A(Caller): PgpMessageBuilderTest
+B(Callee): OpenPgpApi
+
+Candidate of Pattern Calls:
+A(Caller): PgpMessageBuilderTest
+B(Callee): ComposeCryptoStatus
+
+Candidate of Pattern Calls:
+A(Caller): PgpMessageBuilderTest
+B(Callee): ComposeCryptoStatusBuilder
+
+Candidate of Pattern Calls:
+A(Caller): PgpMessageBuilderTest
+B(Callee): PgpMessageBuilder
+
+Candidate of Pattern Calls:
+A(Caller): PgpMessageBuilderTest
+B(Callee): MimeMessage
+
+Candidate of Pattern Calls:
+A(Caller): PgpMessageBuilderTest
+B(Callee): AutocryptOpenPgpApiInteractor
+
+Candidate of Pattern Calls:
+A(Caller): PgpMessageBuilderTest
+B(Callee): Identity
+
+Candidate of Pattern Calls:
+A(Caller): ViewSwitcher
+B(Callee): OnSwitchCompleteListener
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentInfoExtractorTest
+B(Callee): AttachmentInfoExtractor
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentInfoExtractorTest
+B(Callee): DeferredFileBody
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentInfoExtractorTest
+B(Callee): AttachmentViewInfo
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentInfoExtractorTest
+B(Callee): MimeBodyPart
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentInfoExtractorTest
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): ListImportContentsAsyncTask
+B(Callee): Accounts
+
+Candidate of Pattern Calls:
+A(Caller): AutocryptStatusInteractor
+B(Callee): OpenPgpApi
+
+Candidate of Pattern Calls:
+A(Caller): AutocryptStatusInteractor
+B(Callee): OpenPgpError
+
+Candidate of Pattern Calls:
+A(Caller): CharsetSupport
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): PasswordPromptDialog
+B(Callee): Accounts
+
+Candidate of Pattern Calls:
+A(Caller): PasswordPromptDialog
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): QuoteHelper
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): MessageReferenceHelper
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): FolderNameCodecTest
+B(Callee): FolderNameCodec
+
+Candidate of Pattern Calls:
+A(Caller): SendFailedNotifications
+B(Callee): NotificationController
+
+Candidate of Pattern Calls:
+A(Caller): SendFailedNotifications
+B(Callee): NotificationActionCreator
+
+Candidate of Pattern Calls:
+A(Caller): StoreSchemaDefinitionTest
+B(Callee): StoreSchemaDefinition
+
+Candidate of Pattern Calls:
+A(Caller): StoreSchemaDefinitionTest
+B(Callee): LocalStore
+
+Candidate of Pattern Calls:
+A(Caller): StoreSchemaDefinitionTest
+B(Callee): LockableDatabase
+
+Candidate of Pattern Calls:
+A(Caller): StoreSchemaDefinitionTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): SyncNotifications
+B(Callee): NotificationController
+
+Candidate of Pattern Calls:
+A(Caller): SyncNotifications
+B(Callee): Folder
+
+Candidate of Pattern Calls:
+A(Caller): SyncNotifications
+B(Callee): NotificationActionCreator
+
+Candidate of Pattern Calls:
+A(Caller): SyncNotifications
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): UnreadWidgetProvider
+B(Callee): UnreadWidgetProperties
+
+Candidate of Pattern Calls:
+A(Caller): MemorizingMessagingListener
+B(Callee): MessagingListener
+
+Candidate of Pattern Calls:
+A(Caller): MemorizingMessagingListener
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): RecipientAdapter
+B(Callee): Recipient
+
+Candidate of Pattern Calls:
+A(Caller): ImapResponseParserTest
+B(Callee): ImapResponseParser
+
+Candidate of Pattern Calls:
+A(Caller): ImapResponseParserTest
+B(Callee): NegativeImapResponseException
+
+Candidate of Pattern Calls:
+A(Caller): ImapResponseParserTest
+B(Callee): ImapResponse
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelper
+B(Callee): OpenPgpApi
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelper
+B(Callee): AutocryptOperations
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelper
+B(Callee): MessageCryptoAnnotations
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelper
+B(Callee): MessageCryptoCallback
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelper
+B(Callee): OpenPgpServiceConnection
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelper
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelper
+B(Callee): OpenPgpError
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelper
+B(Callee): CancelableBackgroundOperation
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelper
+B(Callee): Multipart
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelper
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelper
+B(Callee): OpenPgpApiFactory
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelper
+B(Callee): Body
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelper
+B(Callee): CryptoResultAnnotation
+
+Candidate of Pattern Calls:
+A(Caller): ActivityListener
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): SignSafeOutputStream
+B(Callee): State
+
+Candidate of Pattern Calls:
+A(Caller): ImapStoreUriCreator
+B(Callee): ServerSettings
+
+Candidate of Pattern Calls:
+A(Caller): MessageBuilder
+B(Callee): MimeMultipart
+
+Candidate of Pattern Calls:
+A(Caller): MessageBuilder
+B(Callee): MessageIdGenerator
+
+Candidate of Pattern Calls:
+A(Caller): MessageBuilder
+B(Callee): MimeBodyPart
+
+Candidate of Pattern Calls:
+A(Caller): MessageBuilder
+B(Callee): TextBodyBuilder
+
+Candidate of Pattern Calls:
+A(Caller): MessageBuilder
+B(Callee): BoundaryGenerator
+
+Candidate of Pattern Calls:
+A(Caller): MessageBuilder
+B(Callee): Address
+
+Candidate of Pattern Calls:
+A(Caller): MessageBuilder
+B(Callee): MimeMessage
+
+Candidate of Pattern Calls:
+A(Caller): MessageBuilder
+B(Callee): Callback
+
+Candidate of Pattern Calls:
+A(Caller): MessageBuilder
+B(Callee): Identity
+
+Candidate of Pattern Calls:
+A(Caller): ImapPushStateTest
+B(Callee): ImapPushState
+
+Candidate of Pattern Calls:
+A(Caller): CapabilityResponseTest
+B(Callee): CapabilityResponse
+
+Candidate of Pattern Calls:
+A(Caller): SearchAccount
+B(Callee): LocalSearch
+
+Candidate of Pattern Calls:
+A(Caller): MockServerThread
+B(Callee): KeyStoreProvider
+
+Candidate of Pattern Calls:
+A(Caller): MockServerThread
+B(Callee): Logger
+
+Candidate of Pattern Calls:
+A(Caller): MockServerThread
+B(Callee): ExpectedCommand
+
+Candidate of Pattern Calls:
+A(Caller): MockServerThread
+B(Callee): CannedResponse
+
+Candidate of Pattern Calls:
+A(Caller): HtmlSanitizerTest
+B(Callee): HtmlSanitizer
+
+Candidate of Pattern Calls:
+A(Caller): CryptoInfoDialog
+B(Callee): MessageCryptoDisplayStatus
+
+Candidate of Pattern Calls:
+A(Caller): WearNotificationsTest
+B(Callee): NotificationController
+
+Candidate of Pattern Calls:
+A(Caller): WearNotificationsTest
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): WearNotificationsTest
+B(Callee): NotificationActionCreator
+
+Candidate of Pattern Calls:
+A(Caller): WearNotificationsTest
+B(Callee): NotificationData
+
+Candidate of Pattern Calls:
+A(Caller): WearNotificationsTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): DeviceIdleManager
+B(Callee): DozeChecker
+
+Candidate of Pattern Calls:
+A(Caller): PopulateFolderPrefsTask
+B(Callee): Folder
+
+Candidate of Pattern Calls:
+A(Caller): MessageTopView
+B(Callee): MessageContainerView
+
+Candidate of Pattern Calls:
+A(Caller): MessageTopView
+B(Callee): MessageCryptoPresenter
+
+Candidate of Pattern Calls:
+A(Caller): MessageTopView
+B(Callee): Contacts
+
+Candidate of Pattern Calls:
+A(Caller): MessageTopView
+B(Callee): OpenPgpError
+
+Candidate of Pattern Calls:
+A(Caller): MessageTopView
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): MessageTopView
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): MessageTopView
+B(Callee): ToolableViewAnimator
+
+Candidate of Pattern Calls:
+A(Caller): ReconstructMessageTest
+B(Callee): MimeMessage
+
+Candidate of Pattern Calls:
+A(Caller): ListHeadersTest
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): ChooseAccount
+B(Callee): BaseAccount
+
+Candidate of Pattern Calls:
+A(Caller): SleepService
+B(Callee): TracingWakeLock
+
+Candidate of Pattern Calls:
+A(Caller): AccountSetupBasics
+B(Callee): EmailAddressValidator
+
+Candidate of Pattern Calls:
+A(Caller): AccountSetupBasics
+B(Callee): ClientCertificateSpinner
+
+Candidate of Pattern Calls:
+A(Caller): AccountSetupBasics
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): ApgDeprecationDialogFragment
+B(Callee): StorageEditor
+
+Candidate of Pattern Calls:
+A(Caller): PartContainer
+B(Callee): LocalMessage
+
+Candidate of Pattern Calls:
+A(Caller): PartContainer
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): PartContainer
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): MessageCreationHelper
+B(Callee): MimeMessage
+
+Candidate of Pattern Calls:
+A(Caller): NamespaceResponseTest
+B(Callee): NamespaceResponse
+
+Candidate of Pattern Calls:
+A(Caller): Settings
+B(Callee): SettingsUpgrader
+
+Candidate of Pattern Calls:
+A(Caller): Settings
+B(Callee): SettingsDescription
+
+Candidate of Pattern Calls:
+A(Caller): MoveAccountAsyncTask
+B(Callee): Accounts
+
+Candidate of Pattern Calls:
+A(Caller): MoveAccountAsyncTask
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): ChooseFolder
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): ChooseFolder
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): TextPartFinder
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): TextPartFinder
+B(Callee): Multipart
+
+Candidate of Pattern Calls:
+A(Caller): K9AlarmManager
+B(Callee): DozeChecker
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTest
+B(Callee): LocalMessage
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTest
+B(Callee): LocalStore
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTest
+B(Callee): FileBackedBody
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTest
+B(Callee): StorageManager
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTest
+B(Callee): Multipart
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTest
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentView
+B(Callee): AttachmentViewCallback
+
+Candidate of Pattern Calls:
+A(Caller): SearchResponseTest
+B(Callee): SearchResponse
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoStructureDetector
+B(Callee): MessageCryptoAnnotations
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoStructureDetector
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoStructureDetector
+B(Callee): Multipart
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoStructureDetector
+B(Callee): CryptoResultAnnotation
+
+Candidate of Pattern Calls:
+A(Caller): AccountsHandler
+B(Callee): ActivityListener
+
+Candidate of Pattern Calls:
+A(Caller): AccountsHandler
+B(Callee): LocalSearch
+
+Candidate of Pattern Calls:
+A(Caller): AccountsHandler
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): DatabaseUpgradeService
+B(Callee): TracingPowerManager
+
+Candidate of Pattern Calls:
+A(Caller): DatabaseUpgradeService
+B(Callee): TracingWakeLock
+
+Candidate of Pattern Calls:
+A(Caller): DatabaseUpgradeService
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): DatabaseUpgradeService
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): Recipient
+B(Callee): Address
+
+Candidate of Pattern Calls:
+A(Caller): ActivityListenerTest
+B(Callee): ActivityListener
+
+Candidate of Pattern Calls:
+A(Caller): ActivityListenerTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): IdentityHelper
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): IdentityHelper
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): OpenPgpSourceSinkAsyncTask
+B(Callee): OpenPgpDataSource
+
+Candidate of Pattern Calls:
+A(Caller): UriLinkifier
+B(Callee): UriParser
+
+Candidate of Pattern Calls:
+A(Caller): Pop3Folder
+B(Callee): MessagingException
+
+Candidate of Pattern Calls:
+A(Caller): Pop3Folder
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): Pop3Folder
+B(Callee): Pop3Message
+
+Candidate of Pattern Calls:
+A(Caller): OnColorChangedListener
+B(Callee): ColorPicker
+
+Candidate of Pattern Calls:
+A(Caller): StorageListenerImplementation
+B(Callee): StorageEditor
+
+Candidate of Pattern Calls:
+A(Caller): StorageListenerImplementation
+B(Callee): LocalSearch
+
+Candidate of Pattern Calls:
+A(Caller): StorageListenerImplementation
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): StorageListenerImplementation
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): MessageListFragment
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): MessageListFragment
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): MessageListFragment
+B(Callee): ActivityListener
+
+Candidate of Pattern Calls:
+A(Caller): MessageListFragment
+B(Callee): SortType
+
+Candidate of Pattern Calls:
+A(Caller): MessageListFragment
+B(Callee): StorageEditor
+
+Candidate of Pattern Calls:
+A(Caller): MessageListFragment
+B(Callee): LocalSearch
+
+Candidate of Pattern Calls:
+A(Caller): MessageListFragment
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): MessageListFragment
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): MessageListFragment
+B(Callee): MessageListFragmentListener
+
+Candidate of Pattern Calls:
+A(Caller): MyCallback
+B(Callee): OpenPgpError
+
+Candidate of Pattern Calls:
+A(Caller): LocalMessageExtractorLoader
+B(Callee): MessageViewInfoExtractor
+
+Candidate of Pattern Calls:
+A(Caller): LocalMessageExtractorLoader
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): TextQuoteCreator
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): MimeMessageBuilder
+B(Callee): Field
+
+Candidate of Pattern Calls:
+A(Caller): MimeMessageBuilder
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): MimeMessageBuilder
+B(Callee): BodyFactory
+
+Candidate of Pattern Calls:
+A(Caller): MimeMessageBuilder
+B(Callee): Multipart
+
+Candidate of Pattern Calls:
+A(Caller): MimeMessageBuilder
+B(Callee): MimeHeader
+
+Candidate of Pattern Calls:
+A(Caller): AccountSetupAccountType
+B(Callee): ServerNameSuggester
+
+Candidate of Pattern Calls:
+A(Caller): AccountSetupAccountType
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): MessageExtractor
+B(Callee): Alternative
+
+Candidate of Pattern Calls:
+A(Caller): MessageExtractor
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): MessageExtractor
+B(Callee): Multipart
+
+Candidate of Pattern Calls:
+A(Caller): CoreService
+B(Callee): TracingPowerManager
+
+Candidate of Pattern Calls:
+A(Caller): CoreService
+B(Callee): TracingWakeLock
+
+Candidate of Pattern Calls:
+A(Caller): MessageFulltextCreator
+B(Callee): EncryptionDetector
+
+Candidate of Pattern Calls:
+A(Caller): MessageFulltextCreator
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): MessageFulltextCreator
+B(Callee): TextPartFinder
+
+Candidate of Pattern Calls:
+A(Caller): UnreadWidgetConfiguration
+B(Callee): UnreadWidgetProperties
+
+Candidate of Pattern Calls:
+A(Caller): UnreadWidgetConfiguration
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): EmailProviderTest
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): EmailProviderTest
+B(Callee): MimeMessage
+
+Candidate of Pattern Calls:
+A(Caller): EmailProviderTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): LauncherShortcuts
+B(Callee): BaseAccount
+
+Candidate of Pattern Calls:
+A(Caller): LauncherShortcuts
+B(Callee): SearchAccount
+
+Candidate of Pattern Calls:
+A(Caller): OpenPgpDataResult
+B(Callee): OpenPgpDataSource
+
+Candidate of Pattern Calls:
+A(Caller): Operator
+B(Callee): ConditionsTreeNode
+
+Candidate of Pattern Calls:
+A(Caller): Operator
+B(Callee): SearchCondition
+
+Candidate of Pattern Calls:
+A(Caller): AutocryptHeaderParserTest
+B(Callee): AutocryptHeaderParser
+
+Candidate of Pattern Calls:
+A(Caller): AutocryptHeaderParserTest
+B(Callee): AutocryptHeader
+
+Candidate of Pattern Calls:
+A(Caller): SyncNotificationsTest
+B(Callee): NotificationController
+
+Candidate of Pattern Calls:
+A(Caller): SyncNotificationsTest
+B(Callee): Folder
+
+Candidate of Pattern Calls:
+A(Caller): SyncNotificationsTest
+B(Callee): SyncNotifications
+
+Candidate of Pattern Calls:
+A(Caller): SyncNotificationsTest
+B(Callee): NotificationActionCreator
+
+Candidate of Pattern Calls:
+A(Caller): SyncNotificationsTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): MessageHeaderParserContentHandler
+B(Callee): Field
+
+Candidate of Pattern Calls:
+A(Caller): MessageHeaderParserContentHandler
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): Pop3StoreTest
+B(Callee): Pop3Store
+
+Candidate of Pattern Calls:
+A(Caller): Pop3StoreTest
+B(Callee): TrustedSocketFactory
+
+Candidate of Pattern Calls:
+A(Caller): Pop3StoreTest
+B(Callee): Folder
+
+Candidate of Pattern Calls:
+A(Caller): Pop3StoreTest
+B(Callee): StoreConfig
+
+Candidate of Pattern Calls:
+A(Caller): DeferredFileBodyTest
+B(Callee): DeferredFileBody
+
+Candidate of Pattern Calls:
+A(Caller): HtmlSignatureRemover
+B(Callee): AdvancedNodeTraversor
+
+Candidate of Pattern Calls:
+A(Caller): WebDavStoreTest
+B(Callee): WebDavHttpClient
+
+Candidate of Pattern Calls:
+A(Caller): WebDavStoreTest
+B(Callee): StoreConfig
+
+Candidate of Pattern Calls:
+A(Caller): WebDavStoreTest
+B(Callee): WebDavStore
+
+Candidate of Pattern Calls:
+A(Caller): Multipart
+B(Callee): BodyPart
+
+Candidate of Pattern Calls:
+A(Caller): EthereumUriParserTest
+B(Callee): EthereumUriParser
+
+Candidate of Pattern Calls:
+A(Caller): StorageEditor
+B(Callee): Storage
+
+Candidate of Pattern Calls:
+A(Caller): PreviewTextExtractor
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): DataSourceTransferThread
+B(Callee): OpenPgpDataSource
+
+Candidate of Pattern Calls:
+A(Caller): NotificationActionService
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): NotificationActionService
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): NotificationActionService
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): NotificationActionService
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): NotificationDeleteConfirmation
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): NotificationDeleteConfirmation
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): NotificationDeleteConfirmation
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): AddNotificationResultTest
+B(Callee): AddNotificationResult
+
+Candidate of Pattern Calls:
+A(Caller): HtmlQuoteCreator
+B(Callee): InsertableHtmlContent
+
+Candidate of Pattern Calls:
+A(Caller): HtmlQuoteCreator
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): MessageListRemoteViewFactory
+B(Callee): MailItem
+
+Candidate of Pattern Calls:
+A(Caller): Share
+B(Callee): ApplicationAware
+
+Candidate of Pattern Calls:
+A(Caller): Share
+B(Callee): Storage
+
+Candidate of Pattern Calls:
+A(Caller): Share
+B(Callee): DeviceIdleManager
+
+Candidate of Pattern Calls:
+A(Caller): Share
+B(Callee): StorageEditor
+
+Candidate of Pattern Calls:
+A(Caller): Share
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): Share
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): Share
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): ImportResults
+B(Callee): Storage
+
+Candidate of Pattern Calls:
+A(Caller): ImportResults
+B(Callee): StorageEditor
+
+Candidate of Pattern Calls:
+A(Caller): ImportResults
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): ImportResults
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): ImportResults
+B(Callee): Identity
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewInfoExtractor
+B(Callee): AttachmentInfoExtractor
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewInfoExtractor
+B(Callee): MessageHeader
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewInfoExtractor
+B(Callee): MessageCryptoAnnotations
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewInfoExtractor
+B(Callee): MessageViewInfo
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewInfoExtractor
+B(Callee): Alternative
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewInfoExtractor
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewInfoExtractor
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewInfoExtractor
+B(Callee): CryptoResultAnnotation
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewInfoExtractor
+B(Callee): HtmlProcessor
+
+Candidate of Pattern Calls:
+A(Caller): ListResponseTest
+B(Callee): ListResponse
+
+Candidate of Pattern Calls:
+A(Caller): SmtpDataStuffingTest
+B(Callee): SmtpDataStuffing
+
+Candidate of Pattern Calls:
+A(Caller): MessagePreviewCreatorTest
+B(Callee): MessagePreviewCreator
+
+Candidate of Pattern Calls:
+A(Caller): MessagePreviewCreatorTest
+B(Callee): PreviewResult
+
+Candidate of Pattern Calls:
+A(Caller): MessagePreviewCreatorTest
+B(Callee): EncryptionDetector
+
+Candidate of Pattern Calls:
+A(Caller): MessagePreviewCreatorTest
+B(Callee): TextPartFinder
+
+Candidate of Pattern Calls:
+A(Caller): MessagePreviewCreatorTest
+B(Callee): PreviewTextExtractor
+
+Candidate of Pattern Calls:
+A(Caller): TestMessageConstructionUtils
+B(Callee): MimeMultipart
+
+Candidate of Pattern Calls:
+A(Caller): TestMessageConstructionUtils
+B(Callee): MimeBodyPart
+
+Candidate of Pattern Calls:
+A(Caller): TestMessageConstructionUtils
+B(Callee): MimeMessage
+
+Candidate of Pattern Calls:
+A(Caller): LocalSearch
+B(Callee): ConditionsTreeNode
+
+Candidate of Pattern Calls:
+A(Caller): NotificationActionCreator
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): NotificationActionCreator
+B(Callee): LocalSearch
+
+Candidate of Pattern Calls:
+A(Caller): NotificationActionCreator
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): RemoteControlReceiver
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): RemoteControlReceiver
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): MessageInfoHolder
+B(Callee): LocalMessage
+
+Candidate of Pattern Calls:
+A(Caller): ImportSelectionDialog
+B(Callee): Accounts
+
+Candidate of Pattern Calls:
+A(Caller): MessageIdGeneratorTest
+B(Callee): MessageIdGenerator
+
+Candidate of Pattern Calls:
+A(Caller): MessageIdGeneratorTest
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): NewMailNotificationsTest
+B(Callee): NotificationController
+
+Candidate of Pattern Calls:
+A(Caller): NewMailNotificationsTest
+B(Callee): DeviceNotifications
+
+Candidate of Pattern Calls:
+A(Caller): NewMailNotificationsTest
+B(Callee): NotificationContentCreator
+
+Candidate of Pattern Calls:
+A(Caller): NewMailNotificationsTest
+B(Callee): NotificationData
+
+Candidate of Pattern Calls:
+A(Caller): NewMailNotificationsTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): NewMailNotificationsTest
+B(Callee): WearNotifications
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoStructureDetectorTest
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoStructureDetectorTest
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelperTest
+B(Callee): AutocryptOperations
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelperTest
+B(Callee): MessageCryptoAnnotations
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelperTest
+B(Callee): MessageCryptoHelper
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelperTest
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelperTest
+B(Callee): MimeMessage
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelperTest
+B(Callee): OpenPgpDataSource
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelperTest
+B(Callee): OpenPgpApiFactory
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelperTest
+B(Callee): CryptoResultAnnotation
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoHelperTest
+B(Callee): IOpenPgpSinkResultCallback
+
+Candidate of Pattern Calls:
+A(Caller): SelectOrExamineResponse
+B(Callee): ImapList
+
+Candidate of Pattern Calls:
+A(Caller): SelectOrExamineResponse
+B(Callee): ImapResponse
+
+Candidate of Pattern Calls:
+A(Caller): AccountSetupOutgoing
+B(Callee): AuthTypeAdapter
+
+Candidate of Pattern Calls:
+A(Caller): AccountSetupOutgoing
+B(Callee): ClientCertificateSpinner
+
+Candidate of Pattern Calls:
+A(Caller): AccountSetupOutgoing
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): SaveMessageTask
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): FolderSettings
+B(Callee): Storage
+
+Candidate of Pattern Calls:
+A(Caller): BaseNotificationsTest
+B(Callee): NotificationController
+
+Candidate of Pattern Calls:
+A(Caller): BaseNotificationsTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): NewMailNotifications
+B(Callee): NotificationController
+
+Candidate of Pattern Calls:
+A(Caller): NewMailNotifications
+B(Callee): RemoveNotificationResult
+
+Candidate of Pattern Calls:
+A(Caller): NewMailNotifications
+B(Callee): DeviceNotifications
+
+Candidate of Pattern Calls:
+A(Caller): NewMailNotifications
+B(Callee): NotificationContentCreator
+
+Candidate of Pattern Calls:
+A(Caller): NewMailNotifications
+B(Callee): AddNotificationResult
+
+Candidate of Pattern Calls:
+A(Caller): NewMailNotifications
+B(Callee): NotificationData
+
+Candidate of Pattern Calls:
+A(Caller): NewMailNotifications
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): NewMailNotifications
+B(Callee): WearNotifications
+
+Candidate of Pattern Calls:
+A(Caller): MimeHeader
+B(Callee): Field
+
+Candidate of Pattern Calls:
+A(Caller): MlfUtils
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): MlfUtils
+B(Callee): LocalFolder
+
+Candidate of Pattern Calls:
+A(Caller): MlfUtils
+B(Callee): LocalStore
+
+Candidate of Pattern Calls:
+A(Caller): MlfUtils
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): MlfUtils
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): MimeMessageHelper
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): MimeMessageHelper
+B(Callee): Multipart
+
+Candidate of Pattern Calls:
+A(Caller): MimeMessageHelper
+B(Callee): Body
+
+Candidate of Pattern Calls:
+A(Caller): ImapStoreUriTest
+B(Callee): ServerSettings
+
+Candidate of Pattern Calls:
+A(Caller): Listener
+B(Callee): TracingPowerManager
+
+Candidate of Pattern Calls:
+A(Caller): Listener
+B(Callee): TracingWakeLock
+
+Candidate of Pattern Calls:
+A(Caller): Listener
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): Listener
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): CoreReceiver
+B(Callee): TracingPowerManager
+
+Candidate of Pattern Calls:
+A(Caller): CoreReceiver
+B(Callee): TracingWakeLock
+
+Candidate of Pattern Calls:
+A(Caller): MessageExtractorTest
+B(Callee): MimeBodyPart
+
+Candidate of Pattern Calls:
+A(Caller): MessageExtractorTest
+B(Callee): BinaryMemoryBody
+
+Candidate of Pattern Calls:
+A(Caller): WebDavFolderTest
+B(Callee): WebDavMessage
+
+Candidate of Pattern Calls:
+A(Caller): WebDavFolderTest
+B(Callee): WebDavFolder
+
+Candidate of Pattern Calls:
+A(Caller): WebDavFolderTest
+B(Callee): WebDavHttpClient
+
+Candidate of Pattern Calls:
+A(Caller): WebDavFolderTest
+B(Callee): StoreConfig
+
+Candidate of Pattern Calls:
+A(Caller): WebDavFolderTest
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): WebDavFolderTest
+B(Callee): DataSet
+
+Candidate of Pattern Calls:
+A(Caller): WebDavFolderTest
+B(Callee): WebDavStore
+
+Candidate of Pattern Calls:
+A(Caller): SimpleDialog
+B(Callee): Accounts
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentPresenter
+B(Callee): AttachmentsChangedListener
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentPresenter
+B(Callee): RecipientPresenter
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentPresenter
+B(Callee): AttachmentViewInfo
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentPresenter
+B(Callee): ComposeCryptoStatus
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentPresenter
+B(Callee): Attachment
+
+Candidate of Pattern Calls:
+A(Caller): AttachmentPresenter
+B(Callee): AttachmentMvpView
+
+Candidate of Pattern Calls:
+A(Caller): Preferences
+B(Callee): Storage
+
+Candidate of Pattern Calls:
+A(Caller): Preferences
+B(Callee): StorageEditor
+
+Candidate of Pattern Calls:
+A(Caller): Preferences
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): K9ListActivity
+B(Callee): K9ActivityCommon
+
+Candidate of Pattern Calls:
+A(Caller): FetchPartCallback
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): FetchPartCallback
+B(Callee): BodyFactory
+
+Candidate of Pattern Calls:
+A(Caller): FetchPartCallback
+B(Callee): ImapResponse
+
+Candidate of Pattern Calls:
+A(Caller): Command
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): Command
+B(Callee): MessageActor
+
+Candidate of Pattern Calls:
+A(Caller): Command
+B(Callee): LocalFolder
+
+Candidate of Pattern Calls:
+A(Caller): Command
+B(Callee): LocalStore
+
+Candidate of Pattern Calls:
+A(Caller): Command
+B(Callee): Folder
+
+Candidate of Pattern Calls:
+A(Caller): Command
+B(Callee): Pusher
+
+Candidate of Pattern Calls:
+A(Caller): Command
+B(Callee): MessagingListener
+
+Candidate of Pattern Calls:
+A(Caller): Command
+B(Callee): Store
+
+Candidate of Pattern Calls:
+A(Caller): Command
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): Command
+B(Callee): CertificateValidationException
+
+Candidate of Pattern Calls:
+A(Caller): RecipientSelectView
+B(Callee): AlternateRecipientAdapter
+
+Candidate of Pattern Calls:
+A(Caller): RecipientSelectView
+B(Callee): RecipientAdapter
+
+Candidate of Pattern Calls:
+A(Caller): RecipientSelectView
+B(Callee): Recipient
+
+Candidate of Pattern Calls:
+A(Caller): RecipientSelectView
+B(Callee): RecipientTokenViewHolder
+
+Candidate of Pattern Calls:
+A(Caller): ProgressBodyFactory
+B(Callee): ProgressListener
+
+Candidate of Pattern Calls:
+A(Caller): ProgressBodyFactory
+B(Callee): CountingOutputStream
+
+Candidate of Pattern Calls:
+A(Caller): DataSet
+B(Callee): ParsedMessageEnvelope
+
+Candidate of Pattern Calls:
+A(Caller): SwipeGestureDetector
+B(Callee): OnSwipeGestureListener
+
+Candidate of Pattern Calls:
+A(Caller): NotificationContentCreatorTest
+B(Callee): LocalMessage
+
+Candidate of Pattern Calls:
+A(Caller): NotificationContentCreatorTest
+B(Callee): NotificationContentCreator
+
+Candidate of Pattern Calls:
+A(Caller): NotificationContentCreatorTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): MimeMessage
+B(Callee): MimeHeader
+
+Candidate of Pattern Calls:
+A(Caller): MimeMessage
+B(Callee): Address
+
+Candidate of Pattern Calls:
+A(Caller): MimeMessage
+B(Callee): Body
+
+Candidate of Pattern Calls:
+A(Caller): FontSizeSettings
+B(Callee): SliderPreference
+
+Candidate of Pattern Calls:
+A(Caller): FontSizeSettings
+B(Callee): FontSizes
+
+Candidate of Pattern Calls:
+A(Caller): FontSizeSettings
+B(Callee): Storage
+
+Candidate of Pattern Calls:
+A(Caller): FontSizeSettings
+B(Callee): StorageEditor
+
+Candidate of Pattern Calls:
+A(Caller): WebDavHandler
+B(Callee): DataSet
+
+Candidate of Pattern Calls:
+A(Caller): MessageListAdapter
+B(Callee): FontSizes
+
+Candidate of Pattern Calls:
+A(Caller): MessageListAdapter
+B(Callee): MessageListFragment
+
+Candidate of Pattern Calls:
+A(Caller): MessageListAdapter
+B(Callee): ContactBadge
+
+Candidate of Pattern Calls:
+A(Caller): MessageListAdapter
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): NotificationContentCreator
+B(Callee): LocalMessage
+
+Candidate of Pattern Calls:
+A(Caller): NotificationContentCreator
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): NotificationContentCreator
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): EmailProviderCache
+B(Callee): LocalMessage
+
+Candidate of Pattern Calls:
+A(Caller): ThrottlingQueryHandler
+B(Callee): MonitoredCursor
+
+Candidate of Pattern Calls:
+A(Caller): MessagingControllerTest
+B(Callee): LocalFolder
+
+Candidate of Pattern Calls:
+A(Caller): MessagingControllerTest
+B(Callee): LocalMessage
+
+Candidate of Pattern Calls:
+A(Caller): MessagingControllerTest
+B(Callee): LocalStore
+
+Candidate of Pattern Calls:
+A(Caller): MessagingControllerTest
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): MessagingControllerTest
+B(Callee): MessageRetrievalListener
+
+Candidate of Pattern Calls:
+A(Caller): MessagingControllerTest
+B(Callee): Folder
+
+Candidate of Pattern Calls:
+A(Caller): MessagingControllerTest
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): MessagingControllerTest
+B(Callee): LocalSearch
+
+Candidate of Pattern Calls:
+A(Caller): MessagingControllerTest
+B(Callee): Store
+
+Candidate of Pattern Calls:
+A(Caller): MessagingControllerTest
+B(Callee): TransportProvider
+
+Candidate of Pattern Calls:
+A(Caller): MessagingControllerTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): LockScreenNotification
+B(Callee): NotificationController
+
+Candidate of Pattern Calls:
+A(Caller): LockScreenNotification
+B(Callee): NotificationData
+
+Candidate of Pattern Calls:
+A(Caller): LockScreenNotification
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): FolderListHandler
+B(Callee): TracingPowerManager
+
+Candidate of Pattern Calls:
+A(Caller): FolderListHandler
+B(Callee): TracingWakeLock
+
+Candidate of Pattern Calls:
+A(Caller): FolderListHandler
+B(Callee): LocalSearch
+
+Candidate of Pattern Calls:
+A(Caller): FolderListHandler
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): NamespaceResponse
+B(Callee): ImapList
+
+Candidate of Pattern Calls:
+A(Caller): ImapConnectionTest
+B(Callee): MockImapServer
+
+Candidate of Pattern Calls:
+A(Caller): ImapConnectionTest
+B(Callee): NegativeImapResponseException
+
+Candidate of Pattern Calls:
+A(Caller): ImapConnectionTest
+B(Callee): ImapConnection
+
+Candidate of Pattern Calls:
+A(Caller): ImapConnectionTest
+B(Callee): SimpleImapSettings
+
+Candidate of Pattern Calls:
+A(Caller): ImapConnectionTest
+B(Callee): CertificateValidationException
+
+Candidate of Pattern Calls:
+A(Caller): TextBodyBuilderTest
+B(Callee): InsertableHtmlContent
+
+Candidate of Pattern Calls:
+A(Caller): TextBodyBuilderTest
+B(Callee): TextBody
+
+Candidate of Pattern Calls:
+A(Caller): CopyUidResponse
+B(Callee): ImapList
+
+Candidate of Pattern Calls:
+A(Caller): CopyUidResponse
+B(Callee): ImapResponse
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewInfoExtractorTest
+B(Callee): MessageCryptoAnnotations
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewInfoExtractorTest
+B(Callee): MimeBodyPart
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewInfoExtractorTest
+B(Callee): MessageViewInfoExtractor
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewInfoExtractorTest
+B(Callee): MimeMessage
+
+Candidate of Pattern Calls:
+A(Caller): MessageViewInfoExtractorTest
+B(Callee): HtmlProcessor
+
+Candidate of Pattern Calls:
+A(Caller): FolderInfoHolder
+B(Callee): LocalFolder
+
+Candidate of Pattern Calls:
+A(Caller): FolderInfoHolder
+B(Callee): Folder
+
+Candidate of Pattern Calls:
+A(Caller): FolderInfoHolder
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): AccountSettings
+B(Callee): Storage
+
+Candidate of Pattern Calls:
+A(Caller): SettingsExporter
+B(Callee): Storage
+
+Candidate of Pattern Calls:
+A(Caller): SettingsExporter
+B(Callee): ServerSettings
+
+Candidate of Pattern Calls:
+A(Caller): SettingsExporter
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): SettingsExporter
+B(Callee): SettingsDescription
+
+Candidate of Pattern Calls:
+A(Caller): SettingsExporter
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): WebDavStore
+B(Callee): WebDavFolder
+
+Candidate of Pattern Calls:
+A(Caller): WebDavStore
+B(Callee): WebDavHttpClient
+
+Candidate of Pattern Calls:
+A(Caller): WebDavStore
+B(Callee): HttpGeneric
+
+Candidate of Pattern Calls:
+A(Caller): WebDavStore
+B(Callee): StoreConfig
+
+Candidate of Pattern Calls:
+A(Caller): WebDavStore
+B(Callee): DataSet
+
+Candidate of Pattern Calls:
+A(Caller): WebDavStore
+B(Callee): WebDavHandler
+
+Candidate of Pattern Calls:
+A(Caller): OpenPgpApiHelperTest
+B(Callee): Identity
+
+Candidate of Pattern Calls:
+A(Caller): AuthenticationErrorNotifications
+B(Callee): NotificationController
+
+Candidate of Pattern Calls:
+A(Caller): AuthenticationErrorNotifications
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): MimeUtility
+B(Callee): Part
+
+Candidate of Pattern Calls:
+A(Caller): MimeUtility
+B(Callee): Multipart
+
+Candidate of Pattern Calls:
+A(Caller): MimeUtility
+B(Callee): Body
+
+Candidate of Pattern Calls:
+A(Caller): MimeUtility
+B(Callee): RawDataBody
+
+Candidate of Pattern Calls:
+A(Caller): MessageBuilderTest
+B(Callee): MessageIdGenerator
+
+Candidate of Pattern Calls:
+A(Caller): MessageBuilderTest
+B(Callee): MessageBuilder
+
+Candidate of Pattern Calls:
+A(Caller): MessageBuilderTest
+B(Callee): BoundaryGenerator
+
+Candidate of Pattern Calls:
+A(Caller): MessageBuilderTest
+B(Callee): Address
+
+Candidate of Pattern Calls:
+A(Caller): MessageBuilderTest
+B(Callee): MimeMessage
+
+Candidate of Pattern Calls:
+A(Caller): MessageBuilderTest
+B(Callee): Identity
+
+Candidate of Pattern Calls:
+A(Caller): MessageListActivityListener
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): CryptoResultAnnotation
+B(Callee): OpenPgpSignatureResult
+
+Candidate of Pattern Calls:
+A(Caller): AccountsImportedDialog
+B(Callee): Accounts
+
+Candidate of Pattern Calls:
+A(Caller): AccountsImportedDialog
+B(Callee): ImportSelectionDialog
+
+Candidate of Pattern Calls:
+A(Caller): AccountsImportedDialog
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): AccountsImportedDialog
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): ImapPusherTest
+B(Callee): TestImapPusher
+
+Candidate of Pattern Calls:
+A(Caller): ImapPusherTest
+B(Callee): ImapStore
+
+Candidate of Pattern Calls:
+A(Caller): ImapPusherTest
+B(Callee): StoreConfig
+
+Candidate of Pattern Calls:
+A(Caller): QuotedMessageMvpView
+B(Callee): QuotedMessagePresenter
+
+Candidate of Pattern Calls:
+A(Caller): QuotedMessageMvpView
+B(Callee): EolConvertingEditText
+
+Candidate of Pattern Calls:
+A(Caller): QuotedMessageMvpView
+B(Callee): FontSizes
+
+Candidate of Pattern Calls:
+A(Caller): QuotedMessageMvpView
+B(Callee): MessageWebView
+
+Candidate of Pattern Calls:
+A(Caller): K9WebViewClient
+B(Callee): AttachmentResolver
+
+Candidate of Pattern Calls:
+A(Caller): K9WebViewClient
+B(Callee): OnPageFinishedListener
+
+Candidate of Pattern Calls:
+A(Caller): MessageWebView
+B(Callee): K9WebViewClient
+
+Candidate of Pattern Calls:
+A(Caller): MessageList
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): TextBodyTest
+B(Callee): TextBody
+
+Candidate of Pattern Calls:
+A(Caller): CapabilityResponse
+B(Callee): ImapList
+
+Candidate of Pattern Calls:
+A(Caller): CapabilityResponse
+B(Callee): ImapResponse
+
+Candidate of Pattern Calls:
+A(Caller): TransportProvider
+B(Callee): StoreConfig
+
+Candidate of Pattern Calls:
+A(Caller): NotificationData
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): PendingAppend
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): K9AlarmManagerTest
+B(Callee): DozeChecker
+
+Candidate of Pattern Calls:
+A(Caller): K9AlarmManagerTest
+B(Callee): K9AlarmManager
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoDisplayStatus
+B(Callee): OpenPgpDecryptionResult
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoDisplayStatus
+B(Callee): OpenPgpSignatureResult
+
+Candidate of Pattern Calls:
+A(Caller): MessageCryptoDisplayStatus
+B(Callee): CryptoResultAnnotation
+
+Candidate of Pattern Calls:
+A(Caller): RecipientLoader
+B(Callee): Recipient
+
+Candidate of Pattern Calls:
+A(Caller): RecipientLoader
+B(Callee): Address
+
+Candidate of Pattern Calls:
+A(Caller): HtmlProcessor
+B(Callee): HtmlSanitizer
+
+Candidate of Pattern Calls:
+A(Caller): MessageFormat
+B(Callee): LocalKeyStore
+
+Candidate of Pattern Calls:
+A(Caller): MessageFormat
+B(Callee): LocalStore
+
+Candidate of Pattern Calls:
+A(Caller): MessageFormat
+B(Callee): Storage
+
+Candidate of Pattern Calls:
+A(Caller): MessageFormat
+B(Callee): SortType
+
+Candidate of Pattern Calls:
+A(Caller): MessageFormat
+B(Callee): StorageEditor
+
+Candidate of Pattern Calls:
+A(Caller): MessageFormat
+B(Callee): LocalSearch
+
+Candidate of Pattern Calls:
+A(Caller): MessageFormat
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): MessageFormat
+B(Callee): Address
+
+Candidate of Pattern Calls:
+A(Caller): MessageFormat
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): MessageFormat
+B(Callee): Identity
+
+Candidate of Pattern Calls:
+A(Caller): AutocryptOpenPgpApiInteractor
+B(Callee): OpenPgpApi
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo41
+B(Callee): MigrationsHelper
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo41
+B(Callee): Storage
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo41
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo42
+B(Callee): LocalFolder
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo42
+B(Callee): LocalStore
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo42
+B(Callee): MigrationsHelper
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo42
+B(Callee): Storage
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo42
+B(Callee): StorageEditor
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo46
+B(Callee): MigrationsHelper
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo43
+B(Callee): LocalFolder
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo43
+B(Callee): MigrationsHelper
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo43
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): MimeMessageParseTest
+B(Callee): MimeMessage
+
+Candidate of Pattern Calls:
+A(Caller): PgpMimeMessageTest
+B(Callee): Multipart
+
+Candidate of Pattern Calls:
+A(Caller): PgpMimeMessageTest
+B(Callee): MimeMessage
+
+Candidate of Pattern Calls:
+A(Caller): PgpMimeMessageTest
+B(Callee): Body
+
+Candidate of Pattern Calls:
+A(Caller): ChooseIdentity
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): ChooseIdentity
+B(Callee): Identity
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo50
+B(Callee): MigrationsHelper
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo50
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): TextPartFinderTest
+B(Callee): TextPartFinder
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo51
+B(Callee): MimeStructureState
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo51
+B(Callee): MigrationsHelper
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo51
+B(Callee): MimeHeader
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo51
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): MessagesQueryHandler
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): MessagesQueryHandler
+B(Callee): SearchAccount
+
+Candidate of Pattern Calls:
+A(Caller): FolderOperation
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): WearNotifications
+B(Callee): MessagingController
+
+Candidate of Pattern Calls:
+A(Caller): WearNotifications
+B(Callee): NotificationActionCreator
+
+Candidate of Pattern Calls:
+A(Caller): WearNotifications
+B(Callee): NotificationData
+
+Candidate of Pattern Calls:
+A(Caller): WearNotifications
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo55
+B(Callee): LocalFolder
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo55
+B(Callee): LocalMessage
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo55
+B(Callee): LocalStore
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo55
+B(Callee): MigrationsHelper
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo55
+B(Callee): MessageFulltextCreator
+
+Candidate of Pattern Calls:
+A(Caller): RecipientType
+B(Callee): Folder
+
+Candidate of Pattern Calls:
+A(Caller): RecipientType
+B(Callee): EOLConvertingOutputStream
+
+Candidate of Pattern Calls:
+A(Caller): RecipientType
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): RecipientType
+B(Callee): CountingOutputStream
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolderPusher
+B(Callee): TracingPowerManager
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolderPusher
+B(Callee): TracingWakeLock
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolderPusher
+B(Callee): ImapStore
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolderPusher
+B(Callee): IdleStopper
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolderPusher
+B(Callee): PushReceiver
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolderPusher
+B(Callee): ImapConnection
+
+Candidate of Pattern Calls:
+A(Caller): ImapFolderPusher
+B(Callee): ImapResponse
+
+Candidate of Pattern Calls:
+A(Caller): FolderListAdapter
+B(Callee): LocalFolder
+
+Candidate of Pattern Calls:
+A(Caller): FolderListAdapter
+B(Callee): BaseAccount
+
+Candidate of Pattern Calls:
+A(Caller): FolderListAdapter
+B(Callee): LocalSearch
+
+Candidate of Pattern Calls:
+A(Caller): FolderListAdapter
+B(Callee): FolderInfoHolder
+
+Candidate of Pattern Calls:
+A(Caller): FolderListAdapter
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo60
+B(Callee): PendingCommandSerializer
+
+Candidate of Pattern Calls:
+A(Caller): MigrationTo60
+B(Callee): PendingCommand
+
+Candidate of Pattern Calls:
+A(Caller): ReplyToParserTest
+B(Callee): ReplyToParser
+
+Candidate of Pattern Calls:
+A(Caller): ReplyToParserTest
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): ReplyToParserTest
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): TextBody
+B(Callee): SignSafeOutputStream
+
+Candidate of Pattern Calls:
+A(Caller): TextBody
+B(Callee): CountingOutputStream
+
+Candidate of Pattern Calls:
+A(Caller): EmailProviderCacheCursor
+B(Callee): EmailProviderCache
+
+Candidate of Pattern Calls:
+A(Caller): AccountSetupComposition
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): RealMigrationsHelper
+B(Callee): LocalStore
+
+Candidate of Pattern Calls:
+A(Caller): MessageListFragmentListener
+B(Callee): LocalSearch
+
+Candidate of Pattern Calls:
+A(Caller): MessageListFragmentListener
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): MessageCompose
+B(Callee): MessageReference
+
+Candidate of Pattern Calls:
+A(Caller): MessageCompose
+B(Callee): QuotedMessagePresenter
+
+Candidate of Pattern Calls:
+A(Caller): MessageCompose
+B(Callee): RecipientPresenter
+
+Candidate of Pattern Calls:
+A(Caller): MessageCompose
+B(Callee): IdentityAdapter
+
+Candidate of Pattern Calls:
+A(Caller): MessageCompose
+B(Callee): ComposeCryptoStatus
+
+Candidate of Pattern Calls:
+A(Caller): MessageCompose
+B(Callee): MessageLoaderHelper
+
+Candidate of Pattern Calls:
+A(Caller): MessageCompose
+B(Callee): Contacts
+
+Candidate of Pattern Calls:
+A(Caller): MessageCompose
+B(Callee): EolConvertingEditText
+
+Candidate of Pattern Calls:
+A(Caller): MessageCompose
+B(Callee): RecipientMvpView
+
+Candidate of Pattern Calls:
+A(Caller): MessageCompose
+B(Callee): MessageBuilder
+
+Candidate of Pattern Calls:
+A(Caller): MessageCompose
+B(Callee): Message
+
+Candidate of Pattern Calls:
+A(Caller): MessageCompose
+B(Callee): LocalSearch
+
+Candidate of Pattern Calls:
+A(Caller): MessageCompose
+B(Callee): AttachmentPresenter
+
+Candidate of Pattern Calls:
+A(Caller): MessageCompose
+B(Callee): Preferences
+
+Candidate of Pattern Calls:
+A(Caller): MessageCompose
+B(Callee): QuotedMessageMvpView
+
+Candidate of Pattern Calls:
+A(Caller): MessageCompose
+B(Callee): Action
+
+Candidate of Pattern Calls:
+A(Caller): MessageCompose
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): MessageCompose
+B(Callee): Identity
+
+Candidate of Pattern Calls:
+A(Caller): SelectOrExamineResponseTest
+B(Callee): SelectOrExamineResponse
+
+Candidate of Pattern Calls:
+A(Caller): WebDavStoreUriCreator
+B(Callee): ServerSettings
+
+Candidate of Pattern Calls:
+A(Caller): FilterResult
+B(Callee): NodeFilter
+
+Candidate of Pattern Calls:
+A(Caller): RemoveNotificationResultTest
+B(Callee): RemoveNotificationResult
+
+Candidate of Pattern Calls:
+A(Caller): CheckDirection
+B(Callee): Account
+
+Candidate of Pattern Calls:
+A(Caller): CheckDirection
+B(Callee): CertificateValidationException

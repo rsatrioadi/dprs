@@ -1,0 +1,91 @@
+Amount of Candidates found: 15
+
+Candidate of Pattern Factoy Method v1:
+A(Product): Pusher
+B(Concrete Product): ImapPusher
+C(Creator): RemoteStore
+D(Concrete Creator): ImapStore
+
+Candidate of Pattern Factoy Method v1:
+A(Product): StoreConfig
+B(Concrete Product): Account
+C(Creator): RemoteStore
+D(Concrete Creator): ImapStore
+
+Candidate of Pattern Factoy Method v1:
+A(Product): StoreConfig
+B(Concrete Product): Account
+C(Creator): RemoteStore
+D(Concrete Creator): WebDavStore
+
+Candidate of Pattern Factoy Method v1:
+A(Product): Body
+B(Concrete Product): BinaryTempFileMessageBody
+C(Creator): BodyFactory
+D(Concrete Creator): DefaultBodyFactory
+
+Candidate of Pattern Factoy Method v1:
+A(Product): Body
+B(Concrete Product): BinaryTempFileMessageBody
+C(Creator): Message
+D(Concrete Creator): MimeMessage
+
+Candidate of Pattern Factoy Method v1:
+A(Product): Body
+B(Concrete Product): BinaryTempFileMessageBody
+C(Creator): BodyPart
+D(Concrete Creator): MimeBodyPart
+
+Candidate of Pattern Factoy Method v1:
+A(Product): Body
+B(Concrete Product): FileBackedBody
+C(Creator): BodyFactory
+D(Concrete Creator): DefaultBodyFactory
+
+Candidate of Pattern Factoy Method v1:
+A(Product): Body
+B(Concrete Product): FileBackedBody
+C(Creator): Message
+D(Concrete Creator): MimeMessage
+
+Candidate of Pattern Factoy Method v1:
+A(Product): Body
+B(Concrete Product): FileBackedBody
+C(Creator): BodyPart
+D(Concrete Creator): MimeBodyPart
+
+Candidate of Pattern Factoy Method v1:
+A(Product): Body
+B(Concrete Product): BinaryMemoryBody
+C(Creator): BodyFactory
+D(Concrete Creator): DefaultBodyFactory
+
+Candidate of Pattern Factoy Method v1:
+A(Product): Body
+B(Concrete Product): BinaryMemoryBody
+C(Creator): Message
+D(Concrete Creator): MimeMessage
+
+Candidate of Pattern Factoy Method v1:
+A(Product): Body
+B(Concrete Product): BinaryMemoryBody
+C(Creator): BodyPart
+D(Concrete Creator): MimeBodyPart
+
+Candidate of Pattern Factoy Method v1:
+A(Product): Body
+B(Concrete Product): TextBody
+C(Creator): BodyFactory
+D(Concrete Creator): DefaultBodyFactory
+
+Candidate of Pattern Factoy Method v1:
+A(Product): Body
+B(Concrete Product): TextBody
+C(Creator): Message
+D(Concrete Creator): MimeMessage
+
+Candidate of Pattern Factoy Method v1:
+A(Product): Body
+B(Concrete Product): TextBody
+C(Creator): BodyPart
+D(Concrete Creator): MimeBodyPart

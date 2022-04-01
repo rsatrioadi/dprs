@@ -1,0 +1,10 @@
+Factoy Method v2
+A Interface Product
+B Normal Concrete Product
+C Abstracted Creator
+D Normal Concrete Creator
+End_Members
+B inherits A
+D inherits C
+D creates B
+End_Connections

@@ -1,0 +1,10 @@
+Proxy
+A Interface Subject
+B Normal Real Subject
+C Normal Proxy
+End_Members
+B inherits A
+C inherits A
+C references B
+C calls B
+End_Connections

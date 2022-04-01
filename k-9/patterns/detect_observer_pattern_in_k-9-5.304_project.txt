@@ -1,0 +1,81 @@
+Amount of Candidates found: 16
+
+Candidate of Pattern Observer:
+A(Concrete Observer): PendingExpunge
+B(Observer): PendingCommand
+C(Subject): MessagingController
+
+Candidate of Pattern Observer:
+A(Concrete Observer): PendingMarkAllAsRead
+B(Observer): PendingCommand
+C(Subject): MessagingController
+
+Candidate of Pattern Observer:
+A(Concrete Observer): PendingEmptyTrash
+B(Observer): PendingCommand
+C(Subject): MessagingController
+
+Candidate of Pattern Observer:
+A(Concrete Observer): PendingSetFlag
+B(Observer): PendingCommand
+C(Subject): MessagingController
+
+Candidate of Pattern Observer:
+A(Concrete Observer): PendingMoveOrCopy
+B(Observer): PendingCommand
+C(Subject): MessagingController
+
+Candidate of Pattern Observer:
+A(Concrete Observer): PushRunnable
+B(Observer): UntaggedHandler
+C(Subject): ImapConnection
+
+Candidate of Pattern Observer:
+A(Concrete Observer): MessageViewFragment
+B(Observer): AttachmentViewCallback
+C(Subject): MessageTopView
+
+Candidate of Pattern Observer:
+A(Concrete Observer): MimeBodyPart
+B(Observer): BodyPart
+C(Subject): Multipart
+
+Candidate of Pattern Observer:
+A(Concrete Observer): FetchBodyCallback
+B(Observer): ImapResponseCallback
+C(Subject): ImapResponse
+
+Candidate of Pattern Observer:
+A(Concrete Observer): PasswordPromptDialog
+B(Observer): NonConfigurationInstance
+C(Subject): Accounts
+
+Candidate of Pattern Observer:
+A(Concrete Observer): AccountSetupBasics
+B(Observer): OnClientCertificateChangedListener
+C(Subject): ClientCertificateSpinner
+
+Candidate of Pattern Observer:
+A(Concrete Observer): ImportSelectionDialog
+B(Observer): NonConfigurationInstance
+C(Subject): Accounts
+
+Candidate of Pattern Observer:
+A(Concrete Observer): SimpleDialog
+B(Observer): NonConfigurationInstance
+C(Subject): Accounts
+
+Candidate of Pattern Observer:
+A(Concrete Observer): FetchPartCallback
+B(Observer): ImapResponseCallback
+C(Subject): ImapResponse
+
+Candidate of Pattern Observer:
+A(Concrete Observer): RecipientSelectView
+B(Observer): AlternateRecipientListener
+C(Subject): AlternateRecipientAdapter
+
+Candidate of Pattern Observer:
+A(Concrete Observer): PendingAppend
+B(Observer): PendingCommand
+C(Subject): MessagingController

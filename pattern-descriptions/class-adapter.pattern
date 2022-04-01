@@ -1,0 +1,9 @@
+Class Adapter
+A Abstracted Target
+B Normal Adaptee
+C Normal Adapter
+End_Members
+C inherits A
+C inherits B
+C calls B
+End_Connections

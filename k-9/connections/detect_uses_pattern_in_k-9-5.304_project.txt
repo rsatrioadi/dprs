@@ -1,0 +1,2609 @@
+Amount of Candidates found: 652
+
+Candidate of Pattern Uses:
+A(Producer): NotificationDataTest
+B(Product): MessageReference
+
+Candidate of Pattern Uses:
+A(Producer): NotificationDataTest
+B(Product): NotificationContent
+
+Candidate of Pattern Uses:
+A(Producer): NotificationDataTest
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): SliderPreference
+B(Product): Object
+
+Candidate of Pattern Uses:
+A(Producer): SliderPreference
+B(Product): CharSequence
+
+Candidate of Pattern Uses:
+A(Producer): SliderPreference
+B(Product): Parcelable
+
+Candidate of Pattern Uses:
+A(Producer): SliderPreference
+B(Product): View
+
+Candidate of Pattern Uses:
+A(Producer): BoundaryGeneratorTest
+B(Product): Random
+
+Candidate of Pattern Uses:
+A(Producer): OpenPgpDataSink
+B(Product): T
+
+Candidate of Pattern Uses:
+A(Producer): DeferredFileOutputStream
+B(Product): OutputStream
+
+Candidate of Pattern Uses:
+A(Producer): DeferredFileOutputStream
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): SmtpTransport
+B(Product): CommandResponse
+
+Candidate of Pattern Uses:
+A(Producer): SmtpTransport
+B(Product): MessagingException
+
+Candidate of Pattern Uses:
+A(Producer): DbCallback
+B(Product): T
+
+Candidate of Pattern Uses:
+A(Producer): EmailAddressValidator
+B(Product): CharSequence
+
+Candidate of Pattern Uses:
+A(Producer): SecureX509TrustManager
+B(Product): X509TrustManager
+
+Candidate of Pattern Uses:
+A(Producer): AccountsAdapter
+B(Product): OnClickListener
+
+Candidate of Pattern Uses:
+A(Producer): AccountsAdapter
+B(Product): View
+
+Candidate of Pattern Uses:
+A(Producer): NodeFilter
+B(Product): HeadFilterDecision
+
+Candidate of Pattern Uses:
+A(Producer): NodeFilter
+B(Product): TailFilterDecision
+
+Candidate of Pattern Uses:
+A(Producer): MessageReference
+B(Product): Flag
+
+Candidate of Pattern Uses:
+A(Producer): MessageContainerView
+B(Product): AttachmentViewInfo
+
+Candidate of Pattern Uses:
+A(Producer): MessageContainerView
+B(Product): AttachmentView
+
+Candidate of Pattern Uses:
+A(Producer): MessageContainerView
+B(Product): Parcelable
+
+Candidate of Pattern Uses:
+A(Producer): OpenPgpApi
+B(Product): Intent
+
+Candidate of Pattern Uses:
+A(Producer): OpenPgpApi
+B(Product): CancelableBackgroundOperation
+
+Candidate of Pattern Uses:
+A(Producer): OpenPgpApi
+B(Product): AsyncTask
+
+Candidate of Pattern Uses:
+A(Producer): BaseNotifications
+B(Product): BigTextStyle
+
+Candidate of Pattern Uses:
+A(Producer): BaseNotifications
+B(Product): NotificationCompat.Builder
+
+Candidate of Pattern Uses:
+A(Producer): TimePickerPreference
+B(Product): View
+
+Candidate of Pattern Uses:
+A(Producer): TempFileBody
+B(Product): InputStream
+
+Candidate of Pattern Uses:
+A(Producer): FoldableLinearLayout
+B(Product): Parcelable
+
+Candidate of Pattern Uses:
+A(Producer): TestImapPusher
+B(Product): ImapFolderPusher
+
+Candidate of Pattern Uses:
+A(Producer): NotificationController
+B(Product): NotificationManagerCompat
+
+Candidate of Pattern Uses:
+A(Producer): NotificationController
+B(Product): Context
+
+Candidate of Pattern Uses:
+A(Producer): NotificationController
+B(Product): NotificationCompat.Builder
+
+Candidate of Pattern Uses:
+A(Producer): AccountCreator
+B(Product): DeletePolicy
+
+Candidate of Pattern Uses:
+A(Producer): ImapResponseParser
+B(Product): Object
+
+Candidate of Pattern Uses:
+A(Producer): ImapResponseParser
+B(Product): ImapList
+
+Candidate of Pattern Uses:
+A(Producer): ImapResponseParser
+B(Product): ImapResponse
+
+Candidate of Pattern Uses:
+A(Producer): AccountSetupIncoming
+B(Product): Intent
+
+Candidate of Pattern Uses:
+A(Producer): AccountSetupIncoming
+B(Product): ConnectionSecurity
+
+Candidate of Pattern Uses:
+A(Producer): AccountSetupIncoming
+B(Product): AuthType
+
+Candidate of Pattern Uses:
+A(Producer): AttachmentInfoExtractor
+B(Product): AttachmentViewInfo
+
+Candidate of Pattern Uses:
+A(Producer): AttachmentInfoExtractor
+B(Product): Uri
+
+Candidate of Pattern Uses:
+A(Producer): CertificateErrorNotificationsTest
+B(Product): NotificationController
+
+Candidate of Pattern Uses:
+A(Producer): CertificateErrorNotificationsTest
+B(Product): NotificationManagerCompat
+
+Candidate of Pattern Uses:
+A(Producer): CertificateErrorNotificationsTest
+B(Product): Builder
+
+Candidate of Pattern Uses:
+A(Producer): CertificateErrorNotificationsTest
+B(Product): PendingIntent
+
+Candidate of Pattern Uses:
+A(Producer): CertificateErrorNotificationsTest
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): Pop3Store
+B(Product): Folder
+
+Candidate of Pattern Uses:
+A(Producer): Pop3Store
+B(Product): ServerSettings
+
+Candidate of Pattern Uses:
+A(Producer): ReplyToParser
+B(Product): ReplyToAddresses
+
+Candidate of Pattern Uses:
+A(Producer): DefaultBodyFactory
+B(Product): Body
+
+Candidate of Pattern Uses:
+A(Producer): BinaryTempFileBody
+B(Product): OutputStream
+
+Candidate of Pattern Uses:
+A(Producer): BinaryTempFileBody
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): BinaryTempFileBody
+B(Product): InputStream
+
+Candidate of Pattern Uses:
+A(Producer): ParcelableUtil
+B(Product): T
+
+Candidate of Pattern Uses:
+A(Producer): ParcelableUtil
+B(Product): Parcel
+
+Candidate of Pattern Uses:
+A(Producer): TrustedSocketFactory
+B(Product): Socket
+
+Candidate of Pattern Uses:
+A(Producer): MimeMultipart
+B(Product): InputStream
+
+Candidate of Pattern Uses:
+A(Producer): FolderListFilter
+B(Product): FilterResults
+
+Candidate of Pattern Uses:
+A(Producer): PgpInlineDialog
+B(Product): Dialog
+
+Candidate of Pattern Uses:
+A(Producer): LocalMessageLoader
+B(Product): LocalMessage
+
+Candidate of Pattern Uses:
+A(Producer): ReconstructMessageFromDatabaseTest
+B(Product): LocalFolder
+
+Candidate of Pattern Uses:
+A(Producer): ReconstructMessageFromDatabaseTest
+B(Product): LocalMessage
+
+Candidate of Pattern Uses:
+A(Producer): ReconstructMessageFromDatabaseTest
+B(Product): MimeMessage
+
+Candidate of Pattern Uses:
+A(Producer): ImapPusher
+B(Product): ImapFolderPusher
+
+Candidate of Pattern Uses:
+A(Producer): AccountsQueryHandler
+B(Product): Cursor
+
+Candidate of Pattern Uses:
+A(Producer): MailService
+B(Product): IBinder
+
+Candidate of Pattern Uses:
+A(Producer): ImapResponseHelper
+B(Product): ImapResponse
+
+Candidate of Pattern Uses:
+A(Producer): KeyStoreProvider
+B(Product): KeyStore
+
+Candidate of Pattern Uses:
+A(Producer): KeyStoreProvider
+B(Product): X509Certificate
+
+Candidate of Pattern Uses:
+A(Producer): AttachmentDownloadDialogFragment
+B(Product): Dialog
+
+Candidate of Pattern Uses:
+A(Producer): MessagePreviewCreator
+B(Product): PreviewResult
+
+Candidate of Pattern Uses:
+A(Producer): AuthenticationErrorNotificationsTest
+B(Product): NotificationController
+
+Candidate of Pattern Uses:
+A(Producer): AuthenticationErrorNotificationsTest
+B(Product): NotificationManagerCompat
+
+Candidate of Pattern Uses:
+A(Producer): AuthenticationErrorNotificationsTest
+B(Product): Builder
+
+Candidate of Pattern Uses:
+A(Producer): AuthenticationErrorNotificationsTest
+B(Product): PendingIntent
+
+Candidate of Pattern Uses:
+A(Producer): AuthenticationErrorNotificationsTest
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): TracingPowerManager
+B(Product): TracingWakeLock
+
+Candidate of Pattern Uses:
+A(Producer): TestImapStore
+B(Product): ImapConnection
+
+Candidate of Pattern Uses:
+A(Producer): ImapFolder
+B(Product): Object
+
+Candidate of Pattern Uses:
+A(Producer): ImapFolder
+B(Product): ImapStore
+
+Candidate of Pattern Uses:
+A(Producer): ImapFolder
+B(Product): MessagingException
+
+Candidate of Pattern Uses:
+A(Producer): ImapFolder
+B(Product): ImapMessage
+
+Candidate of Pattern Uses:
+A(Producer): MergeCursor
+B(Product): Bundle
+
+Candidate of Pattern Uses:
+A(Producer): MergeCursor
+B(Product): Uri
+
+Candidate of Pattern Uses:
+A(Producer): TestImapResponseCallback
+B(Product): Object
+
+Candidate of Pattern Uses:
+A(Producer): TestWearNotifications
+B(Product): MessagingController
+
+Candidate of Pattern Uses:
+A(Producer): BootReceiver
+B(Product): PendingIntent
+
+Candidate of Pattern Uses:
+A(Producer): FixedStorageProviderBase
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): MessageHeader
+B(Product): Part
+
+Candidate of Pattern Uses:
+A(Producer): MessageHeader
+B(Product): Message
+
+Candidate of Pattern Uses:
+A(Producer): WebDavFolder
+B(Product): WebDavMessage
+
+Candidate of Pattern Uses:
+A(Producer): WebDavFolder
+B(Product): WebDavStore
+
+Candidate of Pattern Uses:
+A(Producer): RecipientPresenter
+B(Product): OpenPgpApi
+
+Candidate of Pattern Uses:
+A(Producer): RecipientPresenter
+B(Product): ComposeCryptoStatus
+
+Candidate of Pattern Uses:
+A(Producer): RecipientPresenter
+B(Product): RecipientType
+
+Candidate of Pattern Uses:
+A(Producer): PushService
+B(Product): IBinder
+
+Candidate of Pattern Uses:
+A(Producer): TestTrustedSocketFactory
+B(Product): Socket
+
+Candidate of Pattern Uses:
+A(Producer): RemoveNotificationResult
+B(Product): NotificationHolder
+
+Candidate of Pattern Uses:
+A(Producer): WebDavStoreUriDecoder
+B(Product): WebDavStoreSettings
+
+Candidate of Pattern Uses:
+A(Producer): LocalFolder
+B(Product): MoreMessages
+
+Candidate of Pattern Uses:
+A(Producer): LocalFolder
+B(Product): FolderClass
+
+Candidate of Pattern Uses:
+A(Producer): LocalFolder
+B(Product): LocalMessage
+
+Candidate of Pattern Uses:
+A(Producer): LocalFolder
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): LocalFolder
+B(Product): ThreadInfo
+
+Candidate of Pattern Uses:
+A(Producer): LocalFolder
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): TestDeviceNotifications
+B(Product): BigTextStyle
+
+Candidate of Pattern Uses:
+A(Producer): TestDeviceNotifications
+B(Product): InboxStyle
+
+Candidate of Pattern Uses:
+A(Producer): PendingCommandSerializer
+B(Product): PendingCommand
+
+Candidate of Pattern Uses:
+A(Producer): PreviewResult
+B(Product): PreviewType
+
+Candidate of Pattern Uses:
+A(Producer): FixedLengthInputStreamTest
+B(Product): InputStream
+
+Candidate of Pattern Uses:
+A(Producer): ImapFolderTest
+B(Product): ImapFolder
+
+Candidate of Pattern Uses:
+A(Producer): ImapFolderTest
+B(Product): Part
+
+Candidate of Pattern Uses:
+A(Producer): ImapFolderTest
+B(Product): ImapMessage
+
+Candidate of Pattern Uses:
+A(Producer): ImapFolderTest
+B(Product): FetchProfile
+
+Candidate of Pattern Uses:
+A(Producer): ImapFolderTest
+B(Product): ImapResponse
+
+Candidate of Pattern Uses:
+A(Producer): FolderList
+B(Product): Intent
+
+Candidate of Pattern Uses:
+A(Producer): FolderList
+B(Product): Object
+
+Candidate of Pattern Uses:
+A(Producer): FolderList
+B(Product): View
+
+Candidate of Pattern Uses:
+A(Producer): AttachmentResolver
+B(Product): Uri
+
+Candidate of Pattern Uses:
+A(Producer): SettingsExporterTest
+B(Product): Document
+
+Candidate of Pattern Uses:
+A(Producer): ColorChip
+B(Product): ShapeDrawable
+
+Candidate of Pattern Uses:
+A(Producer): NegativeImapResponseException
+B(Product): ImapResponse
+
+Candidate of Pattern Uses:
+A(Producer): DeferredFileBody
+B(Product): OutputStream
+
+Candidate of Pattern Uses:
+A(Producer): DeferredFileBody
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): DeferredFileBody
+B(Product): InputStream
+
+Candidate of Pattern Uses:
+A(Producer): Globals
+B(Product): Context
+
+Candidate of Pattern Uses:
+A(Producer): LocalMessage
+B(Product): MessageReference
+
+Candidate of Pattern Uses:
+A(Producer): LocalMessage
+B(Product): LocalFolder
+
+Candidate of Pattern Uses:
+A(Producer): LocalMessage
+B(Product): PreviewType
+
+Candidate of Pattern Uses:
+A(Producer): LocalMessage
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): RemoteStore
+B(Product): ServerSettings
+
+Candidate of Pattern Uses:
+A(Producer): RemoteStore
+B(Product): Store
+
+Candidate of Pattern Uses:
+A(Producer): IdentityAdapter
+B(Product): Object
+
+Candidate of Pattern Uses:
+A(Producer): IdentityAdapter
+B(Product): View
+
+Candidate of Pattern Uses:
+A(Producer): LocalStore
+B(Product): AttachmentInfoExtractor
+
+Candidate of Pattern Uses:
+A(Producer): LocalStore
+B(Product): MessagePreviewCreator
+
+Candidate of Pattern Uses:
+A(Producer): LocalStore
+B(Product): LocalFolder
+
+Candidate of Pattern Uses:
+A(Producer): LocalStore
+B(Product): LocalMessage
+
+Candidate of Pattern Uses:
+A(Producer): LocalStore
+B(Product): AttachmentCounter
+
+Candidate of Pattern Uses:
+A(Producer): LocalStore
+B(Product): Context
+
+Candidate of Pattern Uses:
+A(Producer): LocalStore
+B(Product): AttachmentInfo
+
+Candidate of Pattern Uses:
+A(Producer): LocalStore
+B(Product): Part
+
+Candidate of Pattern Uses:
+A(Producer): LocalStore
+B(Product): Storage
+
+Candidate of Pattern Uses:
+A(Producer): LocalStore
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): LocalStore
+B(Product): MessageFulltextCreator
+
+Candidate of Pattern Uses:
+A(Producer): LocalStore
+B(Product): InputStream
+
+Candidate of Pattern Uses:
+A(Producer): LocalStore
+B(Product): LockableDatabase
+
+Candidate of Pattern Uses:
+A(Producer): LocalStore
+B(Product): OpenPgpDataSource
+
+Candidate of Pattern Uses:
+A(Producer): LocalStore
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): WebDavStoreSettings
+B(Product): ServerSettings
+
+Candidate of Pattern Uses:
+A(Producer): DecryptedFileProvider
+B(Product): FileFactory
+
+Candidate of Pattern Uses:
+A(Producer): DecryptedFileProvider
+B(Product): ParcelFileDescriptor
+
+Candidate of Pattern Uses:
+A(Producer): DecryptedFileProvider
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): DecryptedFileProvider
+B(Product): Uri
+
+Candidate of Pattern Uses:
+A(Producer): SmtpTransportTest
+B(Product): SmtpTransport
+
+Candidate of Pattern Uses:
+A(Producer): SmtpTransportTest
+B(Product): MockSmtpServer
+
+Candidate of Pattern Uses:
+A(Producer): SmtpTransportTest
+B(Product): TestMessageBuilder
+
+Candidate of Pattern Uses:
+A(Producer): SmtpTransportTest
+B(Product): StoreConfig
+
+Candidate of Pattern Uses:
+A(Producer): SmtpTransportTest
+B(Product): Message
+
+Candidate of Pattern Uses:
+A(Producer): MessageProvider
+B(Product): Cursor
+
+Candidate of Pattern Uses:
+A(Producer): MessageProvider
+B(Product): Uri
+
+Candidate of Pattern Uses:
+A(Producer): DeviceNotifications
+B(Product): Notification
+
+Candidate of Pattern Uses:
+A(Producer): DeviceNotifications
+B(Product): NotificationCompat.Builder
+
+Candidate of Pattern Uses:
+A(Producer): DeviceNotifications
+B(Product): InboxStyle
+
+Candidate of Pattern Uses:
+A(Producer): ComposeCryptoStatus
+B(Product): AttachErrorState
+
+Candidate of Pattern Uses:
+A(Producer): ComposeCryptoStatus
+B(Product): CryptoStatusDisplayType
+
+Candidate of Pattern Uses:
+A(Producer): ComposeCryptoStatus
+B(Product): SendErrorState
+
+Candidate of Pattern Uses:
+A(Producer): ComposeCryptoStatus
+B(Product): PendingIntent
+
+Candidate of Pattern Uses:
+A(Producer): ComposeCryptoStatus
+B(Product): CryptoSpecialModeDisplayType
+
+Candidate of Pattern Uses:
+A(Producer): SubThemeSetting
+B(Product): K9.Theme
+
+Candidate of Pattern Uses:
+A(Producer): SendFailedNotificationsTest
+B(Product): NotificationController
+
+Candidate of Pattern Uses:
+A(Producer): SendFailedNotificationsTest
+B(Product): NotificationManagerCompat
+
+Candidate of Pattern Uses:
+A(Producer): SendFailedNotificationsTest
+B(Product): Builder
+
+Candidate of Pattern Uses:
+A(Producer): SendFailedNotificationsTest
+B(Product): PendingIntent
+
+Candidate of Pattern Uses:
+A(Producer): SendFailedNotificationsTest
+B(Product): NotificationActionCreator
+
+Candidate of Pattern Uses:
+A(Producer): SendFailedNotificationsTest
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): TrustManagerFactoryTest
+B(Product): X509Certificate
+
+Candidate of Pattern Uses:
+A(Producer): MessageViewFragment
+B(Product): MessageReference
+
+Candidate of Pattern Uses:
+A(Producer): MessageViewFragment
+B(Product): AttachmentController
+
+Candidate of Pattern Uses:
+A(Producer): MessageViewFragment
+B(Product): Context
+
+Candidate of Pattern Uses:
+A(Producer): MessageViewFragment
+B(Product): View
+
+Candidate of Pattern Uses:
+A(Producer): LinuxPRNGSecureRandom
+B(Product): DataInputStream
+
+Candidate of Pattern Uses:
+A(Producer): HtcIncredibleStorageProvider
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): EncoderUtil
+B(Product): Charset
+
+Candidate of Pattern Uses:
+A(Producer): EncoderUtil
+B(Product): Encoding
+
+Candidate of Pattern Uses:
+A(Producer): EncoderUtil
+B(Product): BitSet
+
+Candidate of Pattern Uses:
+A(Producer): LockScreenNotificationTest
+B(Product): NotificationController
+
+Candidate of Pattern Uses:
+A(Producer): LockScreenNotificationTest
+B(Product): Builder
+
+Candidate of Pattern Uses:
+A(Producer): LockScreenNotificationTest
+B(Product): NotificationContent
+
+Candidate of Pattern Uses:
+A(Producer): LockScreenNotificationTest
+B(Product): NotificationData
+
+Candidate of Pattern Uses:
+A(Producer): LockScreenNotificationTest
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): MimePartStreamParser
+B(Product): MimeBodyPart
+
+Candidate of Pattern Uses:
+A(Producer): MimePartStreamParser
+B(Product): Body
+
+Candidate of Pattern Uses:
+A(Producer): WebDavHttpClientFactory
+B(Product): WebDavHttpClient
+
+Candidate of Pattern Uses:
+A(Producer): LocalMimeMessage
+B(Product): LocalMessage
+
+Candidate of Pattern Uses:
+A(Producer): Textual
+B(Product): Part
+
+Candidate of Pattern Uses:
+A(Producer): MessagingController
+B(Product): LocalMessage
+
+Candidate of Pattern Uses:
+A(Producer): MessagingController
+B(Product): AccountStats
+
+Candidate of Pattern Uses:
+A(Producer): MessagingController
+B(Product): MessagingListener
+
+Candidate of Pattern Uses:
+A(Producer): MessagingController
+B(Product): Message
+
+Candidate of Pattern Uses:
+A(Producer): FileFactory
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): ImapResponseCallback
+B(Product): Object
+
+Candidate of Pattern Uses:
+A(Producer): WebDavHttpClient
+B(Product): InputStream
+
+Candidate of Pattern Uses:
+A(Producer): WebDavHttpClient
+B(Product): HttpResponse
+
+Candidate of Pattern Uses:
+A(Producer): ComposeCryptoStatusBuilder
+B(Product): ComposeCryptoStatus
+
+Candidate of Pattern Uses:
+A(Producer): Accounts
+B(Product): Dialog
+
+Candidate of Pattern Uses:
+A(Producer): Accounts
+B(Product): Object
+
+Candidate of Pattern Uses:
+A(Producer): Accounts
+B(Product): LocalSearch
+
+Candidate of Pattern Uses:
+A(Producer): MessageCryptoAnnotations
+B(Product): Part
+
+Candidate of Pattern Uses:
+A(Producer): MessageCryptoAnnotations
+B(Product): CryptoResultAnnotation
+
+Candidate of Pattern Uses:
+A(Producer): AlternateRecipientAdapter
+B(Product): Recipient
+
+Candidate of Pattern Uses:
+A(Producer): AlternateRecipientAdapter
+B(Product): View
+
+Candidate of Pattern Uses:
+A(Producer): PgpMessageBuilder
+B(Product): Intent
+
+Candidate of Pattern Uses:
+A(Producer): PgpMessageBuilder
+B(Product): PendingIntent
+
+Candidate of Pattern Uses:
+A(Producer): PgpMessageBuilder
+B(Product): OpenPgpDataSource
+
+Candidate of Pattern Uses:
+A(Producer): MessageCryptoPresenter
+B(Product): Drawable
+
+Candidate of Pattern Uses:
+A(Producer): MessageCryptoPresenter
+B(Product): Parcelable
+
+Candidate of Pattern Uses:
+A(Producer): AutocryptPeerUpdate
+B(Product): Date
+
+Candidate of Pattern Uses:
+A(Producer): AutocryptPeerUpdate
+B(Product): PreferEncrypt
+
+Candidate of Pattern Uses:
+A(Producer): ImapStoreTest
+B(Product): StoreConfig
+
+Candidate of Pattern Uses:
+A(Producer): MimeBodyPart
+B(Product): Body
+
+Candidate of Pattern Uses:
+A(Producer): MessageReferenceTest
+B(Product): MessageReference
+
+Candidate of Pattern Uses:
+A(Producer): OpenPgpKeyPreference
+B(Product): Object
+
+Candidate of Pattern Uses:
+A(Producer): OpenPgpKeyPreference
+B(Product): CharSequence
+
+Candidate of Pattern Uses:
+A(Producer): OpenPgpKeyPreference
+B(Product): Parcelable
+
+Candidate of Pattern Uses:
+A(Producer): MessageActions
+B(Product): Intent
+
+Candidate of Pattern Uses:
+A(Producer): AttachmentController
+B(Product): Intent
+
+Candidate of Pattern Uses:
+A(Producer): AttachmentController
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): AttachmentController
+B(Product): IntentAndResolvedActivitiesCount
+
+Candidate of Pattern Uses:
+A(Producer): PreLollipopWebViewClient
+B(Product): WebResourceResponse
+
+Candidate of Pattern Uses:
+A(Producer): MessageLoaderHelper
+B(Product): MessageViewInfo
+
+Candidate of Pattern Uses:
+A(Producer): TestMessageBuilder
+B(Product): Message
+
+Candidate of Pattern Uses:
+A(Producer): Utility
+B(Product): Handler
+
+Candidate of Pattern Uses:
+A(Producer): IdentityHelperTest
+B(Product): ByteArrayInputStream
+
+Candidate of Pattern Uses:
+A(Producer): IdentityHelperTest
+B(Product): MimeMessage
+
+Candidate of Pattern Uses:
+A(Producer): EnumSetting
+B(Product): T
+
+Candidate of Pattern Uses:
+A(Producer): LollipopWebViewClient
+B(Product): WebResourceResponse
+
+Candidate of Pattern Uses:
+A(Producer): AttachmentInfoLoader
+B(Product): Attachment
+
+Candidate of Pattern Uses:
+A(Producer): MessageHelper
+B(Product): MimeBodyPart
+
+Candidate of Pattern Uses:
+A(Producer): Folder
+B(Product): T
+
+Candidate of Pattern Uses:
+A(Producer): Folder
+B(Product): FolderClass
+
+Candidate of Pattern Uses:
+A(Producer): ExternalStorageProvider
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): HtmlSanitizer
+B(Product): Document
+
+Candidate of Pattern Uses:
+A(Producer): PollService
+B(Product): IBinder
+
+Candidate of Pattern Uses:
+A(Producer): ListHeaders
+B(Product): Address
+
+Candidate of Pattern Uses:
+A(Producer): MigrationTo60Test
+B(Product): SQLiteDatabase
+
+Candidate of Pattern Uses:
+A(Producer): MigrationTo60Test
+B(Product): OldPendingCommand
+
+Candidate of Pattern Uses:
+A(Producer): DeviceNotificationsTest
+B(Product): NotificationController
+
+Candidate of Pattern Uses:
+A(Producer): DeviceNotificationsTest
+B(Product): TestDeviceNotifications
+
+Candidate of Pattern Uses:
+A(Producer): DeviceNotificationsTest
+B(Product): Builder
+
+Candidate of Pattern Uses:
+A(Producer): DeviceNotificationsTest
+B(Product): NotificationData
+
+Candidate of Pattern Uses:
+A(Producer): DeviceNotificationsTest
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): UidReverseComparatorTest
+B(Product): Message
+
+Candidate of Pattern Uses:
+A(Producer): ImapStore
+B(Product): ImapFolder
+
+Candidate of Pattern Uses:
+A(Producer): ImapStore
+B(Product): FolderNameCodec
+
+Candidate of Pattern Uses:
+A(Producer): ImapStore
+B(Product): Pusher
+
+Candidate of Pattern Uses:
+A(Producer): ImapStore
+B(Product): ImapConnection
+
+Candidate of Pattern Uses:
+A(Producer): ImapStore
+B(Product): StoreConfig
+
+Candidate of Pattern Uses:
+A(Producer): ImapStore
+B(Product): ImapStoreSettings
+
+Candidate of Pattern Uses:
+A(Producer): Preconditions
+B(Product): T
+
+Candidate of Pattern Uses:
+A(Producer): UnreadWidgetProperties
+B(Product): Intent
+
+Candidate of Pattern Uses:
+A(Producer): UnreadWidgetProperties
+B(Product): BaseAccount
+
+Candidate of Pattern Uses:
+A(Producer): AttachmentContentLoader
+B(Product): Attachment
+
+Candidate of Pattern Uses:
+A(Producer): ContactPictureLoader
+B(Product): Bitmap
+
+Candidate of Pattern Uses:
+A(Producer): Prefs
+B(Product): K9.Theme
+
+Candidate of Pattern Uses:
+A(Producer): Prefs
+B(Product): Dialog
+
+Candidate of Pattern Uses:
+A(Producer): ParcelFileDescriptorUtil
+B(Product): TransferThread
+
+Candidate of Pattern Uses:
+A(Producer): ParcelFileDescriptorUtil
+B(Product): ParcelFileDescriptor
+
+Candidate of Pattern Uses:
+A(Producer): LocalPart
+B(Product): LocalMessage
+
+Candidate of Pattern Uses:
+A(Producer): LocalBodyPart
+B(Product): LocalMessage
+
+Candidate of Pattern Uses:
+A(Producer): TextBodyBuilder
+B(Product): InsertableHtmlContent
+
+Candidate of Pattern Uses:
+A(Producer): TextBodyBuilder
+B(Product): TextBody
+
+Candidate of Pattern Uses:
+A(Producer): AttachmentTempFileProvider
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): AttachmentTempFileProvider
+B(Product): Uri
+
+Candidate of Pattern Uses:
+A(Producer): ProgressDialogFragment
+B(Product): Dialog
+
+Candidate of Pattern Uses:
+A(Producer): OpenPgpAsyncTask
+B(Product): Intent
+
+Candidate of Pattern Uses:
+A(Producer): Contacts
+B(Product): Intent
+
+Candidate of Pattern Uses:
+A(Producer): Contacts
+B(Product): Cursor
+
+Candidate of Pattern Uses:
+A(Producer): Contacts
+B(Product): Uri
+
+Candidate of Pattern Uses:
+A(Producer): AutocryptHeaderParser
+B(Product): AutocryptHeader
+
+Candidate of Pattern Uses:
+A(Producer): ImapList
+B(Product): Object
+
+Candidate of Pattern Uses:
+A(Producer): ImapList
+B(Product): Date
+
+Candidate of Pattern Uses:
+A(Producer): CertificateErrorNotifications
+B(Product): NotificationManagerCompat
+
+Candidate of Pattern Uses:
+A(Producer): CertificateErrorNotifications
+B(Product): PendingIntent
+
+Candidate of Pattern Uses:
+A(Producer): TestNewMailNotifications
+B(Product): NotificationData
+
+Candidate of Pattern Uses:
+A(Producer): OpenPgpServiceConnection
+B(Product): IOpenPgpService2
+
+Candidate of Pattern Uses:
+A(Producer): AttachmentProvider
+B(Product): Cursor
+
+Candidate of Pattern Uses:
+A(Producer): AttachmentProvider
+B(Product): ParcelFileDescriptor
+
+Candidate of Pattern Uses:
+A(Producer): AttachmentProvider
+B(Product): Uri
+
+Candidate of Pattern Uses:
+A(Producer): AttachmentProvider
+B(Product): OpenPgpDataSource
+
+Candidate of Pattern Uses:
+A(Producer): MonitoredCursor
+B(Product): CursorWindow
+
+Candidate of Pattern Uses:
+A(Producer): MonitoredCursor
+B(Product): Bundle
+
+Candidate of Pattern Uses:
+A(Producer): MonitoredCursor
+B(Product): Uri
+
+Candidate of Pattern Uses:
+A(Producer): OpenPgpAppSelectFragment
+B(Product): Dialog
+
+Candidate of Pattern Uses:
+A(Producer): PushReceiver
+B(Product): Context
+
+Candidate of Pattern Uses:
+A(Producer): TrustManagerFactory
+B(Product): X509TrustManager
+
+Candidate of Pattern Uses:
+A(Producer): ImapListTest
+B(Product): ImapList
+
+Candidate of Pattern Uses:
+A(Producer): MessagingControllerPushReceiver
+B(Product): Context
+
+Candidate of Pattern Uses:
+A(Producer): ImapConnection
+B(Product): MessagingException
+
+Candidate of Pattern Uses:
+A(Producer): ImapConnection
+B(Product): OutputStream
+
+Candidate of Pattern Uses:
+A(Producer): ImapConnection
+B(Product): AuthenticationFailedException
+
+Candidate of Pattern Uses:
+A(Producer): ImapConnection
+B(Product): Socket
+
+Candidate of Pattern Uses:
+A(Producer): ImapConnection
+B(Product): ImapResponse
+
+Candidate of Pattern Uses:
+A(Producer): FieldExtractor
+B(Product): K
+
+Candidate of Pattern Uses:
+A(Producer): ConfirmationDialog
+B(Product): Dialog
+
+Candidate of Pattern Uses:
+A(Producer): NotificationIdsTest
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): UnreadQueryHandler
+B(Product): Cursor
+
+Candidate of Pattern Uses:
+A(Producer): StorageProvider
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): DatabasePreviewType
+B(Product): PreviewType
+
+Candidate of Pattern Uses:
+A(Producer): FetchBodyCallback
+B(Product): Object
+
+Candidate of Pattern Uses:
+A(Producer): PgpMessageBuilderTest
+B(Product): ComposeCryptoStatusBuilder
+
+Candidate of Pattern Uses:
+A(Producer): PgpMessageBuilderTest
+B(Product): PgpMessageBuilder
+
+Candidate of Pattern Uses:
+A(Producer): ViewSwitcher
+B(Product): Animation
+
+Candidate of Pattern Uses:
+A(Producer): ImportedServerSettings
+B(Product): ConnectionSecurity
+
+Candidate of Pattern Uses:
+A(Producer): FileBackedBody
+B(Product): InputStream
+
+Candidate of Pattern Uses:
+A(Producer): AutocryptStatusInteractor
+B(Product): RecipientAutocryptStatus
+
+Candidate of Pattern Uses:
+A(Producer): AutocryptStatusInteractor
+B(Product): RecipientAutocryptStatusType
+
+Candidate of Pattern Uses:
+A(Producer): ImapUtility
+B(Product): ImapResponse
+
+Candidate of Pattern Uses:
+A(Producer): Part
+B(Product): Body
+
+Candidate of Pattern Uses:
+A(Producer): SendFailedNotifications
+B(Product): NotificationManagerCompat
+
+Candidate of Pattern Uses:
+A(Producer): StoreSchemaDefinitionTest
+B(Product): StoreSchemaDefinition
+
+Candidate of Pattern Uses:
+A(Producer): StoreSchemaDefinitionTest
+B(Product): SQLiteDatabase
+
+Candidate of Pattern Uses:
+A(Producer): StoreSchemaDefinitionTest
+B(Product): Context
+
+Candidate of Pattern Uses:
+A(Producer): StoreSchemaDefinitionTest
+B(Product): LockableDatabase
+
+Candidate of Pattern Uses:
+A(Producer): StoreSchemaDefinitionTest
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): SyncNotifications
+B(Product): NotificationManagerCompat
+
+Candidate of Pattern Uses:
+A(Producer): MigrationsHelper
+B(Product): LocalStore
+
+Candidate of Pattern Uses:
+A(Producer): MigrationsHelper
+B(Product): Context
+
+Candidate of Pattern Uses:
+A(Producer): MigrationsHelper
+B(Product): Storage
+
+Candidate of Pattern Uses:
+A(Producer): MigrationsHelper
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): MemorizingMessagingListener
+B(Product): Memory
+
+Candidate of Pattern Uses:
+A(Producer): RecipientAdapter
+B(Product): Spannable
+
+Candidate of Pattern Uses:
+A(Producer): RecipientAdapter
+B(Product): Recipient
+
+Candidate of Pattern Uses:
+A(Producer): RecipientAdapter
+B(Product): Filter
+
+Candidate of Pattern Uses:
+A(Producer): RecipientAdapter
+B(Product): View
+
+Candidate of Pattern Uses:
+A(Producer): ImapResponseParserTest
+B(Product): ImapResponseParser
+
+Candidate of Pattern Uses:
+A(Producer): MessageCryptoHelper
+B(Product): Intent
+
+Candidate of Pattern Uses:
+A(Producer): MessageCryptoHelper
+B(Product): MimeBodyPart
+
+Candidate of Pattern Uses:
+A(Producer): MessageCryptoHelper
+B(Product): OpenPgpDataSource
+
+Candidate of Pattern Uses:
+A(Producer): MessageBuilder
+B(Product): MimeMultipart
+
+Candidate of Pattern Uses:
+A(Producer): MessageBuilder
+B(Product): MimeMessage
+
+Candidate of Pattern Uses:
+A(Producer): MessageBuilder
+B(Product): TextBody
+
+Candidate of Pattern Uses:
+A(Producer): BinaryMemoryBody
+B(Product): InputStream
+
+Candidate of Pattern Uses:
+A(Producer): CapabilityResponseTest
+B(Product): CapabilityResponse
+
+Candidate of Pattern Uses:
+A(Producer): SearchAccount
+B(Product): LocalSearch
+
+Candidate of Pattern Uses:
+A(Producer): Storage
+B(Product): SQLiteDatabase
+
+Candidate of Pattern Uses:
+A(Producer): Storage
+B(Product): StorageEditor
+
+Candidate of Pattern Uses:
+A(Producer): TestAuthenticationErrorNotifications
+B(Product): PendingIntent
+
+Candidate of Pattern Uses:
+A(Producer): MockServerThread
+B(Product): UnexpectedCommandException
+
+Candidate of Pattern Uses:
+A(Producer): MockServerThread
+B(Product): Socket
+
+Candidate of Pattern Uses:
+A(Producer): CryptoInfoDialog
+B(Product): Dialog
+
+Candidate of Pattern Uses:
+A(Producer): WearNotificationsTest
+B(Product): Notification
+
+Candidate of Pattern Uses:
+A(Producer): WearNotificationsTest
+B(Product): MessageReference
+
+Candidate of Pattern Uses:
+A(Producer): WearNotificationsTest
+B(Product): NotificationController
+
+Candidate of Pattern Uses:
+A(Producer): WearNotificationsTest
+B(Product): MessagingController
+
+Candidate of Pattern Uses:
+A(Producer): WearNotificationsTest
+B(Product): Builder
+
+Candidate of Pattern Uses:
+A(Producer): WearNotificationsTest
+B(Product): PendingIntent
+
+Candidate of Pattern Uses:
+A(Producer): WearNotificationsTest
+B(Product): NotificationActionCreator
+
+Candidate of Pattern Uses:
+A(Producer): WearNotificationsTest
+B(Product): NotificationContent
+
+Candidate of Pattern Uses:
+A(Producer): WearNotificationsTest
+B(Product): NotificationData
+
+Candidate of Pattern Uses:
+A(Producer): WearNotificationsTest
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): WearNotificationsTest
+B(Product): NotificationHolder
+
+Candidate of Pattern Uses:
+A(Producer): WearNotificationsTest
+B(Product): WearableExtender
+
+Candidate of Pattern Uses:
+A(Producer): MessageTopView
+B(Product): MessageHeader
+
+Candidate of Pattern Uses:
+A(Producer): PseudoEnumSetting
+B(Product): T
+
+Candidate of Pattern Uses:
+A(Producer): ListHeadersTest
+B(Product): MimeMessage
+
+Candidate of Pattern Uses:
+A(Producer): AccountSetupBasics
+B(Product): Dialog
+
+Candidate of Pattern Uses:
+A(Producer): AccountSetupBasics
+B(Product): Provider
+
+Candidate of Pattern Uses:
+A(Producer): ApgDeprecationDialogFragment
+B(Product): Dialog
+
+Candidate of Pattern Uses:
+A(Producer): MessageCreationHelper
+B(Product): MimeMultipart
+
+Candidate of Pattern Uses:
+A(Producer): MessageCreationHelper
+B(Product): Message
+
+Candidate of Pattern Uses:
+A(Producer): MessageCreationHelper
+B(Product): BodyPart
+
+Candidate of Pattern Uses:
+A(Producer): NamespaceResponseTest
+B(Product): NamespaceResponse
+
+Candidate of Pattern Uses:
+A(Producer): PgpSignOnlyDialog
+B(Product): Dialog
+
+Candidate of Pattern Uses:
+A(Producer): K9
+B(Product): Theme
+
+Candidate of Pattern Uses:
+A(Producer): K9
+B(Product): LockScreenNotificationVisibility
+
+Candidate of Pattern Uses:
+A(Producer): K9
+B(Product): NotificationHideSubject
+
+Candidate of Pattern Uses:
+A(Producer): K9
+B(Product): FontSizes
+
+Candidate of Pattern Uses:
+A(Producer): K9
+B(Product): SortType
+
+Candidate of Pattern Uses:
+A(Producer): K9
+B(Product): SplitViewMode
+
+Candidate of Pattern Uses:
+A(Producer): K9
+B(Product): NotificationQuickDelete
+
+Candidate of Pattern Uses:
+A(Producer): K9
+B(Product): BACKGROUND_OPS
+
+Candidate of Pattern Uses:
+A(Producer): TextPartFinder
+B(Product): Part
+
+Candidate of Pattern Uses:
+A(Producer): MigrationTest
+B(Product): SQLiteDatabase
+
+Candidate of Pattern Uses:
+A(Producer): MigrationTest
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): AttachmentView
+B(Product): AttachmentViewInfo
+
+Candidate of Pattern Uses:
+A(Producer): MessageCryptoStructureDetector
+B(Product): Part
+
+Candidate of Pattern Uses:
+A(Producer): DatabaseUpgradeService
+B(Product): IBinder
+
+Candidate of Pattern Uses:
+A(Producer): Recipient
+B(Product): RecipientCryptoStatus
+
+Candidate of Pattern Uses:
+A(Producer): Recipient
+B(Product): Uri
+
+Candidate of Pattern Uses:
+A(Producer): ActivityListenerTest
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): IdentityHelper
+B(Product): Identity
+
+Candidate of Pattern Uses:
+A(Producer): MessageListWidgetService
+B(Product): RemoteViewsFactory
+
+Candidate of Pattern Uses:
+A(Producer): Pop3Folder
+B(Product): Pop3Capabilities
+
+Candidate of Pattern Uses:
+A(Producer): Pop3Folder
+B(Product): Pop3Message
+
+Candidate of Pattern Uses:
+A(Producer): BodyFactory
+B(Product): Body
+
+Candidate of Pattern Uses:
+A(Producer): SimpleImapSettings
+B(Product): ConnectionSecurity
+
+Candidate of Pattern Uses:
+A(Producer): SimpleImapSettings
+B(Product): AuthType
+
+Candidate of Pattern Uses:
+A(Producer): TestCertificateErrorNotifications
+B(Product): PendingIntent
+
+Candidate of Pattern Uses:
+A(Producer): ImapStoreUriDecoder
+B(Product): ImapStoreSettings
+
+Candidate of Pattern Uses:
+A(Producer): InternalStorageProvider
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): K9RobolectricTestRunner
+B(Product): Config
+
+Candidate of Pattern Uses:
+A(Producer): MessageListFragment
+B(Product): MessageReference
+
+Candidate of Pattern Uses:
+A(Producer): MessageListFragment
+B(Product): LayoutInflater
+
+Candidate of Pattern Uses:
+A(Producer): MessageListFragment
+B(Product): FolderInfoHolder
+
+Candidate of Pattern Uses:
+A(Producer): MessageListFragment
+B(Product): View
+
+Candidate of Pattern Uses:
+A(Producer): MessageListFragment
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): LocalMessageExtractorLoader
+B(Product): MessageViewInfo
+
+Candidate of Pattern Uses:
+A(Producer): HtmlConverter
+B(Product): Spanned
+
+Candidate of Pattern Uses:
+A(Producer): MessageExtractor
+B(Product): Message
+
+Candidate of Pattern Uses:
+A(Producer): K9LibRobolectricTestRunner
+B(Product): Config
+
+Candidate of Pattern Uses:
+A(Producer): SearchSpecification
+B(Product): ConditionsTreeNode
+
+Candidate of Pattern Uses:
+A(Producer): StorageManager
+B(Product): StorageProvider
+
+Candidate of Pattern Uses:
+A(Producer): StorageManager
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): CoreService
+B(Product): TracingWakeLock
+
+Candidate of Pattern Uses:
+A(Producer): CoreService
+B(Product): IBinder
+
+Candidate of Pattern Uses:
+A(Producer): TestNotifications
+B(Product): BigTextStyle
+
+Candidate of Pattern Uses:
+A(Producer): AdvancedNodeTraversor
+B(Product): FilterResult
+
+Candidate of Pattern Uses:
+A(Producer): UnreadWidgetConfiguration
+B(Product): UnreadWidgetProperties
+
+Candidate of Pattern Uses:
+A(Producer): TemporaryAttachmentStore
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): BinaryAttachmentBody
+B(Product): InputStream
+
+Candidate of Pattern Uses:
+A(Producer): AutocryptHeaderParserTest
+B(Product): InputStream
+
+Candidate of Pattern Uses:
+A(Producer): AutocryptHeaderParserTest
+B(Product): MimeMessage
+
+Candidate of Pattern Uses:
+A(Producer): SyncNotificationsTest
+B(Product): NotificationController
+
+Candidate of Pattern Uses:
+A(Producer): SyncNotificationsTest
+B(Product): NotificationManagerCompat
+
+Candidate of Pattern Uses:
+A(Producer): SyncNotificationsTest
+B(Product): Folder
+
+Candidate of Pattern Uses:
+A(Producer): SyncNotificationsTest
+B(Product): Builder
+
+Candidate of Pattern Uses:
+A(Producer): SyncNotificationsTest
+B(Product): PendingIntent
+
+Candidate of Pattern Uses:
+A(Producer): SyncNotificationsTest
+B(Product): NotificationActionCreator
+
+Candidate of Pattern Uses:
+A(Producer): SyncNotificationsTest
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): ThemeSetting
+B(Product): K9.Theme
+
+Candidate of Pattern Uses:
+A(Producer): SaveAttachmentAsyncTask
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): WebDavStoreTest
+B(Product): StoreConfig
+
+Candidate of Pattern Uses:
+A(Producer): WebDavStoreTest
+B(Product): WebDavStore
+
+Candidate of Pattern Uses:
+A(Producer): WebDavStoreTest
+B(Product): BasicHttpResponse
+
+Candidate of Pattern Uses:
+A(Producer): Multipart
+B(Product): Part
+
+Candidate of Pattern Uses:
+A(Producer): Multipart
+B(Product): BodyPart
+
+Candidate of Pattern Uses:
+A(Producer): EmailProvider
+B(Product): Cursor
+
+Candidate of Pattern Uses:
+A(Producer): EmailProvider
+B(Product): LockableDatabase
+
+Candidate of Pattern Uses:
+A(Producer): EmailProvider
+B(Product): Uri
+
+Candidate of Pattern Uses:
+A(Producer): EmailProvider
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): NotificationActionService
+B(Product): Intent
+
+Candidate of Pattern Uses:
+A(Producer): OpenPgpSignatureResult
+B(Product): T
+
+Candidate of Pattern Uses:
+A(Producer): OpenPgpSignatureResult
+B(Product): SenderStatusResult
+
+Candidate of Pattern Uses:
+A(Producer): NotificationDeleteConfirmation
+B(Product): Intent
+
+Candidate of Pattern Uses:
+A(Producer): NotificationDeleteConfirmation
+B(Product): Dialog
+
+Candidate of Pattern Uses:
+A(Producer): NotificationDeleteConfirmation
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): HtmlQuoteCreator
+B(Product): InsertableHtmlContent
+
+Candidate of Pattern Uses:
+A(Producer): MessageListRemoteViewFactory
+B(Product): RemoteViews
+
+Candidate of Pattern Uses:
+A(Producer): MessageListRemoteViewFactory
+B(Product): CharSequence
+
+Candidate of Pattern Uses:
+A(Producer): MessageViewInfoExtractor
+B(Product): StringBuilder
+
+Candidate of Pattern Uses:
+A(Producer): MessageViewInfoExtractor
+B(Product): MessageViewInfo
+
+Candidate of Pattern Uses:
+A(Producer): MessageViewInfoExtractor
+B(Product): ViewableExtractedText
+
+Candidate of Pattern Uses:
+A(Producer): DefaultTrustedSocketFactory
+B(Product): Socket
+
+Candidate of Pattern Uses:
+A(Producer): MessagePreviewCreatorTest
+B(Product): Message
+
+Candidate of Pattern Uses:
+A(Producer): Message
+B(Product): Date
+
+Candidate of Pattern Uses:
+A(Producer): Message
+B(Product): Folder
+
+Candidate of Pattern Uses:
+A(Producer): Message
+B(Product): Body
+
+Candidate of Pattern Uses:
+A(Producer): TestMessageConstructionUtils
+B(Product): MimeBodyPart
+
+Candidate of Pattern Uses:
+A(Producer): TestMessageConstructionUtils
+B(Product): MimeMessage
+
+Candidate of Pattern Uses:
+A(Producer): TestMessageConstructionUtils
+B(Product): BodyPart
+
+Candidate of Pattern Uses:
+A(Producer): LocalSearch
+B(Product): ConditionsTreeNode
+
+Candidate of Pattern Uses:
+A(Producer): NotificationActionCreator
+B(Product): PendingIntent
+
+Candidate of Pattern Uses:
+A(Producer): NotificationActionCreator
+B(Product): TaskStackBuilder
+
+Candidate of Pattern Uses:
+A(Producer): MessageListWidgetProvider
+B(Product): PendingIntent
+
+Candidate of Pattern Uses:
+A(Producer): Store
+B(Product): Pusher
+
+Candidate of Pattern Uses:
+A(Producer): NewMailNotificationsTest
+B(Product): Notification
+
+Candidate of Pattern Uses:
+A(Producer): NewMailNotificationsTest
+B(Product): MessageReference
+
+Candidate of Pattern Uses:
+A(Producer): NewMailNotificationsTest
+B(Product): NotificationController
+
+Candidate of Pattern Uses:
+A(Producer): NewMailNotificationsTest
+B(Product): LocalMessage
+
+Candidate of Pattern Uses:
+A(Producer): NewMailNotificationsTest
+B(Product): DeviceNotifications
+
+Candidate of Pattern Uses:
+A(Producer): NewMailNotificationsTest
+B(Product): NotificationManagerCompat
+
+Candidate of Pattern Uses:
+A(Producer): NewMailNotificationsTest
+B(Product): NotificationContentCreator
+
+Candidate of Pattern Uses:
+A(Producer): NewMailNotificationsTest
+B(Product): NotificationContent
+
+Candidate of Pattern Uses:
+A(Producer): NewMailNotificationsTest
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): NewMailNotificationsTest
+B(Product): WearNotifications
+
+Candidate of Pattern Uses:
+A(Producer): NewMailNotificationsTest
+B(Product): NotificationHolder
+
+Candidate of Pattern Uses:
+A(Producer): MessageCryptoStructureDetectorTest
+B(Product): Part
+
+Candidate of Pattern Uses:
+A(Producer): AccountSetupOutgoing
+B(Product): Intent
+
+Candidate of Pattern Uses:
+A(Producer): AccountSetupOutgoing
+B(Product): ConnectionSecurity
+
+Candidate of Pattern Uses:
+A(Producer): AccountSetupOutgoing
+B(Product): AuthType
+
+Candidate of Pattern Uses:
+A(Producer): BaseNotificationsTest
+B(Product): NotificationController
+
+Candidate of Pattern Uses:
+A(Producer): BaseNotificationsTest
+B(Product): TestNotifications
+
+Candidate of Pattern Uses:
+A(Producer): BaseNotificationsTest
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): BaseNotificationsTest
+B(Product): NotificationHolder
+
+Candidate of Pattern Uses:
+A(Producer): NewMailNotifications
+B(Product): NotificationManagerCompat
+
+Candidate of Pattern Uses:
+A(Producer): NewMailNotifications
+B(Product): NotificationData
+
+Candidate of Pattern Uses:
+A(Producer): RetainFragment
+B(Product): T
+
+Candidate of Pattern Uses:
+A(Producer): LockableDatabase
+B(Product): T
+
+Candidate of Pattern Uses:
+A(Producer): LockableDatabase
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): LockableDatabase
+B(Product): StorageManager
+
+Candidate of Pattern Uses:
+A(Producer): MlfUtils
+B(Product): LocalFolder
+
+Candidate of Pattern Uses:
+A(Producer): WebDavFolderTest
+B(Product): WebDavMessage
+
+Candidate of Pattern Uses:
+A(Producer): WebDavFolderTest
+B(Product): WebDavFolder
+
+Candidate of Pattern Uses:
+A(Producer): Preferences
+B(Product): T
+
+Candidate of Pattern Uses:
+A(Producer): Preferences
+B(Product): Storage
+
+Candidate of Pattern Uses:
+A(Producer): Preferences
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): ConditionsTreeNode
+B(Product): SearchCondition
+
+Candidate of Pattern Uses:
+A(Producer): DataSinkTransferThread
+B(Product): T
+
+Candidate of Pattern Uses:
+A(Producer): SenderExtractor
+B(Product): CharSequence
+
+Candidate of Pattern Uses:
+A(Producer): FetchPartCallback
+B(Product): Object
+
+Candidate of Pattern Uses:
+A(Producer): SettingsDescription
+B(Product): T
+
+Candidate of Pattern Uses:
+A(Producer): RecipientSelectView
+B(Product): Recipient
+
+Candidate of Pattern Uses:
+A(Producer): RecipientSelectView
+B(Product): TokenImageSpan
+
+Candidate of Pattern Uses:
+A(Producer): RecipientSelectView
+B(Product): View
+
+Candidate of Pattern Uses:
+A(Producer): NotificationContentCreatorTest
+B(Product): MessageReference
+
+Candidate of Pattern Uses:
+A(Producer): NotificationContentCreatorTest
+B(Product): LocalMessage
+
+Candidate of Pattern Uses:
+A(Producer): NotificationContentCreatorTest
+B(Product): NotificationContentCreator
+
+Candidate of Pattern Uses:
+A(Producer): NotificationContentCreatorTest
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): MimeMessage
+B(Product): Date
+
+Candidate of Pattern Uses:
+A(Producer): MimeMessage
+B(Product): MimeBodyPart
+
+Candidate of Pattern Uses:
+A(Producer): MimeMessage
+B(Product): InputStream
+
+Candidate of Pattern Uses:
+A(Producer): MimeMessage
+B(Product): Body
+
+Candidate of Pattern Uses:
+A(Producer): WebDavHandler
+B(Product): DataSet
+
+Candidate of Pattern Uses:
+A(Producer): MessageListAdapter
+B(Product): Drawable
+
+Candidate of Pattern Uses:
+A(Producer): MessageListAdapter
+B(Product): Address
+
+Candidate of Pattern Uses:
+A(Producer): MessageListAdapter
+B(Product): AbsoluteSizeSpan
+
+Candidate of Pattern Uses:
+A(Producer): MessageListAdapter
+B(Product): View
+
+Candidate of Pattern Uses:
+A(Producer): NotificationContentCreator
+B(Product): CharSequence
+
+Candidate of Pattern Uses:
+A(Producer): NotificationContentCreator
+B(Product): NotificationContent
+
+Candidate of Pattern Uses:
+A(Producer): WebDavSocketFactory
+B(Product): Socket
+
+Candidate of Pattern Uses:
+A(Producer): ThrottlingQueryHandler
+B(Product): Cursor
+
+Candidate of Pattern Uses:
+A(Producer): MessagingControllerTest
+B(Product): LocalMessage
+
+Candidate of Pattern Uses:
+A(Producer): MessagingControllerTest
+B(Product): Message
+
+Candidate of Pattern Uses:
+A(Producer): MockHelper
+B(Product): T
+
+Candidate of Pattern Uses:
+A(Producer): LockScreenNotification
+B(Product): Notification
+
+Candidate of Pattern Uses:
+A(Producer): LockScreenNotification
+B(Product): Builder
+
+Candidate of Pattern Uses:
+A(Producer): OpenPgpAppPreference
+B(Product): Object
+
+Candidate of Pattern Uses:
+A(Producer): OpenPgpAppPreference
+B(Product): CharSequence
+
+Candidate of Pattern Uses:
+A(Producer): OpenPgpDataSource
+B(Product): ParcelFileDescriptor
+
+Candidate of Pattern Uses:
+A(Producer): MessageHeaderParser
+B(Product): MimeStreamParser
+
+Candidate of Pattern Uses:
+A(Producer): BodyPart
+B(Product): Multipart
+
+Candidate of Pattern Uses:
+A(Producer): ColorPicker
+B(Product): Parcelable
+
+Candidate of Pattern Uses:
+A(Producer): ImapResponse
+B(Product): ImapResponseCallback
+
+Candidate of Pattern Uses:
+A(Producer): AddNotificationResult
+B(Product): NotificationHolder
+
+Candidate of Pattern Uses:
+A(Producer): K9PreferenceActivity
+B(Product): ListPreference
+
+Candidate of Pattern Uses:
+A(Producer): SamsungGalaxySStorageProvider
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): ImapConnectionTest
+B(Product): ImapConnection
+
+Candidate of Pattern Uses:
+A(Producer): ImapConnectionTest
+B(Product): OAuth2TokenProvider
+
+Candidate of Pattern Uses:
+A(Producer): IntentAndResolvedActivitiesCount
+B(Product): Intent
+
+Candidate of Pattern Uses:
+A(Producer): OpenPgpApiFactory
+B(Product): OpenPgpApi
+
+Candidate of Pattern Uses:
+A(Producer): Body
+B(Product): InputStream
+
+Candidate of Pattern Uses:
+A(Producer): MessageViewInfoExtractorTest
+B(Product): MessageCryptoAnnotations
+
+Candidate of Pattern Uses:
+A(Producer): MessageViewInfoExtractorTest
+B(Product): HtmlProcessor
+
+Candidate of Pattern Uses:
+A(Producer): WebDavStore
+B(Product): WebDavFolder
+
+Candidate of Pattern Uses:
+A(Producer): WebDavStore
+B(Product): WebDavStoreSettings
+
+Candidate of Pattern Uses:
+A(Producer): WebDavStore
+B(Product): WebDavHttpClient
+
+Candidate of Pattern Uses:
+A(Producer): WebDavStore
+B(Product): Folder
+
+Candidate of Pattern Uses:
+A(Producer): WebDavStore
+B(Product): CookieStore
+
+Candidate of Pattern Uses:
+A(Producer): WebDavStore
+B(Product): StoreConfig
+
+Candidate of Pattern Uses:
+A(Producer): WebDavStore
+B(Product): InputStream
+
+Candidate of Pattern Uses:
+A(Producer): WebDavStore
+B(Product): ConnectionInfo
+
+Candidate of Pattern Uses:
+A(Producer): WebDavStore
+B(Product): HttpContext
+
+Candidate of Pattern Uses:
+A(Producer): WebDavStore
+B(Product): DataSet
+
+Candidate of Pattern Uses:
+A(Producer): OpenPgpUtils
+B(Product): UserId
+
+Candidate of Pattern Uses:
+A(Producer): AuthenticationErrorNotifications
+B(Product): NotificationManagerCompat
+
+Candidate of Pattern Uses:
+A(Producer): AuthenticationErrorNotifications
+B(Product): PendingIntent
+
+Candidate of Pattern Uses:
+A(Producer): ContactPicture
+B(Product): ContactPictureLoader
+
+Candidate of Pattern Uses:
+A(Producer): MimeUtility
+B(Product): Part
+
+Candidate of Pattern Uses:
+A(Producer): MimeUtility
+B(Product): InputStream
+
+Candidate of Pattern Uses:
+A(Producer): StripSignatureFilter
+B(Product): HeadFilterDecision
+
+Candidate of Pattern Uses:
+A(Producer): StripSignatureFilter
+B(Product): TailFilterDecision
+
+Candidate of Pattern Uses:
+A(Producer): MessageBuilderTest
+B(Product): Attachment
+
+Candidate of Pattern Uses:
+A(Producer): MessageBuilderTest
+B(Product): MessageBuilder
+
+Candidate of Pattern Uses:
+A(Producer): MessageBuilderTest
+B(Product): MimeMessage
+
+Candidate of Pattern Uses:
+A(Producer): MessageBuilderTest
+B(Product): Identity
+
+Candidate of Pattern Uses:
+A(Producer): CryptoResultAnnotation
+B(Product): OpenPgpDecryptionResult
+
+Candidate of Pattern Uses:
+A(Producer): CryptoResultAnnotation
+B(Product): MimeBodyPart
+
+Candidate of Pattern Uses:
+A(Producer): CryptoResultAnnotation
+B(Product): CryptoError
+
+Candidate of Pattern Uses:
+A(Producer): CryptoResultAnnotation
+B(Product): OpenPgpError
+
+Candidate of Pattern Uses:
+A(Producer): CryptoResultAnnotation
+B(Product): PendingIntent
+
+Candidate of Pattern Uses:
+A(Producer): CryptoResultAnnotation
+B(Product): OpenPgpSignatureResult
+
+Candidate of Pattern Uses:
+A(Producer): K9WebViewClient
+B(Product): Intent
+
+Candidate of Pattern Uses:
+A(Producer): K9WebViewClient
+B(Product): WebResourceResponse
+
+Candidate of Pattern Uses:
+A(Producer): MessageList
+B(Product): Intent
+
+Candidate of Pattern Uses:
+A(Producer): MessageList
+B(Product): View
+
+Candidate of Pattern Uses:
+A(Producer): ViewAttachmentAsyncTask
+B(Product): Intent
+
+Candidate of Pattern Uses:
+A(Producer): TransportProvider
+B(Product): Transport
+
+Candidate of Pattern Uses:
+A(Producer): NotificationData
+B(Product): RemoveNotificationResult
+
+Candidate of Pattern Uses:
+A(Producer): NotificationData
+B(Product): AddNotificationResult
+
+Candidate of Pattern Uses:
+A(Producer): NotificationData
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): NotificationData
+B(Product): NotificationHolder
+
+Candidate of Pattern Uses:
+A(Producer): HtmlToTextTagHandler
+B(Product): Object
+
+Candidate of Pattern Uses:
+A(Producer): SettingsImporter
+B(Product): ImportedSettings
+
+Candidate of Pattern Uses:
+A(Producer): SettingsImporter
+B(Product): ImportedFolder
+
+Candidate of Pattern Uses:
+A(Producer): SettingsImporter
+B(Product): ImportContents
+
+Candidate of Pattern Uses:
+A(Producer): SettingsImporter
+B(Product): Imported
+
+Candidate of Pattern Uses:
+A(Producer): SettingsImporter
+B(Product): ImportedAccount
+
+Candidate of Pattern Uses:
+A(Producer): SettingsImporter
+B(Product): ImportResults
+
+Candidate of Pattern Uses:
+A(Producer): SettingsImporter
+B(Product): AccountDescriptionPair
+
+Candidate of Pattern Uses:
+A(Producer): SettingsImporter
+B(Product): ImportedServer
+
+Candidate of Pattern Uses:
+A(Producer): SettingsImporter
+B(Product): ImportedIdentity
+
+Candidate of Pattern Uses:
+A(Producer): K9AlarmManagerTest
+B(Product): PendingIntent
+
+Candidate of Pattern Uses:
+A(Producer): RecipientLoader
+B(Product): Cursor
+
+Candidate of Pattern Uses:
+A(Producer): FileHelper
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): Account
+B(Product): Expunge
+
+Candidate of Pattern Uses:
+A(Producer): Account
+B(Product): ShowPictures
+
+Candidate of Pattern Uses:
+A(Producer): Account
+B(Product): ColorChip
+
+Candidate of Pattern Uses:
+A(Producer): Account
+B(Product): LocalStore
+
+Candidate of Pattern Uses:
+A(Producer): Account
+B(Product): Date
+
+Candidate of Pattern Uses:
+A(Producer): Account
+B(Product): Cursor
+
+Candidate of Pattern Uses:
+A(Producer): Account
+B(Product): AccountStats
+
+Candidate of Pattern Uses:
+A(Producer): Account
+B(Product): SortType
+
+Candidate of Pattern Uses:
+A(Producer): Account
+B(Product): DeletePolicy
+
+Candidate of Pattern Uses:
+A(Producer): Account
+B(Product): NotificationSetting
+
+Candidate of Pattern Uses:
+A(Producer): Account
+B(Product): FolderMode
+
+Candidate of Pattern Uses:
+A(Producer): Account
+B(Product): QuoteStyle
+
+Candidate of Pattern Uses:
+A(Producer): Account
+B(Product): Store
+
+Candidate of Pattern Uses:
+A(Producer): Account
+B(Product): MessageFormat
+
+Candidate of Pattern Uses:
+A(Producer): Account
+B(Product): Identity
+
+Candidate of Pattern Uses:
+A(Producer): Account
+B(Product): Searchable
+
+Candidate of Pattern Uses:
+A(Producer): MimeMessageParseTest
+B(Product): ByteArrayInputStream
+
+Candidate of Pattern Uses:
+A(Producer): MimeMessageParseTest
+B(Product): MimeMessage
+
+Candidate of Pattern Uses:
+A(Producer): StoreImapSettings
+B(Product): ConnectionSecurity
+
+Candidate of Pattern Uses:
+A(Producer): StoreImapSettings
+B(Product): AuthType
+
+Candidate of Pattern Uses:
+A(Producer): PgpEncryptDescriptionDialog
+B(Product): Dialog
+
+Candidate of Pattern Uses:
+A(Producer): PgpEnabledErrorDialog
+B(Product): Dialog
+
+Candidate of Pattern Uses:
+A(Producer): ConfirmationDialogFragment
+B(Product): Dialog
+
+Candidate of Pattern Uses:
+A(Producer): ConfirmationDialogFragment
+B(Product): ConfirmationDialogFragmentListener
+
+Candidate of Pattern Uses:
+A(Producer): MigrationTo51
+B(Product): MimeStructureState
+
+Candidate of Pattern Uses:
+A(Producer): MigrationTo51
+B(Product): File
+
+Candidate of Pattern Uses:
+A(Producer): MigrationTo51
+B(Product): MimeHeader
+
+Candidate of Pattern Uses:
+A(Producer): MessagesQueryHandler
+B(Product): MatrixCursor
+
+Candidate of Pattern Uses:
+A(Producer): MessagesQueryHandler
+B(Product): Cursor
+
+Candidate of Pattern Uses:
+A(Producer): WearNotifications
+B(Product): Notification
+
+Candidate of Pattern Uses:
+A(Producer): WearNotifications
+B(Product): MessagingController
+
+Candidate of Pattern Uses:
+A(Producer): FolderListAdapter
+B(Product): Object
+
+Candidate of Pattern Uses:
+A(Producer): FolderListAdapter
+B(Product): OnClickListener
+
+Candidate of Pattern Uses:
+A(Producer): FolderListAdapter
+B(Product): Filter
+
+Candidate of Pattern Uses:
+A(Producer): FolderListAdapter
+B(Product): FolderInfoHolder
+
+Candidate of Pattern Uses:
+A(Producer): FolderListAdapter
+B(Product): View
+
+Candidate of Pattern Uses:
+A(Producer): MigrationTo60
+B(Product): PendingCommand
+
+Candidate of Pattern Uses:
+A(Producer): Base64
+B(Product): Object
+
+Candidate of Pattern Uses:
+A(Producer): Base64
+B(Product): BigInteger
+
+Candidate of Pattern Uses:
+A(Producer): KeyChainKeyManager
+B(Product): PrivateKey
+
+Candidate of Pattern Uses:
+A(Producer): TransportUris
+B(Product): ServerSettings
+
+Candidate of Pattern Uses:
+A(Producer): TextBody
+B(Product): InputStream
+
+Candidate of Pattern Uses:
+A(Producer): ImapStoreSettings
+B(Product): ServerSettings
+
+Candidate of Pattern Uses:
+A(Producer): ImapSettings
+B(Product): ConnectionSecurity
+
+Candidate of Pattern Uses:
+A(Producer): ImapSettings
+B(Product): AuthType
+
+Candidate of Pattern Uses:
+A(Producer): RealMigrationsHelper
+B(Product): LocalStore
+
+Candidate of Pattern Uses:
+A(Producer): RealMigrationsHelper
+B(Product): Context
+
+Candidate of Pattern Uses:
+A(Producer): RealMigrationsHelper
+B(Product): Storage
+
+Candidate of Pattern Uses:
+A(Producer): RealMigrationsHelper
+B(Product): Account
+
+Candidate of Pattern Uses:
+A(Producer): MessageCompose
+B(Product): Dialog
+
+Candidate of Pattern Uses:
+A(Producer): MessageCompose
+B(Product): Object
+
+Candidate of Pattern Uses:
+A(Producer): MessageCompose
+B(Product): MessageBuilder
+
+Candidate of Pattern Uses:
+A(Producer): CertificateValidationException
+B(Product): Reason

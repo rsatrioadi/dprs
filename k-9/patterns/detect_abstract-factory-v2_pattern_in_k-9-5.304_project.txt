@@ -1,0 +1,13 @@
+Amount of Candidates found: 2
+
+Candidate of Pattern Abstract Factory v2:
+A(Concrete Factory): DefaultBodyFactory
+B(Abstract Factory): BodyFactory
+C(Product): BinaryTempFileMessageBody
+D(Abstract Product): Body
+
+Candidate of Pattern Abstract Factory v2:
+A(Concrete Factory): ImapStore
+B(Abstract Factory): RemoteStore
+C(Product): ImapPusher
+D(Abstract Product): Pusher

@@ -1,0 +1,1937 @@
+Amount of Candidates found: 484
+
+Candidate of Pattern Inheritance:
+A(Superclass): Serializable
+B(Subclass): Provider
+
+Candidate of Pattern Inheritance:
+A(Superclass): Serializable
+B(Subclass): InsertableHtmlContent
+
+Candidate of Pattern Inheritance:
+A(Superclass): Serializable
+B(Subclass): AccountStats
+
+Candidate of Pattern Inheritance:
+A(Superclass): Serializable
+B(Subclass): Recipient
+
+Candidate of Pattern Inheritance:
+A(Superclass): Serializable
+B(Subclass): Address
+
+Candidate of Pattern Inheritance:
+A(Superclass): Serializable
+B(Subclass): ContactItem
+
+Candidate of Pattern Inheritance:
+A(Superclass): Serializable
+B(Subclass): Identity
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnItemClickListener
+B(Subclass): Accounts
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnItemClickListener
+B(Subclass): MessageListFragment
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnItemClickListener
+B(Subclass): EmailAddressList
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnItemClickListener
+B(Subclass): AccountList
+
+Candidate of Pattern Inheritance:
+A(Superclass): AttachmentViewCallback
+B(Subclass): MessageViewFragment
+
+Candidate of Pattern Inheritance:
+A(Superclass): SmtpTransport
+B(Subclass): TestSmtpTransport
+
+Candidate of Pattern Inheritance:
+A(Superclass): NegativeSmtpReplyException
+B(Subclass): EnhancedNegativeSmtpReplyException
+
+Candidate of Pattern Inheritance:
+A(Superclass): ViewAnimator
+B(Subclass): LinearViewAnimator
+
+Candidate of Pattern Inheritance:
+A(Superclass): ViewAnimator
+B(Subclass): ViewSwitcher
+
+Candidate of Pattern Inheritance:
+A(Superclass): ViewAnimator
+B(Subclass): ToolableViewAnimator
+
+Candidate of Pattern Inheritance:
+A(Superclass): NodeFilter
+B(Subclass): StripSignatureFilter
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnLongClickListener
+B(Subclass): AttachmentView
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnCancelListener
+B(Subclass): ConfirmationDialogFragment
+
+Candidate of Pattern Inheritance:
+A(Superclass): QueryHandler
+B(Subclass): AccountsQueryHandler
+
+Candidate of Pattern Inheritance:
+A(Superclass): QueryHandler
+B(Subclass): UnreadQueryHandler
+
+Candidate of Pattern Inheritance:
+A(Superclass): QueryHandler
+B(Subclass): ThrottlingQueryHandler
+
+Candidate of Pattern Inheritance:
+A(Superclass): QueryHandler
+B(Subclass): MessagesQueryHandler
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnCheckedChangeListener
+B(Subclass): AccountSetupBasics
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnCheckedChangeListener
+B(Subclass): AccountSetupOutgoing
+
+Candidate of Pattern Inheritance:
+A(Superclass): NodeVisitor
+B(Subclass): CleaningVisitor
+
+Candidate of Pattern Inheritance:
+A(Superclass): FieldExtractor<MessageInfoHolder, Integer>
+B(Subclass): AccountColorExtractor
+
+Candidate of Pattern Inheritance:
+A(Superclass): FieldExtractor<MessageInfoHolder, Integer>
+B(Subclass): IncrementExtractor
+
+Candidate of Pattern Inheritance:
+A(Superclass): FieldExtractor<MessageInfoHolder, Integer>
+B(Subclass): AccountNumberExtractor
+
+Candidate of Pattern Inheritance:
+A(Superclass): BaseNotifications
+B(Subclass): DeviceNotifications
+
+Candidate of Pattern Inheritance:
+A(Superclass): BaseNotifications
+B(Subclass): TestNotifications
+
+Candidate of Pattern Inheritance:
+A(Superclass): BaseNotifications
+B(Subclass): WearNotifications
+
+Candidate of Pattern Inheritance:
+A(Superclass): MessageBuilder.Callback
+B(Subclass): MessageCompose
+
+Candidate of Pattern Inheritance:
+A(Superclass): Comparator<Message>
+B(Subclass): UidReverseComparator
+
+Candidate of Pattern Inheritance:
+A(Superclass): LoaderCallbacks<List<Recipient>>
+B(Subclass): RecipientSelectView
+
+Candidate of Pattern Inheritance:
+A(Superclass): Folder<WebDavMessage>
+B(Subclass): WebDavFolder
+
+Candidate of Pattern Inheritance:
+A(Superclass): Transport
+B(Subclass): SmtpTransport
+
+Candidate of Pattern Inheritance:
+A(Superclass): Transport
+B(Subclass): WebDavTransport
+
+Candidate of Pattern Inheritance:
+A(Superclass): AsyncTask<CheckDirection, Integer, Void>
+B(Subclass): CheckAccountTask
+
+Candidate of Pattern Inheritance:
+A(Superclass): DefaultBodyFactory
+B(Subclass): ProgressBodyFactory
+
+Candidate of Pattern Inheritance:
+A(Superclass): Folder<LocalMessage>
+B(Subclass): LocalFolder
+
+Candidate of Pattern Inheritance:
+A(Superclass): BinaryTempFileBody
+B(Subclass): BinaryTempFileMessageBody
+
+Candidate of Pattern Inheritance:
+A(Superclass): TrustedSocketFactory
+B(Subclass): TestTrustedSocketFactory
+
+Candidate of Pattern Inheritance:
+A(Superclass): TrustedSocketFactory
+B(Subclass): DefaultTrustedSocketFactory
+
+Candidate of Pattern Inheritance:
+A(Superclass): TextView
+B(Subclass): MessageTitleView
+
+Candidate of Pattern Inheritance:
+A(Superclass): ImageView
+B(Subclass): ContactBadge
+
+Candidate of Pattern Inheritance:
+A(Superclass): AnimationListener
+B(Subclass): ViewSwitcher
+
+Candidate of Pattern Inheritance:
+A(Superclass): ImapPusher
+B(Subclass): TestImapPusher
+
+Candidate of Pattern Inheritance:
+A(Superclass): StorageManager.StorageListener
+B(Subclass): StorageListenerImplementation
+
+Candidate of Pattern Inheritance:
+A(Superclass): SizeAware
+B(Subclass): TempFileBody
+
+Candidate of Pattern Inheritance:
+A(Superclass): SizeAware
+B(Subclass): BinaryTempFileBody
+
+Candidate of Pattern Inheritance:
+A(Superclass): SizeAware
+B(Subclass): DeferredFileBody
+
+Candidate of Pattern Inheritance:
+A(Superclass): SizeAware
+B(Subclass): FileBackedBody
+
+Candidate of Pattern Inheritance:
+A(Superclass): SizeAware
+B(Subclass): BinaryMemoryBody
+
+Candidate of Pattern Inheritance:
+A(Superclass): SizeAware
+B(Subclass): TextBody
+
+Candidate of Pattern Inheritance:
+A(Superclass): RigidWebView
+B(Subclass): MessageWebView
+
+Candidate of Pattern Inheritance:
+A(Superclass): UriParser
+B(Subclass): BitcoinUriParser
+
+Candidate of Pattern Inheritance:
+A(Superclass): UriParser
+B(Subclass): HttpUriParser
+
+Candidate of Pattern Inheritance:
+A(Superclass): UriParser
+B(Subclass): EthereumUriParser
+
+Candidate of Pattern Inheritance:
+A(Superclass): SettingsDescription<T>
+B(Subclass): EnumSetting
+
+Candidate of Pattern Inheritance:
+A(Superclass): SettingsDescription<T>
+B(Subclass): PseudoEnumSetting
+
+Candidate of Pattern Inheritance:
+A(Superclass): ImapFolder
+B(Subclass): ImapFolderPusher
+
+Candidate of Pattern Inheritance:
+A(Superclass): MergeCursor
+B(Subclass): MergeCursorWithUniqueId
+
+Candidate of Pattern Inheritance:
+A(Superclass): ImapInteraction
+B(Subclass): EnableCompression
+
+Candidate of Pattern Inheritance:
+A(Superclass): ImapInteraction
+B(Subclass): UpgradeToTls
+
+Candidate of Pattern Inheritance:
+A(Superclass): SmtpInteraction
+B(Subclass): ExpectedCommand
+
+Candidate of Pattern Inheritance:
+A(Superclass): SmtpInteraction
+B(Subclass): CloseConnection
+
+Candidate of Pattern Inheritance:
+A(Superclass): SmtpInteraction
+B(Subclass): CannedResponse
+
+Candidate of Pattern Inheritance:
+A(Superclass): FixedStorageProviderBase
+B(Subclass): HtcIncredibleStorageProvider
+
+Candidate of Pattern Inheritance:
+A(Superclass): FixedStorageProviderBase
+B(Subclass): SamsungGalaxySStorageProvider
+
+Candidate of Pattern Inheritance:
+A(Superclass): Runnable
+B(Subclass): PushRunnable
+
+Candidate of Pattern Inheritance:
+A(Superclass): Runnable
+B(Subclass): HandlerRunnable
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnOpenPgpInlineChangeListener
+B(Subclass): MessageCompose
+
+Candidate of Pattern Inheritance:
+A(Superclass): AsyncTask<Void, Integer, Intent>
+B(Subclass): OpenPgpAsyncTask
+
+Candidate of Pattern Inheritance:
+A(Superclass): AsyncTaskLoader<List<Recipient>>
+B(Subclass): RecipientLoader
+
+Candidate of Pattern Inheritance:
+A(Superclass): AsyncTaskLoader<MessageViewInfo>
+B(Subclass): LocalMessageExtractorLoader
+
+Candidate of Pattern Inheritance:
+A(Superclass): AsyncTask<Void, Void, Intent>
+B(Subclass): ViewAttachmentAsyncTask
+
+Candidate of Pattern Inheritance:
+A(Superclass): Viewable
+B(Subclass): MessageHeader
+
+Candidate of Pattern Inheritance:
+A(Superclass): Viewable
+B(Subclass): Textual
+
+Candidate of Pattern Inheritance:
+A(Superclass): Viewable
+B(Subclass): Alternative
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnClientCertificateChangedListener
+B(Subclass): AccountSetupBasics
+
+Candidate of Pattern Inheritance:
+A(Superclass): Provider
+B(Subclass): LinuxPRNGSecureRandomProvider
+
+Candidate of Pattern Inheritance:
+A(Superclass): AsyncTask<Params, Progress, Result>
+B(Subclass): ExtendedAsyncTask
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnLayoutChangedListener
+B(Subclass): MessageContainerView
+
+Candidate of Pattern Inheritance:
+A(Superclass): RemoteStore
+B(Subclass): Pop3Store
+
+Candidate of Pattern Inheritance:
+A(Superclass): RemoteStore
+B(Subclass): ImapStore
+
+Candidate of Pattern Inheritance:
+A(Superclass): RemoteStore
+B(Subclass): WebDavStore
+
+Candidate of Pattern Inheritance:
+A(Superclass): Comparator<Cursor>
+B(Subclass): SenderComparator
+
+Candidate of Pattern Inheritance:
+A(Superclass): Comparator<Cursor>
+B(Subclass): ReverseIdComparator
+
+Candidate of Pattern Inheritance:
+A(Superclass): Comparator<Cursor>
+B(Subclass): FlaggedComparator
+
+Candidate of Pattern Inheritance:
+A(Superclass): Comparator<Cursor>
+B(Subclass): AttachmentComparator
+
+Candidate of Pattern Inheritance:
+A(Superclass): Comparator<Cursor>
+B(Subclass): UnreadComparator
+
+Candidate of Pattern Inheritance:
+A(Superclass): Comparator<Cursor>
+B(Subclass): ArrivalComparator
+
+Candidate of Pattern Inheritance:
+A(Superclass): Comparator<Cursor>
+B(Subclass): SubjectComparator
+
+Candidate of Pattern Inheritance:
+A(Superclass): Comparator<Cursor>
+B(Subclass): DateComparator
+
+Candidate of Pattern Inheritance:
+A(Superclass): CertificateException
+B(Subclass): CertificateChainException
+
+Candidate of Pattern Inheritance:
+A(Superclass): BaseAccount
+B(Subclass): SearchAccount
+
+Candidate of Pattern Inheritance:
+A(Superclass): BaseAccount
+B(Subclass): Account
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnOpenPgpSignOnlyChangeListener
+B(Subclass): MessageCompose
+
+Candidate of Pattern Inheritance:
+A(Superclass): Handler
+B(Subclass): MessageListHandler
+
+Candidate of Pattern Inheritance:
+A(Superclass): Handler
+B(Subclass): ChooseFolderHandler
+
+Candidate of Pattern Inheritance:
+A(Superclass): Handler
+B(Subclass): AccountsHandler
+
+Candidate of Pattern Inheritance:
+A(Superclass): Handler
+B(Subclass): FolderListHandler
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9ActivityMagic
+B(Subclass): K9Activity
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9ActivityMagic
+B(Subclass): K9ListActivity
+
+Candidate of Pattern Inheritance:
+A(Superclass): Folder<ImapMessage>
+B(Subclass): ImapFolder
+
+Candidate of Pattern Inheritance:
+A(Superclass): X509ExtendedKeyManager
+B(Subclass): KeyChainKeyManager
+
+Candidate of Pattern Inheritance:
+A(Superclass): ResourceDecoder<FallbackGlideParams, Bitmap>
+B(Subclass): FallbackGlideBitmapDecoder
+
+Candidate of Pattern Inheritance:
+A(Superclass): DeviceNotifications
+B(Subclass): TestDeviceNotifications
+
+Candidate of Pattern Inheritance:
+A(Superclass): TextWatcher
+B(Subclass): PasswordPromptDialog
+
+Candidate of Pattern Inheritance:
+A(Superclass): TextWatcher
+B(Subclass): AccountSetupBasics
+
+Candidate of Pattern Inheritance:
+A(Superclass): TextWatcher
+B(Subclass): SimpleTextWatcher
+
+Candidate of Pattern Inheritance:
+A(Superclass): AsyncTask<Void, Void, Void>
+B(Subclass): SendMessageTask
+
+Candidate of Pattern Inheritance:
+A(Superclass): AsyncTask<Void, Void, Void>
+B(Subclass): PopulateFolderPrefsTask
+
+Candidate of Pattern Inheritance:
+A(Superclass): AsyncTask<Void, Void, Void>
+B(Subclass): SaveMessageTask
+
+Candidate of Pattern Inheritance:
+A(Superclass): ApplicationTestCase<K9>
+B(Subclass): ReconstructMessageFromDatabaseTest
+
+Candidate of Pattern Inheritance:
+A(Superclass): Textual
+B(Subclass): Text
+
+Candidate of Pattern Inheritance:
+A(Superclass): Textual
+B(Subclass): Html
+
+Candidate of Pattern Inheritance:
+A(Superclass): Textual
+B(Subclass): Flowed
+
+Candidate of Pattern Inheritance:
+A(Superclass): TagHandler
+B(Subclass): ListTagHandler
+
+Candidate of Pattern Inheritance:
+A(Superclass): TokenCompleteTextView.TokenListener<T>
+B(Subclass): TokenListener
+
+Candidate of Pattern Inheritance:
+A(Superclass): ImapResponseCallback
+B(Subclass): TestImapResponseCallback
+
+Candidate of Pattern Inheritance:
+A(Superclass): ImapResponseCallback
+B(Subclass): FetchBodyCallback
+
+Candidate of Pattern Inheritance:
+A(Superclass): ImapResponseCallback
+B(Subclass): FetchPartCallback
+
+Candidate of Pattern Inheritance:
+A(Superclass): PendingCommand
+B(Subclass): PendingExpunge
+
+Candidate of Pattern Inheritance:
+A(Superclass): PendingCommand
+B(Subclass): PendingMarkAllAsRead
+
+Candidate of Pattern Inheritance:
+A(Superclass): PendingCommand
+B(Subclass): PendingEmptyTrash
+
+Candidate of Pattern Inheritance:
+A(Superclass): PendingCommand
+B(Subclass): PendingSetFlag
+
+Candidate of Pattern Inheritance:
+A(Superclass): PendingCommand
+B(Subclass): PendingMoveOrCopy
+
+Candidate of Pattern Inheritance:
+A(Superclass): PendingCommand
+B(Subclass): PendingAppend
+
+Candidate of Pattern Inheritance:
+A(Superclass): SettingsDescription<K9.Theme>
+B(Subclass): ThemeSetting
+
+Candidate of Pattern Inheritance:
+A(Superclass): ArrayAdapter<ConnectionSecurityHolder>
+B(Subclass): ConnectionSecurityAdapter
+
+Candidate of Pattern Inheritance:
+A(Superclass): FileProvider
+B(Subclass): DecryptedFileProvider
+
+Candidate of Pattern Inheritance:
+A(Superclass): FileProvider
+B(Subclass): AttachmentTempFileProvider
+
+Candidate of Pattern Inheritance:
+A(Superclass): MimeBodyPart
+B(Subclass): LocalBodyPart
+
+Candidate of Pattern Inheritance:
+A(Superclass): AlertDialog
+B(Subclass): ColorPickerDialog
+
+Candidate of Pattern Inheritance:
+A(Superclass): AlertDialog
+B(Subclass): ApgDeprecationWarningDialog
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnBackStackChangedListener
+B(Subclass): MessageList
+
+Candidate of Pattern Inheritance:
+A(Superclass): ExtendedAsyncTask<Void, Void, Boolean>
+B(Subclass): ImportAsyncTask
+
+Candidate of Pattern Inheritance:
+A(Superclass): ExtendedAsyncTask<Void, Void, Boolean>
+B(Subclass): ExportAsyncTask
+
+Candidate of Pattern Inheritance:
+A(Superclass): ExtendedAsyncTask<Void, Void, Boolean>
+B(Subclass): ListImportContentsAsyncTask
+
+Candidate of Pattern Inheritance:
+A(Superclass): EditText
+B(Subclass): EolConvertingEditText
+
+Candidate of Pattern Inheritance:
+A(Superclass): ThresholdingOutputStream
+B(Subclass): DeferredFileOutputStream
+
+Candidate of Pattern Inheritance:
+A(Superclass): PseudoEnumSetting<Integer>
+B(Subclass): DeletePolicySetting
+
+Candidate of Pattern Inheritance:
+A(Superclass): PseudoEnumSetting<Integer>
+B(Subclass): WebFontSizeSetting
+
+Candidate of Pattern Inheritance:
+A(Superclass): PseudoEnumSetting<Integer>
+B(Subclass): IntegerResourceSetting
+
+Candidate of Pattern Inheritance:
+A(Superclass): PseudoEnumSetting<Integer>
+B(Subclass): FontSizeSetting
+
+Candidate of Pattern Inheritance:
+A(Superclass): DialogFragment
+B(Subclass): AttachmentDownloadDialogFragment
+
+Candidate of Pattern Inheritance:
+A(Superclass): DialogFragment
+B(Subclass): ProgressDialogFragment
+
+Candidate of Pattern Inheritance:
+A(Superclass): DialogFragment
+B(Subclass): OpenPgpAppSelectFragment
+
+Candidate of Pattern Inheritance:
+A(Superclass): DialogFragment
+B(Subclass): CryptoInfoDialog
+
+Candidate of Pattern Inheritance:
+A(Superclass): DialogFragment
+B(Subclass): ApgDeprecationDialogFragment
+
+Candidate of Pattern Inheritance:
+A(Superclass): DialogFragment
+B(Subclass): HighlightDialogFragment
+
+Candidate of Pattern Inheritance:
+A(Superclass): DialogFragment
+B(Subclass): ConfirmationDialogFragment
+
+Candidate of Pattern Inheritance:
+A(Superclass): CursorWrapper
+B(Subclass): SpecialColumnsCursor
+
+Candidate of Pattern Inheritance:
+A(Superclass): CursorWrapper
+B(Subclass): IdTrickeryCursor
+
+Candidate of Pattern Inheritance:
+A(Superclass): CursorWrapper
+B(Subclass): EmailProviderCacheCursor
+
+Candidate of Pattern Inheritance:
+A(Superclass): ImapStore
+B(Subclass): TestImapStore
+
+Candidate of Pattern Inheritance:
+A(Superclass): MessagingException
+B(Subclass): NegativeSmtpReplyException
+
+Candidate of Pattern Inheritance:
+A(Superclass): MessagingException
+B(Subclass): UnavailableStorageException
+
+Candidate of Pattern Inheritance:
+A(Superclass): MessagingException
+B(Subclass): NegativeImapResponseException
+
+Candidate of Pattern Inheritance:
+A(Superclass): MessagingException
+B(Subclass): Pop3ErrorResponse
+
+Candidate of Pattern Inheritance:
+A(Superclass): MessagingException
+B(Subclass): AuthenticationFailedException
+
+Candidate of Pattern Inheritance:
+A(Superclass): MessagingException
+B(Subclass): CertificateValidationException
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnFocusChangeListener
+B(Subclass): RecipientMvpView
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnFocusChangeListener
+B(Subclass): MessageCompose
+
+Candidate of Pattern Inheritance:
+A(Superclass): OutputStream
+B(Subclass): CountingOutputStream
+
+Candidate of Pattern Inheritance:
+A(Superclass): Activity
+B(Subclass): OpenPgpAppSelectDialog
+
+Candidate of Pattern Inheritance:
+A(Superclass): Activity
+B(Subclass): K9Activity
+
+Candidate of Pattern Inheritance:
+A(Superclass): Activity
+B(Subclass): NotificationDeleteConfirmation
+
+Candidate of Pattern Inheritance:
+A(Superclass): PseudoEnumSetting<String>
+B(Subclass): StringResourceSetting
+
+Candidate of Pattern Inheritance:
+A(Superclass): PseudoEnumSetting<String>
+B(Subclass): LanguageSetting
+
+Candidate of Pattern Inheritance:
+A(Superclass): LocalPart
+B(Subclass): LocalMimeMessage
+
+Candidate of Pattern Inheritance:
+A(Superclass): LocalPart
+B(Subclass): LocalBodyPart
+
+Candidate of Pattern Inheritance:
+A(Superclass): Logger
+B(Subclass): DefaultLogger
+
+Candidate of Pattern Inheritance:
+A(Superclass): Pusher
+B(Subclass): ImapPusher
+
+Candidate of Pattern Inheritance:
+A(Superclass): TextBodyBuilder
+B(Subclass): TestingTextBodyBuilder
+
+Candidate of Pattern Inheritance:
+A(Superclass): AsyncTask<String, Void, String>
+B(Subclass): DownloadImageTask
+
+Candidate of Pattern Inheritance:
+A(Superclass): BaseColumns
+B(Subclass): MessageColumns
+
+Candidate of Pattern Inheritance:
+A(Superclass): ImapList
+B(Subclass): ImapResponse
+
+Candidate of Pattern Inheritance:
+A(Superclass): CertificateErrorNotifications
+B(Subclass): TestCertificateErrorNotifications
+
+Candidate of Pattern Inheritance:
+A(Superclass): DebugStatus
+B(Subclass): WritableDebugStatus
+
+Candidate of Pattern Inheritance:
+A(Superclass): PreferenceActivity
+B(Subclass): K9PreferenceActivity
+
+Candidate of Pattern Inheritance:
+A(Superclass): Fragment
+B(Subclass): MessageViewFragment
+
+Candidate of Pattern Inheritance:
+A(Superclass): Fragment
+B(Subclass): MessageListFragment
+
+Candidate of Pattern Inheritance:
+A(Superclass): Fragment
+B(Subclass): RetainFragment
+
+Candidate of Pattern Inheritance:
+A(Superclass): BaseAdapter
+B(Subclass): IdentityAdapter
+
+Candidate of Pattern Inheritance:
+A(Superclass): BaseAdapter
+B(Subclass): AlternateRecipientAdapter
+
+Candidate of Pattern Inheritance:
+A(Superclass): BaseAdapter
+B(Subclass): RecipientAdapter
+
+Candidate of Pattern Inheritance:
+A(Superclass): BaseAdapter
+B(Subclass): FolderListAdapter
+
+Candidate of Pattern Inheritance:
+A(Superclass): PushReceiver
+B(Subclass): MessagingControllerPushReceiver
+
+Candidate of Pattern Inheritance:
+A(Superclass): Preference
+B(Subclass): OpenPgpKeyPreference
+
+Candidate of Pattern Inheritance:
+A(Superclass): ContentProvider
+B(Subclass): MessageProvider
+
+Candidate of Pattern Inheritance:
+A(Superclass): ContentProvider
+B(Subclass): AttachmentProvider
+
+Candidate of Pattern Inheritance:
+A(Superclass): ContentProvider
+B(Subclass): EmailProvider
+
+Candidate of Pattern Inheritance:
+A(Superclass): Folder<Pop3Message>
+B(Subclass): Pop3Folder
+
+Candidate of Pattern Inheritance:
+A(Superclass): DialogPreference
+B(Subclass): SliderPreference
+
+Candidate of Pattern Inheritance:
+A(Superclass): DialogPreference
+B(Subclass): CheckBoxListPreference
+
+Candidate of Pattern Inheritance:
+A(Superclass): DialogPreference
+B(Subclass): TimePickerPreference
+
+Candidate of Pattern Inheritance:
+A(Superclass): DialogPreference
+B(Subclass): OpenPgpAppPreference
+
+Candidate of Pattern Inheritance:
+A(Superclass): Cursor
+B(Subclass): MergeCursor
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9Activity
+B(Subclass): AccountSetupIncoming
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9Activity
+B(Subclass): WelcomeMessage
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9Activity
+B(Subclass): AccountSetupOptions
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9Activity
+B(Subclass): EditIdentity
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9Activity
+B(Subclass): UpgradeDatabases
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9Activity
+B(Subclass): AccountSetupNames
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9Activity
+B(Subclass): AccountSetupBasics
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9Activity
+B(Subclass): AccountSetupAccountType
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9Activity
+B(Subclass): AccountSetupCheckSettings
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9Activity
+B(Subclass): AccountSetupOutgoing
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9Activity
+B(Subclass): MessageList
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9Activity
+B(Subclass): AccountSetupComposition
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9Activity
+B(Subclass): MessageCompose
+
+Candidate of Pattern Inheritance:
+A(Superclass): StorageProvider
+B(Subclass): FixedStorageProviderBase
+
+Candidate of Pattern Inheritance:
+A(Superclass): StorageProvider
+B(Subclass): ExternalStorageProvider
+
+Candidate of Pattern Inheritance:
+A(Superclass): StorageProvider
+B(Subclass): InternalStorageProvider
+
+Candidate of Pattern Inheritance:
+A(Superclass): AsyncTask<Void, Integer, OpenPgpDataResult<T>>
+B(Subclass): OpenPgpSourceSinkAsyncTask
+
+Candidate of Pattern Inheritance:
+A(Superclass): SettingsDescription<Boolean>
+B(Subclass): BooleanSetting
+
+Candidate of Pattern Inheritance:
+A(Superclass): RuntimeException
+B(Subclass): WrappedException
+
+Candidate of Pattern Inheritance:
+A(Superclass): RuntimeException
+B(Subclass): UnavailableAccountException
+
+Candidate of Pattern Inheritance:
+A(Superclass): RuntimeException
+B(Subclass): ImapResponseParserTestException
+
+Candidate of Pattern Inheritance:
+A(Superclass): RuntimeException
+B(Subclass): ImapResponseParserException
+
+Candidate of Pattern Inheritance:
+A(Superclass): Service
+B(Subclass): DatabaseUpgradeService
+
+Candidate of Pattern Inheritance:
+A(Superclass): Service
+B(Subclass): CoreService
+
+Candidate of Pattern Inheritance:
+A(Superclass): TokenCompleteTextView<Recipient>
+B(Subclass): RecipientSelectView
+
+Candidate of Pattern Inheritance:
+A(Superclass): UntaggedHandler
+B(Subclass): PushRunnable
+
+Candidate of Pattern Inheritance:
+A(Superclass): UntaggedHandler
+B(Subclass): TestUntaggedHandler
+
+Candidate of Pattern Inheritance:
+A(Superclass): FieldExtractor<T, Integer>
+B(Subclass): CountExtractor
+
+Candidate of Pattern Inheritance:
+A(Superclass): OpenPgpApi.IOpenPgpCallback
+B(Subclass): MyCallback
+
+Candidate of Pattern Inheritance:
+A(Superclass): CancelListener
+B(Subclass): MessageCompose
+
+Candidate of Pattern Inheritance:
+A(Superclass): ActionMode.Callback
+B(Subclass): ActionModeCallback
+
+Candidate of Pattern Inheritance:
+A(Superclass): Preference.OnPreferenceChangeListener
+B(Subclass): PreferenceChangeListener
+
+Candidate of Pattern Inheritance:
+A(Superclass): TimePicker.OnTimeChangedListener
+B(Subclass): TimePickerPreference
+
+Candidate of Pattern Inheritance:
+A(Superclass): Part
+B(Subclass): Message
+
+Candidate of Pattern Inheritance:
+A(Superclass): Part
+B(Subclass): BodyPart
+
+Candidate of Pattern Inheritance:
+A(Superclass): ArrayAdapter<AuthTypeHolder>
+B(Subclass): AuthTypeAdapter
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnSwipeGestureListener
+B(Subclass): MessageList
+
+Candidate of Pattern Inheritance:
+A(Superclass): LockableDatabase.SchemaDefinition
+B(Subclass): StoreSchemaDefinition
+
+Candidate of Pattern Inheritance:
+A(Superclass): MigrationsHelper
+B(Subclass): RealMigrationsHelper
+
+Candidate of Pattern Inheritance:
+A(Superclass): ActivityListener
+B(Subclass): MessageListActivityListener
+
+Candidate of Pattern Inheritance:
+A(Superclass): MessageBuilder
+B(Subclass): PgpMessageBuilder
+
+Candidate of Pattern Inheritance:
+A(Superclass): MessageBuilder
+B(Subclass): SimpleMessageBuilder
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnClickListener
+B(Subclass): LockedAttachmentView
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnClickListener
+B(Subclass): AccountSetupIncoming
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnClickListener
+B(Subclass): WelcomeMessage
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnClickListener
+B(Subclass): FolderClickListener
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnClickListener
+B(Subclass): AccountSetupOptions
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnClickListener
+B(Subclass): AccountClickListener
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnClickListener
+B(Subclass): RecipientMvpView
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnClickListener
+B(Subclass): AccountSetupNames
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnClickListener
+B(Subclass): AccountSetupBasics
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnClickListener
+B(Subclass): AttachmentView
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnClickListener
+B(Subclass): AccountSetupAccountType
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnClickListener
+B(Subclass): AccountSetupCheckSettings
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnClickListener
+B(Subclass): ContactBadge
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnClickListener
+B(Subclass): AccountSetupOutgoing
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnClickListener
+B(Subclass): ConfirmationDialogFragment
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnClickListener
+B(Subclass): MessageCompose
+
+Candidate of Pattern Inheritance:
+A(Superclass): DeviceIdleManager
+B(Subclass): RealDeviceIdleManager
+
+Candidate of Pattern Inheritance:
+A(Superclass): DeviceIdleManager
+B(Subclass): NoOpDeviceIdleManager
+
+Candidate of Pattern Inheritance:
+A(Superclass): CrossProcessCursor
+B(Subclass): MonitoredCursor
+
+Candidate of Pattern Inheritance:
+A(Superclass): CancelableBackgroundOperation
+B(Subclass): OpenPgpSourceSinkAsyncTask
+
+Candidate of Pattern Inheritance:
+A(Superclass): MessagingListener
+B(Subclass): SimpleMessagingListener
+
+Candidate of Pattern Inheritance:
+A(Superclass): FilterInputStream
+B(Subclass): PeekableInputStream
+
+Candidate of Pattern Inheritance:
+A(Superclass): FilterInputStream
+B(Subclass): BinaryTempFileBodyInputStream
+
+Candidate of Pattern Inheritance:
+A(Superclass): Comparator<T>
+B(Subclass): ReverseComparator
+
+Candidate of Pattern Inheritance:
+A(Superclass): Comparator<T>
+B(Subclass): ComparatorChain
+
+Candidate of Pattern Inheritance:
+A(Superclass): PermissionPingCallback
+B(Subclass): RecipientPresenter
+
+Candidate of Pattern Inheritance:
+A(Superclass): StoreConfig
+B(Subclass): Account
+
+Candidate of Pattern Inheritance:
+A(Superclass): LayeredSocketFactory
+B(Subclass): WebDavSocketFactory
+
+Candidate of Pattern Inheritance:
+A(Superclass): BodyFactory
+B(Subclass): DefaultBodyFactory
+
+Candidate of Pattern Inheritance:
+A(Superclass): ScrollView
+B(Subclass): NonLockingScrollView
+
+Candidate of Pattern Inheritance:
+A(Superclass): LinearLayout
+B(Subclass): MessageContainerView
+
+Candidate of Pattern Inheritance:
+A(Superclass): LinearLayout
+B(Subclass): FoldableLinearLayout
+
+Candidate of Pattern Inheritance:
+A(Superclass): LinearLayout
+B(Subclass): MessageTopView
+
+Candidate of Pattern Inheritance:
+A(Superclass): LinearLayout
+B(Subclass): ClientCertificateSpinner
+
+Candidate of Pattern Inheritance:
+A(Superclass): MessageColumns
+B(Subclass): InternalMessageColumns
+
+Candidate of Pattern Inheritance:
+A(Superclass): Comparable<FolderInfoHolder>
+B(Subclass): FolderInfoHolder
+
+Candidate of Pattern Inheritance:
+A(Superclass): RemoteViewsService.RemoteViewsFactory
+B(Subclass): MessageListRemoteViewFactory
+
+Candidate of Pattern Inheritance:
+A(Superclass): WebViewClient
+B(Subclass): K9WebViewClient
+
+Candidate of Pattern Inheritance:
+A(Superclass): X509TrustManager
+B(Subclass): VeryTrustingTrustManager
+
+Candidate of Pattern Inheritance:
+A(Superclass): X509TrustManager
+B(Subclass): SecureX509TrustManager
+
+Candidate of Pattern Inheritance:
+A(Superclass): HighlightDialogFragment
+B(Subclass): PgpInlineDialog
+
+Candidate of Pattern Inheritance:
+A(Superclass): HighlightDialogFragment
+B(Subclass): PgpSignOnlyDialog
+
+Candidate of Pattern Inheritance:
+A(Superclass): HighlightDialogFragment
+B(Subclass): PgpEncryptDescriptionDialog
+
+Candidate of Pattern Inheritance:
+A(Superclass): HighlightDialogFragment
+B(Subclass): PgpEnabledErrorDialog
+
+Candidate of Pattern Inheritance:
+A(Superclass): AsyncTask<Void, Void, List<Account>>
+B(Subclass): LoadAccounts
+
+Candidate of Pattern Inheritance:
+A(Superclass): ListActivity
+B(Subclass): K9ListActivity
+
+Candidate of Pattern Inheritance:
+A(Superclass): Html.TagHandler
+B(Subclass): HtmlToTextTagHandler
+
+Candidate of Pattern Inheritance:
+A(Superclass): MessageViewFragmentListener
+B(Subclass): MessageList
+
+Candidate of Pattern Inheritance:
+A(Superclass): FieldExtractor<MessageInfoHolder, CharSequence>
+B(Subclass): SenderExtractor
+
+Candidate of Pattern Inheritance:
+A(Superclass): SearchSpecification
+B(Subclass): LocalSearch
+
+Candidate of Pattern Inheritance:
+A(Superclass): CoreService
+B(Subclass): MailService
+
+Candidate of Pattern Inheritance:
+A(Superclass): CoreService
+B(Subclass): PushService
+
+Candidate of Pattern Inheritance:
+A(Superclass): CoreService
+B(Subclass): RemoteControlService
+
+Candidate of Pattern Inheritance:
+A(Superclass): CoreService
+B(Subclass): PollService
+
+Candidate of Pattern Inheritance:
+A(Superclass): CoreService
+B(Subclass): SleepService
+
+Candidate of Pattern Inheritance:
+A(Superclass): CoreService
+B(Subclass): NotificationActionService
+
+Candidate of Pattern Inheritance:
+A(Superclass): AsyncQueryHandler
+B(Subclass): QueryHandler
+
+Candidate of Pattern Inheritance:
+A(Superclass): BinaryAttachmentBody
+B(Subclass): TempFileBody
+
+Candidate of Pattern Inheritance:
+A(Superclass): Filterable
+B(Subclass): RecipientAdapter
+
+Candidate of Pattern Inheritance:
+A(Superclass): Filterable
+B(Subclass): FolderListAdapter
+
+Candidate of Pattern Inheritance:
+A(Superclass): AlternateRecipientListener
+B(Subclass): RecipientSelectView
+
+Candidate of Pattern Inheritance:
+A(Superclass): ShadowAsyncTask<Void, Integer, Intent>
+B(Subclass): ShadowOpenPgpAsyncTask
+
+Candidate of Pattern Inheritance:
+A(Superclass): FieldExtractor<MessageInfoHolder, Long>
+B(Subclass): IdExtractor
+
+Candidate of Pattern Inheritance:
+A(Superclass): FieldExtractor<MessageInfoHolder, Long>
+B(Subclass): SendDateExtractor
+
+Candidate of Pattern Inheritance:
+A(Superclass): ThemeSetting
+B(Subclass): SubThemeSetting
+
+Candidate of Pattern Inheritance:
+A(Superclass): InputStream
+B(Subclass): Pop3ResponseInputStream
+
+Candidate of Pattern Inheritance:
+A(Superclass): InputStream
+B(Subclass): FixedLengthInputStream
+
+Candidate of Pattern Inheritance:
+A(Superclass): InputStream
+B(Subclass): Iso2022JpToShiftJisInputStream
+
+Candidate of Pattern Inheritance:
+A(Superclass): Filter
+B(Subclass): FolderListFilter
+
+Candidate of Pattern Inheritance:
+A(Superclass): AttachmentPresenter.AttachmentsChangedListener
+B(Subclass): MessageCompose
+
+Candidate of Pattern Inheritance:
+A(Superclass): Multipart
+B(Subclass): MimeMultipart
+
+Candidate of Pattern Inheritance:
+A(Superclass): AsyncTask<File, Void, File>
+B(Subclass): SaveAttachmentAsyncTask
+
+Candidate of Pattern Inheritance:
+A(Superclass): ArrayList<FetchProfile.Item>
+B(Subclass): FetchProfile
+
+Candidate of Pattern Inheritance:
+A(Superclass): ServerSettings
+B(Subclass): WebDavStoreSettings
+
+Candidate of Pattern Inheritance:
+A(Superclass): ServerSettings
+B(Subclass): ImportedServerSettings
+
+Candidate of Pattern Inheritance:
+A(Superclass): ServerSettings
+B(Subclass): ImapStoreSettings
+
+Candidate of Pattern Inheritance:
+A(Superclass): Parcelable
+B(Subclass): OpenPgpDecryptionResult
+
+Candidate of Pattern Inheritance:
+A(Superclass): Parcelable
+B(Subclass): Attachment
+
+Candidate of Pattern Inheritance:
+A(Superclass): Parcelable
+B(Subclass): AutocryptPeerUpdate
+
+Candidate of Pattern Inheritance:
+A(Superclass): Parcelable
+B(Subclass): OpenPgpMetadata
+
+Candidate of Pattern Inheritance:
+A(Superclass): Parcelable
+B(Subclass): OpenPgpError
+
+Candidate of Pattern Inheritance:
+A(Superclass): Parcelable
+B(Subclass): SearchSpecification
+
+Candidate of Pattern Inheritance:
+A(Superclass): Parcelable
+B(Subclass): OpenPgpSignatureResult
+
+Candidate of Pattern Inheritance:
+A(Superclass): Parcelable
+B(Subclass): ConditionsTreeNode
+
+Candidate of Pattern Inheritance:
+A(Superclass): Parcelable
+B(Subclass): SearchCondition
+
+Candidate of Pattern Inheritance:
+A(Superclass): Message
+B(Subclass): MimeMessage
+
+Candidate of Pattern Inheritance:
+A(Superclass): AppWidgetProvider
+B(Subclass): UnreadWidgetProvider
+
+Candidate of Pattern Inheritance:
+A(Superclass): AppWidgetProvider
+B(Subclass): MessageListWidgetProvider
+
+Candidate of Pattern Inheritance:
+A(Superclass): WebView
+B(Subclass): RigidWebView
+
+Candidate of Pattern Inheritance:
+A(Superclass): SettingsUpgrader
+B(Subclass): SettingsUpgraderV24
+
+Candidate of Pattern Inheritance:
+A(Superclass): SettingsUpgrader
+B(Subclass): SettingsUpgraderV12
+
+Candidate of Pattern Inheritance:
+A(Superclass): SettingsUpgrader
+B(Subclass): SettingsUpgraderV31
+
+Candidate of Pattern Inheritance:
+A(Superclass): RecipientPresenter.RecipientsChangedListener
+B(Subclass): MessageCompose
+
+Candidate of Pattern Inheritance:
+A(Superclass): WritableDebugStatus
+B(Subclass): DefaultDebugStatus
+
+Candidate of Pattern Inheritance:
+A(Superclass): Store
+B(Subclass): RemoteStore
+
+Candidate of Pattern Inheritance:
+A(Superclass): Store
+B(Subclass): LocalStore
+
+Candidate of Pattern Inheritance:
+A(Superclass): Comparable<Command>
+B(Subclass): Command
+
+Candidate of Pattern Inheritance:
+A(Superclass): HttpEntityEnclosingRequestBase
+B(Subclass): HttpGeneric
+
+Candidate of Pattern Inheritance:
+A(Superclass): FieldExtractor<MessageInfoHolder, Boolean>
+B(Subclass): UnreadExtractor
+
+Candidate of Pattern Inheritance:
+A(Superclass): FieldExtractor<MessageInfoHolder, Boolean>
+B(Subclass): HasAttachmentsExtractor
+
+Candidate of Pattern Inheritance:
+A(Superclass): FieldExtractor<MessageInfoHolder, Boolean>
+B(Subclass): HasStarExtractor
+
+Candidate of Pattern Inheritance:
+A(Superclass): ProviderTestCase2<EmailProvider>
+B(Subclass): EmailProviderTest
+
+Candidate of Pattern Inheritance:
+A(Superclass): NewMailNotifications
+B(Subclass): TestNewMailNotifications
+
+Candidate of Pattern Inheritance:
+A(Superclass): ModelLoader<FallbackGlideParams, FallbackGlideParams>
+B(Subclass): FallbackGlideModelLoader
+
+Candidate of Pattern Inheritance:
+A(Superclass): SecureRandomSpi
+B(Subclass): LinuxPRNGSecureRandom
+
+Candidate of Pattern Inheritance:
+A(Superclass): ProviderTestCase2
+B(Subclass): MessageProviderTest
+
+Candidate of Pattern Inheritance:
+A(Superclass): ArrayAdapter<BaseAccount>
+B(Subclass): AccountsAdapter
+
+Candidate of Pattern Inheritance:
+A(Superclass): BroadcastReceiver
+B(Subclass): AccountReceiver
+
+Candidate of Pattern Inheritance:
+A(Superclass): BroadcastReceiver
+B(Subclass): UpgradeDatabaseBroadcastReceiver
+
+Candidate of Pattern Inheritance:
+A(Superclass): BroadcastReceiver
+B(Subclass): StorageGoneReceiver
+
+Candidate of Pattern Inheritance:
+A(Superclass): BroadcastReceiver
+B(Subclass): StorageReceiver
+
+Candidate of Pattern Inheritance:
+A(Superclass): BroadcastReceiver
+B(Subclass): DeviceIdleReceiver
+
+Candidate of Pattern Inheritance:
+A(Superclass): BroadcastReceiver
+B(Subclass): ShutdownReceiver
+
+Candidate of Pattern Inheritance:
+A(Superclass): BroadcastReceiver
+B(Subclass): AttachmentTempFileProviderCleanupReceiver
+
+Candidate of Pattern Inheritance:
+A(Superclass): BroadcastReceiver
+B(Subclass): DecryptedFileProviderCleanupReceiver
+
+Candidate of Pattern Inheritance:
+A(Superclass): BroadcastReceiver
+B(Subclass): CoreReceiver
+
+Candidate of Pattern Inheritance:
+A(Superclass): ExtendedAsyncTask<Void, Void, Void>
+B(Subclass): SetPasswordsAsyncTask
+
+Candidate of Pattern Inheritance:
+A(Superclass): ExtendedAsyncTask<Void, Void, Void>
+B(Subclass): MoveAccountAsyncTask
+
+Candidate of Pattern Inheritance:
+A(Superclass): CoreReceiver
+B(Subclass): BootReceiver
+
+Candidate of Pattern Inheritance:
+A(Superclass): CoreReceiver
+B(Subclass): RemoteControlReceiver
+
+Candidate of Pattern Inheritance:
+A(Superclass): SimpleDialog
+B(Subclass): AccountsImportedDialog
+
+Candidate of Pattern Inheritance:
+A(Superclass): TimerTask
+B(Subclass): MyTimerTask
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9ListActivity
+B(Subclass): FolderList
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9ListActivity
+B(Subclass): Accounts
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9ListActivity
+B(Subclass): ChooseFolder
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9ListActivity
+B(Subclass): EmailAddressList
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9ListActivity
+B(Subclass): ChooseIdentity
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9ListActivity
+B(Subclass): AccountList
+
+Candidate of Pattern Inheritance:
+A(Superclass): DefaultHandler
+B(Subclass): WebDavHandler
+
+Candidate of Pattern Inheritance:
+A(Superclass): FrameLayout
+B(Subclass): AttachmentView
+
+Candidate of Pattern Inheritance:
+A(Superclass): FrameLayout
+B(Subclass): MessageCryptoStatusView
+
+Candidate of Pattern Inheritance:
+A(Superclass): FilterOutputStream
+B(Subclass): LineWrapOutputStream
+
+Candidate of Pattern Inheritance:
+A(Superclass): FilterOutputStream
+B(Subclass): Base64OutputStream
+
+Candidate of Pattern Inheritance:
+A(Superclass): FilterOutputStream
+B(Subclass): SignSafeOutputStream
+
+Candidate of Pattern Inheritance:
+A(Superclass): FilterOutputStream
+B(Subclass): EOLConvertingOutputStream
+
+Candidate of Pattern Inheritance:
+A(Superclass): FilterOutputStream
+B(Subclass): SmtpDataStuffing
+
+Candidate of Pattern Inheritance:
+A(Superclass): MimeMessage
+B(Subclass): WebDavMessage
+
+Candidate of Pattern Inheritance:
+A(Superclass): MimeMessage
+B(Subclass): LocalMessage
+
+Candidate of Pattern Inheritance:
+A(Superclass): MimeMessage
+B(Subclass): LocalMimeMessage
+
+Candidate of Pattern Inheritance:
+A(Superclass): MimeMessage
+B(Subclass): TestMessage
+
+Candidate of Pattern Inheritance:
+A(Superclass): MimeMessage
+B(Subclass): ImapMessage
+
+Candidate of Pattern Inheritance:
+A(Superclass): MimeMessage
+B(Subclass): Pop3Message
+
+Candidate of Pattern Inheritance:
+A(Superclass): Application
+B(Subclass): K9
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnHierarchyChangeListener
+B(Subclass): HierarchyTreeChangeListener
+
+Candidate of Pattern Inheritance:
+A(Superclass): NonConfigurationInstance
+B(Subclass): PasswordPromptDialog
+
+Candidate of Pattern Inheritance:
+A(Superclass): NonConfigurationInstance
+B(Subclass): ExtendedAsyncTask
+
+Candidate of Pattern Inheritance:
+A(Superclass): NonConfigurationInstance
+B(Subclass): ImportSelectionDialog
+
+Candidate of Pattern Inheritance:
+A(Superclass): NonConfigurationInstance
+B(Subclass): SimpleDialog
+
+Candidate of Pattern Inheritance:
+A(Superclass): BodyPart
+B(Subclass): MimeBodyPart
+
+Candidate of Pattern Inheritance:
+A(Superclass): AttachmentDownloadCancelListener
+B(Subclass): MessageCompose
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9PreferenceActivity
+B(Subclass): Prefs
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9PreferenceActivity
+B(Subclass): UnreadWidgetConfiguration
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9PreferenceActivity
+B(Subclass): FontSizeSettings
+
+Candidate of Pattern Inheritance:
+A(Superclass): SettingsDescription<String>
+B(Subclass): StorageProviderSetting
+
+Candidate of Pattern Inheritance:
+A(Superclass): SettingsDescription<String>
+B(Subclass): OptionalEmailAddressSetting
+
+Candidate of Pattern Inheritance:
+A(Superclass): SettingsDescription<String>
+B(Subclass): RingtoneSetting
+
+Candidate of Pattern Inheritance:
+A(Superclass): SettingsDescription<String>
+B(Subclass): TimeSetting
+
+Candidate of Pattern Inheritance:
+A(Superclass): SettingsDescription<String>
+B(Subclass): StringSetting
+
+Candidate of Pattern Inheritance:
+A(Superclass): SettingsDescription<String>
+B(Subclass): DirectorySetting
+
+Candidate of Pattern Inheritance:
+A(Superclass): SettingsDescription<String>
+B(Subclass): SignatureSetting
+
+Candidate of Pattern Inheritance:
+A(Superclass): Body
+B(Subclass): BinaryTempFileMessageBody
+
+Candidate of Pattern Inheritance:
+A(Superclass): Body
+B(Subclass): FileBackedBody
+
+Candidate of Pattern Inheritance:
+A(Superclass): Body
+B(Subclass): BinaryMemoryBody
+
+Candidate of Pattern Inheritance:
+A(Superclass): Body
+B(Subclass): BinaryAttachmentBody
+
+Candidate of Pattern Inheritance:
+A(Superclass): Body
+B(Subclass): Multipart
+
+Candidate of Pattern Inheritance:
+A(Superclass): Body
+B(Subclass): Message
+
+Candidate of Pattern Inheritance:
+A(Superclass): Body
+B(Subclass): TextBody
+
+Candidate of Pattern Inheritance:
+A(Superclass): Body
+B(Subclass): RawDataBody
+
+Candidate of Pattern Inheritance:
+A(Superclass): FieldExtractor<MessageInfoHolder, String>
+B(Subclass): UriExtractor
+
+Candidate of Pattern Inheritance:
+A(Superclass): FieldExtractor<MessageInfoHolder, String>
+B(Subclass): DeleteUriExtractor
+
+Candidate of Pattern Inheritance:
+A(Superclass): FieldExtractor<MessageInfoHolder, String>
+B(Subclass): PreviewExtractor
+
+Candidate of Pattern Inheritance:
+A(Superclass): FieldExtractor<MessageInfoHolder, String>
+B(Subclass): AccountExtractor
+
+Candidate of Pattern Inheritance:
+A(Superclass): FieldExtractor<MessageInfoHolder, String>
+B(Subclass): SenderAddressExtractor
+
+Candidate of Pattern Inheritance:
+A(Superclass): FieldExtractor<MessageInfoHolder, String>
+B(Subclass): SubjectExtractor
+
+Candidate of Pattern Inheritance:
+A(Superclass): ContentHandler
+B(Subclass): PartBuilder
+
+Candidate of Pattern Inheritance:
+A(Superclass): ContentHandler
+B(Subclass): MimeMessageBuilder
+
+Candidate of Pattern Inheritance:
+A(Superclass): ContentHandler
+B(Subclass): MessageHeaderParserContentHandler
+
+Candidate of Pattern Inheritance:
+A(Superclass): DefaultHttpClient
+B(Subclass): WebDavHttpClient
+
+Candidate of Pattern Inheritance:
+A(Superclass): ArrayList<Object>
+B(Subclass): ImapList
+
+Candidate of Pattern Inheritance:
+A(Superclass): AuthenticationErrorNotifications
+B(Subclass): TestAuthenticationErrorNotifications
+
+Candidate of Pattern Inheritance:
+A(Superclass): AsyncTaskLoader<LocalMessage>
+B(Subclass): LocalMessageLoader
+
+Candidate of Pattern Inheritance:
+A(Superclass): Cloneable
+B(Subclass): MimeHeader
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9WebViewClient
+B(Subclass): PreLollipopWebViewClient
+
+Candidate of Pattern Inheritance:
+A(Superclass): K9WebViewClient
+B(Subclass): LollipopWebViewClient
+
+Candidate of Pattern Inheritance:
+A(Superclass): AsyncTaskLoader<Attachment>
+B(Subclass): AttachmentInfoLoader
+
+Candidate of Pattern Inheritance:
+A(Superclass): AsyncTaskLoader<Attachment>
+B(Subclass): AttachmentContentLoader
+
+Candidate of Pattern Inheritance:
+A(Superclass): MessageList
+B(Subclass): Search
+
+Candidate of Pattern Inheritance:
+A(Superclass): Validator
+B(Subclass): EmailAddressValidator
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnCryptoClickListener
+B(Subclass): MessageCryptoPresenter
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnSwitchCompleteListener
+B(Subclass): MessageList
+
+Candidate of Pattern Inheritance:
+A(Superclass): TokenImageSpan
+B(Subclass): RecipientTokenSpan
+
+Candidate of Pattern Inheritance:
+A(Superclass): ConfirmationDialogFragmentListener
+B(Subclass): MessageViewFragment
+
+Candidate of Pattern Inheritance:
+A(Superclass): ConfirmationDialogFragmentListener
+B(Subclass): MessageListFragment
+
+Candidate of Pattern Inheritance:
+A(Superclass): ConfirmationDialogFragmentListener
+B(Subclass): AccountSetupCheckSettings
+
+Candidate of Pattern Inheritance:
+A(Superclass): SimpleOnGestureListener
+B(Subclass): SwipeGestureDetector
+
+Candidate of Pattern Inheritance:
+A(Superclass): View
+B(Subclass): ColorPicker
+
+Candidate of Pattern Inheritance:
+A(Superclass): RobolectricTestRunner
+B(Subclass): K9RobolectricTestRunner
+
+Candidate of Pattern Inheritance:
+A(Superclass): RobolectricTestRunner
+B(Subclass): K9LibRobolectricTestRunner
+
+Candidate of Pattern Inheritance:
+A(Superclass): RemoteViewsService
+B(Subclass): MessageListWidgetService
+
+Candidate of Pattern Inheritance:
+A(Superclass): Account
+B(Subclass): DummyAccount
+
+Candidate of Pattern Inheritance:
+A(Superclass): Comparator<MessageInfoHolder>
+B(Subclass): ReverseDateComparator
+
+Candidate of Pattern Inheritance:
+A(Superclass): CursorAdapter
+B(Subclass): MessageListAdapter
+
+Candidate of Pattern Inheritance:
+A(Superclass): SimpleMessagingListener
+B(Subclass): MessageInfoHolderRetrieverListener
+
+Candidate of Pattern Inheritance:
+A(Superclass): SimpleMessagingListener
+B(Subclass): MemorizingMessagingListener
+
+Candidate of Pattern Inheritance:
+A(Superclass): SimpleMessagingListener
+B(Subclass): ActivityListener
+
+Candidate of Pattern Inheritance:
+A(Superclass): SimpleMessagingListener
+B(Subclass): Listener
+
+Candidate of Pattern Inheritance:
+A(Superclass): ChooseIdentity
+B(Subclass): ManageIdentities
+
+Candidate of Pattern Inheritance:
+A(Superclass): WearNotifications
+B(Subclass): TestWearNotifications
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnCreateContextMenuListener
+B(Subclass): MessageContainerView
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnOpenPgpDisableListener
+B(Subclass): MessageCompose
+
+Candidate of Pattern Inheritance:
+A(Superclass): AccountList
+B(Subclass): ChooseAccount
+
+Candidate of Pattern Inheritance:
+A(Superclass): AccountList
+B(Subclass): LauncherShortcuts
+
+Candidate of Pattern Inheritance:
+A(Superclass): SettingsDescription<Integer>
+B(Subclass): ColorSetting
+
+Candidate of Pattern Inheritance:
+A(Superclass): SettingsDescription<Integer>
+B(Subclass): IntegerRangeSetting
+
+Candidate of Pattern Inheritance:
+A(Superclass): View.OnClickListener
+B(Subclass): MessageViewHolder
+
+Candidate of Pattern Inheritance:
+A(Superclass): Thread
+B(Subclass): TransferThread
+
+Candidate of Pattern Inheritance:
+A(Superclass): Thread
+B(Subclass): MockServerThread
+
+Candidate of Pattern Inheritance:
+A(Superclass): Thread
+B(Subclass): DataSourceTransferThread
+
+Candidate of Pattern Inheritance:
+A(Superclass): Thread
+B(Subclass): DataSinkTransferThread
+
+Candidate of Pattern Inheritance:
+A(Superclass): ImapSettings
+B(Subclass): SimpleImapSettings
+
+Candidate of Pattern Inheritance:
+A(Superclass): ImapSettings
+B(Subclass): StoreImapSettings
+
+Candidate of Pattern Inheritance:
+A(Superclass): OnClickShowCryptoKeyListener
+B(Subclass): MessageViewFragment
+
+Candidate of Pattern Inheritance:
+A(Superclass): MessageListFragmentListener
+B(Subclass): MessageList
+
+Candidate of Pattern Inheritance:
+A(Superclass): BaseSavedState
+B(Subclass): SavedState
+
+Candidate of Pattern Inheritance:
+A(Superclass): ArgumentMatcher<WearableExtender>
+B(Subclass): NumberOfActionsMatcher
+
+Candidate of Pattern Inheritance:
+A(Superclass): ArgumentMatcher<WearableExtender>
+B(Subclass): ActionMatcher
+
+Candidate of Pattern Inheritance:
+A(Superclass): RawDataBody
+B(Subclass): BinaryTempFileBody
+
+Candidate of Pattern Inheritance:
+A(Superclass): RawDataBody
+B(Subclass): DeferredFileBody
+
+Candidate of Pattern Inheritance:
+A(Superclass): RawDataBody
+B(Subclass): FileBackedBody
+
+Candidate of Pattern Inheritance:
+A(Superclass): RawDataBody
+B(Subclass): BinaryMemoryBody
+
+Candidate of Pattern Inheritance:
+A(Superclass): LoaderCallbacks<Cursor>
+B(Subclass): MessageListFragment
+
+Candidate of Pattern Inheritance:
+A(Superclass): Exception
+B(Subclass): SettingsImportExportException
+
+Candidate of Pattern Inheritance:
+A(Superclass): Exception
+B(Subclass): UnexpectedCommandException
+
+Candidate of Pattern Inheritance:
+A(Superclass): Exception
+B(Subclass): AuthorizationException
+
+Candidate of Pattern Inheritance:
+A(Superclass): Exception
+B(Subclass): PreviewExtractionException
+
+Candidate of Pattern Inheritance:
+A(Superclass): Exception
+B(Subclass): MessagingException
+
+Candidate of Pattern Inheritance:
+A(Superclass): Exception
+B(Subclass): InvalidSettingValueException
+
+Candidate of Pattern Inheritance:
+A(Superclass): Exception
+B(Subclass): EncoderException
+
+Candidate of Pattern Inheritance:
+A(Superclass): Exception
+B(Subclass): DecoderException
+
+Candidate of Pattern Inheritance:
+A(Superclass): ToolableViewAnimator
+B(Subclass): LockedAttachmentView

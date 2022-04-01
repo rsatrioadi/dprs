@@ -1,0 +1,7 @@
+Amount of Candidates found: 1
+
+Candidate of Pattern Abstract Factory v1:
+A(Concrete Factory): SearchAccount
+B(Abstract Factory): BaseAccount
+C(Product): LocalSearch
+D(Abstract Product): SearchSpecification

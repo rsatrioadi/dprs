@@ -1,0 +1,10 @@
+Composite
+A Abstracted Component
+B Normal Leaf
+C Any Composite
+End_Members
+B inherits A
+C inherits A
+C has A
+C calls A
+End_Connections

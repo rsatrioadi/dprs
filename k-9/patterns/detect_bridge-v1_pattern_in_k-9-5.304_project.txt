@@ -1,0 +1,25 @@
+Amount of Candidates found: 4
+
+Candidate of Pattern Bridge v1:
+A(Refined Abstraction): Pop3Store
+B(Abstraction): RemoteStore
+C(Concrete Implementor): Account
+D(Implementor): StoreConfig
+
+Candidate of Pattern Bridge v1:
+A(Refined Abstraction): MimeMultipart
+B(Abstraction): Multipart
+C(Concrete Implementor): MimeBodyPart
+D(Implementor): BodyPart
+
+Candidate of Pattern Bridge v1:
+A(Refined Abstraction): ImapStore
+B(Abstraction): RemoteStore
+C(Concrete Implementor): Account
+D(Implementor): StoreConfig
+
+Candidate of Pattern Bridge v1:
+A(Refined Abstraction): WebDavStore
+B(Abstraction): RemoteStore
+C(Concrete Implementor): Account
+D(Implementor): StoreConfig
