@@ -1,0 +1,1 @@
+An exploration on the relationship between Design Patterns and Wirf-Brock's Role Stereotypes.
