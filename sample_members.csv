@@ -1,0 +1,5 @@
+Class Name,Abstraction,Role Stereotype
+Point<T>,interface,Structurer
+Point2D,,Information Holder
+Rectangle,,Service Provider
+Shape,abstract,Interfacer

@@ -1,0 +1,4 @@
+Connection,Participant 1,Participant 2
+realizes,Point2D,Point<T>
+composites,Rectangle,Point<T>
+inherits,Rectangle,Shape
